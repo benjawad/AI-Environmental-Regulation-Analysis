@@ -26,10 +26,8 @@
   <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Tesseract_OCR_logo_%28Google%29.png" alt="Tesseract OCR" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/OpenAI_Logo.svg" alt="OpenAI" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/GEMINI_Logo.svg" alt="GEMENI" height="40"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" height="40"/>
-  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" height="40"/>
-  <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" height="40"/>
 </p>
 
 ---
@@ -40,7 +38,6 @@
 ![Django](https://img.shields.io/badge/Django-Backend-green?logo=django)  
 ![OCR](https://img.shields.io/badge/Tesseract-OCR-orange?logo=google)  
 ![LLM](https://img.shields.io/badge/AI-LLM-yellow?logo=openai)  
-![Database](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=sqllight)  
 
 ---
 
