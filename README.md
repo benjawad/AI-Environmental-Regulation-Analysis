@@ -1,3 +1,75 @@
+# 🌍 AI Environmental Regulation Analysis
+
+**AI-powered toolkit for analyzing environmental regulations and compliance**
+
+---
+
+## 🔎 Overview
+
+**AI Environmental Regulation Analysis** is an intelligent platform designed to streamline the review and interpretation of environmental regulatory texts. It leverages AI technologies—including Large Language Models (LLMs) and optical character recognition (OCR)—to help legal professionals, environmental consultants, and regulatory analysts extract, summarize, and understand compliance obligations across diverse jurisdictions.
+
+---
+
+## 🚀 Key Features
+
+- 📝 **OCR Integration** — Converts scanned PDFs and image-based documents into searchable, editable text.  
+- 🤖 **Automated Regulatory Extraction** — Detects relevant clauses and compliance requirements using LLMs.  
+- 📌 **Summarization & Highlighting** — Generates concise summaries of long regulations, pinpointing critical obligations.  
+- 🌐 **Cross-Jurisdiction Comparison** — Compares environmental policies across regions, highlighting subtle differences.  
+- 💻 **Web-Based Dashboard** — Upload documents, inspect AI insights, and export results via an intuitive UI.  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Tesseract_OCR_logo_%28Google%29.png" alt="Tesseract OCR" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/OpenAI_Logo.svg" alt="OpenAI" height="40"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" height="40"/>
+  <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" height="40"/>
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" height="40"/>
+</p>
+
+---
+
+## 📦 Badges
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)  
+![Django](https://img.shields.io/badge/Django-Backend-green?logo=django)  
+![React](https://img.shields.io/badge/React-Frontend-blue?logo=react)  
+![OCR](https://img.shields.io/badge/Tesseract-OCR-orange?logo=google)  
+![LLM](https://img.shields.io/badge/AI-LLM-yellow?logo=openai)  
+![Database](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)  
+![Docker](https://img.shields.io/badge/Docker-Ready-lightblue?logo=docker)  
+
+---
+
+## ⚡ Getting Started
+
+### Prerequisites
+- Python 3.8+  
+- Tesseract OCR installed and in system PATH  
+- Node.js & npm/yarn (for frontend)  
+
+### Installation
+
+```bash
+git clone https://github.com/benjawad/AI-Environmental-Regulation-Analysis.git
+cd AI-Environmental-Regulation-Analysis
+python -m venv venv
+source venv/bin/activate  # or `venv\Scripts\activate` on Windows
+pip install -r requirements.txt
+
+# Setup database
+python manage.py migrate
+
+# Run the development server
+python manage.py runserver
+
+
+
 # Tesseract OCR Integration with Django 
 Tesseract OCR Integration with Django
 This guide provides a step-by-step process for integrating Tesseract OCR into a Django project for a production environment on Windows. It covers the installation, configuration, and best practices for reliable text extraction from images.
