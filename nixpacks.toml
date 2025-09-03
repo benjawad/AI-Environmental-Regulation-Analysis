@@ -1,7 +1,23 @@
 providers = ["python"]
 
 [phases.setup]
-nixPkgs = ["tesseract" , "python3"]
-
-[phases.build]
-cmds = ["playwright install --with-deps chromium"]
+nixPkgs = [
+  "tesseract", 
+  "python3", 
+  "chromium", 
+  "atk", 
+  "at-spi2-atk", 
+  "cairo", 
+  "cups", 
+  "dbus", 
+  "expat", 
+  "fontconfig", 
+  "freetype", 
+  "gdk-pixbuf", 
+  "glib", 
+  "gtk3", 
+  "harfbuzz", 
+  "pango", 
+  "nspr", 
+  "nss"
+]
