@@ -1,0 +1,478 @@
+{
+  "bulletin_metadata": {
+    "issue_number": "76",
+    "publication_year_description": "Cent-onzième année",
+    "date_hijri": "5 chaoual 1443",
+    "date_gregorian": "2022-05-06",
+    "issn": "0851-1217"
+  },
+  "table_of_contents": [],
+  "legal_texts": [
+    {
+      "type": "Décret",
+      "number": "2-21-165",
+      "title": "du 5 chaoual 1443 (6 mai 2022)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 718,
+      "description": "Décret n° 2-21-165 du 5 chaoual 1443 (6 mai 2022), d'un montant de 165,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 165.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-88-19",
+      "title": "du 16 rabii II 1410 (16 novembre",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 744,
+      "description": "Décret n° 2-88-19 du 16 rabii II 1410 (16 novembre, d'un montant de 19,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 19.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-21-965",
+      "title": "du 16 chaoual 1443 (17 mai 2022)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 718,
+      "description": "Décret n° 2-21-965 du 16 chaoual 1443 (17 mai 2022), d'un montant de 965,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 965.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-22-136",
+      "title": "du 16 chaoual 1443 (17 mai 2022)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 722,
+      "description": "Décret n° 2-22-136 du 16 chaoual 1443 (17 mai 2022), d'un montant de 136,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 136.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-22-234",
+      "title": "du 16 chaoual 1443 (17 mai 2022) pris pour",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 724,
+      "description": "Décret n° 2-22-234 du 16 chaoual 1443 (17 mai 2022) pris pour, d'un montant de 234,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 234.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-22-393",
+      "title": "du 2 kaada 1443 (2 juin 2022)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 726,
+      "description": "Décret n° 2-22-393 du 2 kaada 1443 (2 juin 2022), d'un montant de 393,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 393.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-22-336",
+      "title": "du 5 chaoual 1443 (6 mai 2022)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 716,
+      "description": "Décret n° 2-22-336 du 5 chaoual 1443 (6 mai 2022), d'un montant de 336,00 dirhams",
+      "signatories": [
+        {
+          "name": "CONSEIL SUPÉRIEUR DE LA COMMUNICATION AUDIOVISUELLE",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 336.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "81-12",
+      "title": "relative au littoral et",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 722,
+      "description": "Loi n° 81-12 relative au littoral et",
+      "signatories": []
+    },
+    {
+      "type": "Décret",
+      "number": "2-15-769",
+      "title": "du 3 rabii I 1437 (15 décembre 2015)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 718,
+      "description": "Décret n° 2-15-769 du 3 rabii I 1437 (15 décembre 2015), d'un montant de 769,00 dirhams",
+      "signatories": [
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        },
+        {
+          "name": "LEILA BENALI",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 769.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-21-96516",
+      "title": "chaoual 1443 (17 mai 2022)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 720,
+      "description": "Décret n° 2-21-96516 chaoual 1443 (17 mai 2022), d'un montant de 3,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 3.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 81-12 relative au littoral vise à : 1",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 720,
+      "description": "Loi n° 81-12 relative au littoral vise à : 1, d'un montant de 1,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "28-07",
+      "title": "relative à la sécurité sanitaire des",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 722,
+      "description": "Loi n° 28-07 relative à la sécurité sanitaire des, d'un montant de 8,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 8.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "13-83",
+      "title": "relative à la répression des fraudes",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 722,
+      "description": "Loi n° 13-83 relative à la répression des fraudes, d'un montant de 108,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 108.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-10-473",
+      "title": "du 7 chaoual 1432 (6 septembre 2011)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 722,
+      "description": "Décret n° 2-10-473 du 7 chaoual 1432 (6 septembre 2011), d'un montant de 473,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 473.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-12-389",
+      "title": "du 11 joumada II 1434 (22 avril 2013)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 722,
+      "description": "Décret n° 2-12-389 du 11 joumada II 1434 (22 avril 2013), d'un montant de 389,00 dirhams",
+      "signatories": [
+        {
+          "name": "Le ministre de l'agriculture",
+          "title": ":"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 389.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "1-77-339",
+      "title": "du 25 chaoual 1397 (9 octobre 1977), tel qu'il a été modifié et complété, notamment son article 5 ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 726,
+      "description": "Loi n° 1-77-339 du 25 chaoual 1397 (9 octobre 1977), tel qu'il a été modifié et complété, notamment son article 5 ;, d'un montant de 339,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 339.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "103-12",
+      "title": "relative aux établissements de crédit",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 726,
+      "description": "Loi n° 103-12 relative aux établissements de crédit, d'un montant de 193,00 dirhams",
+      "signatories": [
+        {
+          "name": "ABDELLATIF JOUAHRI",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 193.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "64-12",
+      "title": "portant création de l'Autorité de contrôle des assurances et de la prévoyance sociale, ARRÊTE :",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 730,
+      "description": "Loi n° 64-12 portant création de l'Autorité de contrôle des assurances et de la prévoyance sociale, ARRÊTE :, d'un montant de 21,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 21.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-16-171",
+      "title": "du 3 chaabane 1437 (10 mai 2016) pris pour l'application de la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 730,
+      "description": "Décret n° 2-16-171 du 3 chaabane 1437 (10 mai 2016) pris pour l'application de la, d'un montant de 171,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 171.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "43-05",
+      "title": "précitée sont passibles des",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 736,
+      "description": "Loi n° 43-05 précitée sont passibles des, d'un montant de 1,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "1-73-255",
+      "title": "du 27 chaoual 1393",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 742,
+      "description": "Loi n° 1-73-255 du 27 chaoual 1393, d'un montant de 255,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 255.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-04-26",
+      "title": "du 6 hija 1425 (17 janvier 2005)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 742,
+      "description": "Décret n° 2-04-26 du 6 hija 1425 (17 janvier 2005), d'un montant de 26,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 26.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-21-838",
+      "title": "du 14 rabii I 1443 (21 octobre 2021)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 748,
+      "description": "Décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021), d'un montant de 838,00 dirhams",
+      "signatories": [
+        {
+          "name": "CONSEIL SUPÉRIEUR DE LA COMMUNICATION AUDIOVISUELLE",
+          "title": ""
+        },
+        {
+          "name": "LE CONSEIL SUPÉRIEUR DE LA COMMUNICATION",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 838.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "11-15",
+      "title": "portant réorganisation de la Haute Autorité de la communication audiovisuelle, en date du 21 kaada 1437 (25 août 2016) ; - la loi sur la communication audiovisuelle : La",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 758,
+      "description": "Loi n° 11-15 portant réorganisation de la Haute Autorité de la communication audiovisuelle, en date du 21 kaada 1437 (25 août 2016) ; - la loi sur la communication audiovisuelle : La",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "77-03",
+      "title": "relative à la communication audiovisuelle, telle que modifiée et complétée",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 758,
+      "description": "Loi n° 77-03 relative à la communication audiovisuelle, telle que modifiée et complétée, d'un montant de 2,00 dirhams",
+      "signatories": [
+        {
+          "name": "MADAME LATIFA AKHARBACHE",
+          "title": ""
+        },
+        {
+          "name": "LE CONSEIL SUPÉRIEUR DE LA COMMUNICATION",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 21.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décision",
+      "number": "12-09",
+      "title": "du 23 février 2009 et signé, pour",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 758,
+      "description": "Décision n° 12-09 du 23 février 2009 et signé, pour, d'un montant de 9,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 9.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 77-03 relative à la communication audiovisuelle, telle que modifiée et complétée, que le non-respect des dispositions susvisées, concernant : a) la durée de diffusion : expose la société Tanger Med Port Authority SA",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 770,
+      "description": "Loi n° 77-03 relative à la communication audiovisuelle, telle que modifiée et complétée, que le non-respect des dispositions susvisées, concernant : a) la durée de diffusion : expose la société Tanger Med Port Authority SA, d'un montant de 5.000,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 5000.0,
+          "currency": "MAD"
+        }
+      }
+    }
+  ]
+}

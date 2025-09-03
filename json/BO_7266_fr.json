@@ -1,0 +1,308 @@
+{
+  "bulletin_metadata": {
+    "issue_number": "698",
+    "publication_year_description": "Cent-treizième année",
+    "date_hijri": "15 chaabane 1444",
+    "date_gregorian": "2023-03-08",
+    "issn": "0851-1217"
+  },
+  "table_of_contents": [],
+  "legal_texts": [
+    {
+      "type": "Loi",
+      "number": "1-77-340",
+      "title": "du 25 chaoual 1397 (9 octobre 1977)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 174,
+      "description": "Loi n° 1-77-340 du 25 chaoual 1397 (9 octobre 1977), d'un montant de 340,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 340.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-23-1120",
+      "title": "du 7 joumada II 1445",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 170,
+      "description": "Décret n° 2-23-1120 du 7 joumada II 1445, d'un montant de 1.120,00 dirhams, conclu le 15 moharrem 1445, au profit de Office \nnational des hydrocarbures et des mines et",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1120.0,
+          "currency": "D",
+          "beneficiary": "Office national des hydrocarbures et des \nmines et"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-09-631",
+      "title": "susvisé, les valeurs limites sectorielles de",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 172,
+      "description": "Décret n° 2-09-631 susvisé, les valeurs limites sectorielles de, d'un montant de 7.236,00 dirhams",
+      "signatories": [
+        {
+          "name": "RYAD MEZZOUR",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 7236.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "1-77-339",
+      "title": "du 25 chaoual 1397 (9 octobre 1977), tel qu'il a été modifié et complété, notamment son article 215 ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 174,
+      "description": "Loi n° 1-77-339 du 25 chaoual 1397 (9 octobre 1977), tel qu'il a été modifié et complété, notamment son article 215 ;, d'un montant de 339,00 dirhams",
+      "signatories": [
+        {
+          "name": "NADIA FETTAH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 339.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-77-862",
+      "title": "du 25 chaoual 1397 (9 octobre",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 174,
+      "description": "Décret n° 2-77-862 du 25 chaoual 1397 (9 octobre, d'un montant de 862,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 862.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-15-447",
+      "title": "du 6 joumada II 1437 (16 mars 2016) pris pour l'application de la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 176,
+      "description": "Décret n° 2-15-447 du 6 joumada II 1437 (16 mars 2016) pris pour l'application de la, d'un montant de 447,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 447.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 131-13 relative à l'exercice de la médecine, tel qu'il a été modifié et complété, notamment son article 38 ; Après avis du Conseil national de l'Ordre national des médecins, ARRÊTE :",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 176,
+      "description": "Loi n° 131-13 relative à l'exercice de la médecine, tel qu'il a été modifié et complété, notamment son article 38 ; Après avis du Conseil national de l'Ordre national des médecins, ARRÊTE :, d'un montant de 38,00 dirhams",
+      "signatories": [
+        {
+          "name": "DU MEMBRE INFÉRIEUR",
+          "title": ""
+        },
+        {
+          "name": "MEMBRE INFÉRIEUR",
+          "title": ""
+        },
+        {
+          "name": "SANS PRÉCISION TOPOGRAPHIQUE",
+          "title": ""
+        },
+        {
+          "name": "SYSTÈME TÉGUMENTAIRE - GLANDE MAMMAIRE",
+          "title": ""
+        },
+        {
+          "name": "ACTES DIAGNOSTIQUES SUR LE SEIN",
+          "title": ""
+        },
+        {
+          "name": "ACTES THÉRAPEUTIQUES SUR LES PHANÈRES",
+          "title": ""
+        },
+        {
+          "name": "ACTES THÉRAPEUTIQUES SUR LE SEIN",
+          "title": ""
+        },
+        {
+          "name": "ACTES SANS PRÉCISION TOPOGRAPHIQUE",
+          "title": ""
+        },
+        {
+          "name": "EXAMEN ANATOMOPATHOLOGIQUE DES TISSUS",
+          "title": ""
+        },
+        {
+          "name": "RADIOTHÉRAPIE EXTERNE",
+          "title": ""
+        },
+        {
+          "name": "ANESTHÉSIES COMPLÉMENTAIRES ET GESTES COMPLÉMENTAIRES",
+          "title": ""
+        },
+        {
+          "name": "GESTES COMPLÉMENTAIRES",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 38.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "21-90",
+      "title": "relative à la recherche et à l'exploitation",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 750,
+      "description": "Loi n° 21-90 relative à la recherche et à l'exploitation, d'un montant de 118,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 118.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "27-99",
+      "title": "promulguée par le dahir n° 1-99-340 du 9 kaada 1420 (15 février 2000), notamment ses articles 4 et 34 ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 752,
+      "description": "Loi n° 27-99 promulguée par le dahir n° 1-99-340 du 9 kaada 1420 (15 février 2000), notamment ses articles 4 et 34 ;, d'un montant de 340,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 340.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "33-01",
+      "title": "portant création de l'Office national des hydrocarbures et des mines promulguée par le dahir n° 1-03-203 du 16 ramadan 1424 (11 novembre 2003) ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 750,
+      "description": "Loi n° 33-01 portant création de l'Office national des hydrocarbures et des mines promulguée par le dahir n° 1-03-203 du 16 ramadan 1424 (11 novembre 2003) ;, d'un montant de 203,00 dirhams, au profit de Office national \ndes hydrocarbures et des mines",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 203.0,
+          "currency": "D",
+          "beneficiary": "Office national des \nhydrocarbures et des mines"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-93-786",
+      "title": "du 18 joumada I 1414 (3 novembre",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 750,
+      "description": "Décret n° 2-93-786 du 18 joumada I 1414 (3 novembre, d'un montant de 786,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 786.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-99-210",
+      "title": "du 9 hija 1420 (16 mars 2000), notamment son article 24 ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 750,
+      "description": "Décret n° 2-99-210 du 9 hija 1420 (16 mars 2000), notamment son article 24 ;, d'un montant de 210,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 210.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-04-372",
+      "title": "du 16 kaada 1425 (29 décembre 2004)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 752,
+      "description": "Décret n° 2-04-372 du 16 kaada 1425 (29 décembre 2004), d'un montant de 372,00 dirhams, conclu le 16 chaoual 1438, au profit de Office national des hydrocarbures et des mines",
+      "signatories": [
+        {
+          "name": "LEILA BENALI",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 372.0,
+          "currency": "D",
+          "beneficiary": "Office national des hydrocarbures et des mines"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-21-838",
+      "title": "du 14 rabii I 1443 (21 octobre 2021)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 760,
+      "description": "Décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021), d'un montant de 838,00 dirhams",
+      "signatories": [
+        {
+          "name": "NADIA FETTAH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 838.0,
+          "currency": "D"
+        }
+      }
+    }
+  ]
+}

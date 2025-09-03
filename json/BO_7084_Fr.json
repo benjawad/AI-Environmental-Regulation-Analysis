@@ -1,0 +1,334 @@
+{
+  "bulletin_metadata": {
+    "issue_number": "691",
+    "publication_year_description": "Cent-onzième année",
+    "date_hijri": "13 rejeb 1443",
+    "date_gregorian": "2022-02-15",
+    "issn": "0851-1217"
+  },
+  "table_of_contents": [],
+  "legal_texts": [
+    {
+      "type": "Décret",
+      "number": "2-21-1074",
+      "title": "du 22 joumada II 1443",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 630,
+      "description": "Décret n° 2-21-1074 du 22 joumada II 1443, d'un montant de 1.074,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1074.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-13-24",
+      "title": "susvisé sont complétées comme suit :",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 630,
+      "description": "Décret n° 2-13-24 susvisé sont complétées comme suit :, d'un montant de 7.070,00 dirhams, au profit de Office National de l",
+      "signatories": [
+        {
+          "name": "NADIA FETTAH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 7070.0,
+          "currency": "D",
+          "beneficiary": "Office National de l"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-22-034",
+      "title": "du 13 rejeb 1443",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 630,
+      "description": "Décret n° 2-22-034 du 13 rejeb 1443, d'un montant de 34,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 34.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-22-187",
+      "title": "du 26 chaabane 1443 (29 mars 2022)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 632,
+      "description": "Décret n° 2-22-187 du 26 chaabane 1443 (29 mars 2022), d'un montant de trente-sept millions cinq cent mille euros (37.500.000,00 euros), conclu le 28 février 2022, au profit de Office national de l",
+      "signatories": [
+        {
+          "name": "et des finances",
+          "title": "La ministre de l'économie"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        },
+        {
+          "name": "NADIA FETTAH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 37500000.0,
+          "currency": "EUR",
+          "lender": "Banque européenne \nd'investissement",
+          "beneficiary": "Office national de l"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-22-228",
+      "title": "du 10 ramadan 1443 (12 avril 2022)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 632,
+      "description": "Décret n° 2-22-228 du 10 ramadan 1443 (12 avril 2022), d'un montant de 228,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 228.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-07-1263",
+      "title": "du 16 hija 1428",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 632,
+      "description": "Décret n° 2-07-1263 du 16 hija 1428, d'un montant de 1.263,00 dirhams, au profit de Office national des \nhydrocarbures et des mines et les",
+      "signatories": [
+        {
+          "name": "AVIS ET COMMUNICATIONS",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1263.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "15-12",
+      "title": "relative à la prévention et la lutte contre la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 632,
+      "description": "Loi n° 15-12 relative à la prévention et la lutte contre la",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "1-73-255",
+      "title": "du 27 chaoual 1393 )23 novembre 1973( tel que modifié et complété ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 642,
+      "description": "Loi n° 1-73-255 du 27 chaoual 1393 )23 novembre 1973( tel que modifié et complété ;, d'un montant de 255,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 255.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-17-455",
+      "title": "du 9 chaabane 1439 (26 avril 2018))",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 636,
+      "description": "Décret n° 2-17-455 du 9 chaabane 1439 (26 avril 2018)), d'un montant de 455,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 455.0,
+          "currency": "D",
+          "beneficiary": "MINISTERE DE L"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "15-02",
+      "title": "relative aux ports et portant création de",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 652,
+      "description": "Loi n° 15-02 relative aux ports et portant création de, d'un montant de 146,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 146.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-07-1029",
+      "title": "du 18 ramadan 1429",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 652,
+      "description": "Décret n° 2-07-1029 du 18 ramadan 1429, d'un montant de 1.029,00 dirhams",
+      "signatories": [
+        {
+          "name": "NIZAR BARAKA",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1029.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-13-852",
+      "title": "du 14 safar 1435 (18 décembre 2013) relatif aux conditions et aux modalités de",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 652,
+      "description": "Décret n° 2-13-852 du 14 safar 1435 (18 décembre 2013) relatif aux conditions et aux modalités de, d'un montant de 852,00 dirhams, au profit de Office national des hydrocarbures et des mines et \nles",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 852.0,
+          "currency": "D",
+          "beneficiary": "Office national des hydrocarbures et des mines et \nles"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "21-90",
+      "title": "relative à la recherche et à l'exploitation",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 658,
+      "description": "Loi n° 21-90 relative à la recherche et à l'exploitation, d'un montant de 118,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 118.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "27-99",
+      "title": "promulguée par le dahir n° 1-99-340 du 9 kaada 1420 (15 février 2000), notamment ses articles 4 et 34 ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 658,
+      "description": "Loi n° 27-99 promulguée par le dahir n° 1-99-340 du 9 kaada 1420 (15 février 2000), notamment ses articles 4 et 34 ;, d'un montant de 340,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 340.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "33-01",
+      "title": "portant création de l'Office national des hydrocarbures et des mines promulguée par le dahir n° 1-03-203 du 16 ramadan 1424 (11 novembre 2003) ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 658,
+      "description": "Loi n° 33-01 portant création de l'Office national des hydrocarbures et des mines promulguée par le dahir n° 1-03-203 du 16 ramadan 1424 (11 novembre 2003) ;, d'un montant de 203,00 dirhams, au profit de Office national des \nhydrocarbures et des mines",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 203.0,
+          "currency": "D",
+          "beneficiary": "Office national des \nhydrocarbures et des mines"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-93-786",
+      "title": "du 18 joumada I 1414",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 658,
+      "description": "Décret n° 2-93-786 du 18 joumada I 1414, d'un montant de 786,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 786.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-99-210",
+      "title": "du 9 hija 1420 (16 mars 2000), notamment son article 60 ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 658,
+      "description": "Décret n° 2-99-210 du 9 hija 1420 (16 mars 2000), notamment son article 60 ;, d'un montant de 210,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 210.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-04-372",
+      "title": "du 16 kaada 1425 (29 décembre 2004)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 658,
+      "description": "Décret n° 2-04-372 du 16 kaada 1425 (29 décembre 2004), d'un montant de 372,00 dirhams, au profit de Office national des hydrocarbures et des mines",
+      "signatories": [
+        {
+          "name": "AZ-EL ARABE HASSIBI",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 372.0,
+          "currency": "D",
+          "beneficiary": "Office national des hydrocarbures et des mines"
+        }
+      }
+    }
+  ]
+}

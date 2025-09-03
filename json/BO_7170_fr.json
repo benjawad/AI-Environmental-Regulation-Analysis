@@ -1,0 +1,572 @@
+{
+  "bulletin_metadata": {
+    "issue_number": "94",
+    "publication_year_description": "Cent-douzième année",
+    "date_hijri": "13 moharrem 1444",
+    "date_gregorian": "2022-08-11",
+    "issn": "0851-1217"
+  },
+  "table_of_contents": [],
+  "legal_texts": [
+    {
+      "type": "Loi",
+      "number": "94-21",
+      "title": "relative aux obligations sécurisées",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 328,
+      "description": "Loi n° 94-21 relative aux obligations sécurisées",
+      "signatories": [
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 292.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-22-191",
+      "title": "du 4 rejeb 1444 (26 janvier 2023)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 336,
+      "description": "Décret n° 2-22-191 du 4 rejeb 1444 (26 janvier 2023), d'un montant de 191,00 dirhams",
+      "signatories": [
+        {
+          "name": "CONSEIL SUPÉRIEUR DE LA COMMUNICATION AUDIOVISUELLE",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 191.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "17-95",
+      "title": "relative aux sociétés anonymes, à durée déterminée et uniquement remboursables en numéraire, émises par un établissement émetteur tel que défini à l'article 2 ci-après",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 328,
+      "description": "Loi n° 17-95 relative aux sociétés anonymes, à durée déterminée et uniquement remboursables en numéraire, émises par un établissement émetteur tel que défini à l'article 2 ci-après",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "103-12",
+      "title": "précitée dans les cas suivants :",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 330,
+      "description": "Loi n° 103-12 précitée dans les cas suivants :, d'un montant de 2,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 176.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "44-12",
+      "title": "relative à l'appel public",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 332,
+      "description": "Loi n° 44-12 relative à l'appel public, d'un montant de 21,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 21.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 17-95 relative aux sociétés anonymes ne s'appliquent pas aux OS",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 334,
+      "description": "Loi n° 17-95 relative aux sociétés anonymes ne s'appliquent pas aux OS",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "15-95",
+      "title": "formant Code de commerce, lorsque l'établissement",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 334,
+      "description": "Loi n° 15-95 formant Code de commerce, lorsque l'établissement, d'un montant de 4,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 4.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 103-12 précitée",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 336,
+      "description": "Loi n° 103-12 précitée, d'un montant de 5,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 5.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "40-13",
+      "title": "portant code de l'aviation civile, promulguée par le dahir n°1-16-61 du 17 chaabane 1437 (24 mai 2016), notamment ses articles 140, 145, 150, 151 et 153 ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 336,
+      "description": "Loi n° 40-13 portant code de l'aviation civile, promulguée par le dahir n°1-16-61 du 17 chaabane 1437 (24 mai 2016), notamment ses articles 140, 145, 150, 151 et 153 ;, d'un montant de 61,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 61.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-21-968",
+      "title": "du 25 joumada I 1443 (30 décembre",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 336,
+      "description": "Décret n° 2-21-968 du 25 joumada I 1443 (30 décembre, d'un montant de 968,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 968.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-07-151",
+      "title": "du 22 chaoual 1432",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 340,
+      "description": "Décret n° 2-07-151 du 22 chaoual 1432, d'un montant de 151,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 151.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-61-161",
+      "title": "du 7 safar 1382",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 340,
+      "description": "Décret n° 2-61-161 du 7 safar 1382, d'un montant de 161,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 161.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "25-08",
+      "title": "portant création de l'Office national de sécurité sanitaire des produits alimentaires promulguée par le dahir n°1-09-20 du 22 safar 1430 (18 février 2009), notamment son article 2 ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 674,
+      "description": "Loi n° 25-08 portant création de l'Office national de sécurité sanitaire des produits alimentaires promulguée par le dahir n°1-09-20 du 22 safar 1430 (18 février 2009), notamment son article 2 ;, d'un montant de 20,00 dirhams",
+      "signatories": [
+        {
+          "name": "MAISADOUR SEMENCES",
+          "title": ""
+        },
+        {
+          "name": "AKDENIZ TOHUM",
+          "title": ""
+        },
+        {
+          "name": "AKDENIZ TOHUM AKAROA SEMIS ITALIA",
+          "title": ""
+        },
+        {
+          "name": "CARMA GIE GRASS",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 20.0,
+          "currency": "D",
+          "beneficiary": "Office national de"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "1-76-472",
+      "title": "5 chaoual 1397 (19 septembre 1977), notamment ses articles premier, 2 et 5",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 342,
+      "description": "Loi n° 1-76-472 5 chaoual 1397 (19 septembre 1977), notamment ses articles premier, 2 et 5, d'un montant de 472,00 dirhams, au profit de Office national de",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 472.0,
+          "currency": "D",
+          "beneficiary": "Office national de"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-10-473",
+      "title": "susvisé « Toutefois, ne sont pas considérés comme additifs «alimentaires : « - les monosaccharides, disaccharides ou « oligosaccharides et les produits alimentaires contenant « ces substances qui sont utilisées pour leurs propriétés « édulcorantes ; « - les produits alimentaires, séchés ou concentrés, y «compris les arômes entrant dans la fabrication de «produits alimentaires composés, utilisés en raison de «leurs propriétés aromatiques, sapides ou nutritives, «tout en ayant un effet colorant secondaire ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 348,
+      "description": "Décret n° 2-10-473 susvisé « Toutefois, ne sont pas considérés comme additifs «alimentaires : « - les monosaccharides, disaccharides ou « oligosaccharides et les produits alimentaires contenant « ces substances qui sont utilisées pour leurs propriétés « édulcorantes ; « - les produits alimentaires, séchés ou concentrés, y «compris les arômes entrant dans la fabrication de «produits alimentaires composés, utilisés en raison de «leurs propriétés aromatiques, sapides ou nutritives, «tout en ayant un effet colorant secondaire ;, d'un montant de 53,00 dirhams",
+      "signatories": [
+        {
+          "name": "D'ACIDES GRAS",
+          "title": ""
+        },
+        {
+          "name": "ACIDE CYCLAMIQUE",
+          "title": ""
+        },
+        {
+          "name": "STÉVIOL ISSUS DE STEVIA",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 53.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "17-99",
+      "title": "susvisée, sont fixés conformément au",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 676,
+      "description": "Loi n° 17-99 susvisée, sont fixés conformément au, d'un montant de 5,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 5.0,
+          "currency": "D",
+          "beneficiary": "ministère de l"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "9-88",
+      "title": "relative aux obligations comptables",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 676,
+      "description": "Loi n° 9-88 relative aux obligations comptables, d'un montant de 138,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 138.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-18-1009",
+      "title": "du 23 chaabane 1440 (29 avril 2019)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 676,
+      "description": "Décret n° 2-18-1009 du 23 chaabane 1440 (29 avril 2019), d'un montant de 1.009,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1009.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-88-19",
+      "title": "du 16 rabii II 1410 (16 novembre 1989)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 676,
+      "description": "Décret n° 2-88-19 du 16 rabii II 1410 (16 novembre 1989), d'un montant de 19,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 19.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "47-06",
+      "title": "relative à la fiscalité des collectivités territoriales, doivent s'acquitter de cette taxe auprès de la recette de l'administration fiscale",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 676,
+      "description": "Loi n° 47-06 relative à la fiscalité des collectivités territoriales, doivent s'acquitter de cette taxe auprès de la recette de l'administration fiscale, d'un montant de 7.168,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 7168.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "07-20",
+      "title": "promulguée par le dahir",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 676,
+      "description": "Loi n° 07-20 promulguée par le dahir, d'un montant de 91,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 91.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "15-97",
+      "title": "formant code de recouvrement des",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 676,
+      "description": "Loi n° 15-97 formant code de recouvrement des, d'un montant de 175,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 175.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "1-73-255",
+      "title": "du 27 chaoual 1393 (23 novembre",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 686,
+      "description": "Loi n° 1-73-255 du 27 chaoual 1393 (23 novembre, d'un montant de 255,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 255.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-08-562",
+      "title": "du 13 hija 1429 (12 décembre 2008))",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 686,
+      "description": "Décret n° 2-08-562 du 13 hija 1429 (12 décembre 2008)), d'un montant de 562,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 562.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "28-00",
+      "title": "relative à la gestion des déchets et à leur élimination",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 684,
+      "description": "Loi n° 28-00 relative à la gestion des déchets et à leur élimination, d'un montant de 1.000,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1000.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n°28-00 relative à la gestion des déchets et à leur élimination",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 688,
+      "description": "Loi n°28-00 relative à la gestion des déchets et à leur élimination, d'un montant de 1.000,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1000.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-21-838",
+      "title": "du 14 rabii I 1443 (21 octobre 2021)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 718,
+      "description": "Décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021), d'un montant de 838,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 838.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "016-89",
+      "title": "« assortis du baccalauréat, série scientifique ou technique ou « d'un diplôme reconnu équivalent : «",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 732,
+      "description": "Loi n° 016-89 « assortis du baccalauréat, série scientifique ou technique ou « d'un diplôme reconnu équivalent : «, d'un montant de 7.167,00 dirhams",
+      "signatories": [
+        {
+          "name": "LE CONSEIL SUPÉRIEUR DE LA COMMUNICATION",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 22.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "11-15",
+      "title": "portant réorganisation de la Haute Autorité de la Communication Audiovisuelle, en date du 21 kaada 1437 (25 août 2016) ; - La loi sur la communication audiovisuelle : La",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 734,
+      "description": "Loi n° 11-15 portant réorganisation de la Haute Autorité de la Communication Audiovisuelle, en date du 21 kaada 1437 (25 août 2016) ; - La loi sur la communication audiovisuelle : La",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "77-03",
+      "title": "relative à la communication audiovisuelle, telle que modifiée et complétée ; Annonceur : toute personne ayant un engagement contractuel avec l'Opérateur à l'effet de procéder à la promotion commerciale de son nom, ses marques, ses produits ou services, ses activités ou ses réalisations et ce, quel que soit le mode de communication publicitaire utilisé ; Service thématique : le service dont l'essentiel de la programmation, en dehors des sessions musicales, appelé la dominante thématique, privilégie, de manière régulière, un angle de traitement particulier",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 734,
+      "description": "Loi n° 77-03 relative à la communication audiovisuelle, telle que modifiée et complétée ; Annonceur : toute personne ayant un engagement contractuel avec l'Opérateur à l'effet de procéder à la promotion commerciale de son nom, ses marques, ses produits ou services, ses activités ou ses réalisations et ce, quel que soit le mode de communication publicitaire utilisé ; Service thématique : le service dont l'essentiel de la programmation, en dehors des sessions musicales, appelé la dominante thématique, privilégie, de manière régulière, un angle de traitement particulier, d'un montant de 2,00 dirhams",
+      "signatories": [
+        {
+          "name": "LATIFA AKHARBACH",
+          "title": ""
+        },
+        {
+          "name": "NADER MAWLAWI",
+          "title": ""
+        },
+        {
+          "name": "LE CONSEIL SUPÉRIEUR DE LA COMMUNICATION",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 2.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 77-03 relative à la communication audiovisuelle, telle que modifiée et complétée ; - La Haute Autorité : La Haute Autorité de la Communication Audiovisuelle ; - Le Conseil Supérieur : Le Conseil Supérieur de la Communication Audiovisuelle ; - L'Opérateur : La Société Eco Medias S.A titulaire de licence en vue de l'édition d'un service de radio en modulation de fréquence (FM) ; - Service : Le service radiophonique Radio Atlantic, objet du présent cahier des charges",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 734,
+      "description": "Loi n° 77-03 relative à la communication audiovisuelle, telle que modifiée et complétée ; - La Haute Autorité : La Haute Autorité de la Communication Audiovisuelle ; - Le Conseil Supérieur : Le Conseil Supérieur de la Communication Audiovisuelle ; - L'Opérateur : La Société Eco Medias S.A titulaire de licence en vue de l'édition d'un service de radio en modulation de fréquence (FM) ; - Service : Le service radiophonique Radio Atlantic, objet du présent cahier des charges, d'un montant de 7,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 7.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décision",
+      "number": "84-22",
+      "title": "du Conseil Supérieur de la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 742,
+      "description": "Décision n° 84-22 du Conseil Supérieur de la, d'un montant de 22,00 dirhams",
+      "signatories": [
+        {
+          "name": "LATIFA AKHARBACH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 22.0,
+          "currency": "D"
+        }
+      }
+    }
+  ]
+}

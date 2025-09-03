@@ -1,0 +1,92 @@
+{
+  "bulletin_metadata": {
+    "issue_number": "19",
+    "publication_year_description": "Septième année",
+    "date_hijri": "22 ramadan 1445",
+    "date_gregorian": "2024-04-02",
+    "issn": "0851-1217"
+  },
+  "table_of_contents": [],
+  "legal_texts": [
+    {
+      "type": "Loi",
+      "number": "58-13",
+      "title": "portant approbation de l'Accord précité, promulguée par le dahir n°1-14-26 du 4 joumada I 1435 (6 mars 2014) ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 0,
+      "description": "Loi n° 58-13 portant approbation de l'Accord précité, promulguée par le dahir n°1-14-26 du 4 joumada I 1435 (6 mars 2014) ;, d'un montant de 26,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 26.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "55-13",
+      "title": "portant approbation de la Convention précitée, promulguée par le dahir n° 1-14-27 du 4 joumada I 1435 (6 mars 2014) ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 14,
+      "description": "Loi n° 55-13 portant approbation de la Convention précitée, promulguée par le dahir n° 1-14-27 du 4 joumada I 1435 (6 mars 2014) ;, d'un montant de 27,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 27.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "75-15",
+      "title": "portant approbation de l'Accord précité, promulguée par le dahir n° 1-16-74 du 17 chaabane 1437 (24 mai 2016) ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 14,
+      "description": "Loi n° 75-15 portant approbation de l'Accord précité, promulguée par le dahir n° 1-16-74 du 17 chaabane 1437 (24 mai 2016) ;, d'un montant de 74,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 74.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "52-16",
+      "title": "portant approbation de la Convention précitée, promulguée par le dahir n° 1-17-54 du 8 hija 1438 (30 août 2017),",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 22,
+      "description": "Loi n° 52-16 portant approbation de la Convention précitée, promulguée par le dahir n° 1-17-54 du 8 hija 1438 (30 août 2017),, d'un montant de 54,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 54.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "01-19",
+      "title": "portant approbation de l'Accord précité, promulguée par le dahir n° 1-19-99 du 5 kaada 1440 (8 juillet 2019) ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 24,
+      "description": "Loi n° 01-19 portant approbation de l'Accord précité, promulguée par le dahir n° 1-19-99 du 5 kaada 1440 (8 juillet 2019) ;, d'un montant de 99,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 99.0,
+          "currency": "D"
+        }
+      }
+    }
+  ]
+}

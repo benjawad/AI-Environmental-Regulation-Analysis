@@ -1,0 +1,550 @@
+{
+  "bulletin_metadata": {
+    "issue_number": "42",
+    "publication_year_description": "Cent-onzième année",
+    "date_hijri": "4 hija 1441",
+    "date_gregorian": "2020-07-25",
+    "issn": "0851-1217"
+  },
+  "table_of_contents": [],
+  "legal_texts": [
+    {
+      "type": "Loi",
+      "number": "42-20",
+      "title": "modifiant le décret-",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 166,
+      "description": "Loi n° 42-20 modifiant le décret-",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "2-20-292",
+      "title": "du 28 rejeb 1441 (23 mars 2020) édictant des dispositions particulières à l'état d'urgence sanitaire et les mesures de sa déclaration",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 166,
+      "description": "Loi n° 2-20-292 du 28 rejeb 1441 (23 mars 2020) édictant des dispositions particulières à l'état d'urgence sanitaire et les mesures de sa déclaration, d'un montant de 292,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 292.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-21-225",
+      "title": "du 6 kaada 1442 (17 juin 2021)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 166,
+      "description": "Décret n° 2-21-225 du 6 kaada 1442 (17 juin 2021), d'un montant de 225,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 225.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-94-223",
+      "title": "6 moharrem 1415 (16 juin 1994) instituant pour le compte du ministère de l'équipement, du transport, de la logistique et de l'eau, un système de qualification et de classification des entreprises de bâtiments et de travaux publics",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 162,
+      "description": "Décret n° 2-94-223 6 moharrem 1415 (16 juin 1994) instituant pour le compte du ministère de l'équipement, du transport, de la logistique et de l'eau, un système de qualification et de classification des entreprises de bâtiments et de travaux publics, d'un montant de 223,00 dirhams, au profit de Office national des hydrocarbures et des mines \net les",
+      "signatories": [
+        {
+          "name": "MOHAMMED SADIKI",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 223.0,
+          "currency": "D",
+          "beneficiary": "ministère de l"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "42-20",
+      "title": "modifiant le décretloi n° 2-20-292 du 28 rejeb 1441 (23 mars 2020) édictant des dispositions particulières à l'état d'urgence sanitaire et les mesures de sa déclaration, telle qu'adoptée par la Chambre des représentants et la Chambre des conseillers",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 166,
+      "description": "Décret n° 42-20 modifiant le décretloi n° 2-20-292 du 28 rejeb 1441 (23 mars 2020) édictant des dispositions particulières à l'état d'urgence sanitaire et les mesures de sa déclaration, telle qu'adoptée par la Chambre des représentants et la Chambre des conseillers, d'un montant de 292,00 dirhams",
+      "signatories": [
+        {
+          "name": "Le Chef du gouvernement",
+          "title": ":"
+        },
+        {
+          "name": "SAAD DINE EL OTMANI",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 292.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 2-20-292 du 28 rejeb 1441 (23 mars 2020) édictant des dispositions particulières à l'état d'urgence sanitaire et les mesures de sa déclaration",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 166,
+      "description": "Loi n° 2-20-292 du 28 rejeb 1441 (23 mars 2020) édictant des dispositions particulières à l'état d'urgence sanitaire et les mesures de sa déclaration, d'un montant de 292,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 292.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "23-20",
+      "title": "promulguée par le dahir n° 1-20-60 du",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 166,
+      "description": "Loi n° 23-20 promulguée par le dahir n° 1-20-60 du, d'un montant de 60,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 60.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "08-12",
+      "title": "relative à l'Ordre national des médecins,",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 166,
+      "description": "Loi n° 08-12 relative à l'Ordre national des médecins,, d'un montant de 16,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 16.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "131-13",
+      "title": "relative à l'exercice de la médecine,",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 166,
+      "description": "Loi n° 131-13 relative à l'exercice de la médecine,, d'un montant de 26,00 dirhams",
+      "signatories": [
+        {
+          "name": "Le ministre de la santé",
+          "title": ":"
+        },
+        {
+          "name": "SAAD DINE EL OTMANI",
+          "title": ""
+        },
+        {
+          "name": "KALID AIT TALEB",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 26.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 131-13 relative à l'exercice de la médecine promulguée par le dahir n° 1-15-26 du 29 rabii II 1436 (19 février 2015), et qui exercent la médecine au Maroc, soit dans le secteur privé, soit dans le secteur public au sein des services de l'Etat, des collectivités territoriales et des établissements publics, soit en qualité d'enseignants chercheurs dans les centres hospitalouniversitaires soit dans les Forces armées royales",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 166,
+      "description": "Loi n° 131-13 relative à l'exercice de la médecine promulguée par le dahir n° 1-15-26 du 29 rabii II 1436 (19 février 2015), et qui exercent la médecine au Maroc, soit dans le secteur privé, soit dans le secteur public au sein des services de l'Etat, des collectivités territoriales et des établissements publics, soit en qualité d'enseignants chercheurs dans les centres hospitalouniversitaires soit dans les Forces armées royales, d'un montant de 26,00 dirhams",
+      "signatories": [
+        {
+          "name": "TITRE V DISPOSITIONS DIVERSES ET FINALES",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 26.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "25-08",
+      "title": "portant création de l'Office national de sécurité sanitaire des produits alimentaires promulguée par le dahir n°1-09-20 du 22 safar 1430 (18 février 2009) ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 174,
+      "description": "Loi n° 25-08 portant création de l'Office national de sécurité sanitaire des produits alimentaires promulguée par le dahir n°1-09-20 du 22 safar 1430 (18 février 2009) ;, d'un montant de 20,00 dirhams, au profit de Office national de",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 20.0,
+          "currency": "D",
+          "beneficiary": "Office national de"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "13-21",
+      "title": "relative aux usages licites du",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 174,
+      "description": "Loi n° 13-21 relative aux usages licites du, d'un montant de 59,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 59.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "15-09",
+      "title": "relative aux mesures de défense commerciale, notamment ses articles 9 et 29 ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 176,
+      "description": "Loi n° 15-09 relative aux mesures de défense commerciale, notamment ses articles 9 et 29 ;, d'un montant de 15,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 8.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-12-645",
+      "title": "Le prix à l'exportation vers le Maroc est issu des statistiques d'importation officielles du Maroc",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 176,
+      "description": "Décret n° 2-12-645 Le prix à l'exportation vers le Maroc est issu des statistiques d'importation officielles du Maroc, d'un montant de 7.065,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 7065.0,
+          "currency": "D",
+          "beneficiary": "ministère de l"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-15-426",
+      "title": "susvisé est annexée au présent arrêté",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 182,
+      "description": "Décret n° 2-15-426 susvisé est annexée au présent arrêté, d'un montant de 20,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 20.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-21-838",
+      "title": "du 14 rabii I 1443 (21 octobre 2021)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 194,
+      "description": "Décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021), d'un montant de 838,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 838.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "22-07",
+      "title": "relative aux aires protégées, notamment son",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 202,
+      "description": "Loi n° 22-07 relative aux aires protégées, notamment son, d'un montant de 2,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 123.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-18-242",
+      "title": "du 14 ramadan 1442",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 202,
+      "description": "Décret n° 2-18-242 du 14 ramadan 1442, d'un montant de 242,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 242.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-04-783",
+      "title": "du 23 chaabane 1425 (8 octobre 2004), tel",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 202,
+      "description": "Décret n° 2-04-783 du 23 chaabane 1425 (8 octobre 2004), tel, d'un montant de 783,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 783.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-08-173",
+      "title": "du 2 rabii II 1429 (9 avril 2008), est",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 204,
+      "description": "Décret n° 2-08-173 du 2 rabii II 1429 (9 avril 2008), est, d'un montant de 173,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 173.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-94-46",
+      "title": "du 28 ramadan 1414 (11 mars 1994), est",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 204,
+      "description": "Décret n° 2-94-46 du 28 ramadan 1414 (11 mars 1994), est, d'un montant de 46,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 46.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-04-782",
+      "title": "du 23 chaabane 1425",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 204,
+      "description": "Décret n° 2-04-782 du 23 chaabane 1425, d'un montant de 782,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 782.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-04-784",
+      "title": "du 23 chaabane 1425",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 204,
+      "description": "Décret n° 2-04-784 du 23 chaabane 1425, d'un montant de 784,00 dirhams, au profit de Office national des hydrocarbures et des mines et \nles",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 784.0,
+          "currency": "D",
+          "beneficiary": "Office national des hydrocarbures et des mines et \nles"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "21-90",
+      "title": "relative à la recherche et à l'exploitation",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 204,
+      "description": "Loi n° 21-90 relative à la recherche et à l'exploitation, d'un montant de 118,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 118.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "27-99",
+      "title": "promulguée par le dahir n° 1-99-340 du 9 kaada 1420 (15 février 2000), notamment ses articles 4 et 34 ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 204,
+      "description": "Loi n° 27-99 promulguée par le dahir n° 1-99-340 du 9 kaada 1420 (15 février 2000), notamment ses articles 4 et 34 ;, d'un montant de 340,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 340.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "33-01",
+      "title": "portant création de l'Office national des hydrocarbures et des mines promulguée par le dahir n° 1-03-203 du 16 ramadan 1424 (11 novembre 2003) ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 204,
+      "description": "Loi n° 33-01 portant création de l'Office national des hydrocarbures et des mines promulguée par le dahir n° 1-03-203 du 16 ramadan 1424 (11 novembre 2003) ;, d'un montant de 203,00 dirhams, au profit de Office national des \nhydrocarbures et des mines",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 203.0,
+          "currency": "D",
+          "beneficiary": "Office national des \nhydrocarbures et des mines"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-93-786",
+      "title": "du 18 joumada I 1414",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 204,
+      "description": "Décret n° 2-93-786 du 18 joumada I 1414, d'un montant de 786,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 786.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-99-210",
+      "title": "du 9 hija 1420 (16 mars 2000), notamment son article 60 ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 204,
+      "description": "Décret n° 2-99-210 du 9 hija 1420 (16 mars 2000), notamment son article 60 ;, d'un montant de 210,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 210.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-04-372",
+      "title": "du 16 kaada 1425 (29 décembre 2004)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 204,
+      "description": "Décret n° 2-04-372 du 16 kaada 1425 (29 décembre 2004), d'un montant de 372,00 dirhams, au profit de Office national des hydrocarbures et des mines",
+      "signatories": [
+        {
+          "name": "NADIA FETTAH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 372.0,
+          "currency": "D",
+          "beneficiary": "Office national des hydrocarbures et des mines"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "17-99",
+      "title": "portant code des assurances promulguée par le dahir n° 1-02-238 du 25 rejeb 1423 (3 octobre 2002), telle qu'elle a été modifiée et complétée, notamment ses articles 161 et 165 ; 206 BULLETIN OFFICIEL Nº 7066 - 15 rejeb 1443 (17-2-2022)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 204,
+      "description": "Loi n° 17-99 portant code des assurances promulguée par le dahir n° 1-02-238 du 25 rejeb 1423 (3 octobre 2002), telle qu'elle a été modifiée et complétée, notamment ses articles 161 et 165 ; 206 BULLETIN OFFICIEL Nº 7066 - 15 rejeb 1443 (17-2-2022), d'un montant de 238,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 238.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "64-12",
+      "title": "portant création de l'Autorité de contrôle des assurances et de la prévoyance sociale promulguée par le dahir n°l-14-10 du 4 joumada I 1435 (6 mars 2014), notamment ses articles 15 et 19 ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 206,
+      "description": "Loi n° 64-12 portant création de l'Autorité de contrôle des assurances et de la prévoyance sociale promulguée par le dahir n°l-14-10 du 4 joumada I 1435 (6 mars 2014), notamment ses articles 15 et 19 ;, d'un montant de 10,00 dirhams",
+      "signatories": [
+        {
+          "name": "OTHMAN KHALIL AL ALAMY",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 10.0,
+          "currency": "D"
+        }
+      }
+    }
+  ]
+}

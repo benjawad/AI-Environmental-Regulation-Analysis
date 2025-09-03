@@ -1,0 +1,114 @@
+{
+  "bulletin_metadata": {
+    "issue_number": "7404",
+    "publication_year_description": "Cent-quatorzième année",
+    "date_hijri": "17 kaada 1446",
+    "date_gregorian": "2025-05-15",
+    "issn": "0851-1217"
+  },
+  "table_of_contents": [],
+  "legal_texts": [
+    {
+      "type": "Décret",
+      "number": "2-25-341",
+      "title": "du 1er kaada 1446 (29 avril 2025)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 592,
+      "description": "Décret n° 2-25-341 du 1er kaada 1446 (29 avril 2025), d'un montant de 341,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 341.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "12-06",
+      "title": "relative à la normalisation, à la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 584,
+      "description": "Loi n° 12-06 relative à la normalisation, à la, d'un montant de 15,00 dirhams",
+      "signatories": [
+        {
+          "name": "RYAD MEZZOUR",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 15.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "12-02",
+      "title": "relative à la responsabilité civile en",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 592,
+      "description": "Loi n° 12-02 relative à la responsabilité civile en, d'un montant de 278,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 278.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-05-1560",
+      "title": "du 22 rabii I 1427 (21 avril 2006),",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 592,
+      "description": "Décret n° 2-05-1560 du 22 rabii I 1427 (21 avril 2006),, d'un montant de 1.560,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1560.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-24-490",
+      "title": "du 19 hija 1445 (26 juin 2024)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 592,
+      "description": "Décret n° 2-24-490 du 19 hija 1445 (26 juin 2024), d'un montant de 490,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 490.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "103-12",
+      "title": "relative aux établissements de crédit",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 592,
+      "description": "Loi n° 103-12 relative aux établissements de crédit, d'un montant de 193,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 193.0,
+          "currency": "D",
+          "beneficiary": "Ministère de l"
+        }
+      }
+    }
+  ]
+}

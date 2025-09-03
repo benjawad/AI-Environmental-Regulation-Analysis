@@ -1,0 +1,307 @@
+{
+  "bulletin_metadata": {
+    "issue_number": "7254",
+    "publication_year_description": "Cent-douzième année",
+    "date_hijri": "13 chaoual 1435",
+    "date_gregorian": "2014-07-31",
+    "issn": "0851-1217"
+  },
+  "table_of_contents": [
+    {
+      "category": "",
+      "title": "SOMMAIRE RAPPORT Conseil Economique, Social et Environnemental. - Rapport annuel sur l'exercice 2022. Rapport annuel sur l'exercice 2022 soumis à Sa Majesté le Roi Mohammed VI par le Président du Conseil Economique, Social et Environnemental",
+      "description": "",
+      "page": 2662
+    },
+    {
+      "category": "",
+      "title": "AVIS ET COMMUNICATIONS Avis du Conseil Economique, Social et Environnemental sur : • L'amélioration de la prise en charge des urgences médicales pour préserver et sauver des vies et contribuer à assurer des soins de qualité pour tous",
+      "description": "",
+      "page": 2809
+    },
+    {
+      "category": "",
+      "title": "• Le cloud : un levier d'urgence pour réussir la transformation digitale",
+      "description": "",
+      "page": 2851
+    }
+  ],
+  "legal_texts": [
+    {
+      "type": "Loi",
+      "number": "69",
+      "title": ".21 modifiant la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2686,
+      "description": "Loi n° 69 .21 modifiant la",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "15",
+      "title": ".95 formant code de commerce et édictant des dispositions particulières relatives aux",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2686,
+      "description": "Loi n° 15 .95 formant code de commerce et édictant des dispositions particulières relatives aux, d'un montant de 12.000,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 12000.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "98-15",
+      "title": "relative à l'AMO de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non-salariées exerçant une activité libérale, de ceux relatif à la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2690,
+      "description": "Loi n° 98-15 relative à l'AMO de base pour les catégories des professionnels, des travailleurs indépendants et des personnes non-salariées exerçant une activité libérale, de ceux relatif à la",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "99-15",
+      "title": "instituant un régime de pensions pour les catégories non-salariées exerçant une activité libérale, ainsi que ceux afférent à la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2690,
+      "description": "Loi n° 99-15 instituant un régime de pensions pour les catégories non-salariées exerçant une activité libérale, ainsi que ceux afférent à la",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "27-22",
+      "title": "complétant et modifiant la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2690,
+      "description": "Loi n° 27-22 complétant et modifiant la",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "65",
+      "title": ".00 portant code de la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2690,
+      "description": "Loi n° 65 .00 portant code de la, d'un montant de 37,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 37.0,
+          "currency": "D",
+          "beneficiary": "ministère de l"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "09-34",
+      "title": "relative au système de santé et oﬀre de soins",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2690,
+      "description": "Loi n° 09-34 relative au système de santé et oﬀre de soins",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "07-22",
+      "title": "relatif à la création de la Haute autorité de la santé ; projet de",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2690,
+      "description": "Loi n° 07-22 relatif à la création de la Haute autorité de la santé ; projet de",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "08-22",
+      "title": "relatif à la création des groupements sanitaires territoriaux ; projet de",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2690,
+      "description": "Loi n° 08-22 relatif à la création des groupements sanitaires territoriaux ; projet de",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "09-22",
+      "title": "relatif aux garanties essentielles inhérentes aux ressources humaines des métiers de la santé; projet de",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2690,
+      "description": "Loi n° 09-22 relatif aux garanties essentielles inhérentes aux ressources humaines des métiers de la santé; projet de",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "10-22",
+      "title": "relatif à la création de l'Agence nationale du médicament et de produits de la santé , projet de",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2690,
+      "description": "Loi n° 10-22 relatif à la création de l'Agence nationale du médicament et de produits de la santé , projet de",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "11-22",
+      "title": "relatif à la création de l'Agence marocaine du sang et ses dérivés 35 - Audition du ministère de santé, 26 janvier 2023 36 - « Global strategy on human resources for health : Workforce 2030 », OMS 37 - Avis du Conseil de la concurrence sur n avis sur le fonctionnement concurrentiel du marché des soins médicaux dispensés par les cliniques privées et les établissements assimilés au Maroc 2022 2692 BULLETIN OFFICIEL Nº 7254 bis - 23 joumada I 1445 (7-12-2023) préconisé de rattacher le système de rémunération des ressources humaines opérant dans le secteur de la santé à un système de satisfaction de la qualité des services de santé, afin",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2690,
+      "description": "Loi n° 11-22 relatif à la création de l'Agence marocaine du sang et ses dérivés 35 - Audition du ministère de santé, 26 janvier 2023 36 - « Global strategy on human resources for health : Workforce 2030 », OMS 37 - Avis du Conseil de la concurrence sur n avis sur le fonctionnement concurrentiel du marché des soins médicaux dispensés par les cliniques privées et les établissements assimilés au Maroc 2022 2692 BULLETIN OFFICIEL Nº 7254 bis - 23 joumada I 1445 (7-12-2023) préconisé de rattacher le système de rémunération des ressources humaines opérant dans le secteur de la santé à un système de satisfaction de la qualité des services de santé, afin, d'un montant de 53.478,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 53478.0,
+          "currency": "D",
+          "beneficiary": "ministère de"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "97-13",
+      "title": "et de ses textes d'application? Selon les données disponibles, plus de 1,7 million de personnes en situation de handicap sont recensées au Maroc74 (5,1% de la population)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2704,
+      "description": "Loi n° 97-13 et de ses textes d'application? Selon les données disponibles, plus de 1,7 million de personnes en situation de handicap sont recensées au Maroc74 (5,1% de la population), d'un montant de 39.708,00 dirhams, conclu le 30 avril 2022",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 39708.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n°41-22 portant création et organisation de ladite fondation a été publiée au bulletin officiel du 1er septembre 2022)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2708,
+      "description": "Loi n°41-22 portant création et organisation de ladite fondation a été publiée au bulletin officiel du 1er septembre 2022), d'un montant de 2.023,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 2023.0,
+          "currency": "D",
+          "lender": "Banque Européenne d'investissement",
+          "beneficiary": "ministère pour l"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "08",
+      "title": ".22 relative à la création des groupements sanitaires et",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2726,
+      "description": "Loi n° 08 .22 relative à la création des groupements sanitaires et, d'un montant de 82,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 82.0,
+          "currency": "D",
+          "beneficiary": "ministère de la Transition"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "31-13",
+      "title": "relative au droit d'accès à l'information",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2772,
+      "description": "Loi n° 31-13 relative au droit d'accès à l'information, d'un montant de 75.372,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 75372.0,
+          "currency": "D",
+          "beneficiary": "ministère de tutelle"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "63",
+      "title": ".21 portant organisation de l'enseignement supérieur et de la recherche scientifique) des dispositions facilitant la mobilité des compétences marocaines exerçant à l'étranger, en particulier les enseignants, les experts et chercheurs universitaires",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2780,
+      "description": "Loi n° 63 .21 portant organisation de l'enseignement supérieur et de la recherche scientifique) des dispositions facilitant la mobilité des compétences marocaines exerçant à l'étranger, en particulier les enseignants, les experts et chercheurs universitaires, d'un montant de 91.520,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 91520.0,
+          "currency": "D",
+          "beneficiary": "Ministère de la"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "131-13",
+      "title": "relatif à l'exercice de la médecine, à la protection sociale et plus récemment à la santé mentale",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2814,
+      "description": "Loi n° 131-13 relatif à l'exercice de la médecine, à la protection sociale et plus récemment à la santé mentale, d'un montant de 3,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 3.0,
+          "currency": "D",
+          "beneficiary": "Ministère de la"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "2020-840",
+      "title": "du 3 juillet 2020 a créé le statut de citoyen-sauveteur. Selon le texte,",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2818,
+      "description": "Loi n° 2020-840 du 3 juillet 2020 a créé le statut de citoyen-sauveteur. Selon le texte,, d'un montant de 840,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 840.0,
+          "currency": "D",
+          "beneficiary": "Ministère de la"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "31",
+      "title": ".08 édictant des mesures de protection des consommateurs, notamment son article 59",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2832,
+      "description": "Loi n° 31 .08 édictant des mesures de protection des consommateurs, notamment son article 59, d'un montant de 24,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 24.0,
+          "currency": "D",
+          "beneficiary": "ministère de la"
+        }
+      }
+    }
+  ]
+}

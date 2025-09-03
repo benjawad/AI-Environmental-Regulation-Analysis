@@ -1,0 +1,150 @@
+{
+  "bulletin_metadata": {
+    "issue_number": "14",
+    "publication_year_description": "Cinquième année",
+    "date_hijri": "30 kaada 1443",
+    "date_gregorian": "2022-06-30",
+    "issn": "0851-1217"
+  },
+  "table_of_contents": [],
+  "legal_texts": [
+    {
+      "type": "Loi",
+      "number": "12-15",
+      "title": "portant approbation de l'Accord précité, promulguée par le dahir n°1-15-122 du 18 chaoual 1436 (4 août 2015) ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 304,
+      "description": "Loi n° 12-15 portant approbation de l'Accord précité, promulguée par le dahir n°1-15-122 du 18 chaoual 1436 (4 août 2015) ;, d'un montant de 122,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 122.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "27-16",
+      "title": "portant approbation de la Convention précitée, promulguée par le dahir n° 1-16-143 du 21 kaada 1437 (25 août 2016) ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 320,
+      "description": "Loi n° 27-16 portant approbation de la Convention précitée, promulguée par le dahir n° 1-16-143 du 21 kaada 1437 (25 août 2016) ;, d'un montant de 143,00 dirhams",
+      "signatories": [
+        {
+          "name": "SALAHEDDINE MEZOUAR",
+          "title": ""
+        },
+        {
+          "name": "KARL ERJAVEC",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 143.0,
+          "currency": "D",
+          "beneficiary": "ministère des finances \nde la"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "40-16",
+      "title": "portant approbation de l'Accord précité, promulguée par le dahir n° 1-18-49 du 21 ramadan 1439 (6 juin 2018) ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 332,
+      "description": "Loi n° 40-16 portant approbation de l'Accord précité, promulguée par le dahir n° 1-18-49 du 21 ramadan 1439 (6 juin 2018) ;, d'un montant de 49,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 49.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "79-16",
+      "title": "portant approbation de l'Accord précité, promulguée par le dahir n° 1-17-59 du 8 hija 1438 (30 août 2017) ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 332,
+      "description": "Loi n° 79-16 portant approbation de l'Accord précité, promulguée par le dahir n° 1-17-59 du 8 hija 1438 (30 août 2017) ;, d'un montant de 59,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 59.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "56-16",
+      "title": "portant approbation du Protocole précité, promulguée par le dahir n° 1-17-57 du 8 hija 1438 (30 août 2017) ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 366,
+      "description": "Loi n° 56-16 portant approbation du Protocole précité, promulguée par le dahir n° 1-17-57 du 8 hija 1438 (30 août 2017) ;, d'un montant de 57,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 57.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "75-17",
+      "title": "portant approbation de l'Accord précité, promulguée par le dahir n° 1-18-52 du 21 ramadan 1439 (6 juin 2018) ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 368,
+      "description": "Loi n° 75-17 portant approbation de l'Accord précité, promulguée par le dahir n° 1-18-52 du 21 ramadan 1439 (6 juin 2018) ;, d'un montant de 52,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 52.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "28-18",
+      "title": "portant approbation de l'Accord précité, promulguée par le dahir n° 1-19-21 du 21 joumada II 1440 (27 février 2019) ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 368,
+      "description": "Loi n° 28-18 portant approbation de l'Accord précité, promulguée par le dahir n° 1-19-21 du 21 joumada II 1440 (27 février 2019) ;, d'un montant de 21,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 21.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "07-19",
+      "title": "portant approbation de l'Accord précité, promulguée par le dahir n° 1-19-100 du 5 kaada 1440 (8 juillet 2019) ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 378,
+      "description": "Loi n° 07-19 portant approbation de l'Accord précité, promulguée par le dahir n° 1-19-100 du 5 kaada 1440 (8 juillet 2019) ;, d'un montant de 100,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 100.0,
+          "currency": "D"
+        }
+      }
+    }
+  ]
+}

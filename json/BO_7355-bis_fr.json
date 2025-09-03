@@ -1,0 +1,180 @@
+{
+  "bulletin_metadata": {
+    "issue_number": "7355",
+    "publication_year_description": "Cent-treizième année",
+    "date_hijri": "3 chaoual 1435",
+    "date_gregorian": "2014-07-31",
+    "issn": "0851-1217"
+  },
+  "table_of_contents": [
+    {
+      "category": "",
+      "title": "SOMMAIRE RAPPORT Conseil Economique, Social et Environnemental. - Rapport annuel sur l'exercice 2023. Rapport annuel sur l'exercice 2023 soumis à Sa Majesté le Roi Mohammed VI par le Président du Conseil Economique, Social et Environnemental",
+      "description": "",
+      "page": 2760
+    }
+  ],
+  "legal_texts": [
+    {
+      "type": "Loi",
+      "number": "76-20",
+      "title": "portant création du Fonds Mohammed VI. Ces fonds sectoriels ou thématiques visent à fournir aux entreprises des solutions de financement pour augmenter leurs capitaux propres, afin de développer leur capacité d'investissement",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2780,
+      "description": "Loi n° 76-20 portant création du Fonds Mohammed VI. Ces fonds sectoriels ou thématiques visent à fournir aux entreprises des solutions de financement pour augmenter leurs capitaux propres, afin de développer leur capacité d'investissement, d'un montant de 46,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 46.0,
+          "currency": "D",
+          "beneficiary": "Ministère de l"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "58",
+      "title": ".23, relative au régime d'aide sociale directe et la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2786,
+      "description": "Loi n° 58 .23, relative au régime d'aide sociale directe et la",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "59",
+      "title": ".23, portant création de",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2786,
+      "description": "Loi n° 59 .23, portant création de, d'un montant de 500,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 500.0,
+          "currency": "D",
+          "beneficiary": "Ministère de l"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "09",
+      "title": ".22 visant à créer une fonction sanitaire",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2788,
+      "description": "Loi n° 09 .22 visant à créer une fonction sanitaire, d'un montant de 3.967,00 dirhams, au profit de Office de la formation professionnelle et la promotion du travail",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 3967.0,
+          "currency": "D",
+          "beneficiary": "ministère \nde l"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-22-431",
+      "title": "), et l'accélération des",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2812,
+      "description": "Décret n° 2-22-431 ), et l'accélération des, d'un montant de 2.021,00 dirhams, au profit de MASEN",
+      "signatories": [
+        {
+          "name": "R A",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 2021.0,
+          "currency": "D",
+          "lender": "Banque Européenne d'investissement",
+          "beneficiary": "Ministère de l"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "10",
+      "title": ".20 relative aux matériels et équipements de défense et de sécurité, aux armes et aux munitions",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2858,
+      "description": "Loi n° 10 .20 relative aux matériels et équipements de défense et de sécurité, aux armes et aux munitions, d'un montant de 20,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 20.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "76",
+      "title": ".20 portant création du Fonds Mohammed VI pour l'investissement",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2860,
+      "description": "Loi n° 76 .20 portant création du Fonds Mohammed VI pour l'investissement, d'un montant de 21,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 21.0,
+          "currency": "D",
+          "beneficiary": "ministère de l"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "27-13",
+      "title": "relative aux carrières ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2880,
+      "description": "Loi n° 27-13 relative aux carrières ;, d'un montant de 31.698,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 31698.0,
+          "currency": "D",
+          "beneficiary": "ministère de la transition"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-04-969",
+      "title": ", en établissant des",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2898,
+      "description": "Décret n° 2-04-969 , en établissant des",
+      "signatories": []
+    },
+    {
+      "type": "Arrêté",
+      "number": "895-18",
+      "title": ", pour les associations de protection du consommateur non",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2898,
+      "description": "Arrêté n° 895-18 , pour les associations de protection du consommateur non, d'un montant de 20,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 20.0,
+          "currency": "D",
+          "beneficiary": "Ministère de l"
+        }
+      }
+    }
+  ]
+}

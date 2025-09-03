@@ -1,0 +1,157 @@
+{
+  "bulletin_metadata": {
+    "issue_number": "7388",
+    "publication_year_description": "Cent-quatorzième année",
+    "date_hijri": "19 ramadan 1446",
+    "date_gregorian": "2025-03-20",
+    "issn": "0851-1217"
+  },
+  "table_of_contents": [],
+  "legal_texts": [
+    {
+      "type": "Décret",
+      "number": "2-24-1141",
+      "title": "du 10 ramadan 1446 (11 mars 2025)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 410,
+      "description": "Décret n° 2-24-1141 du 10 ramadan 1446 (11 mars 2025), d'un montant de cent millions d'euros (100.000.000,00 dirhams), conclu le 19 décembre 2024 avec KfW",
+      "signatories": [
+        {
+          "name": "AVIS ET COMMUNICATIONS",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 100000000.0,
+          "currency": "D",
+          "lender": "KfW"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "35-96",
+      "title": "relative à la création d'un dépositaire",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 410,
+      "description": "Loi n° 35-96 relative à la création d'un dépositaire, d'un montant de 246,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 246.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-24-950",
+      "title": "du 15 joumada II 1446",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 410,
+      "description": "Décret n° 2-24-950 du 15 joumada II 1446, d'un montant de 950,00 dirhams",
+      "signatories": [
+        {
+          "name": "NADIA FETTAH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 950.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "24-01",
+      "title": "relative aux opérations de pension",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 414,
+      "description": "Loi n° 24-01 relative aux opérations de pension, d'un montant de 4,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 4.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "33-06",
+      "title": "relative à la titrisation des actifs,",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 416,
+      "description": "Loi n° 33-06 relative à la titrisation des actifs,, d'un montant de 95,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 95.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-24-990",
+      "title": "du 24 rabii II 1446 (28 octobre",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 418,
+      "description": "Décret n° 2-24-990 du 24 rabii II 1446 (28 octobre, d'un montant de 990,00 dirhams",
+      "signatories": [
+        {
+          "name": "ZAKIA DRIOUICH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 990.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "12-06",
+      "title": "relative à la normalisation, à la certification et à l'accréditation, promulguée par le",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 420,
+      "description": "Loi n° 12-06 relative à la normalisation, à la certification et à l'accréditation, promulguée par le, d'un montant de 15,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 15.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-24-991",
+      "title": "du 24 rabii II 1446 (28 octobre",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 432,
+      "description": "Décret n° 2-24-991 du 24 rabii II 1446 (28 octobre, d'un montant de 991,00 dirhams, au profit de office national de l",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 991.0,
+          "currency": "D",
+          "beneficiary": "Ministère de l"
+        }
+      }
+    }
+  ]
+}

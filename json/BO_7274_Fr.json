@@ -1,0 +1,349 @@
+{
+  "bulletin_metadata": {
+    "issue_number": "48",
+    "publication_year_description": "Cent-treizième année",
+    "date_hijri": "23 chaabane 1444",
+    "date_gregorian": "2023-03-16",
+    "issn": "0851-1217"
+  },
+  "table_of_contents": [],
+  "legal_texts": [
+    {
+      "type": "Décret",
+      "number": "2-23-720",
+      "title": "du 20 rejeb 1445 (1er février 2024)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 802,
+      "description": "Décret n° 2-23-720 du 20 rejeb 1445 (1er février 2024), d'un montant de 720,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 720.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-24-21",
+      "title": "du 20 rejeb 1445 (1er février 2024) approuvant",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 804,
+      "description": "Décret n° 2-24-21 du 20 rejeb 1445 (1er février 2024) approuvant, d'un montant de 21,00 dirhams, conclu le 15 décembre 2023",
+      "signatories": [
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 21.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-24-22",
+      "title": "du 20 rejeb 1445 (1er février 2024) approuvant",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 804,
+      "description": "Décret n° 2-24-22 du 20 rejeb 1445 (1er février 2024) approuvant, d'un montant de trente millions d'euros (30.000.000,00 dirhams), conclu le 27 décembre 2023 avec KfW",
+      "signatories": [
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        },
+        {
+          "name": "FOUZI LEKJAA",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 30000000.0,
+          "currency": "D",
+          "lender": "KfW"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-24-26",
+      "title": "du 20 rejeb 1445 (1er février 2024) approuvant le",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 804,
+      "description": "Décret n° 2-24-26 du 20 rejeb 1445 (1er février 2024) approuvant le, d'un montant de cent vingt millions d'euros (120.000.000,00 dirhams), conclu le 27 décembre 2023 avec KfW",
+      "signatories": [
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 120000000.0,
+          "currency": "D",
+          "lender": "KfW"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-24-27",
+      "title": "du 20 rejeb 1445 (1er février 2024)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 804,
+      "description": "Décret n° 2-24-27 du 20 rejeb 1445 (1er février 2024), d'un montant de cent millions d'euros (100.000.000,00 dirhams), conclu le 27 décembre 2023 avec KfW, au profit de Office national des hydrocarbures et des mines \net",
+      "signatories": [
+        {
+          "name": "Le Chef du gouvernement",
+          "title": ":"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 100000000.0,
+          "currency": "D",
+          "lender": "KfW"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "84-21",
+      "title": "relative à l'aquaculture marine, promulguée",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 802,
+      "description": "Loi n° 84-21 relative à l'aquaculture marine, promulguée, d'un montant de 81,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 81.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-21-834",
+      "title": "du 14 rabii I 1443 (21 octobre 2021)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 802,
+      "description": "Décret n° 2-21-834 du 14 rabii I 1443 (21 octobre 2021), d'un montant de 834,00 dirhams",
+      "signatories": [
+        {
+          "name": "Le ministre de l'agriculture",
+          "title": ":"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        },
+        {
+          "name": "MOHAMMED SADIKI",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 834.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-22-490",
+      "title": "du 5 moharrem 1444 (3 août",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 806,
+      "description": "Décret n° 2-22-490 du 5 moharrem 1444 (3 août, d'un montant de 490,00 dirhams",
+      "signatories": [
+        {
+          "name": "LEILA BENALI",
+          "title": ""
+        },
+        {
+          "name": "ABDELOUAFI LAFTIT",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 25.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-22-491",
+      "title": "précité, le système de détection dans un",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 812,
+      "description": "Décret n° 2-22-491 précité, le système de détection dans un, d'un montant de 25,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 25.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "25-08",
+      "title": "portant création de l'Office national de sécurité sanitaire des produits alimentaires, promulguée par le dahir n°1-09-20 du 22 safar 1430 (18 février 2009), notamment son article 2 ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 848,
+      "description": "Loi n° 25-08 portant création de l'Office national de sécurité sanitaire des produits alimentaires, promulguée par le dahir n°1-09-20 du 22 safar 1430 (18 février 2009), notamment son article 2 ;, d'un montant de 20,00 dirhams, au profit de Office national de",
+      "signatories": [
+        {
+          "name": "MOHAMMED SADIKI",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 20.0,
+          "currency": "D",
+          "beneficiary": "Office national de"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-21-838",
+      "title": "du 14 rabii I 1443 (21 octobre 2021)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 822,
+      "description": "Décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021), d'un montant de 838,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 838.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "016-89",
+      "title": ", assortis du « baccalauréat, série scientifique ou technique ou d'un diplôme « reconnu équivalent, est fixée ainsi qu'il suit : «",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 820,
+      "description": "Loi n° 016-89 , assortis du « baccalauréat, série scientifique ou technique ou d'un diplôme « reconnu équivalent, est fixée ainsi qu'il suit : «, d'un montant de 23,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 23.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "24-09",
+      "title": "relative à la sécurité des produits et des services et complétant le dahir du 9 ramadan 1331 (12 août 1913) formant code des obligations et des contrats, notamment ses articles 4 et 5 ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 840,
+      "description": "Loi n° 24-09 relative à la sécurité des produits et des services et complétant le dahir du 9 ramadan 1331 (12 août 1913) formant code des obligations et des contrats, notamment ses articles 4 et 5 ;, d'un montant de 13,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 13.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-12-502",
+      "title": "du 2 rejeb 1434 (13 mai 2013) pris",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 840,
+      "description": "Décret n° 2-12-502 du 2 rejeb 1434 (13 mai 2013) pris, d'un montant de 502,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 502.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "1-73-255",
+      "title": "du 27 chaoual 1393",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 858,
+      "description": "Loi n° 1-73-255 du 27 chaoual 1393, d'un montant de 255,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 255.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-08-562",
+      "title": "susvisé, cette, autorisation est accordée pour",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 858,
+      "description": "Décret n° 2-08-562 susvisé, cette, autorisation est accordée pour, d'un montant de 3,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 562.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "28-00",
+      "title": "relative à la gestion des déchets et à leur élimination",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 858,
+      "description": "Loi n° 28-00 relative à la gestion des déchets et à leur élimination, d'un montant de 1.000,00 dirhams, conclu le 15 moharrem 1445, au profit de Office national des hydrocarbures et des mines et",
+      "signatories": [
+        {
+          "name": "LEILA BENALI",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1000.0,
+          "currency": "D",
+          "beneficiary": "Office national des hydrocarbures et des mines et"
+        }
+      }
+    }
+  ]
+}

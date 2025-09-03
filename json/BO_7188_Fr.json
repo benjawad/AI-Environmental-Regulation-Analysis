@@ -1,0 +1,794 @@
+{
+  "bulletin_metadata": {
+    "issue_number": "33",
+    "publication_year_description": "Cent-douzième année",
+    "date_hijri": "4 rejeb 1440",
+    "date_gregorian": "2019-03-11",
+    "issn": "0851-1217"
+  },
+  "table_of_contents": [
+    {
+      "category": "TEXTES GENERAUX",
+      "title": "SOMMAIRE Code pénal. Dahir n° 1-19-44 du 4 rejeb 1440 (11 mars 2019) portant promulgation de la loi n° 33-18 modifiant et complétant le code pénal",
+      "description": "",
+      "page": 1087
+    },
+    {
+      "category": "TEXTES GENERAUX",
+      "title": "Nouvelles dispositions pour régulariser la situation de certains agriculteurs ayant bénéficié auparavant de terres agricoles ou à vocation agricole. Dahir n° 1-21-69 du 3 hija 1442 (14 juillet 2021) portant promulgation de loi n° 63-18 édictant de nouvelles dispositions pour régulariser la situation de certains agriculteurs ayant bénéficié auparavant de terres agricoles ou à vocation agricole faisant partie du domaine privé de l'Etat et modifiant et complétant le dahir portant loi n° 1-72-277 du 22 kaada 1392 (29 décembre 1972) relatif à l'attribution à des agriculteurs de terres agricoles ou à vocation agricole faisant partie du domaine privé de l'Etat",
+      "description": "",
+      "page": 1087
+    },
+    {
+      "category": "TEXTES GENERAUX",
+      "title": "Charte de l'investissement. Arrêté du Chef du gouvernement n° 3-14-23 du 8 chaabane 1444 (1er mars 2023) fixant la liste des provinces ou des préfectures relevant des catégories A) et B) dans le ressort territorial desquels les projets d'investissement réalisés peuvent bénéficier d'une prime territoriale",
+      "description": "",
+      "page": 1089
+    },
+    {
+      "category": "TEXTES GENERAUX",
+      "title": "Marchés publics. Arrêté du ministre de l'équipement et de l'eau n° 2398-22 du 10 safar 1444 (7 septembre 2022) abrogeant et remplaçant le tableau annexé au décret n° 2-98-984 du 4 hija 1419 (22 mars 1999) instituant, pour la passation de certains marchés de services pour le compte de l'Etat, un système d'agrément des personnes physiques ou morales exécutant des prestations d'études et de maîtrise d'œuvre",
+      "description": "",
+      "page": 1090
+    },
+    {
+      "category": "TEXTES GENERAUX",
+      "title": "Règles comptables : • Organismes de placement collectif immobilier. Arrêté de la ministre de l'économie et des finances n° 216-23 du 5 rejeb 1444 (27 janvier 2023) fixant les règles comptables applicables aux Organismes de placement collectif immobilier",
+      "description": "",
+      "page": 1091
+    },
+    {
+      "category": "TEXTES GENERAUX",
+      "title": "{ ROYAUME DU MAROC BULLETIN OFFICIEL EDITION DE TRADUCTION OFFICIELLE EDITIONS TARIFS D'ABONNEMENT ABONNEMENT IMPRIMERIE OFFICIELLE Rabat - Chellah Tél. : 05.37.76.50.24 ‑ 05.37.76.50.25 05.37.76.54.13 Compte n° : 310 810 1014029004423101 33 ouvert à la Trésorerie Préfectorale de Rabat au nom du régisseur des recettes de l'Imprimerie officielle AU MAROC A L'ETRANGER 6 mois 1 an Edition générale................................................................... Edition de traduction officielle............................................. Edition des conventions internationales................................ Edition des annonces légales, judiciaires et administratives... Edition des annonces relatives à l'immatriculation foncière.. 250 DH 150 DH 150 DH 250 DH 250 DH 400 DH 200 DH 200 DH 300 DH 300 DH A destination de l'étranger, par voies ordinaire, aérienne ou de la poste rapide interna tionale, les tarifs prévus cicontre sont majorés des frais d'envoi, tels qu'ils sont fixés par la réglementation postale en vigueur. Cette édition contient la traduction officielle des lois et règlements ainsi que tous autres décisions ou documents dont la publication au Bulletin officiel est prévue par les lois ou les règlements en vigueur Cent-douzième année - N° 7188 29 ramadan 1444 (20 avril 2023) ISSN 0851 - 1217 Pages Pages 1082 BULLETIN OFFICIEL Nº 7188 - 29 ramadan 1444 (20-4-2023) • Fonds de placement collectif en titrisation. Arrêté de la ministre de l'économie et des finances n° 388-23 du 17 rejeb 1444 (8 février 2023) fixant les règles comptables applicables aux Fonds de placement collectif en titrisation",
+      "description": "",
+      "page": 1091
+    },
+    {
+      "category": "TEXTES GENERAUX",
+      "title": "Inscription de nouvelles variétés au Catalogue officiel des espèces et des variétés de plantes cultivables au Maroc. Arrêté du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts n° 577-23 du 9 chaabane 1444 (2 mars 2023) autorisant l'inscription de nouvelles variétés de pomme de terre de saison, de pomme de terre de transformation, de tomate indéterminée, de tomate déterminée de marché de frais, de tomate industrielle, de laitue, de melon, de betterave potagère, de betterave à sucre, de betterave fourragère, du maïs, du colza, de blé dur, de blé tendre, du triticale, d'avoine, de pois chiche et de pois potager au Catalogue officiel des espèces et des variétés de plantes cultivables au Maroc",
+      "description": "",
+      "page": 1092
+    },
+    {
+      "category": "TEXTES GENERAUX",
+      "title": "Production des plants de caroubier. - Homologation du règlement technique. Arrêté du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts n° 640-23 du 14 chaabane 1444 (7 mars 2023) portant homologation du règlement technique relatif à la production, au contrôle, au conditionnement et à la certification des plants de caroubier",
+      "description": "",
+      "page": 1097
+    },
+    {
+      "category": "TEXTES GENERAUX",
+      "title": "Appel public à l'épargne et informations exigées des personnes morales et organismes faisant appel public à l'épargne. - Liste des journaux d'annonces légales. Arrêté de la ministre de l'économie et des finances n° 811-23 du 23 chaabane 1444 (16 mars 2023) fixant la liste des journaux d'annonces légales prévue par l'article 30 de la loi n° 44-12 relative à l'appel public à l'épargne et aux informations exigées des personnes morales et organismes faisant appel public à l'épargne",
+      "description": "",
+      "page": 1107
+    },
+    {
+      "category": "TEXTES GENERAUX",
+      "title": "Homologation de normes marocaines. Décision du directeur de l'Institut marocain de normalisation n° 868-23 du 29 chaabane 1444 (22 mars 2023) portant homologation de normes marocaines",
+      "description": "",
+      "page": 1108
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Equivalences de diplômes. Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 187-23 du 4 rejeb 1444 (26 janvier 2023) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine.......................................... 1113 Arrêté du ministre de l 'enseignement supérieur, de la recherche scientifique et de l'innovation n° 188-23 du 4 rejeb 1444 (26 janvier 2023) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine........................ 1113 Arrêté du ministre de l 'enseignement supérieur, de la recherche scientifique et de l'innovation n° 189-23 du 4 rejeb 1444 (26 janvier 2023) complétant l'arrêté n° 346-04 du 4 moharrem 1425 (25 février 2004) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en oto-rhinolaryngologie",
+      "description": "",
+      "page": 1114
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Arrêté du ministre de l 'enseignement supérieur, de la recherche scientifique et de l'innovation n° 190-23 du 4 rejeb 1444 (26 janvier 2023) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine........................ 1114 Arrêté du ministre de l 'enseignement supérieur, de la recherche scientifique et de l'innovation n° 191-23 du 4 rejeb 1444 (26 janvier 2023) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine........................ 1115 Arrêté du ministre de l 'enseignement supérieur, de la recherche scientifique et de l'innovation n° 192-23 du 4 rejeb 1444 (26 janvier 2023) complétant l'arrêté n° 753-06 du 27 rabii I 1427 (26 avril 2006) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en néphrologie............... 1115 Arrêté du ministre de l 'enseignement supérieur, de la recherche scientifique et de l'innovation n° 193-23 du 4 rejeb 1444 (26 janvier 2023) complétant l'arrêté n° 2188-04 du 14 kaada 1425 (27 décembre 2004) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en ophtalmologie............. 1116 Pages Pages Nº 7188 - 29 ramadan 1444 (20-4-2023) BULLETIN OFFICIEL 1083 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 194-23 du 4 rejeb 1444 (26 janvier 2023) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine.......................................... 1116 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 195-23 du 4 rejeb 1444 (26 janvier 2023) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine.......................................... 1117 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 196-23 du 4 rejeb 1444 (26 janvier 2023) complétant l'arrêté n° 753-06 du 27 rabii I 1427 (26 avril 2006) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en néphrologie................................... 1117 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 197-23 du 4 rejeb 1444 (26 janvier 2023) complétant l'arrêté n° 1834-06 du 15 rejeb 1427 (10 août 2006) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en chirurgie pédiatrique",
+      "description": "",
+      "page": 1118
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 198-23 du 4 rejeb 1444 (26 janvier 2023) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine.......................................... 1118 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 199-23 du 4 rejeb 1444 (26 janvier 2023) complétant l'arrêté n° 2191-04 du 14 kaada 1425 (27 décembre 2004) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en neurochirurgie",
+      "description": "",
+      "page": 1119
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 200-23 du 4 rejeb 1444 (26 janvier 2023) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine........................................................... 1119 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 201-23 du 4 rejeb 1444 (26 janvier 2023) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine.......................................... 1120 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 202-23 du 4 rejeb 1444 (26 janvier 2023) complétant l'arrêté n° 2188-04 du 14 kaada 1425 (27 décembre 2004) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en ophtalmologie................................. 1120 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 203-23 du 4 rejeb 1444 (26 janvier 2023) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine.......................................... 1121 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 204-23 du 4 rejeb 1444 (26 janvier 2023) complétant l'arrêté n° 2188-04 du 14 kaada 1425 (27 décembre 2004) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en ophtalmologie................................. 1121 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 205-23 du 4 rejeb 1444 (26 janvier 2023) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine.......................................... 1122 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 206-23 du 4 rejeb 1444 (26 janvier 2023) complétant l'arrêté n° 570-04 du 15 safar 1425 (6 avril 2004) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en dermatologie",
+      "description": "",
+      "page": 1122
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 207-23 du 4 rejeb 1444 (26 janvier 2023) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine.......................................... 1123 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 208-23 du 4 rejeb 1444 (26 janvier 2023) complétant l'arrêté n° 743-09 du 26 rabii I 1430 (24 mars 2009) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en biologie médicale (ou analyses biologiques médicales).... 1123 Pages Pages 1084 BULLETIN OFFICIEL Nº 7188 - 29 ramadan 1444 (20-4-2023) Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 209-23 du 4 rejeb 1444 (26 janvier 2023) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine",
+      "description": "",
+      "page": 1124
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 598-23 du 9 chaabane 1444 (2 mars 2023) complétant l'arrêté n° 1481-04 du 24 joumada II 1425 (11 août 2004) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en psychiatrie",
+      "description": "",
+      "page": 1124
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 599-23 du 9 chaabane 1444 (2 mars 2023) complétant l'arrêté n° 570-04 du 15 safar 1425 (6 avril 2004) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en dermatologie",
+      "description": "",
+      "page": 1125
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 600-23 du 9 chaabane 1444 (2 mars 2023) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine........................................................... 1125 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 601-23 du 9 chaabane 1444 (2 mars 2023) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine........................................................... 1126 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 602-23 du 9 chaabane 1444 (2 mars 2023) complétant l'arrêté n° 2188-04 du 14 kaada 1425 (27 décembre 2004) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en ophtalmologie................................. 1126 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 603-23 du 9 chaabane 1444 (2 mars 2023) complétant l'arrêté n° 753-06 du 27 rabii I 1427 (26 avril 2006) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en néphrologie",
+      "description": "",
+      "page": 1127
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 604-23 du 9 chaabane 1444 (2 mars 2023) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine........................................................... 1127 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 605-23 du 9 chaabane 1444 (2 mars 2023) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine........................................................... 1128 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 607-23 du 9 chaabane 1444 (2 mars 2023) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine........................................................... 1128 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 608-23 du 9 chaabane 1444 (2 mars 2023) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine........................................................... 1129 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 609-23 du 9 chaabane 1444 (2 mars 2023) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine.......................................... 1129 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 610-23 du 9 chaabane 1444 (2 mars 2023) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine.......................................... 1130 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 611-23 du 9 chaabane 1444 (2 mars 2023) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine.......................................... 1130 Pages Pages Nº 7188 - 29 ramadan 1444 (20-4-2023) BULLETIN OFFICIEL 1085 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 612-23 du 9 chaabane 1444 (2 mars 2023) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine........................................................... 1131 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 613-23 du 9 chaabane 1444 (2 mars 2023) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine.......................................... 1131 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 614-23 du 9 chaabane 1444 (2 mars 2023) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine........................................................... 1132 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 615-23 du 9 chaabane 1444 (2 mars 2023) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine........................................................... 1132 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 617-23 du 9 chaabane 1444 (2 mars 2023) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine........................................................... 1133 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 618-23 du 9 chaabane 1444 (2 mars 2023) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine........................................................... 1133 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 877-23 du 28 chaabane 1444 (21 mars 2023) complétant l'arrêté n° 2797-95 du 20 joumada II 1416 (14 novembre 1995) fixant la liste des diplômes reconnus équivalents au diplôme d'architecte de l'Ecole nationale d'architecture",
+      "description": "",
+      "page": 1134
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 882-23 du 29 chaabane 1444 (22 mars 2023) complétant l'arrêté n° 2797-95 du 20 joumada II 1416 (14 novembre 1995) fixant la liste des diplômes reconnus équivalents au diplôme d'architecte de l'Ecole nationale d'architecture",
+      "description": "",
+      "page": 1134
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 958-23 du 9 ramadan 1444 (31 mars 2023) complétant l'arrêté n° 2797-95 du 20 joumada II 1416 (14 novembre 1995) fixant la liste des diplômes reconnus équivalents au diplôme d'architecte de l'Ecole nationale d'architecture",
+      "description": "",
+      "page": 1135
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Création et exploitation de fermes aquacoles. Arrêté conjoint du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts et du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget n° 439-23 du 24 rejeb 1444 (15 février 2023) autorisant la société «PESCACIS Sarl» pour la création et l'exploitation d'une ferme aquacole dénommée « Pescacis» et portant publication de l'extrait de la convention y afférente",
+      "description": "",
+      "page": 1136
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Arrêté conjoint du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts et du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget n° 440-23 du 24 rejeb 1444 (15 février 2023) autorisant la société «COSTA DEL SOL Sarl AU » pour la création et l'exploitation d'une ferme aquacole dénommée «Costa Del Sol» et portant publication de l'extrait de la convention y afférente",
+      "description": "",
+      "page": 1138
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Arrêté conjoint du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts et du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget n°441-23 du 24 rejeb 1444 (15 février 2023) autorisant la société «GO AQUACULTURE Sarl » pour la création et l'exploitation d'une ferme aquacole dénommée « Go Aquaculture Algoculture» et portant publication de l'extrait de la convention y afférente",
+      "description": "",
+      "page": 1140
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Pages Pages 1086 BULLETIN OFFICIEL Nº 7188 - 29 ramadan 1444 (20-4-2023) Arrêté conjoint du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts et du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget n° 442-23 du 24 rejeb 1444 (15 février 2023) autorisant la société «OSTRA PENINSULA Sarl AU » pour la création et l'exploitation d'une ferme aquacole dénommée «Ostra Peninsula» et portant publication de l'extrait de la convention y afférente",
+      "description": "",
+      "page": 1142
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Arrêté conjoint du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts et du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget n° 443-23 du 24 rejeb 1444 (15 février 2023) autorisant la société «AQUACULTURE DES MONDES SNC» pour la création et l'exploitation d'une ferme aquacole dénommée «Aquaculture des Mondes» et portant publication de l'extrait de la convention y afférente",
+      "description": "",
+      "page": 1144
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Arrêté conjoint du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts et du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget n°444-23 du 24 rejeb 1444 (15 février 2023) autorisant la société «ALDY SEAFOOD SARL» pour la création et l'exploitation d'une ferme aquacole dénommée «Aldy Seafood» et portant publication de l'extrait de la convention y afférente",
+      "description": "",
+      "page": 1146
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Arrêté conjoint du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts et du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget n°445-23 du 24 rejeb 1444 (15 février 2023) autorisant le groupement d'intérêt économique «SOUSS MYTILUS GIE» pour la création et l'exploitation d'une ferme aquacole dénommée «Souss Mytilus» et portant publication de l'extrait de la convention y afférente",
+      "description": "",
+      "page": 1148
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Arrêté conjoint du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts et du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget n°446-23 du 24 rejeb 1444 (15 février 2023) autorisant la société «AQUACULTURE MED Sarl » pour la création et l'exploitation d'une ferme aquacole dénommée « Aquaculture Med» et portant publication de l'extrait de la convention y afférente...................................... 1151 Arrêté conjoint du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts et du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget n°447-23 du 24 rejeb 1444 (15 février 2023) autorisant la société «DONS DU LEVANT Sarl AU » pour la création et l'exploitation d'une ferme aquacole dénommée « Dons Du Levant» et portant publication de l'extrait de la convention y afférente",
+      "description": "",
+      "page": 1153
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Arrêté conjoint du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts et du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget n°448-23 du 24 rejeb 1444 (15 février 2023) autorisant la société « WEST LEOCEANIC Sarl AU » pour la création et l'exploitation d'une ferme aquacole dénommée « West Leoceanic» et portant publication de l'extrait de la convention y afférente",
+      "description": "",
+      "page": 1155
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Hydrocarbures . - Passage à la première période complémentaire. Arrêté de la ministre de la transition énergétique et du développement durable n° 713-23 du 15 chaabane 1444 (8 mars 2023) accordant le passage à la première période complémentaire du permis de recherche d'hydrocarbures dit « LALLA MIMOUNA SUD » à l'Office national des hydrocarbures et des mines et à la société « SDX Energy Morocco (UK) Limited »",
+      "description": "",
+      "page": 1157
+    }
+  ],
+  "legal_texts": [
+    {
+      "type": "Loi",
+      "number": "33-18",
+      "title": "modifiant et complétant le code pénal",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1086,
+      "description": "Loi n° 33-18 modifiant et complétant le code pénal, d'un montant de 353,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 353.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "63-18",
+      "title": "édictant de nouvelles dispositions pour régulariser la situation de certains agriculteurs ayant bénéficié auparavant de terres agricoles ou à vocation agricole faisant partie du domaine privé de l'Etat et modifiant et complétant le dahir portant",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1086,
+      "description": "Loi n° 63-18 édictant de nouvelles dispositions pour régulariser la situation de certains agriculteurs ayant bénéficié auparavant de terres agricoles ou à vocation agricole faisant partie du domaine privé de l'Etat et modifiant et complétant le dahir portant",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "1-72-277",
+      "title": "précité, et les interdictions et",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1088,
+      "description": "Loi n° 1-72-277 précité, et les interdictions et, d'un montant de 7.006,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 7006.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-98-984",
+      "title": "du 4 hija 1419 (22 mars 1999)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1090,
+      "description": "Décret n° 2-98-984 du 4 hija 1419 (22 mars 1999), d'un montant de 984,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 984.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "44-12",
+      "title": "relative à l'appel public à l'épargne et aux informations exigées des personnes morales et organismes faisant appel public à l'épargne",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1082,
+      "description": "Loi n° 44-12 relative à l'appel public à l'épargne et aux informations exigées des personnes morales et organismes faisant appel public à l'épargne, d'un montant de 23,00 dirhams, au profit de Office \nnational des hydrocarbures et des mines et",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 23.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "39-08",
+      "title": "portant Code des droits réels, qui commet « l'un des actes visés auxdits articles",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1086,
+      "description": "Loi n° 39-08 portant Code des droits réels, qui commet « l'un des actes visés auxdits articles, d'un montant de 6.763,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 6763.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 1-72-277 du 22 kaada 1392 (29 décembre 1972) relatif à l'attribution à des agriculteurs de terres agricoles ou à vocation agricole faisant partie du domaine privé de l'Etat",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1086,
+      "description": "Loi n° 1-72-277 du 22 kaada 1392 (29 décembre 1972) relatif à l'attribution à des agriculteurs de terres agricoles ou à vocation agricole faisant partie du domaine privé de l'Etat, d'un montant de 277,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 277.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "06-01",
+      "title": "promulguée par le dahir n° 1-04-252 du 25 kaada 1425 ( 7 janvier 2005 ), sont modifiées comme suit : « Article 5",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1088,
+      "description": "Loi n° 06-01 promulguée par le dahir n° 1-04-252 du 25 kaada 1425 ( 7 janvier 2005 ), sont modifiées comme suit : « Article 5, d'un montant de 252,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 252.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 1-72-277 précité sont abrogées et remplacées comme suit : « Article 15",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1088,
+      "description": "Loi n° 1-72-277 précité sont abrogées et remplacées comme suit : « Article 15, d'un montant de 29,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 29.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-23-1",
+      "title": "du 25 rejeb 1444 (16 février 2023)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1088,
+      "description": "Décret n° 2-23-1 du 25 rejeb 1444 (16 février 2023), d'un montant de 1,00 dirhams",
+      "signatories": [
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "70-14",
+      "title": "relative aux Organismes de placement collectif immobilier, notamment son article 5 ; Après avis du Conseil national de la comptabilité, ARRÊTE :",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1090,
+      "description": "Loi n° 70-14 relative aux Organismes de placement collectif immobilier, notamment son article 5 ; Après avis du Conseil national de la comptabilité, ARRÊTE :, d'un montant de 7.185,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 7185.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-17-420",
+      "title": "du 9 chaabane 1439 (26 avril 2018)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1090,
+      "description": "Décret n° 2-17-420 du 9 chaabane 1439 (26 avril 2018), d'un montant de 420,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 420.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "33-06",
+      "title": "relative à la titrisation",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1090,
+      "description": "Loi n° 33-06 relative à la titrisation, d'un montant de 1,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1.0,
+          "currency": "D",
+          "beneficiary": "ministère de l"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-08-530",
+      "title": "du 17 rejeb 1431 (30 juin 2010)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1090,
+      "description": "Décret n° 2-08-530 du 17 rejeb 1431 (30 juin 2010), d'un montant de 530,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 530.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "25-08",
+      "title": "portant création de l'Office national de sécurité sanitaire des produits alimentaires promulguée par le dahir n° 1-09-20 du 22 safar 1430 (18 février 2009), notamment son article 2 ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1092,
+      "description": "Loi n° 25-08 portant création de l'Office national de sécurité sanitaire des produits alimentaires promulguée par le dahir n° 1-09-20 du 22 safar 1430 (18 février 2009), notamment son article 2 ;, d'un montant de 20,00 dirhams",
+      "signatories": [
+        {
+          "name": "PULITZER STRUBE",
+          "title": ""
+        },
+        {
+          "name": "CARIBOU FLORIMOND DESPREZ JAMON FLORIMOND DESPREZ",
+          "title": ""
+        },
+        {
+          "name": "CHEMICAL AGROSAVA",
+          "title": ""
+        },
+        {
+          "name": "LIMAGRAIN EUROPE",
+          "title": ""
+        },
+        {
+          "name": "BASF CLUB CL NPZ",
+          "title": ""
+        },
+        {
+          "name": "LG TRAFALGAR LIMAGRAIN EUROPE - FRANCE",
+          "title": ""
+        },
+        {
+          "name": "TITRIMAX SEMILLAS BATTLE",
+          "title": ""
+        },
+        {
+          "name": "TAOUNATE INRA MAROC",
+          "title": ""
+        },
+        {
+          "name": "SIENNA BROTHERTON SEED FRESCO BROTHERTON SEED",
+          "title": ""
+        },
+        {
+          "name": "I- INTRODUCTION",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 20.0,
+          "currency": "D",
+          "beneficiary": "Office national de"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "1-76-472",
+      "title": "du 5 chaoual 1397 (19 septembre 1977),",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1098,
+      "description": "Loi n° 1-76-472 du 5 chaoual 1397 (19 septembre 1977),, d'un montant de 472,00 dirhams, au profit de Office national de",
+      "signatories": [
+        {
+          "name": "COMPTABILITÉ MATIÈRE",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 472.0,
+          "currency": "D",
+          "beneficiary": "Office national de"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-17-227",
+      "title": "du 28 hija 1438 (19 septembre 2017) pris en application de la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1106,
+      "description": "Décret n° 2-17-227 du 28 hija 1438 (19 septembre 2017) pris en application de la, d'un montant de 227,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 227.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "88-13",
+      "title": "relative à la presse et à l'édition",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1106,
+      "description": "Loi n° 88-13 relative à la presse et à l'édition, d'un montant de 21,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 21.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "12-06",
+      "title": "relative à la normalisation, à la certification et à l'accréditation, promulguée par le",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1108,
+      "description": "Loi n° 12-06 relative à la normalisation, à la certification et à l'accréditation, promulguée par le, d'un montant de 15,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 15.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-21-838",
+      "title": "du 14 rabii I 1443 (21 octobre 2021)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1118,
+      "description": "Décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021), d'un montant de 838,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 838.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "016-89",
+      "title": ", assortis du « baccalauréat, série scientifique ou technique ou d'un diplôme « reconnu équivalent, est fixée ainsi qu'il suit : «",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1134,
+      "description": "Loi n° 016-89 , assortis du « baccalauréat, série scientifique ou technique ou d'un diplôme « reconnu équivalent, est fixée ainsi qu'il suit : «, d'un montant de 7.186,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 7185.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "1-73-255",
+      "title": "du 27 chaoual 1393 (23 novembre 1973)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1148,
+      "description": "Loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973), d'un montant de 255,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 255.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-08-562",
+      "title": "du 13 hija 1429 (12 décembre 2008)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1148,
+      "description": "Décret n° 2-08-562 du 13 hija 1429 (12 décembre 2008), d'un montant de 562,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 562.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 28-00 relative à la gestion des déchets et à leur élimination",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1142,
+      "description": "Loi n° 28-00 relative à la gestion des déchets et à leur élimination, d'un montant de 1.000,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1000.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n°28-00 relative à la gestion des déchets et à leur élimination",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1146,
+      "description": "Loi n°28-00 relative à la gestion des déchets et à leur élimination, d'un montant de 1.000,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1000.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 28-00 relative à la gestion des déchets et à leur élimination.y Montant de la redevance due : - droit fixe : Dix mille (10.000) dirhams par an",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1144,
+      "description": "Loi n° 28-00 relative à la gestion des déchets et à leur élimination.y Montant de la redevance due : - droit fixe : Dix mille (10.000) dirhams par an, d'un montant de 1.000,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1000.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n°28 - 00 relative à la gestion des déchets et à leur élimination",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1154,
+      "description": "Loi n°28 - 00 relative à la gestion des déchets et à leur élimination, d'un montant de 1.000,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1000.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "28-00",
+      "title": "relative à la gestion des déchets et à leur élimination",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1156,
+      "description": "Loi n° 28-00 relative à la gestion des déchets et à leur élimination, d'un montant de 1.000,00 dirhams, au profit de Office national des \nhydrocarbures et des mines et",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1000.0,
+          "currency": "D",
+          "beneficiary": "Office national des \nhydrocarbures et des mines et"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "21-90",
+      "title": "relative à la recherche et à l'exploitation",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1156,
+      "description": "Loi n° 21-90 relative à la recherche et à l'exploitation, d'un montant de 118,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 118.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "27-99",
+      "title": "promulguée par le dahir n° 1-99-340 du 9 kaada 1420 (15 février 2000), notamment son article 24 ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1156,
+      "description": "Loi n° 27-99 promulguée par le dahir n° 1-99-340 du 9 kaada 1420 (15 février 2000), notamment son article 24 ;, d'un montant de 340,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 340.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "33-01",
+      "title": "portant création de l'Office national des hydrocarbures et des mines promulguée par le dahir n° 1-03-203 du 16 ramadan 1424 (11 novembre 2003) ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1156,
+      "description": "Loi n° 33-01 portant création de l'Office national des hydrocarbures et des mines promulguée par le dahir n° 1-03-203 du 16 ramadan 1424 (11 novembre 2003) ;, d'un montant de 203,00 dirhams, au profit de Office national \ndes hydrocarbures et des mines",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 203.0,
+          "currency": "D",
+          "beneficiary": "Office national \ndes hydrocarbures et des mines"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-93-786",
+      "title": "du 18 joumada I 1414 (3 novembre",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1156,
+      "description": "Décret n° 2-93-786 du 18 joumada I 1414 (3 novembre, d'un montant de 786,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 786.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-99-210",
+      "title": "du 9 hija 1420 (16 mars 2000), notamment son article 18 ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1156,
+      "description": "Décret n° 2-99-210 du 9 hija 1420 (16 mars 2000), notamment son article 18 ;, d'un montant de 210,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 210.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-04-372",
+      "title": "du 16 kaada 1425 (29 décembre",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 1156,
+      "description": "Décret n° 2-04-372 du 16 kaada 1425 (29 décembre, d'un montant de 372,00 dirhams, au profit de Office national des hydrocarbures et des mines",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 372.0,
+          "currency": "D",
+          "beneficiary": "Office national des hydrocarbures et des mines"
+        }
+      }
+    }
+  ]
+}

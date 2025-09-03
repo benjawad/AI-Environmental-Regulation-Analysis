@@ -1,0 +1,1186 @@
+{
+  "bulletin_metadata": {
+    "issue_number": "98",
+    "publication_year_description": "Cent-treizième année",
+    "date_hijri": "10 chaabane 1445",
+    "date_gregorian": "2024-02-20",
+    "issn": "0851-1217"
+  },
+  "table_of_contents": [],
+  "legal_texts": [
+    {
+      "type": "Loi",
+      "number": "98-18",
+      "title": "relative à l'Ordre national",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 866,
+      "description": "Loi n° 98-18 relative à l'Ordre national",
+      "signatories": [
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "type": "Loi",
+      "number": "56-22",
+      "title": "portant approbation des Statuts du Centre africain de développement minier, adoptés à Addis-Abeba (Ethiopie) le 31 janvier 2016",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 880,
+      "description": "Loi n° 56-22 portant approbation des Statuts du Centre africain de développement minier, adoptés à Addis-Abeba (Ethiopie) le 31 janvier 2016, d'un montant de 7.278,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 7278.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "59-22",
+      "title": "portant approbation de l'Accord entre le gouvernement du Royaume du Maroc et le Centre international pour le développement des politiques migratoires (CIDPM) relatif à l'établissement d'une représentation dudit Centre au Royaume du Maroc, fait à Rabat le 10 novembre 2022",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 880,
+      "description": "Loi n° 59-22 portant approbation de l'Accord entre le gouvernement du Royaume du Maroc et le Centre international pour le développement des politiques migratoires (CIDPM) relatif à l'établissement d'une représentation dudit Centre au Royaume du Maroc, fait à Rabat le 10 novembre 2022, d'un montant de 7.278,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 7278.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "62-22",
+      "title": "portant promulgation de la Convention révisée sur la reconnaissance des études, des diplômes et des grades de l'enseignement supérieur dans les Etats arabes, adoptée à Paris le 2 février 2022 et signée par le Royaume du Maroc le 2 février 2022",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 880,
+      "description": "Loi n° 62-22 portant promulgation de la Convention révisée sur la reconnaissance des études, des diplômes et des grades de l'enseignement supérieur dans les Etats arabes, adoptée à Paris le 2 février 2022 et signée par le Royaume du Maroc le 2 février 2022, d'un montant de 7.278,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 7278.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "63-22",
+      "title": "portant approbation de la Convention générale sur les privilèges et immunités de l'Organisation de l'Unité africaine, adoptée à Accra (Ghana) le 25 octobre 1965",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 880,
+      "description": "Loi n° 63-22 portant approbation de la Convention générale sur les privilèges et immunités de l'Organisation de l'Unité africaine, adoptée à Accra (Ghana) le 25 octobre 1965, d'un montant de 250,00 dirhams",
+      "signatories": [
+        {
+          "name": "Le Chef du gouvernement",
+          "title": ":"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 7278.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "14-23",
+      "title": "portant approbation du Statut du Centre de travail de l'Organisation de la coopération islamique, adopté par le Conseil des ministres des affaires étrangères de l'Organisation de la coopération islamique dans sa 43ème session, tenue à Tachkent (République d'Ouzbékistan) les 18 et 19 octobre 2016",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 882,
+      "description": "Loi n° 14-23 portant approbation du Statut du Centre de travail de l'Organisation de la coopération islamique, adopté par le Conseil des ministres des affaires étrangères de l'Organisation de la coopération islamique dans sa 43ème session, tenue à Tachkent (République d'Ouzbékistan) les 18 et 19 octobre 2016, d'un montant de 7.278,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 7278.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "55-22",
+      "title": "portant approbation de la Convention dans le domaine des services de transport aérien entre le gouvernement du Royaume du Maroc et le gouvernement du Royaume d'Arabie Saoudite, faite à Montréal le 28 septembre 2022",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 882,
+      "description": "Loi n° 55-22 portant approbation de la Convention dans le domaine des services de transport aérien entre le gouvernement du Royaume du Maroc et le gouvernement du Royaume d'Arabie Saoudite, faite à Montréal le 28 septembre 2022, d'un montant de 7.278,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 7278.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "64-22",
+      "title": "portant approbation de l'Accord de coopération en matière de marine marchande entre le gouvernement du Royaume du Maroc et le gouvernement de la République de Djibouti, fait à Rabat le 14 novembre 2022",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 882,
+      "description": "Loi n° 64-22 portant approbation de l'Accord de coopération en matière de marine marchande entre le gouvernement du Royaume du Maroc et le gouvernement de la République de Djibouti, fait à Rabat le 14 novembre 2022",
+      "signatories": [
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 7278.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-21-1097",
+      "title": "du 19 rejeb 1443 (21 février 2022)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 862,
+      "description": "Décret n° 2-21-1097 du 19 rejeb 1443 (21 février 2022), d'un montant de 1.097,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1097.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-19-887",
+      "title": "susvisé, sont abrogées et remplacées",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 882,
+      "description": "Décret n° 2-19-887 susvisé, sont abrogées et remplacées, d'un montant de 425,00 dirhams",
+      "signatories": [
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 425.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-22-342",
+      "title": "du 9 kaada 1443 (9 juin 2022)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 862,
+      "description": "Décret n° 2-22-342 du 9 kaada 1443 (9 juin 2022), d'un montant de 342,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 342.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-21-957",
+      "title": "du 18 joumada I 1443",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 882,
+      "description": "Décret n° 2-21-957 du 18 joumada I 1443, d'un montant de 957,00 dirhams",
+      "signatories": [
+        {
+          "name": "et des finances",
+          "title": "La ministre de l'économie"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        },
+        {
+          "name": "NADIA FETTAH",
+          "title": ""
+        },
+        {
+          "name": "RYAD MEZZOUR",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 957.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-23-746",
+      "title": "du 26 joumada II 1445",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 862,
+      "description": "Décret n° 2-23-746 du 26 joumada II 1445, d'un montant de 746,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 746.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-18-1009",
+      "title": "susvisé sont modifiées et complétées",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 884,
+      "description": "Décret n° 2-18-1009 susvisé sont modifiées et complétées",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 17-99 portant code des assurances",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 862,
+      "description": "Loi n° 17-99 portant code des assurances",
+      "signatories": []
+    },
+    {
+      "type": "Décret",
+      "number": "2-24-1",
+      "title": "du 5 chaabane 1445 (15 février 2024)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 862,
+      "description": "Décret n° 2-24-1 du 5 chaabane 1445 (15 février 2024), d'un montant de 1,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-18-785",
+      "title": "susvisé sont modifiées et complétées",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 884,
+      "description": "Décret n° 2-18-785 susvisé sont modifiées et complétées",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 785.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "110-14",
+      "title": "précitée « Est considéré comme un seul évènement catastrophique, « tout événement objet de la déclaration précitée dont la durée « ne dépasse pas, selon le cas, les limites ci-dessus",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 886,
+      "description": "Loi n° 110-14 précitée « Est considéré comme un seul évènement catastrophique, « tout événement objet de la déclaration précitée dont la durée « ne dépasse pas, selon le cas, les limites ci-dessus, d'un montant de 8,00 dirhams",
+      "signatories": [
+        {
+          "name": "ABDELOUAFI LAFTIT",
+          "title": ""
+        },
+        {
+          "name": "NADIA FETTAH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 8.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "17-99",
+      "title": "portant code des assurances, tel qu'il a été modifié et complété, notamment son article 5 ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 886,
+      "description": "Loi n° 17-99 portant code des assurances, tel qu'il a été modifié et complété, notamment son article 5 ;, d'un montant de 19,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 238.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-23-963",
+      "title": "du 26 joumada II 1445 (9 janvier 2024)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 862,
+      "description": "Décret n° 2-23-963 du 26 joumada II 1445 (9 janvier 2024), d'un montant de 963,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 963.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-13-24",
+      "title": "15 rabii II 1434 (26 février 2013) fixant la liste des établissements publics soumis au contrôle d'accompagnement",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 862,
+      "description": "Décret n° 2-13-24 15 rabii II 1434 (26 février 2013) fixant la liste des établissements publics soumis au contrôle d'accompagnement, d'un montant de 24,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 24.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-23-1071",
+      "title": "du 9 chaabane 1445 (19 février 2024)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 862,
+      "description": "Décret n° 2-23-1071 du 9 chaabane 1445 (19 février 2024), d'un montant de 1.071,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1071.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-23-1072",
+      "title": "du 9 chaabane 1445 (19 février 2024)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 862,
+      "description": "Décret n° 2-23-1072 du 9 chaabane 1445 (19 février 2024), d'un montant de 1.072,00 dirhams, conclu le 13 moharrem 1445, au profit de Office national des \nhydrocarbures et des mines et",
+      "signatories": [
+        {
+          "name": "AVIS ET COMMUNICATIONS",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1072.0,
+          "currency": "D"
+        },
+        "geographical_indication": {
+          "name": "Soremar S.A.R.L"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 1-75-453 du 25 hija 1396 (17 décembre 1976) est désormais régi par les dispositions de la présente loi",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 866,
+      "description": "Loi n° 1-75-453 du 25 hija 1396 (17 décembre 1976) est désormais régi par les dispositions de la présente loi, d'un montant de 453,00 dirhams, au profit de office par l",
+      "signatories": [
+        {
+          "name": "TITRE II",
+          "title": ""
+        },
+        {
+          "name": "TITRE III",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 453.0,
+          "currency": "D",
+          "beneficiary": "ministère \nde la"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "1-75-453",
+      "title": "du 25 hija 1396",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 878,
+      "description": "Loi n° 1-75-453 du 25 hija 1396, d'un montant de 453,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 453.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "65-99",
+      "title": "relative au code de travail promulguée",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 882,
+      "description": "Loi n° 65-99 relative au code de travail promulguée, d'un montant de 194,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 194.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "19-94",
+      "title": "relative aux zones d'accélération",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 882,
+      "description": "Loi n° 19-94 relative aux zones d'accélération, d'un montant de 1,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-95-562",
+      "title": "du 19 rejeb 1416 (12 décembre",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 882,
+      "description": "Décret n° 2-95-562 du 19 rejeb 1416 (12 décembre, d'un montant de 562,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 562.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "103-12",
+      "title": "relative aux établissements de crédit",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 934,
+      "description": "Loi n° 103-12 relative aux établissements de crédit, d'un montant de 193,00 dirhams",
+      "signatories": [
+        {
+          "name": "AVIS ET COMMUNICATIONS",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 193.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "",
+      "title": "n° 2-18-785 précité sont abrogées et remplacées comme suit : « Article 4",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 884,
+      "description": "Décret n° 2-18-785 précité sont abrogées et remplacées comme suit : « Article 4",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "69-00",
+      "title": "susvisée, jusqu'a son remplacement",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 890,
+      "description": "Loi n° 69-00 susvisée, jusqu'a son remplacement, d'un montant de 7.269,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 7269.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "61-99",
+      "title": "relative à la responsabilité des ordonnateurs, des contrôleurs et des comptables publics,",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 890,
+      "description": "Loi n° 61-99 relative à la responsabilité des ordonnateurs, des contrôleurs et des comptables publics,, d'un montant de 25,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 25.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "62-99",
+      "title": "formant code des juridictions financières, promulguée par le dahir n° 1-02-124",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 890,
+      "description": "Loi n° 62-99 formant code des juridictions financières, promulguée par le dahir n° 1-02-124, d'un montant de 124,00 dirhams",
+      "signatories": [
+        {
+          "name": "MOHAMMED SADIKI",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 124.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "24-01",
+      "title": "relative aux opérations de pension,",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 898,
+      "description": "Loi n° 24-01 relative aux opérations de pension,, d'un montant de 4,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 4.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-23-900",
+      "title": "du 7 joumada II 1445",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 900,
+      "description": "Décret n° 2-23-900 du 7 joumada II 1445, d'un montant de 900,00 dirhams",
+      "signatories": [
+        {
+          "name": "NADIA FETTAH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 900.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "35-96",
+      "title": "relative à la création d'un dépositaire",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 900,
+      "description": "Loi n° 35-96 relative à la création d'un dépositaire, d'un montant de 246,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 246.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "33-06",
+      "title": "relative à la titrisation des actifs,",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 902,
+      "description": "Loi n° 33-06 relative à la titrisation des actifs,, d'un montant de 95,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 95.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "15-09",
+      "title": "relative aux mesures de défense commerciale, notamment son article 29 ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 904,
+      "description": "Loi n° 15-09 relative aux mesures de défense commerciale, notamment son article 29 ;, d'un montant de 20,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 20.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-12-645",
+      "title": "du 13 safar 1434 (27 décembre 2012)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 904,
+      "description": "Décret n° 2-12-645 du 13 safar 1434 (27 décembre 2012), d'un montant de 645,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 645.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Arrêté",
+      "number": "221-20",
+      "title": "susvisé, est maintenu provisoirement à hauteur d'un taux unique de 5.5% ad valorem appliqué à tous les exportateurs",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 904,
+      "description": "Arrêté n° 221-20 susvisé, est maintenu provisoirement à hauteur d'un taux unique de 5.5% ad valorem appliqué à tous les exportateurs, d'un montant de 7.270,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 7270.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-04-793",
+      "title": "du 11 kaada 1425 ( 24 décembre",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 904,
+      "description": "Décret n° 2-04-793 du 11 kaada 1425 ( 24 décembre, d'un montant de 793,00 dirhams",
+      "signatories": [
+        {
+          "name": "NADIA FETTAH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 793.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-13-852",
+      "title": "du 14 safar 1435 (18 décembre 2013) relatif aux conditions et aux modalités de",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 906,
+      "description": "Décret n° 2-13-852 du 14 safar 1435 (18 décembre 2013) relatif aux conditions et aux modalités de, d'un montant de 852,00 dirhams",
+      "signatories": [
+        {
+          "name": "NADIA FETTAH",
+          "title": ""
+        },
+        {
+          "name": "RYAD MEZZOUR",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 852.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "48-15",
+      "title": "précitée, sont exemptées du paiement du TSS auquel elles n'étaient pas soumises",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 918,
+      "description": "Loi n° 48-15 précitée, sont exemptées du paiement du TSS auquel elles n'étaient pas soumises, d'un montant de 7.258,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 7258.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "13-09",
+      "title": ", ONEE-Production, IPP/Masen ou Autoconsommation hors site de production) Formules a×E b×E Valeurs des constantes a et b (cDH/KWh) a=6,39 b =6,35 Valeur de E",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 916,
+      "description": "Loi n° 13-09 , ONEE-Production, IPP/Masen ou Autoconsommation hors site de production) Formules a×E b×E Valeurs des constantes a et b (cDH/KWh) a=6,39 b =6,35 Valeur de E, d'un montant de 3,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 3.0,
+          "currency": "D",
+          "beneficiary": "Masen"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "82-21",
+      "title": "relative à l'autoproduction promulguée par le dahir n° 1-23-21 du",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 912,
+      "description": "Loi n° 82-21 relative à l'autoproduction promulguée par le dahir n° 1-23-21 du, d'un montant de 21,00 dirhams, au profit de Office national de l",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 21.0,
+          "currency": "D",
+          "beneficiary": "Office national de l"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n°82-21 susvisée, n'est pas soumis au TURT, au TSS ni à la comptabilisation des pertes ; 5- Conformément à la méthodologie tarifaire, les installations de production détenues par les IPP et Masen, et dont l'électricité produite est acquise en totalité par l'ONEE, seront assimilées à des installations de l'ONEE dont la production est destinée au marché réglementé",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 918,
+      "description": "Loi n°82-21 susvisée, n'est pas soumis au TURT, au TSS ni à la comptabilisation des pertes ; 5- Conformément à la méthodologie tarifaire, les installations de production détenues par les IPP et Masen, et dont l'électricité produite est acquise en totalité par l'ONEE, seront assimilées à des installations de l'ONEE dont la production est destinée au marché réglementé, d'un montant de 2.016,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 2016.0,
+          "currency": "D",
+          "beneficiary": "Masen"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "63-17",
+      "title": "relative à la délimitation",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 920,
+      "description": "Loi n° 63-17 relative à la délimitation",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "24-96",
+      "title": "susvisée",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 944,
+      "description": "Loi n° 24-96 susvisée, d'un montant de 1,00 dirhams",
+      "signatories": [
+        {
+          "name": "DISPOSITIONS DIVERSES",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-97-813",
+      "title": "du 27 chaoual 1418 (25 février 1998) portant application des",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 936,
+      "description": "Décret n° 2-97-813 du 27 chaoual 1418 (25 février 1998) portant application des, d'un montant de 813,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 813.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-03-197",
+      "title": "du 20 rabii I 1424 (22 mai 2003)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 922,
+      "description": "Décret n° 2-03-197 du 20 rabii I 1424 (22 mai 2003), d'un montant de 197,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 197.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-21-850",
+      "title": "du 14 rabii I 1443 (21 octobre 2021)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 922,
+      "description": "Décret n° 2-21-850 du 14 rabii I 1443 (21 octobre 2021), d'un montant de 850,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 850.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "",
+      "title": "n°2-03-197 du 20 rabii I 1424 (22 mai 2003) susvisé est renouvelée pour une période supplémentaire de cinq (5) ans à compter du 19 juin 2023",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 922,
+      "description": "Décret n°2-03-197 du 20 rabii I 1424 (22 mai 2003) susvisé est renouvelée pour une période supplémentaire de cinq (5) ans à compter du 19 juin 2023, d'un montant de 197,00 dirhams",
+      "signatories": [
+        {
+          "name": "GHITA MEZZOUR",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 197.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-03-195",
+      "title": "du 20 rabii I",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 922,
+      "description": "Décret n° 2-03-195 du 20 rabii I, d'un montant de 195,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 195.0,
+          "currency": "D"
+        },
+        "geographical_indication": {
+          "name": "Bulletin officiel"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "25-06",
+      "title": "relative aux signes distinctifs d'origine et",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 922,
+      "description": "Loi n° 25-06 relative aux signes distinctifs d'origine et, d'un montant de 56,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 56.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-08-403",
+      "title": "du 6 hija 1429 (5 décembre 2008)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 922,
+      "description": "Décret n° 2-08-403 du 6 hija 1429 (5 décembre 2008), d'un montant de 403,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 403.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-08-404",
+      "title": "du 6 hija 1429 (5 décembre 2008)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 922,
+      "description": "Décret n° 2-08-404 du 6 hija 1429 (5 décembre 2008), d'un montant de 404,00 dirhams, conclu le 9 moharrem 1445, au profit de Office national des hydrocarbures et des \nmines et",
+      "signatories": [
+        {
+          "name": "LEILA BENALI",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 404.0,
+          "currency": "D",
+          "beneficiary": "Office national des hydrocarbures et des \nmines et"
+        },
+        "geographical_indication": {
+          "name": "Amandes Béni Snassen",
+          "area": "- les communes de la province de Taourirt (11) : Gteter, \nAhl Oued Za, Melg El Ouidane, Ain Lehjer, Mechraa \nHammadi, Mestegmer, Tancherfi, Sidi Ali Bel Quassem, \nSidi Lahsen, El Atef, Ouled M'Hamed ;\n- les communes de la province de Berkane (10) : Madagh, \nLaatamna, Aghbal, Fezouane, Boughriba, Chouihia, \nRislane, Sidi Bouhria, Tafoghalt, Zegzel ;\n- les communes de la province de Oujda-Angad (8) : Ain \nSfa, Bsara, Bni Khaled, Ahl Angad, Mestferki, Sidi \nBoulenouar, Sidi Moussa-Lemhaya, Isly ;\n- les communes de la province de Jerada (5) : Tiouli, \nGuenfouda, Laaouinate, Ras Asfour, Sidi Boubker",
+          "certifier": "Normacert Sarl"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "21-90",
+      "title": "relative à la recherche et à l'exploitation",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 924,
+      "description": "Loi n° 21-90 relative à la recherche et à l'exploitation, d'un montant de 118,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 118.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "27-99",
+      "title": "promulguée par le dahir n° 1-99-340 du 9 kaada 1420 (15 février 2000), notamment ses articles 4 et 34 ; Nº 7280- 26 chaabane 1445 (7-3-2024) BULLETIN OFFICIEL 925",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 924,
+      "description": "Loi n° 27-99 promulguée par le dahir n° 1-99-340 du 9 kaada 1420 (15 février 2000), notamment ses articles 4 et 34 ; Nº 7280- 26 chaabane 1445 (7-3-2024) BULLETIN OFFICIEL 925, d'un montant de 340,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 340.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "33-01",
+      "title": "portant création de l'Office national des hydrocarbures et des mines promulguée par le dahir n° 1-03-203 du 16 ramadan 1424 (11 novembre 2003) ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 924,
+      "description": "Loi n° 33-01 portant création de l'Office national des hydrocarbures et des mines promulguée par le dahir n° 1-03-203 du 16 ramadan 1424 (11 novembre 2003) ;, d'un montant de 203,00 dirhams, au profit de Office national des \nhydrocarbures et des mines",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 203.0,
+          "currency": "D",
+          "beneficiary": "Office national des \nhydrocarbures et des mines"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-93-786",
+      "title": "du 18 joumada I 1414 (3 novembre 1993)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 924,
+      "description": "Décret n° 2-93-786 du 18 joumada I 1414 (3 novembre 1993), d'un montant de 786,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 786.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-99-210",
+      "title": "du 9 hija 1420",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 924,
+      "description": "Décret n° 2-99-210 du 9 hija 1420, d'un montant de 210,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 210.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-04-372",
+      "title": "du 16 kaada 1425 (29 décembre 2004)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 924,
+      "description": "Décret n° 2-04-372 du 16 kaada 1425 (29 décembre 2004), d'un montant de 372,00 dirhams, conclu le 17 rabii, au profit de Office national des hydrocarbures et des mines",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 372.0,
+          "currency": "D",
+          "beneficiary": "Office national des hydrocarbures et des mines"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "25-08",
+      "title": "portant création de l'Office national de sécurité sanitaire des produits alimentaires, promulguée par le dahir n°1-09-20 du 22 safar 1430 (18 février 2009), notamment son article 2 ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 928,
+      "description": "Loi n° 25-08 portant création de l'Office national de sécurité sanitaire des produits alimentaires, promulguée par le dahir n°1-09-20 du 22 safar 1430 (18 février 2009), notamment son article 2 ;, d'un montant de 20,00 dirhams, au profit de Office national de",
+      "signatories": [
+        {
+          "name": "MOHAMMED SADIKI",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 20.0,
+          "currency": "D",
+          "beneficiary": "Office national de"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-21-838",
+      "title": "du 14 rabii I 1443 (21 octobre 2021)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 932,
+      "description": "Décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021), d'un montant de 838,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 838.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "016-89",
+      "title": ", assortis du « baccalauréat, série scientifique ou technique ou d'un diplôme « reconnu équivalent, est fixée ainsi qu'il suit : «",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 932,
+      "description": "Loi n° 016-89 , assortis du « baccalauréat, série scientifique ou technique ou d'un diplôme « reconnu équivalent, est fixée ainsi qu'il suit : «, d'un montant de 7.279,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 7279.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "64-12",
+      "title": "portant création de l'Autorité de contrôle des assurances et de la prévoyance sociale promulguée par le dahir n° 1-14-10 du 4 joumada I 1435 (6 mars 2014), notamment ses articles 15 et 19 ; Nº 7280- 26 chaabane 1445 (7-3-2024) BULLETIN OFFICIEL 935",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 934,
+      "description": "Loi n° 64-12 portant création de l'Autorité de contrôle des assurances et de la prévoyance sociale promulguée par le dahir n° 1-14-10 du 4 joumada I 1435 (6 mars 2014), notamment ses articles 15 et 19 ; Nº 7280- 26 chaabane 1445 (7-3-2024) BULLETIN OFFICIEL 935, d'un montant de 10,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 10.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-97-1024",
+      "title": "du 27 chaoual 1418 (25 février 1998) fixant la liste des services à valeur ajoutée,",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 936,
+      "description": "Décret n° 2-97-1024 du 27 chaoual 1418 (25 février 1998) fixant la liste des services à valeur ajoutée,, d'un montant de 1.024,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1024.0,
+          "currency": "D"
+        }
+      }
+    }
+  ]
+}

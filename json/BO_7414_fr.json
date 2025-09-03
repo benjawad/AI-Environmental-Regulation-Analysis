@@ -1,0 +1,750 @@
+{
+  "bulletin_metadata": {
+    "issue_number": "7414",
+    "publication_year_description": "Cent-quatorzième année",
+    "date_hijri": "22 hija 1446",
+    "date_gregorian": "2025-06-19",
+    "issn": "0851-1217"
+  },
+  "table_of_contents": [
+    {
+      "category": "TEXTES GENERAUX",
+      "title": "SOMMAIRE Conseil supérieur du pouvoir judiciaire. Dahir n° 1-23-36 du 23 chaabane 1444 (16 mars 2023) portant promulgation de la loi organique n° 13-22 modifiant et complétant la loi organique n° 100-13 relative au Conseil supérieur du pouvoir judiciaire",
+      "description": "",
+      "page": 2119
+    },
+    {
+      "category": "TEXTES GENERAUX",
+      "title": "Statut des magistrats. Dahir n° 1-23-37 du 23 chaabane 1444 (16 mars 2023) portant promulgation de la loi organique n° 14-22 modifiant et complétant la loi organique n° 106-13 portant statut des magistrats",
+      "description": "",
+      "page": 2122
+    },
+    {
+      "category": "TEXTES GENERAUX",
+      "title": "Sécurité sanitaire des produits alimentaires. Décret n° 2-25-270 du 15 hija 1446 (12 juin 2025) relatif à la qualité et à la sécurité sanitaire des vinaigres commercialisés",
+      "description": "",
+      "page": 2125
+    },
+    {
+      "category": "TEXTES GENERAUX",
+      "title": "Investissements agricoles. Arrêté conjoint du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts, du ministre de l'intérieur et du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget n° 990-25 du 17 chaoual 1446 (16 avril 2025) modifiant l'arrêté conjoint du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts, du ministre de l'intérieur et du ministre de l'économie, des finances et de la réforme de l'administration n° 2410-19 du 29 safar 1441 (28 octobre 2019) fixant les formes et les modalités d'approbation des projets d'agrégation agricole et de délivrance des attestations d'agrégation agricole",
+      "description": "",
+      "page": 2127
+    },
+    {
+      "category": "TEXTES GENERAUX",
+      "title": "Liste des laboratoires habilités à procéder aux analyses dans le domaine agricole. Arrêté du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts n° 1150-25 du 9 kaada 1446 (7 mai 2025) complétant l'arrêté du ministre de l'agriculture et de la réforme agraire n° 256-91 du 7 joumada II 1411 (25 décembre 1990) fixant la liste des laboratoires habilités à procéder aux analyses dans le domaine agricole",
+      "description": "",
+      "page": 2129
+    },
+    {
+      "category": "TEXTES GENERAUX",
+      "title": "Pages Pages 2116 BULLETIN OFFICIEL Nº 7414 - 22 hija 1446 (19-6-2025) Pêche maritime. - Plan d'aménagement et de gestion de la pêcherie du thon rouge dans les eaux maritimes marocaines. Arrêté de la secrétaire d'Etat auprès du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts, chargée de la pêche maritime n°2648-24 du 5 joumada I 1446 (8 novembre 2024) relatif au plan d'aménagement et de gestion de la pêcherie du thon rouge (Thunnus thynnus) dans les eaux maritimes marocaines",
+      "description": "",
+      "page": 2130
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Création de parcs et réserves : • Beni Snassen dans la province de Berkane et la préfecture d'Oujda-Angad. Décret n° 2-25-291 du 24 kaada 1446 (22 mai 2025) portant création du parc naturel de Beni Snassen dans la province de Berkane et la préfecture d'Oujda-Angad",
+      "description": "",
+      "page": 2134
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "• Bouhachem dans les provinces de Tétouan, Larache et Chefchaouen. Décret n° 2-25-292 du 24 kaada 1446 (22 mai 2025) portant création du parc naturel de Bouhachem dans les provinces de Tétouan, Larache et Chefchaouen",
+      "description": "",
+      "page": 2136
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "• Tamga dans la province d'Azilal. Décret n° 2-25-293 du 24 kaada 1446 (22 mai 2025) portant création du parc naturel de Tamga dans la province d'Azilal",
+      "description": "",
+      "page": 2138
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "• Jbel Krouz dans la province de Figuig. Décret n° 2-25-294 du 24 kaada 1446 (22 mai 2025) portant création du parc naturel de Jbel Krouz dans la province de Figuig",
+      "description": "",
+      "page": 2140
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "• Chekhar dans la province de Jerada. Décret n° 2-25-295 du 24 kaada 1446 (22 mai 2025) portant création du parc naturel de Chekhar dans la province de Jerada",
+      "description": "",
+      "page": 2142
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "• Plateau Central dans la province de Khemisset. Décret n° 2-25-296 du 24 kaada 1446 (22 mai 2025) portant création du parc naturel de Plateau Central dans la province de Khemisset",
+      "description": "",
+      "page": 2144
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "• Sidi Boughaba dans la province de Kénitra. Décret n° 2-25-297 du 24 kaada 1446 (22 mai 2025) portant création de la réserve biologique de Sidi Boughaba dans la province de Kénitra",
+      "description": "",
+      "page": 2146
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "• Archipel d'Essaouira dans la province d'Essaouira. Décret n° 2-25-298 du 24 kaada 1446 (22 mai 2025) portant création de la réserve naturelle de l'Archipel d'Essaouira dans la province d'Essaouira",
+      "description": "",
+      "page": 2148
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Equivalences de diplômes. Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 1191-25 du 14 kaada 1446 (12 mai 2025) complétant l'arrêté n° 743-09 du 26 rabii I 1430 (24 mars 2009) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en biologie médicale (ou analyses biologiques médicales)...................................... 2150 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 1192-25 du 14 kaada 1446 (12 mai 2025) complétant l'arrêté n° 666-03 du 7 rejeb 1424 (4 septembre 2003) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en urologie",
+      "description": "",
+      "page": 2150
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 1193-25 du 14 kaada 1446 (12 mai 2025) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine",
+      "description": "",
+      "page": 2150
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 1194-25 du 14 kaada 1446 (12 mai 2025) complétant l'arrêté n° 743-09 du 26 rabii I 1430 (24 mars 2009) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en biologie médicale (ou analyses biologiques médicales)...................................... 2151 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 1195-25 du 14 kaada 1446 (12 mai 2025) complétant l'arrêté n° 743-09 du 26 rabii I 1430 (24 mars 2009) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en biologie médicale (ou analyses biologiques médicales)...................................... 2152 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 1196-25 du 14 kaada 1446 (12 mai 2025) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine",
+      "description": "",
+      "page": 2152
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Pages Pages Nº 7414 - 22 hija 1446 (19-6-2025) BULLETIN OFFICIEL 2117 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 1197-25 du 14 kaada 1446 (12 mai 2025) complétant l'arrêté n° 2188-04 du 14 kaada 1425 (27 décembre 2004) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en ophtalmologie",
+      "description": "",
+      "page": 2153
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 1198-25 du 14 kaada 1446 (12 mai 2025) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine",
+      "description": "",
+      "page": 2153
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 1199-25 du 14 kaada 1446 (12 mai 2025) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine",
+      "description": "",
+      "page": 2154
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 1200-25 du 14 kaada 1446 (12 mai 2025) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine",
+      "description": "",
+      "page": 2154
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 1201-25 du 14 kaada 1446 (12 mai 2025) complétant l'arrêté n° 743-09 du 26 rabii I 1430 (24 mars 2009) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en biologie médicale (ou analyses biologiques médicales)...................................... 2154 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 1202-25 du 14 kaada 1446 (12 mai 2025) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine",
+      "description": "",
+      "page": 2155
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 1203-25 du 14 kaada 1446 (12 mai 2025) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine",
+      "description": "",
+      "page": 2155
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 1204-25 du 14 kaada 1446 (12 mai 2025) complétant l'arrêté n° 2963-97 du 2 chaabane 1418 (3 décembre 1997) fixant la liste des diplômes reconnus équivalents au diplôme de docteur en médecine",
+      "description": "",
+      "page": 2156
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 1205-25 du 14 kaada 1446 (12 mai 2025) complétant l'arrêté n° 743-09 du 26 rabii I 1430 (24 mars 2009) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en biologie médicale (ou analyses biologiques médicales)...................................... 2156 Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 1206-25 du 14 kaada 1446 (12 mai 2025) complétant l'arrêté n° 2189-04 du 14 kaada 1425 (27 décembre 2004) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en cardiologie",
+      "description": "",
+      "page": 2157
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Arrêté du ministre de l'enseignement supérieur, de la recherche scientifique et de l'innovation n° 1207-25 du 14 kaada 1446 (12 mai 2025) complétant l'arrêté n° 2189-04 du 14 kaada 1425 (27 décembre 2004) fixant la liste des diplômes reconnus équivalents au diplôme de spécialité médicale en cardiologie",
+      "description": "",
+      "page": 2157
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Vacance de fermes aquacoles. Arrêté conjoint du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget et de la secrétaire d'Etat auprès du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts, chargée de la pêche maritime n°696-25 du 11 ramadan 1446 (12 mars 2025) prononçant la vacance de la ferme aquacole dénommée «Gacsa Tta»",
+      "description": "",
+      "page": 2158
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Arrêté conjoint du ministre délégué auprès de la ministre de l'économie et des finances, chargé du budget et de la secrétaire d'Etat auprès du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts, chargée de la pêche maritime n°697-25 du 11 ramadan 1446 (12 mars 2025) prononçant la vacance de la ferme aquacole dénommée « Domaine Ain Aghbal Cintra»",
+      "description": "",
+      "page": 2158
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Pages Pages 2118 BULLETIN OFFICIEL Nº 7414 - 22 hija 1446 (19-6-2025) CONSEIL SUPÉRIEUR DE LA COMMUNICATION AUDIOVISUELLE Décision du CSCA n°01-25 du 22 rejeb 1446 (23 janvier 2025)",
+      "description": "",
+      "page": 2160
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Décision du CSCA n°02-25 du 22 rejeb 1446 (23 janvier 2025) ............................................ 2161 Décision du CSCA n°03-25 du 22 rejeb 1446 (23 janvier 2025)",
+      "description": "",
+      "page": 2177
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Décision du CSCA n°04-25 du 22 rejeb 1446 (23 janvier 2025)",
+      "description": "",
+      "page": 2178
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Décision du CSCA n°05-25 du 22 rejeb 1446 (23 janvier 2025)",
+      "description": "",
+      "page": 2195
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Décision du CSCA n°06-25 du 22 rejeb 1446 (23 janvier 2025)",
+      "description": "",
+      "page": 2196
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Décision du CSCA n°07-25 du 22 rejeb 1446 (23 janvier 2025)",
+      "description": "",
+      "page": 2212
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Décision du CSCA n° 08-25 du 22 rejeb 1446 (23 janvier 2025)",
+      "description": "",
+      "page": 2213
+    },
+    {
+      "category": "TEXTES PARTICULIERS",
+      "title": "Décision du CSCA n° 15-25 du 24 ramadan 1446 (25 mars 2025)",
+      "description": "",
+      "page": 2228
+    }
+  ],
+  "legal_texts": [
+    {
+      "type": "Décret",
+      "number": "2-25-270",
+      "title": "du 15 hija 1446 (12 juin 2025)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2124,
+      "description": "Décret n° 2-25-270 du 15 hija 1446 (12 juin 2025), d'un montant de 270,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 270.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-25-291",
+      "title": "du 24 kaada 1446 (22 mai 2025) portant création du parc naturel de Beni Snassen",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2134,
+      "description": "Décret n° 2-25-291 du 24 kaada 1446 (22 mai 2025) portant création du parc naturel de Beni Snassen, d'un montant de 291,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 291.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-25-292",
+      "title": "du 24 kaada 1446 (22 mai 2025) portant création du parc naturel de Bouhachem",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2136,
+      "description": "Décret n° 2-25-292 du 24 kaada 1446 (22 mai 2025) portant création du parc naturel de Bouhachem, d'un montant de 292,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 292.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-25-293",
+      "title": "du 24 kaada 1446 (22 mai 2025) portant création du parc naturel de Tamga",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2138,
+      "description": "Décret n° 2-25-293 du 24 kaada 1446 (22 mai 2025) portant création du parc naturel de Tamga, d'un montant de 293,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 293.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-25-294",
+      "title": "du 24 kaada 1446 (22 mai 2025) portant création du parc naturel Jbel Krouz",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2140,
+      "description": "Décret n° 2-25-294 du 24 kaada 1446 (22 mai 2025) portant création du parc naturel Jbel Krouz, d'un montant de 294,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 294.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-25-295",
+      "title": "du 24 kaada 1446 (22 mai 2025) portant création du parc naturel de Chekhar",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2142,
+      "description": "Décret n° 2-25-295 du 24 kaada 1446 (22 mai 2025) portant création du parc naturel de Chekhar, d'un montant de 295,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 295.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-25-296",
+      "title": "du 24 kaada 1446 (22 mai 2025) portant création du parc naturel",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2144,
+      "description": "Décret n° 2-25-296 du 24 kaada 1446 (22 mai 2025) portant création du parc naturel, d'un montant de 296,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 296.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-25-297",
+      "title": "du 24 kaada 1446 (22 mai 2025) portant création de la réserve biologique",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2146,
+      "description": "Décret n° 2-25-297 du 24 kaada 1446 (22 mai 2025) portant création de la réserve biologique, d'un montant de 297,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 297.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-25-298",
+      "title": "du 24 kaada 1446 (22 mai 2025)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2116,
+      "description": "Décret n° 2-25-298 du 24 kaada 1446 (22 mai 2025), d'un montant de 298,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 298.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "28-07",
+      "title": "relative à la sécurité sanitaire des",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2124,
+      "description": "Loi n° 28-07 relative à la sécurité sanitaire des, d'un montant de 8,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 8.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "13-83",
+      "title": "relative à la répression des fraudes",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2124,
+      "description": "Loi n° 13-83 relative à la répression des fraudes, d'un montant de 108,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 108.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-10-473",
+      "title": "du 7 chaoual 1432 (6 septembre 2011)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2124,
+      "description": "Décret n° 2-10-473 du 7 chaoual 1432 (6 septembre 2011), d'un montant de 473,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 473.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-12-389",
+      "title": "du 11 joumada II 1434 (22 avril 2013)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2124,
+      "description": "Décret n° 2-12-389 du 11 joumada II 1434 (22 avril 2013), d'un montant de 389,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 389.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-10-385",
+      "title": "23 joumada II 1432 (27 mai 2011) portant réglementation de la fabrication et du commerce des vinaigres est abrogé",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2126,
+      "description": "Décret n° 2-10-385 23 joumada II 1432 (27 mai 2011) portant réglementation de la fabrication et du commerce des vinaigres est abrogé, d'un montant de 385,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 385.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-89-563",
+      "title": "« du 18 joumada I 1410 (18 décembre 1989) DÉSIGNATION DES LABORATOIRES TYPES D'ANALYSES - Laboratoire de l'Institut national de la recherche agronomique du milieu physique, Rabat-Guich",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2128,
+      "description": "Décret n° 2-89-563 « du 18 joumada I 1410 (18 décembre 1989) DÉSIGNATION DES LABORATOIRES TYPES D'ANALYSES - Laboratoire de l'Institut national de la recherche agronomique du milieu physique, Rabat-Guich, d'un montant de 18,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 18.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-18-722",
+      "title": "du 1er safar 1441 (30 septembre 2019)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2130,
+      "description": "Décret n° 2-18-722 du 1er safar 1441 (30 septembre 2019), d'un montant de 722,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 722.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-08-562",
+      "title": "du 13 hija 1429",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2130,
+      "description": "Décret n° 2-08-562 du 13 hija 1429, d'un montant de 562,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 562.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-92-1026",
+      "title": "du 4 rejeb 1413 (29 décembre 1992)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2130,
+      "description": "Décret n° 2-92-1026 du 4 rejeb 1413 (29 décembre 1992), d'un montant de 1.026,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1026.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-17-456",
+      "title": "du 26 joumada II 1439 (15 mars 2018)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2130,
+      "description": "Décret n° 2-17-456 du 26 joumada II 1439 (15 mars 2018), d'un montant de 456,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 456.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "1-73-255",
+      "title": "27 chaoual 1393 (23 novembre 1973) formant règlement sur la pêche maritime tel que modifié et complété en cours de validité",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2130,
+      "description": "Loi n° 1-73-255 27 chaoual 1393 (23 novembre 1973) formant règlement sur la pêche maritime tel que modifié et complété en cours de validité, d'un montant de 255,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 19.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "22-07",
+      "title": "susvisée, il est créé",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2136,
+      "description": "Loi n° 22-07 susvisée, il est créé",
+      "signatories": [
+        {
+          "name": "AHMED EL BOUARI",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 123.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "52-20",
+      "title": "portant création de l'Agence nationale des eaux et forêts, promulguée par le dahir n° 1-21-71 du 3 hija 1442 (14 juillet 2021), notamment son article 5 ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2134,
+      "description": "Loi n° 52-20 portant création de l'Agence nationale des eaux et forêts, promulguée par le dahir n° 1-21-71 du 3 hija 1442 (14 juillet 2021), notamment son article 5 ;, d'un montant de 71,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 71.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-18-242",
+      "title": "du 14 ramadan 1442 (27 avril 2021) pris pour l'application de certaines dispositions",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2134,
+      "description": "Décret n° 2-18-242 du 14 ramadan 1442 (27 avril 2021) pris pour l'application de certaines dispositions, d'un montant de 242,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 242.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-24-990",
+      "title": "du 24 rabii II 1446 (28 octobre 2024) relatif aux attributions du ministre de",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2148,
+      "description": "Décret n° 2-24-990 du 24 rabii II 1446 (28 octobre 2024) relatif aux attributions du ministre de, d'un montant de 990,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 990.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-24-991",
+      "title": "du 24 rabii II 1446 (28 octobre 2024)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2150,
+      "description": "Décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024), d'un montant de 991,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 991.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "11-15",
+      "title": ", portant réorganisation de la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2162,
+      "description": "Loi n° 11-15 , portant réorganisation de la",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "77-03",
+      "title": "relative à la communication audiovisuelle, telle que modifiée et complétée ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2214,
+      "description": "Loi n° 77-03 relative à la communication audiovisuelle, telle que modifiée et complétée ;, d'un montant de 145.789,00 dirhams",
+      "signatories": [
+        {
+          "name": "LE CONSEIL SUPÉRIEUR DE LA COMMUNICATION",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 21.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décision",
+      "number": "02-25",
+      "title": "du Conseil Supérieur de la communication audiovisuelle en date du 22 rejeb",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2160,
+      "description": "Décision n° 02-25 du Conseil Supérieur de la communication audiovisuelle en date du 22 rejeb, d'un montant de 25,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 25.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décision",
+      "number": "04-25",
+      "title": "du Conseil Supérieur de la communication audiovisuelle en date du 22 rejeb 1446",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2176,
+      "description": "Décision n° 04-25 du Conseil Supérieur de la communication audiovisuelle en date du 22 rejeb 1446, d'un montant de 25,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 25.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décision",
+      "number": "06-25",
+      "title": "du Conseil Supérieur de la communication audiovisuelle en date du 22 rejeb 1446",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2194,
+      "description": "Décision n° 06-25 du Conseil Supérieur de la communication audiovisuelle en date du 22 rejeb 1446, d'un montant de 25,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 25.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décision",
+      "number": "08-25",
+      "title": "du Conseil Supérieur de la communication audiovisuelle en date du 22 rejeb 1446",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2212,
+      "description": "Décision n° 08-25 du Conseil Supérieur de la communication audiovisuelle en date du 22 rejeb 1446, d'un montant de 25,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 25.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 77-03 relative à la communication audiovisuelle, telle que modifiée et complétée, que le non-respect des dispositions susvisées, concernant : a) la durée de diffusion : expose la société Tanger Med Port Authority SA",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2228,
+      "description": "Loi n° 77-03 relative à la communication audiovisuelle, telle que modifiée et complétée, que le non-respect des dispositions susvisées, concernant : a) la durée de diffusion : expose la société Tanger Med Port Authority SA, d'un montant de 5.000,00 dirhams",
+      "signatories": [
+        {
+          "name": "LATIFA AKHARBACH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 5000.0,
+          "currency": "MAD"
+        }
+      }
+    }
+  ]
+}

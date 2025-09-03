@@ -1,0 +1,76 @@
+{
+  "bulletin_metadata": {
+    "issue_number": "11",
+    "publication_year_description": "Cinquième année",
+    "date_hijri": "3 ramadan 1443",
+    "date_gregorian": "2022-04-05",
+    "issn": "0851-1217"
+  },
+  "table_of_contents": [],
+  "legal_texts": [
+    {
+      "type": "Loi",
+      "number": "06-17",
+      "title": "portant approbation de la Convention précitée, promulguée par le dahir n° 1-17-31 du 8 hija 1438 (30 août 2017) ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 88,
+      "description": "Loi n° 06-17 portant approbation de la Convention précitée, promulguée par le dahir n° 1-17-31 du 8 hija 1438 (30 août 2017) ;, d'un montant de 31,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 31.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "44-16",
+      "title": "portant approbation de la Convention précitée, promulguée par le dahir n° 1-17-48 du 8 hija 1438 (30 août 2017) ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 90,
+      "description": "Loi n° 44-16 portant approbation de la Convention précitée, promulguée par le dahir n° 1-17-48 du 8 hija 1438 (30 août 2017) ;, d'un montant de 48,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 48.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "11-17",
+      "title": "portant approbation de l'Accord précité, promulguée par le dahir n° 1-17-36 du 8 hija 1438 (30 août 2017) ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 90,
+      "description": "Loi n° 11-17 portant approbation de l'Accord précité, promulguée par le dahir n° 1-17-36 du 8 hija 1438 (30 août 2017) ;, d'un montant de 36,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 36.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "59-17",
+      "title": "portant approbation de l'Accord précité, promulguée par le dahir n° 1-18-50 du 21 ramadan 1439 (6 juin 2018) ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 90,
+      "description": "Loi n° 59-17 portant approbation de l'Accord précité, promulguée par le dahir n° 1-18-50 du 21 ramadan 1439 (6 juin 2018) ;, d'un montant de 50,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 50.0,
+          "currency": "D"
+        }
+      }
+    }
+  ]
+}

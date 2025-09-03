@@ -1,0 +1,137 @@
+{
+  "bulletin_metadata": {
+    "issue_number": "7344",
+    "publication_year_description": "Cent-trezième année",
+    "date_hijri": "13 rejeb 1445",
+    "date_gregorian": "2024-01-25",
+    "issn": "0851-1217"
+  },
+  "table_of_contents": [
+    {
+      "category": "TEXTES GENERAUX",
+      "title": "SOMMAIRE Douane : • Suspension de la perception du droit d'importation applicable à l'huile d'olive de qualité vierge et extra vierge. Décret n° 2-24-960 du 14 rabii II 1446 (18 octobre 2024) portant suspension de la perception du droit d'importation applicable à l'huile d'olive de qualité vierge et extra vierge",
+      "description": "",
+      "page": 2564
+    },
+    {
+      "category": "TEXTES GENERAUX",
+      "title": "• Suspension de la perception du droit d'importation applicable aux bovins domestiques. Décret n°2-24-961 du 14 rabii II 1446 (18 octobre 2024) modifiant le décret n°2-24-064 du 13 rejeb 1445 (25 janvier 2024) portant suspension de la perception du droit d'importation applicable aux bovins domestiques ...................................................................................... 2564 • Suspension de la perception du droit d'importation applicable aux ovins domestiques. Décret n° 2-24-962 du 14 rabii II 1446 (18 octobre 2024) portant suspension de la perception du droit d'importation applicable aux ovins domestiques",
+      "description": "",
+      "page": 2565
+    },
+    {
+      "category": "TEXTES GENERAUX",
+      "title": "• Suspension de la perception du droit d'importation applicable aux viandes des animaux de l'espèce bovine, ovine, caprine et caméline. Décret n° 2-24-963 du 14 rabii II 1446 (18 octobre 2024) portant suspension de la perception du droit d'importation applicable aux viandes des animaux de l'espèce bovine, ovine, caprine et caméline",
+      "description": "",
+      "page": 2565
+    }
+  ],
+  "legal_texts": [
+    {
+      "type": "Décret",
+      "number": "2-24-960",
+      "title": "du 14 rabii II 1446 (18 octobre 2024)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2564,
+      "description": "Décret n° 2-24-960 du 14 rabii II 1446 (18 octobre 2024), d'un montant de 960,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 960.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-24-961",
+      "title": "du 14 rabii II 1446 (18 octobre 2024)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2564,
+      "description": "Décret n° 2-24-961 du 14 rabii II 1446 (18 octobre 2024), d'un montant de 961,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 961.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-24-064",
+      "title": "du 13 rejeb 1445 (25 janvier 2024) susvisé,",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2564,
+      "description": "Décret n° 2-24-064 du 13 rejeb 1445 (25 janvier 2024) susvisé,, d'un montant de 64,00 dirhams",
+      "signatories": [
+        {
+          "name": "FOUZI LEKJAA",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 64.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-24-962",
+      "title": "du 14 rabii II 1446 (18 octobre 2024)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2564,
+      "description": "Décret n° 2-24-962 du 14 rabii II 1446 (18 octobre 2024), d'un montant de 962,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 962.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-24-963",
+      "title": "du 14 rabii II 1446 (18 octobre 2024)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2564,
+      "description": "Décret n° 2-24-963 du 14 rabii II 1446 (18 octobre 2024), d'un montant de 963,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 963.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "1-77-339",
+      "title": "du 25 chaoual 1397 (9 octobre 1977),",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2564,
+      "description": "Loi n° 1-77-339 du 25 chaoual 1397 (9 octobre 1977),, d'un montant de 339,00 dirhams",
+      "signatories": [
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 339.0,
+          "currency": "D"
+        }
+      }
+    }
+  ]
+}

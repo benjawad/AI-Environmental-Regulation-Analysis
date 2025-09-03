@@ -1,0 +1,1345 @@
+{
+  "bulletin_metadata": {
+    "issue_number": "56",
+    "publication_year_description": "Cent-onzième année",
+    "date_hijri": "8 ramadan 1442",
+    "date_gregorian": "2021-04-21",
+    "issn": "0851-1217"
+  },
+  "table_of_contents": [],
+  "legal_texts": [
+    {
+      "type": "Loi",
+      "number": "56-20",
+      "title": "relative aux musées",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 210,
+      "description": "Loi n° 56-20 relative aux musées, d'un montant de 21,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 21.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "55-20",
+      "title": "modifiant et complétant la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 214,
+      "description": "Loi n° 55-20 modifiant et complétant la",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "01-09",
+      "title": "portant institution de « La Fondation nationale des musées » promulguée par le dahir n° 1-10-21 du 14 joumada I 1432 (18 avril 2011) sont modifiées et complétées comme suit : « Article 2",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 214,
+      "description": "Loi n° 01-09 portant institution de « La Fondation nationale des musées » promulguée par le dahir n° 1-10-21 du 14 joumada I 1432 (18 avril 2011) sont modifiées et complétées comme suit : « Article 2, d'un montant de 21,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 21.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "12-21",
+      "title": "portant approbation de l'Accord-cadre de coopération dans les domaines de l'énergie et des mines entre le gouvernement du Royaume du Maroc et le gouvernement de la République du Tchad, fait à Rabat le 26 octobre 2020",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 216,
+      "description": "Loi n° 12-21 portant approbation de l'Accord-cadre de coopération dans les domaines de l'énergie et des mines entre le gouvernement du Royaume du Maroc et le gouvernement de la République du Tchad, fait à Rabat le 26 octobre 2020",
+      "signatories": [
+        {
+          "name": "Le Chef du gouvernement",
+          "title": ":"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 2020.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "21-21",
+      "title": "portant approbation du Protocole de 1988 relatif à la Convention internationale de 1966 sur les lignes de charge, fait à Londres le 11 novembre 1988",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 216,
+      "description": "Loi n° 21-21 portant approbation du Protocole de 1988 relatif à la Convention internationale de 1966 sur les lignes de charge, fait à Londres le 11 novembre 1988",
+      "signatories": [
+        {
+          "name": "Le Chef du gouvernement",
+          "title": ":"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 7.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "25-21",
+      "title": "portant approbation du Statut de l'Organisation islamique pour la sécurité alimentaire, adopté par la 40ème session du Conseil des ministres des affaires étrangères de l'Organisation de la coopération islamique, tenue à Conakry (Guinée) du 9 au 12 décembre 2013",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 218,
+      "description": "Loi n° 25-21 portant approbation du Statut de l'Organisation islamique pour la sécurité alimentaire, adopté par la 40ème session du Conseil des ministres des affaires étrangères de l'Organisation de la coopération islamique, tenue à Conakry (Guinée) du 9 au 12 décembre 2013, d'un montant de 12,00 dirhams",
+      "signatories": [
+        {
+          "name": "Le Chef du gouvernement",
+          "title": ":"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 12.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "42-21",
+      "title": "portant approbation de la Convention sur la libéralisation du commerce des services entre les pays arabes",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 218,
+      "description": "Loi n° 42-21 portant approbation de la Convention sur la libéralisation du commerce des services entre les pays arabes",
+      "signatories": [
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 219.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "45-21",
+      "title": "portant approbation de l'Accord de coopération militaire entre le gouvernement du Royaume du Maroc et le gouvernement de la République de Serbie, fait à Rabat le 5 mai 2021",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 218,
+      "description": "Loi n° 45-21 portant approbation de l'Accord de coopération militaire entre le gouvernement du Royaume du Maroc et le gouvernement de la République de Serbie, fait à Rabat le 5 mai 2021",
+      "signatories": [
+        {
+          "name": "Le Chef du gouvernement",
+          "title": ":"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 2021.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "47-21",
+      "title": "portant approbation de la Convention des Nations-Unies sur les accords de règlement internationaux issus de la médiation, adoptée à New York le 20 décembre 2018",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 218,
+      "description": "Loi n° 47-21 portant approbation de la Convention des Nations-Unies sur les accords de règlement internationaux issus de la médiation, adoptée à New York le 20 décembre 2018, d'un montant de 20,00 dirhams",
+      "signatories": [
+        {
+          "name": "Le Chef du gouvernement",
+          "title": ":"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 20.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "49-21",
+      "title": "portant approbation de la Charte africaine de la jeunesse, adoptée à Banjul (Gambie) le 2 juillet 2006",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 220,
+      "description": "Loi n° 49-21 portant approbation de la Charte africaine de la jeunesse, adoptée à Banjul (Gambie) le 2 juillet 2006",
+      "signatories": [
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 12.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "52-21",
+      "title": "portant approbation de la Convention de l'Union africaine sur la cybersécurité et la protection des données à caractère pesonnel, adoptée à Malabo (Guinée équatoriale) le 27 juin 2014",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 220,
+      "description": "Loi n° 52-21 portant approbation de la Convention de l'Union africaine sur la cybersécurité et la protection des données à caractère pesonnel, adoptée à Malabo (Guinée équatoriale) le 27 juin 2014, d'un montant de 221,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 221.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "62-20",
+      "title": "portant approbation de la Convention relative à la coopération en matière de protection, de gestion et de mise en valeur du milieu marin et des zones côtières de la côte atlantique de la région de l'Afrique de l'Ouest, du Centre et du Sud (Convention d'Abidjan), adoptée à Abidjan le 23 mars 1981, du Protocole y annexé relatif à la coopération en matière de lutte contre la pollution en cas de situation critique, adopté à Abidjan le 23 mars 1981, tel qu'amendé en 2011, du Protocole additionnel relatif à la pollution due aux sources et activités terrestres, adopté à Grand-Bassam",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 220,
+      "description": "Loi n° 62-20 portant approbation de la Convention relative à la coopération en matière de protection, de gestion et de mise en valeur du milieu marin et des zones côtières de la côte atlantique de la région de l'Afrique de l'Ouest, du Centre et du Sud (Convention d'Abidjan), adoptée à Abidjan le 23 mars 1981, du Protocole y annexé relatif à la coopération en matière de lutte contre la pollution en cas de situation critique, adopté à Abidjan le 23 mars 1981, tel qu'amendé en 2011, du Protocole additionnel relatif à la pollution due aux sources et activités terrestres, adopté à Grand-Bassam, d'un montant de 1.981,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1981.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "53-21",
+      "title": "portant approbation du Protocole d'amendement à la Convention du Conseil de l'Europe n° 108 pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel, fait à Strasbourg le 10 octobre 2018",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 222,
+      "description": "Loi n° 53-21 portant approbation du Protocole d'amendement à la Convention du Conseil de l'Europe n° 108 pour la protection des personnes à l'égard du traitement automatisé des données à caractère personnel, fait à Strasbourg le 10 octobre 2018",
+      "signatories": [
+        {
+          "name": "Le Chef du gouvernement",
+          "title": ":"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 2018.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "56-21",
+      "title": "portant approbation de l'Accord relatif aux services aériens entre le gouvernement du Royaume du Maroc et le gouvernement de la République de Colombie, fait à Rabat et à Bogota le 6 avril 2021",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 222,
+      "description": "Loi n° 56-21 portant approbation de l'Accord relatif aux services aériens entre le gouvernement du Royaume du Maroc et le gouvernement de la République de Colombie, fait à Rabat et à Bogota le 6 avril 2021",
+      "signatories": [
+        {
+          "name": "Le Chef du gouvernement",
+          "title": ":"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 223.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "57-21",
+      "title": "portant approbation de la Convention sur l'assistance judiciaire mutuelle en matière pénale entre le Royaume du Maroc et la Hongrie, faite à Rabat le 9 juin 2021",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 222,
+      "description": "Loi n° 57-21 portant approbation de la Convention sur l'assistance judiciaire mutuelle en matière pénale entre le Royaume du Maroc et la Hongrie, faite à Rabat le 9 juin 2021",
+      "signatories": [
+        {
+          "name": "Le Chef du gouvernement",
+          "title": ":"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 2021.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "73-21",
+      "title": "portant approbation de l'Accord pour l'établissement de « Africa Finance Corporation (AFC) », adopté à Abuja (Nigéria) le 28 mai 2007",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 222,
+      "description": "Loi n° 73-21 portant approbation de l'Accord pour l'établissement de « Africa Finance Corporation (AFC) », adopté à Abuja (Nigéria) le 28 mai 2007",
+      "signatories": [
+        {
+          "name": "Le Chef du gouvernement",
+          "title": ":"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 18.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "77-21",
+      "title": "portant approbation de la Charte de la Renaissance culturelle africaine, adoptée par la sixième session ordinaire de la Conférence des Chefs d'Etat et de gouvernement de l'Union africaine, tenue à Khartoum (Soudan), le 24 janvier 2006",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 208,
+      "description": "Loi n° 77-21 portant approbation de la Charte de la Renaissance culturelle africaine, adoptée par la sixième session ordinaire de la Conférence des Chefs d'Etat et de gouvernement de l'Union africaine, tenue à Khartoum (Soudan), le 24 janvier 2006",
+      "signatories": [
+        {
+          "name": "Le Chef du gouvernement",
+          "title": ":"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 21.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-22-054",
+      "title": "du 7 rejeb 1443 (9 février 2022)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 210,
+      "description": "Décret n° 2-22-054 du 7 rejeb 1443 (9 février 2022), d'un montant de 54,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 54.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "22-80",
+      "title": "relative à la conservation des",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 212,
+      "description": "Loi n° 22-80 relative à la conservation des, d'un montant de 10,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 10.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "15-09",
+      "title": "relative aux mesures de défense commerciale, notamment son article 54 ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 224,
+      "description": "Loi n° 15-09 relative aux mesures de défense commerciale, notamment son article 54 ;, d'un montant de 14,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 15.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-12-645",
+      "title": "du 13 safar 1434 (27 décembre",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 224,
+      "description": "Décret n° 2-12-645 du 13 safar 1434 (27 décembre, d'un montant de 645,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 645.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Arrêté",
+      "number": "2860-15",
+      "title": "susvisé, est prorogé jusqu'au 31 décembre 2024",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 226,
+      "description": "Arrêté n° 2860-15 susvisé, est prorogé jusqu'au 31 décembre 2024, d'un montant de 31,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 31.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "1-77-340",
+      "title": "du 25 chaoual 1397 (9 octobre 1977) déterminant",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 226,
+      "description": "Loi n° 1-77-340 du 25 chaoual 1397 (9 octobre 1977) déterminant, d'un montant de 340,00 dirhams",
+      "signatories": [
+        {
+          "name": "NADIA FETTAH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 340.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "12-02",
+      "title": "relative à la responsabilité civile en",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 228,
+      "description": "Loi n° 12-02 relative à la responsabilité civile en, d'un montant de 278,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 278.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-05-1560",
+      "title": "susvisé pour la couverture de la responsabilité civile de ce dernier à concurrence du montant de cinq millions de DTS, prévu à l'article 22 de la loi précitée n° 12-02",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 228,
+      "description": "Décret n° 2-05-1560 susvisé pour la couverture de la responsabilité civile de ce dernier à concurrence du montant de cinq millions de DTS, prévu à l'article 22 de la loi précitée n° 12-02, d'un montant de 22,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 22.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-21-71",
+      "title": "du 7 rejeb 1442 (19 février 2021)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 228,
+      "description": "Décret n° 2-21-71 du 7 rejeb 1442 (19 février 2021), d'un montant de 71,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 71.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "15-97",
+      "title": "formant code de recouvrement des",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 228,
+      "description": "Loi n° 15-97 formant code de recouvrement des, d'un montant de 175,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 175.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-21-829",
+      "title": "du 14 rabii I 1443 (21 octobre",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 228,
+      "description": "Décret n° 2-21-829 du 14 rabii I 1443 (21 octobre, d'un montant de 829,00 dirhams",
+      "signatories": [
+        {
+          "name": "PRÉSENTATION DE L'AUTORITÉ",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 829.0,
+          "currency": "D",
+          "beneficiary": "Ministère de l"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "64-12",
+      "title": "portant création à l'Autorité de Contrôle des Assurances et de la Prévoyance Sociale, cette commission est composée comme suit : M",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 304,
+      "description": "Loi n° 64-12 portant création à l'Autorité de Contrôle des Assurances et de la Prévoyance Sociale, cette commission est composée comme suit : M, au profit de Office National d",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "17-99",
+      "title": "portant code des assurances et des textes pris pour son application, l'Autorité effectue chaque année des missions de contrôle sur place auprès des intermédiaires d'assurances, couvrant l'ensemble du territoire du Royaume et ce, dans le cadre d'un programme de contrôle annuel",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 276,
+      "description": "Loi n° 17-99 portant code des assurances et des textes pris pour son application, l'Autorité effectue chaque année des missions de contrôle sur place auprès des intermédiaires d'assurances, couvrant l'ensemble du territoire du Royaume et ce, dans le cadre d'un programme de contrôle annuel, d'un montant de 2.020,00 dirhams",
+      "signatories": [
+        {
+          "name": "ACTIVITÉS DU SUPPORT",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 39.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "65-00",
+      "title": "précitée et de certains",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 270,
+      "description": "Loi n° 65-00 précitée et de certains, d'un montant de 20,00 dirhams",
+      "signatories": [
+        {
+          "name": "PROTECTION DES ASSURÉS",
+          "title": ""
+        },
+        {
+          "name": "CONTRATS D'ASSURANCE",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 20.0,
+          "currency": "D",
+          "beneficiary": "Ministère du travail et de \nl"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "43-05",
+      "title": "relative à la lutte contre le blanchiment de capitaux",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 232,
+      "description": "Loi n° 43-05 relative à la lutte contre le blanchiment de capitaux, d'un montant de 237,00 dirhams, au profit de Office National de l",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 237.0,
+          "currency": "D",
+          "beneficiary": "Ministère de l"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "01-21",
+      "title": "visant le changement du régime d'affiliation des cadres",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 248,
+      "description": "Loi n° 01-21 visant le changement du régime d'affiliation des cadres",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "2720",
+      "title": "édictant les mesures particulières relatives au",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 254,
+      "description": "Loi n° 2720 édictant les mesures particulières relatives au, d'un montant de 6.920,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 6920.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-20372",
+      "title": "pris pour l'application de certaines",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 254,
+      "description": "Décret n° 2-20372 pris pour l'application de certaines",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "17-99 portant code des assurances",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 254,
+      "description": "Loi 17-99 portant code des assurances, d'un montant de 10,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 10.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 17-99 portant code des assurances, portant sur le volet « reporting des entreprises d'assurances et de réassurance » ; • Le projet d'amendement de la circulaire relative aux documents à produire par les personnes de droit public pratiquant ou gérant les opérations de retraite ; • Le projet de la circulaire relative à l'organisation financière de l'assurance maladie obligatoire de base ; • La demande d'approbation des modifications des statuts de la Mutuelle Générale des Postes et Télécommunications (MGPTT) ; • La demande d'approbation des modifications du règlement de la caisse autonome du décès de la Mutuelle Générale des Postes et Télécommunications (MGPTT) ; • La demande d'approbation du règlement de la caisse autonome d'allocation au décès de la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 256,
+      "description": "Loi n° 17-99 portant code des assurances, portant sur le volet « reporting des entreprises d'assurances et de réassurance » ; • Le projet d'amendement de la circulaire relative aux documents à produire par les personnes de droit public pratiquant ou gérant les opérations de retraite ; • Le projet de la circulaire relative à l'organisation financière de l'assurance maladie obligatoire de base ; • La demande d'approbation des modifications des statuts de la Mutuelle Générale des Postes et Télécommunications (MGPTT) ; • La demande d'approbation des modifications du règlement de la caisse autonome du décès de la Mutuelle Générale des Postes et Télécommunications (MGPTT) ; • La demande d'approbation du règlement de la caisse autonome d'allocation au décès de la, d'un montant de 18,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 18.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-20-323",
+      "title": "du 17 ramadan 1441 (11 mai 2020) pris pour l'application des",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 260,
+      "description": "Décret n° 2-20-323 du 17 ramadan 1441 (11 mai 2020) pris pour l'application des, d'un montant de 323,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 323.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-20-372",
+      "title": "du 10 rabii II 1442 (26 novembre 2020) pris pour l'application de",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 260,
+      "description": "Décret n° 2-20-372 du 10 rabii II 1442 (26 novembre 2020) pris pour l'application de, d'un montant de 372,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 372.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "18-12",
+      "title": "relative à l'indemnisation des accidents de travail",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 262,
+      "description": "Loi n° 18-12 relative à l'indemnisation des accidents de travail",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "29-18",
+      "title": "portant organisation des opérations de construction. Ce projet vise à édicter des dispositions relatives à l'organisation des opérations de construction et de fixer les missions et les responsabilités des intervenants en vue de garantir la qualité, la sécurité, la stabilité et la durabilité des bâtiments ; • Proposition de loi modifiant et complétant la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 262,
+      "description": "Loi n° 29-18 portant organisation des opérations de construction. Ce projet vise à édicter des dispositions relatives à l'organisation des opérations de construction et de fixer les missions et les responsabilités des intervenants en vue de garantir la qualité, la sécurité, la stabilité et la durabilité des bâtiments ; • Proposition de loi modifiant et complétant la",
+      "signatories": []
+    },
+    {
+      "type": "Décret",
+      "number": "23-20",
+      "title": "approuvant le décret-",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 262,
+      "description": "Décret n° 23-20 approuvant le décret-",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "2-20-292",
+      "title": "édictant des dispositions particulières à l'état d'urgence sanitaire et les mesures de sa déclaration",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 262,
+      "description": "Loi n° 2-20-292 édictant des dispositions particulières à l'état d'urgence sanitaire et les mesures de sa déclaration",
+      "signatories": []
+    },
+    {
+      "type": "Décret",
+      "number": "2-20-294",
+      "title": "fixant les modalités et conditions des informations relatives aux comptes financiers des non-résidents ; • Projet de",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 262,
+      "description": "Décret n° 2-20-294 fixant les modalités et conditions des informations relatives aux comptes financiers des non-résidents ; • Projet de",
+      "signatories": []
+    },
+    {
+      "type": "Décret",
+      "number": "2-17-318",
+      "title": "fixant les conditions de présentation de la garantie d'achèvement des travaux et de la garantie de remboursement des échéances payées en cas de non-exécution du contrat de vente d'immeuble en l'état futur d'achèvement ; • Projet de décret pris pour l'application du décret-loi n° 2.20.665 portant sur la réorganisation de Casablanca Finance City",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 262,
+      "description": "Décret n° 2-17-318 fixant les conditions de présentation de la garantie d'achèvement des travaux et de la garantie de remboursement des échéances payées en cas de non-exécution du contrat de vente d'immeuble en l'état futur d'achèvement ; • Projet de décret pris pour l'application du décret-loi n° 2.20.665 portant sur la réorganisation de Casablanca Finance City, d'un montant de 20,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 20.0,
+          "currency": "D",
+          "project": "de décret pris pour l'application du décret-loi n° 2.20.665 portant sur la réorganisation de"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-05-740",
+      "title": "du 18 juillet 2005 pris pour l'application des dispositions de la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 264,
+      "description": "Décret n° 2-05-740 du 18 juillet 2005 pris pour l'application des dispositions de la, d'un montant de 740,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 740.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "5-09-20",
+      "title": "portant abrogation de l'article 27 du Dahir portant",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 264,
+      "description": "Loi n° 5-09-20 portant abrogation de l'article 27 du Dahir portant, d'un montant de 27,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 27.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "1-72-184",
+      "title": "du 15 joumada II 1392 (27 juillet 1972) relatif à la sécurité sociale",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 264,
+      "description": "Loi n° 1-72-184 du 15 joumada II 1392 (27 juillet 1972) relatif à la sécurité sociale, d'un montant de 184,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 184.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "5-25-20",
+      "title": "complétant les dispositions de l'article 13 du Dahir portant",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 264,
+      "description": "Loi n° 5-25-20 complétant les dispositions de l'article 13 du Dahir portant, d'un montant de 13,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 13.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "1-72184",
+      "title": "du 15 joumada II 1392 (27 juillet 1972) relatif à la sécurité sociale. Cette proposition de loi",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 264,
+      "description": "Loi n° 1-72184 du 15 joumada II 1392 (27 juillet 1972) relatif à la sécurité sociale. Cette proposition de loi, d'un montant de 72.184,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 72184.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "5-87-20",
+      "title": "complétant les dispositions du Dahir portant",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 264,
+      "description": "Loi n° 5-87-20 complétant les dispositions du Dahir portant",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "5-33-20",
+      "title": "modifiant et complétant la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 264,
+      "description": "Loi n° 5-33-20 modifiant et complétant la",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "011-71",
+      "title": "du 12 kaâda 1391 (30 décembre1971)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 264,
+      "description": "Loi n° 011-71 du 12 kaâda 1391 (30 décembre1971), d'un montant de 71,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 71.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "5-69-20",
+      "title": "modifiant et complétant le dahir portant",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 264,
+      "description": "Loi n° 5-69-20 modifiant et complétant le dahir portant",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "1-77-216",
+      "title": "20 chaoual 1397 (4 octobre 1977) créant un régime collectif d'allocation de retraite ; - La proposition de",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 264,
+      "description": "Loi n° 1-77-216 20 chaoual 1397 (4 octobre 1977) créant un régime collectif d'allocation de retraite ; - La proposition de, d'un montant de 216,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 216.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "5-70-20",
+      "title": "modifiant et complétant la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 264,
+      "description": "Loi n° 5-70-20 modifiant et complétant la",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "5-71-20",
+      "title": "modifiant et complétant la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 264,
+      "description": "Loi n° 5-71-20 modifiant et complétant la",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "013-71",
+      "title": "du 12 kaada 1391",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 264,
+      "description": "Loi n° 013-71 du 12 kaada 1391, d'un montant de 71,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 71.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "5-72-20",
+      "title": "modifiant et complétant le dahir portant",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 264,
+      "description": "Loi n° 5-72-20 modifiant et complétant le dahir portant",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "5-73-20",
+      "title": "modifiant et complétant l'article 9 de la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 264,
+      "description": "Loi n° 5-73-20 modifiant et complétant l'article 9 de la, d'un montant de 9,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 9.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "98-15",
+      "title": "relative au régime de l'assurance maladie obligatoire de base et la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 266,
+      "description": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base et la",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "99-15",
+      "title": "instituant un régime de pensions pour les catégories des professionnels, des travailleurs indépendants et des personnes non-salariées exerçant une activité libérale",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 266,
+      "description": "Loi n° 99-15 instituant un régime de pensions pour les catégories des professionnels, des travailleurs indépendants et des personnes non-salariées exerçant une activité libérale, d'un montant de 167,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 167.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "2-20-605",
+      "title": "édictant des mesures exceptionnelles au profit de certains",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 264,
+      "description": "Loi n° 2-20-605 édictant des mesures exceptionnelles au profit de certains",
+      "signatories": []
+    },
+    {
+      "type": "Décret",
+      "number": "2-18-625",
+      "title": "10 joumada I 1440 (17 janvier 2019) portant application de la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 266,
+      "description": "Décret n° 2-18-625 10 joumada I 1440 (17 janvier 2019) portant application de la, d'un montant de 625,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 625.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-19-719",
+      "title": "du",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 266,
+      "description": "Décret n° 2-19-719 du",
+      "signatories": []
+    },
+    {
+      "type": "Décret",
+      "number": "2-19-769",
+      "title": "du 4 safar 1441 (3 octobre 2019) portant application de la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 266,
+      "description": "Décret n° 2-19-769 du 4 safar 1441 (3 octobre 2019) portant application de la, d'un montant de 769,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 769.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "05-20",
+      "title": "relative à la cybersécurité qui fixe",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 316,
+      "description": "Loi n° 05-20 relative à la cybersécurité qui fixe, d'un montant de 24,00 dirhams, au profit de Moroccan Agency for Sustainable Energy",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 24.0,
+          "currency": "D",
+          "beneficiary": "Ministère de l"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "6412",
+      "title": "portant création de l'Autorité de Contrôle des Assurances et de la Prévoyance Sociale. A cet effet, le Conseil : • Arrête la politique générale de l'Autorité ; • Approuve les règlements intérieurs ; • Fixe la contribution des entités soumises au contrôle de l'Autorité ; • Examine et approuve le rapport annuel du bilan d'activité et des travaux de l'Autorité, ses états financiers, son budget et les modifications apportées à celui-ci en cours d'exercice ; • Désigne le commissaire aux comptes chargé de l'audit annuel des comptes de l'Autorité et fixe sa rémunération ; • Statue sur le rapport du commissaire aux comptes et sur tout rapport d'audit ; • Statue sur l'acquisition, la vente et l'échange d'immeubles ; • Arrête le règlement fixant les règles et modes de passation des marchés sous réserve du respect",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 300,
+      "description": "Loi n° 6412 portant création de l'Autorité de Contrôle des Assurances et de la Prévoyance Sociale. A cet effet, le Conseil : • Arrête la politique générale de l'Autorité ; • Approuve les règlements intérieurs ; • Fixe la contribution des entités soumises au contrôle de l'Autorité ; • Examine et approuve le rapport annuel du bilan d'activité et des travaux de l'Autorité, ses états financiers, son budget et les modifications apportées à celui-ci en cours d'exercice ; • Désigne le commissaire aux comptes chargé de l'audit annuel des comptes de l'Autorité et fixe sa rémunération ; • Statue sur le rapport du commissaire aux comptes et sur tout rapport d'audit ; • Statue sur l'acquisition, la vente et l'échange d'immeubles ; • Arrête le règlement fixant les règles et modes de passation des marchés sous réserve du respect, d'un montant de 117,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 117.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "1-84-7",
+      "title": "du 6 rabii II 1404 (10 janvier 1984)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 302,
+      "description": "Loi n° 1-84-7 du 6 rabii II 1404 (10 janvier 1984), d'un montant de 7,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 7.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "",
+      "title": "n° 2-18-378 modifié et complété par le",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 316,
+      "description": "Décret n° 2-18-378 modifié et complété par le",
+      "signatories": []
+    },
+    {
+      "type": "Décret",
+      "number": "",
+      "title": "n° 2-20-675)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 316,
+      "description": "Décret n° 2-20-675)",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "55-19",
+      "title": "portant sur la simplification des procédures administratives, entrée en vigueur le 28 septembre 2020, a instauré de nouvelles mesures pour faciliter la relation entre l'administration et les usagers16",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 316,
+      "description": "Loi n° 55-19 portant sur la simplification des procédures administratives, entrée en vigueur le 28 septembre 2020, a instauré de nouvelles mesures pour faciliter la relation entre l'administration et les usagers16, d'un montant de 6,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 6.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "55-19 relative à la simplification des procédures et des formalités administratives",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 316,
+      "description": "Loi 55-19 relative à la simplification des procédures et des formalités administratives, d'un montant de 33,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 33.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "31-13",
+      "title": "sur le droit de l'accès à l'information est entrée",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 316,
+      "description": "Loi n° 31-13 sur le droit de l'accès à l'information est entrée, d'un montant de 20,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 20.0,
+          "currency": "D",
+          "beneficiary": "ministère en charge de l"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 09-08 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel) ; • La",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 316,
+      "description": "Loi n° 09-08 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel) ; • La",
+      "signatories": []
+    },
+    {
+      "type": "Décret",
+      "number": "",
+      "title": "n° 2-17-746 du 4 Chaabane 1440 (10 avril 2019) qui stipule l'application des exigences d'efficacité énergétique aux transports",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 324,
+      "description": "Décret n° 2-17-746 du 4 Chaabane 1440 (10 avril 2019) qui stipule l'application des exigences d'efficacité énergétique aux transports, d'un montant de 746,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 746.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "49-17",
+      "title": ", relative à l'évaluation environnementale constitue une avancée en soi",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 324,
+      "description": "Loi n° 49-17 , relative à l'évaluation environnementale constitue une avancée en soi, d'un montant de 18,00 dirhams",
+      "signatories": [
+        {
+          "name": "AVIS AUX IMPORTATEURS ET AUX EXPORTATEURS",
+          "title": ""
+        },
+        {
+          "name": "AMARA AHMED",
+          "title": ""
+        },
+        {
+          "name": "MOUTAIM NORA",
+          "title": ""
+        },
+        {
+          "name": "NASMI ABDELLATIF",
+          "title": ""
+        },
+        {
+          "name": "TOUIL KHADIJA",
+          "title": ""
+        },
+        {
+          "name": "CHERKAOUI YASMINA",
+          "title": ""
+        },
+        {
+          "name": "ASNITRANS EL KHOULDI KHADIJA",
+          "title": ""
+        },
+        {
+          "name": "PROCARGOLOGISTICS GHOUMARI SAMIR",
+          "title": ""
+        },
+        {
+          "name": "MATRANORD BELCAID MOHSINE",
+          "title": ""
+        },
+        {
+          "name": "AREA TRANS BELAHMER DRISS",
+          "title": ""
+        },
+        {
+          "name": "TRANSIT TRANSPORT HJIRATE HJIRAT MILOUD",
+          "title": ""
+        },
+        {
+          "name": "ATPM MALLOULI LATIFA",
+          "title": ""
+        },
+        {
+          "name": "WORLD SOFT OULOUALI MOHAMED",
+          "title": ""
+        },
+        {
+          "name": "MAHAM TRANSIT UN TRANSIT",
+          "title": ""
+        },
+        {
+          "name": "HASSAN EL MBARKI MAROC TRANS CONSULTING",
+          "title": ""
+        },
+        {
+          "name": "KANDIL DRISS PEARL OF THE WORLD",
+          "title": ""
+        },
+        {
+          "name": "BOUMLAL EL HOUCINE TRANSIT EL GARTI",
+          "title": ""
+        },
+        {
+          "name": "OULOUALI MOHAMED",
+          "title": ""
+        },
+        {
+          "name": "HJIRAT MILOUD TRANSHJIRAT",
+          "title": ""
+        },
+        {
+          "name": "MALLOULI LATIFA MEATRANS",
+          "title": ""
+        },
+        {
+          "name": "ALADLOUNI AHMED REDOUANE",
+          "title": ""
+        },
+        {
+          "name": "KORAIBAN ABDELKADER ADASONA TRANS",
+          "title": ""
+        },
+        {
+          "name": "ZAOUIT JAMILA CASA HORIZON",
+          "title": ""
+        },
+        {
+          "name": "CHRAIBI AJJAJ KHALID CHRAIBI AJJAJ KHALID",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 18.0,
+          "currency": "D"
+        }
+      }
+    }
+  ]
+}

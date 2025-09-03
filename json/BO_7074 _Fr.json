@@ -1,0 +1,209 @@
+{
+  "bulletin_metadata": {
+    "issue_number": "2519",
+    "publication_year_description": "Cent-onzième année",
+    "date_hijri": "5 rejeb 1443",
+    "date_gregorian": "2022-02-07",
+    "issn": "0851-1217"
+  },
+  "table_of_contents": [],
+  "legal_texts": [
+    {
+      "type": "Décret",
+      "number": "2-12-602",
+      "title": "du 9 rejeb 1434 (20 mai 2013) pris",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 338,
+      "description": "Décret n° 2-12-602 du 9 rejeb 1434 (20 mai 2013) pris, d'un montant de 602,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 602.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "03-12",
+      "title": "relative aux interprofessions agricoles et halieutiques, notamment son article 2, ARRÊTENT :",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 338,
+      "description": "Loi n° 03-12 relative aux interprofessions agricoles et halieutiques, notamment son article 2, ARRÊTENT :, d'un montant de 22,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 22.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-21-843",
+      "title": "du 9 joumada I 1443",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 338,
+      "description": "Décret n° 2-21-843 du 9 joumada I 1443, d'un montant de 843,00 dirhams",
+      "signatories": [
+        {
+          "name": "NADIA FETTAH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 843.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "24-01",
+      "title": "relative aux opérations de pension",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 340,
+      "description": "Loi n° 24-01 relative aux opérations de pension, d'un montant de 4,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 4.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "33-06",
+      "title": "relatif à la titrisation des actifs, promulguée par le dahir n° 1-08-95 du 20 chaoual 1429 (20 octobre 2008) telle que modifiée et complétée, notamment ses articles 2-7 et 3-7 ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 342,
+      "description": "Loi n° 33-06 relatif à la titrisation des actifs, promulguée par le dahir n° 1-08-95 du 20 chaoual 1429 (20 octobre 2008) telle que modifiée et complétée, notamment ses articles 2-7 et 3-7 ;, d'un montant de 95,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 95.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "12-06",
+      "title": "relative à la normalisation, à la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 342,
+      "description": "Loi n° 12-06 relative à la normalisation, à la, d'un montant de 15,00 dirhams",
+      "signatories": [
+        {
+          "name": "RYAD MEZZOUR",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 15.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "25-08",
+      "title": "portant création de l'Office national de sécurité sanitaire des produits alimentaires, promulguée par le dahir n° 1-09-20 du 22 safar 1430 (18 février 2009), notamment son article 2 ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 352,
+      "description": "Loi n° 25-08 portant création de l'Office national de sécurité sanitaire des produits alimentaires, promulguée par le dahir n° 1-09-20 du 22 safar 1430 (18 février 2009), notamment son article 2 ;, d'un montant de 20,00 dirhams, au profit de Office national de",
+      "signatories": [
+        {
+          "name": "MOHAMMED SADIKI",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 20.0,
+          "currency": "D",
+          "beneficiary": "Office national de"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-21-838",
+      "title": "du 14 rabii I 1443 (21 octobre 2021)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 360,
+      "description": "Décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021), d'un montant de 838,00 dirhams",
+      "signatories": [
+        {
+          "name": "ABDELLATIF MIRAOUI",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 838.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "016-89",
+      "title": ", assortis « du baccalauréat, série scientifique ou technique ou d'un « diplôme reconnu équivalent, est fixée ainsi qu'il suit : «",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 354,
+      "description": "Loi n° 016-89 , assortis « du baccalauréat, série scientifique ou technique ou d'un « diplôme reconnu équivalent, est fixée ainsi qu'il suit : «, d'un montant de 22,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 22.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "103-12",
+      "title": "relative aux établissements de crédit et",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 364,
+      "description": "Loi n° 103-12 relative aux établissements de crédit et, d'un montant de 193,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 193.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "17-95",
+      "title": "relative aux sociétés anonymes",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 364,
+      "description": "Loi n° 17-95 relative aux sociétés anonymes, d'un montant de 24,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 24.0,
+          "currency": "D"
+        }
+      }
+    }
+  ]
+}

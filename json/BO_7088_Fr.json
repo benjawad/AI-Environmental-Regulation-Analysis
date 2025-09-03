@@ -1,0 +1,234 @@
+{
+  "bulletin_metadata": {
+    "issue_number": "927",
+    "publication_year_description": "Cent-onzième année",
+    "date_hijri": "26 chaabane 1443",
+    "date_gregorian": "2022-03-29",
+    "issn": "0851-1217"
+  },
+  "table_of_contents": [],
+  "legal_texts": [
+    {
+      "type": "Décret",
+      "number": "2-21-406",
+      "title": "pris pour l'application de",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 664,
+      "description": "Décret n° 2-21-406 pris pour l'application de",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "05-20",
+      "title": "relative à la cybersécurité du",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 664,
+      "description": "Loi n° 05-20 relative à la cybersécurité du, d'un montant de 31,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 31.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "19-94",
+      "title": "relative aux zones d'accélération",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 664,
+      "description": "Loi n° 19-94 relative aux zones d'accélération, d'un montant de 1,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-95-562",
+      "title": "du 19 rejeb 1416 (12 décembre",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 664,
+      "description": "Décret n° 2-95-562 du 19 rejeb 1416 (12 décembre, d'un montant de 562,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 562.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-21-957",
+      "title": "du 18 joumada I 1443",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 664,
+      "description": "Décret n° 2-21-957 du 18 joumada I 1443, d'un montant de 957,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 957.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "",
+      "title": "n° 2-21-957 du 18 joumada I 1443 (23 décembre 2021) est fixée comme suit : - Services de communication, de marketing, de certification et de promotion qui permettraient aux investisseurs installés dans la zone d'accélération industrielle d'améliorer leur capacité de pénétration des marchés ; - Etablissements prestataires de services de maintenance et d'entretien des équipements des unités industrielles et des locaux ; - Services de recyclage et de valorisation des déchets",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 664,
+      "description": "Décret n° 2-21-957 du 18 joumada I 1443 (23 décembre 2021) est fixée comme suit : - Services de communication, de marketing, de certification et de promotion qui permettraient aux investisseurs installés dans la zone d'accélération industrielle d'améliorer leur capacité de pénétration des marchés ; - Etablissements prestataires de services de maintenance et d'entretien des équipements des unités industrielles et des locaux ; - Services de recyclage et de valorisation des déchets, d'un montant de 957,00 dirhams",
+      "signatories": [
+        {
+          "name": "NADIA FETTAH",
+          "title": ""
+        },
+        {
+          "name": "RYAD MEZZOUR",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 957.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "1-77-339",
+      "title": "du 25 chaoual 1397 (9 octobre 1977), tel qu'il a été modifié et complété, notamment son article 215,",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 666,
+      "description": "Loi n° 1-77-339 du 25 chaoual 1397 (9 octobre 1977), tel qu'il a été modifié et complété, notamment son article 215,, d'un montant de 339,00 dirhams",
+      "signatories": [
+        {
+          "name": "NADIA FETTAH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 339.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-77-862",
+      "title": "du 25 chaoual 1397 (9 octobre 1977) pris pour l'application du code des douanes ainsi",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 666,
+      "description": "Décret n° 2-77-862 du 25 chaoual 1397 (9 octobre 1977) pris pour l'application du code des douanes ainsi, d'un montant de 862,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 862.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "12-06",
+      "title": "relative à la normalisation, à la certification et à l'accréditation promulguée par le",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 668,
+      "description": "Loi n° 12-06 relative à la normalisation, à la certification et à l'accréditation promulguée par le, d'un montant de 15,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 15.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "1-73-255",
+      "title": "du 27 chaoual 1393 (23 novembre 1973)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 678,
+      "description": "Loi n° 1-73-255 du 27 chaoual 1393 (23 novembre 1973), d'un montant de 255,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 255.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-08-562",
+      "title": "du 13 hija 1429 (12 décembre 2008))",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 680,
+      "description": "Décret n° 2-08-562 du 13 hija 1429 (12 décembre 2008)), d'un montant de 562,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 562.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "25-08",
+      "title": "portant création de l'Office national de sécurité sanitaire des produits alimentaires promulguée par le dahir n° 1-09-20 du 22 safar 1430 (18 février 2009), notamment son article 2 ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 686,
+      "description": "Loi n° 25-08 portant création de l'Office national de sécurité sanitaire des produits alimentaires promulguée par le dahir n° 1-09-20 du 22 safar 1430 (18 février 2009), notamment son article 2 ;, d'un montant de 20,00 dirhams, au profit de Office national de",
+      "signatories": [
+        {
+          "name": "MOHAMMED SADIKI",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 20.0,
+          "currency": "D",
+          "beneficiary": "Office national de"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "53-05",
+      "title": "relative à l'échange électronique de données juridiques promulguée par le dahir n° 1-07-129 du 19 kaada 1428 (30 novembre 2007) Liste des prestataires d'audit qualifiés par l'Autorité nationale de la cybersécurité (Direction générale de la sécurité des systèmes d'information), établie en application des dispositions du",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 694,
+      "description": "Loi n° 53-05 relative à l'échange électronique de données juridiques promulguée par le dahir n° 1-07-129 du 19 kaada 1428 (30 novembre 2007) Liste des prestataires d'audit qualifiés par l'Autorité nationale de la cybersécurité (Direction générale de la sécurité des systèmes d'information), établie en application des dispositions du, d'un montant de 129,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 129.0,
+          "currency": "D"
+        }
+      }
+    }
+  ]
+}

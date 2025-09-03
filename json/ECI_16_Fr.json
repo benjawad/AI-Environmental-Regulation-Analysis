@@ -1,0 +1,60 @@
+{
+  "bulletin_metadata": {
+    "issue_number": "16",
+    "publication_year_description": "",
+    "date_hijri": "13 ramadan 1444",
+    "date_gregorian": "2023-04-04",
+    "issn": "0851-1217"
+  },
+  "table_of_contents": [],
+  "legal_texts": [
+    {
+      "type": "Loi",
+      "number": "16-16",
+      "title": "portant approbation de la Convention précitée, promulguée par le dahir n° 1-16-140 du 21 kaada 1437 (25 août 2016) ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 104,
+      "description": "Loi n° 16-16 portant approbation de la Convention précitée, promulguée par le dahir n° 1-16-140 du 21 kaada 1437 (25 août 2016) ;, d'un montant de 140,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 140.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "24-17",
+      "title": "portant approbation de la Convention précitée, promulguée par le dahir n° 1-17-62 du 8 hija 1438 (30 août 2017) ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 120,
+      "description": "Loi n° 24-17 portant approbation de la Convention précitée, promulguée par le dahir n° 1-17-62 du 8 hija 1438 (30 août 2017) ;, d'un montant de 62,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 62.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "08-18",
+      "title": "portant approbation de l'Amendement précité, promulguée par le dahir n° 1-18-75 du 23 kaada 1439 (6 août 2018) ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 120,
+      "description": "Loi n° 08-18 portant approbation de l'Amendement précité, promulguée par le dahir n° 1-18-75 du 23 kaada 1439 (6 août 2018) ;, d'un montant de 75,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 75.0,
+          "currency": "D"
+        }
+      }
+    }
+  ]
+}

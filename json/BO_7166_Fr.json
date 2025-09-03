@@ -1,0 +1,849 @@
+{
+  "bulletin_metadata": {
+    "issue_number": "22",
+    "publication_year_description": "Cent-douzième année",
+    "date_hijri": "15 moharrem 1435",
+    "date_gregorian": "2013-11-19",
+    "issn": "0851-1217"
+  },
+  "table_of_contents": [],
+  "legal_texts": [
+    {
+      "type": "Loi",
+      "number": "22-13",
+      "title": "complétant l'article 174 de la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 278,
+      "description": "Loi n° 22-13 complétant l'article 174 de la, d'un montant de 174,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 174.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "39-08",
+      "title": "relative au code des droits",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 278,
+      "description": "Loi n° 39-08 relative au code des droits, d'un montant de 178,00 dirhams",
+      "signatories": [
+        {
+          "name": "SAAD DINE EL OTMANI",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 178.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "69-16",
+      "title": "complétant l'article 4 de la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 278,
+      "description": "Loi n° 69-16 complétant l'article 4 de la, d'un montant de 4,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 4.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "13-18",
+      "title": "modifiant l'article 316 de la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 278,
+      "description": "Loi n° 13-18 modifiant l'article 316 de la, d'un montant de 316,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 316.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "61-19",
+      "title": "complétant l'article 430 du",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 278,
+      "description": "Loi n° 61-19 complétant l'article 430 du, d'un montant de 430,00 dirhams",
+      "signatories": [
+        {
+          "name": "SAAD DINE EL OTMANI",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 430.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 75-21 portant approbation de la Convention portant création de l'Organisation internationale pour les aides à la navigation maritime, adoptée à Paris le 27 janvier 2021 et signée par le Royaume du Maroc le 13 juillet 2021",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 0,
+      "description": "Loi n° 75-21 portant approbation de la Convention portant création de l'Organisation internationale pour les aides à la navigation maritime, adoptée à Paris le 27 janvier 2021 et signée par le Royaume du Maroc le 13 juillet 2021, d'un montant de 5,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 5.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 78-21 portant approbation de la Convention du Conseil de l'Europe sur la manipulation de compétitions sportives, adoptée à Macolin (Suisse) le 18 septembre 2014 et signée par le Royaume du Maroc à Strasbourg le 20 septembre 2021",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 0,
+      "description": "Loi n° 78-21 portant approbation de la Convention du Conseil de l'Europe sur la manipulation de compétitions sportives, adoptée à Macolin (Suisse) le 18 septembre 2014 et signée par le Royaume du Maroc à Strasbourg le 20 septembre 2021, d'un montant de 250,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 250.0,
+          "currency": "MAD"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "88-21",
+      "title": "portant approbation de l'Accord entre le gouvernement du Royaume du Maroc et l'Union panafricaine de la jeunesse relatif à l'installation du siège de l'Union panafricaine de la jeunesse au Maroc, fait à Rabat le 11 novembre 2021",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 280,
+      "description": "Loi n° 88-21 portant approbation de l'Accord entre le gouvernement du Royaume du Maroc et l'Union panafricaine de la jeunesse relatif à l'installation du siège de l'Union panafricaine de la jeunesse au Maroc, fait à Rabat le 11 novembre 2021",
+      "signatories": [
+        {
+          "name": "Le Chef du gouvernement",
+          "title": ":"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 2021.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 02-22 portant approbation de la Convention régionale révisée sur la reconnaissance des études et des certificats, diplômes, grades et autres titres de l'enseignement supérieur dans les Etats d'Afrique, adoptée à Addis Abeba (Ethiopie) le 12 décembre 2014 et signée par le Royaume du Maroc le 15 novembre 2019",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 274,
+      "description": "Loi n° 02-22 portant approbation de la Convention régionale révisée sur la reconnaissance des études et des certificats, diplômes, grades et autres titres de l'enseignement supérieur dans les Etats d'Afrique, adoptée à Addis Abeba (Ethiopie) le 12 décembre 2014 et signée par le Royaume du Maroc le 15 novembre 2019, d'un montant de 12,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 12.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 24-22 portant approbation de la Convention interafricaine portant établissement d'un Programme africain de coopération technique, adoptée à Kampala (Ouganda) le 1er août 1975",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 274,
+      "description": "Loi n° 24-22 portant approbation de la Convention interafricaine portant établissement d'un Programme africain de coopération technique, adoptée à Kampala (Ouganda) le 1er août 1975, d'un montant de 12,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 12.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 26-22 portant approbation de la Convention de La Haye sur le recouvrement international des aliments destinés aux enfants et à d'autres membres de la famille, adoptée à La Haye le 23 novembre 2007",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 274,
+      "description": "Loi n° 26-22 portant approbation de la Convention de La Haye sur le recouvrement international des aliments destinés aux enfants et à d'autres membres de la famille, adoptée à La Haye le 23 novembre 2007, d'un montant de 2,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 2.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 74-21 portant approbation de l'Accord relatif aux services aériens entre le gouvernement du Royaume du Maroc et le gouvernement de l'Etat d'Israël, fait à Rabat le 11 août 2021",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 274,
+      "description": "Loi n° 74-21 portant approbation de l'Accord relatif aux services aériens entre le gouvernement du Royaume du Maroc et le gouvernement de l'Etat d'Israël, fait à Rabat le 11 août 2021, d'un montant de 3,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 3.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "18-22",
+      "title": "portant approbation de l'Accord de coopération économique et commerciale entre le gouvernement du Royaume du Maroc et le gouvernement de l'Etat d'Israël, fait à Rabat le 21 février 2022",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 282,
+      "description": "Loi n° 18-22 portant approbation de l'Accord de coopération économique et commerciale entre le gouvernement du Royaume du Maroc et le gouvernement de l'Etat d'Israël, fait à Rabat le 21 février 2022",
+      "signatories": [
+        {
+          "name": "Le Chef du gouvernement",
+          "title": ":"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 7.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "100-21",
+      "title": "portant approbation de l'Accord-cadre de coopération dans le domaine de la logistique entre le gouvernement du Royaume du Maroc et le gouvernement de la République du Tchad, fait à Rabat le 10 décembre 2021",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 284,
+      "description": "Loi n° 100-21 portant approbation de l'Accord-cadre de coopération dans le domaine de la logistique entre le gouvernement du Royaume du Maroc et le gouvernement de la République du Tchad, fait à Rabat le 10 décembre 2021, d'un montant de 10,00 dirhams",
+      "signatories": [
+        {
+          "name": "Le Chef du gouvernement",
+          "title": ":"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 10.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "101-21",
+      "title": "portant approbation de l'Accord relatif aux transports internationaux routiers de voyageurs, de marchandises et de transit entre le gouvernement du Royaume du Maroc et le gouvernement de la République du Tchad, fait à Rabat le 10 décembre 2021",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 284,
+      "description": "Loi n° 101-21 portant approbation de l'Accord relatif aux transports internationaux routiers de voyageurs, de marchandises et de transit entre le gouvernement du Royaume du Maroc et le gouvernement de la République du Tchad, fait à Rabat le 10 décembre 2021, d'un montant de 10,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 10.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 31-22 portant approbation de la Convention entre le gouvernement du Royaume du Maroc et le gouvernement de l'Union des Comores pour l'élimination de la double imposition en matière d'impôts sur le revenu et pour la prévention de l'évasion et la fraude fiscales, faite à Dakhla le 31 mars 2022",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 274,
+      "description": "Loi n° 31-22 portant approbation de la Convention entre le gouvernement du Royaume du Maroc et le gouvernement de l'Union des Comores pour l'élimination de la double imposition en matière d'impôts sur le revenu et pour la prévention de l'évasion et la fraude fiscales, faite à Dakhla le 31 mars 2022, d'un montant de 14,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 14.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "32-22",
+      "title": "portant approbation de l'Accord entre le gouvernement du Royaume du Maroc et le gouvernement de l'Union des Comores pour la promotion et la protection réciproques des investissements, fait à Dakhla le 31 mars 2022",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 284,
+      "description": "Loi n° 32-22 portant approbation de l'Accord entre le gouvernement du Royaume du Maroc et le gouvernement de l'Union des Comores pour la promotion et la protection réciproques des investissements, fait à Dakhla le 31 mars 2022, d'un montant de 11,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 11.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 25-22 portant approbation de l'Accord relatif aux services aériens entre le gouvernement du Royaume du Maroc et le gouvernement de la République des Philippines, fait à Rabat le 17 mars 2022",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 274,
+      "description": "Loi n° 25-22 portant approbation de l'Accord relatif aux services aériens entre le gouvernement du Royaume du Maroc et le gouvernement de la République des Philippines, fait à Rabat le 17 mars 2022 avec KfW",
+      "signatories": []
+    },
+    {
+      "type": "Décret",
+      "number": "2-23-02",
+      "title": "du 23 joumada II 1444 (16 janvier 2023)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 286,
+      "description": "Décret n° 2-23-02 du 23 joumada II 1444 (16 janvier 2023), d'un montant de trente millions d'euros (30.000.000,00 dirhams), conclu le 22 décembre 2022 avec KfW",
+      "signatories": [
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        },
+        {
+          "name": "FOUZI LEKJAA",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 30000000.0,
+          "currency": "D",
+          "lender": "KfW"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-22-809",
+      "title": "du 2 rejeb 1444 (24 janvier 2023)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 274,
+      "description": "Décret n° 2-22-809 du 2 rejeb 1444 (24 janvier 2023), d'un montant de 809,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 809.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-06-574",
+      "title": "du 10 hija 1427 (31 décembre 2006) pris pour l'application de la taxe sur la valeur ajoutée prévue au titre III du code général des impôts",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 274,
+      "description": "Décret n° 2-06-574 du 10 hija 1427 (31 décembre 2006) pris pour l'application de la taxe sur la valeur ajoutée prévue au titre III du code général des impôts, d'un montant de 574,00 dirhams",
+      "signatories": [
+        {
+          "name": "AVIS ET COMMUNICATIONS",
+          "title": ""
+        },
+        {
+          "name": "NADIA FETTAH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 574.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n°39-08 relative au code des droits réels, promulguée par le dahir n°1-11-178 du 25 hija 1432 (22 novembre 2011), sont complétées comme suit : « Article 4 (1er alinéa)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 278,
+      "description": "Loi n°39-08 relative au code des droits réels, promulguée par le dahir n°1-11-178 du 25 hija 1432 (22 novembre 2011), sont complétées comme suit : « Article 4 (1er alinéa), d'un montant de 178,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 178.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974) approuvant le texte du code de procédure civile, tel qu'il a été modifié et complété, sont complétées ainsi qu'il suit : « Article 430",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 278,
+      "description": "Loi n° 1-74-447 du 11 ramadan 1394 (28 septembre 1974) approuvant le texte du code de procédure civile, tel qu'il a été modifié et complété, sont complétées ainsi qu'il suit : « Article 430, d'un montant de 447,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 447.0,
+          "currency": "D",
+          "beneficiary": "ministère public"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "75-21",
+      "title": "portant approbation de la Convention portant création de l'Organisation internationale pour les aides à la navigation maritime, adoptée à Paris le 27 janvier 2021 et signée par le Royaume du Maroc le 13 juillet 2021",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 280,
+      "description": "Loi n° 75-21 portant approbation de la Convention portant création de l'Organisation internationale pour les aides à la navigation maritime, adoptée à Paris le 27 janvier 2021 et signée par le Royaume du Maroc le 13 juillet 2021",
+      "signatories": [
+        {
+          "name": "Le Chef du gouvernement",
+          "title": ":"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 2021.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "78-21",
+      "title": "portant approbation de la Convention du Conseil de l'Europe sur la manipulation de compétitions sportives, adoptée à Macolin (Suisse) le 18 septembre 2014 et signée par le Royaume du Maroc à Strasbourg le 20 septembre 2021",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 280,
+      "description": "Loi n° 78-21 portant approbation de la Convention du Conseil de l'Europe sur la manipulation de compétitions sportives, adoptée à Macolin (Suisse) le 18 septembre 2014 et signée par le Royaume du Maroc à Strasbourg le 20 septembre 2021",
+      "signatories": [
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 2021.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "02-22",
+      "title": "portant approbation de la Convention régionale révisée sur la reconnaissance des études et des certificats, diplômes, grades et autres titres de l'enseignement supérieur dans les Etats d'Afrique, adoptée à Addis Abeba (Ethiopie) le 12 décembre 2014 et signée par le Royaume du Maroc le 15 novembre 2019",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 282,
+      "description": "Loi n° 02-22 portant approbation de la Convention régionale révisée sur la reconnaissance des études et des certificats, diplômes, grades et autres titres de l'enseignement supérieur dans les Etats d'Afrique, adoptée à Addis Abeba (Ethiopie) le 12 décembre 2014 et signée par le Royaume du Maroc le 15 novembre 2019, d'un montant de 12,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 12.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "24-22",
+      "title": "portant approbation de la Convention interafricaine portant établissement d'un Programme africain de coopération technique, adoptée à Kampala (Ouganda) le 1er août 1975",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 282,
+      "description": "Loi n° 24-22 portant approbation de la Convention interafricaine portant établissement d'un Programme africain de coopération technique, adoptée à Kampala (Ouganda) le 1er août 1975",
+      "signatories": [
+        {
+          "name": "Le Chef du gouvernement",
+          "title": ":"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 12.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "26-22",
+      "title": "portant approbation de la Convention de La Haye sur le recouvrement international des aliments destinés aux enfants et à d'autres membres de la famille, adoptée à La Haye le 23 novembre 2007",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 282,
+      "description": "Loi n° 26-22 portant approbation de la Convention de La Haye sur le recouvrement international des aliments destinés aux enfants et à d'autres membres de la famille, adoptée à La Haye le 23 novembre 2007, d'un montant de 2,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 2.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "74-21",
+      "title": "portant approbation de l'Accord relatif aux services aériens entre le gouvernement du Royaume du Maroc et le gouvernement de l'Etat d'Israël, fait à Rabat le 11 août 2021",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 282,
+      "description": "Loi n° 74-21 portant approbation de l'Accord relatif aux services aériens entre le gouvernement du Royaume du Maroc et le gouvernement de l'Etat d'Israël, fait à Rabat le 11 août 2021",
+      "signatories": [
+        {
+          "name": "Le Chef du gouvernement",
+          "title": ":"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 2021.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "31-22",
+      "title": "portant approbation de la Convention entre le gouvernement du Royaume du Maroc et le gouvernement de l'Union des Comores pour l'élimination de la double imposition en matière d'impôts sur le revenu et pour la prévention de l'évasion et la fraude fiscales, faite à Dakhla le 31 mars 2022",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 284,
+      "description": "Loi n° 31-22 portant approbation de la Convention entre le gouvernement du Royaume du Maroc et le gouvernement de l'Union des Comores pour l'élimination de la double imposition en matière d'impôts sur le revenu et pour la prévention de l'évasion et la fraude fiscales, faite à Dakhla le 31 mars 2022, d'un montant de 2.022,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 2022.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "25-22",
+      "title": "portant approbation de l'Accord relatif aux services aériens entre le gouvernement du Royaume du Maroc et le gouvernement de la République des Philippines, fait à Rabat le 17 mars 2022",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 286,
+      "description": "Loi n° 25-22 portant approbation de l'Accord relatif aux services aériens entre le gouvernement du Royaume du Maroc et le gouvernement de la République des Philippines, fait à Rabat le 17 mars 2022",
+      "signatories": [
+        {
+          "name": "Le Chef du gouvernement",
+          "title": ":"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "type": "Loi",
+      "number": "76-17",
+      "title": "relative à la protection des",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 288,
+      "description": "Loi n° 76-17 relative à la protection des, d'un montant de 66,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 66.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "25-08",
+      "title": "portant création de l'Office national de sécurité sanitaire des produits alimentaires, promulguée par le dahir n°1-09-20 du 22 safar 1430 (18 février 2009), notamment son article 2 ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 316,
+      "description": "Loi n° 25-08 portant création de l'Office national de sécurité sanitaire des produits alimentaires, promulguée par le dahir n°1-09-20 du 22 safar 1430 (18 février 2009), notamment son article 2 ;, d'un montant de 20,00 dirhams, au profit de Office national de",
+      "signatories": [
+        {
+          "name": "MOHAMMED SADIKI",
+          "title": ""
+        },
+        {
+          "name": "MOHAMED SADIKI",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 20.0,
+          "currency": "D",
+          "beneficiary": "Office national\nde"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-22-243",
+      "title": "du 21 hija 1443 (21 juillet 2022)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 288,
+      "description": "Décret n° 2-22-243 du 21 hija 1443 (21 juillet 2022), d'un montant de 243,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 243.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 76-17 relative à la protection des végétaux, notamment ses articles 4, 6, 7, 8, 10 et 11 ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 288,
+      "description": "Loi n° 76-17 relative à la protection des végétaux, notamment ses articles 4, 6, 7, 8, 10 et 11 ;, d'un montant de 6,00 dirhams, au profit de Office national de",
+      "signatories": [
+        {
+          "name": "MOHAMMED SADIKI",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 6.0,
+          "currency": "D",
+          "beneficiary": "Office national de"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "15-18",
+      "title": "relative au financement collaboratif, notamment son article 15, ARRÊTE :",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 292,
+      "description": "Loi n° 15-18 relative au financement collaboratif, notamment son article 15, ARRÊTE :, d'un montant de 6,00 dirhams",
+      "signatories": [
+        {
+          "name": "NADIA FETTAH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 14.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-21-158",
+      "title": "du 30 chaoual 1443 (31 mai 2022)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 292,
+      "description": "Décret n° 2-21-158 du 30 chaoual 1443 (31 mai 2022), d'un montant de 158,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 158.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-75-321",
+      "title": "du 25 chaabane 1397",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 296,
+      "description": "Décret n° 2-75-321 du 25 chaabane 1397, d'un montant de 321,00 dirhams",
+      "signatories": [
+        {
+          "name": "MOHAMMED SADIKI",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 321.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-77-862",
+      "title": "du 25 chaoual 1397 (9 octobre 1977) pris pour l'application du",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 298,
+      "description": "Décret n° 2-77-862 du 25 chaoual 1397 (9 octobre 1977) pris pour l'application du, d'un montant de 862,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 862.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "1-77-339",
+      "title": "du 25 chaoual 1397",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 298,
+      "description": "Loi n° 1-77-339 du 25 chaoual 1397, d'un montant de 339,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 339.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "1-73-255",
+      "title": "du 27 chaoual 1393 (23 novembre",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 304,
+      "description": "Loi n° 1-73-255 du 27 chaoual 1393 (23 novembre, d'un montant de 255,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 255.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-08-562",
+      "title": "du 13 hija1429 (12 décembre 2008)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 306,
+      "description": "Décret n° 2-08-562 du 13 hija1429 (12 décembre 2008), d'un montant de 562,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 562.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n°28-00 relative à la gestion des déchets et à leur élimination",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 310,
+      "description": "Loi n°28-00 relative à la gestion des déchets et à leur élimination, d'un montant de 1.000,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1000.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "28-00",
+      "title": "relative à la gestion des déchets et à leur élimination",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 304,
+      "description": "Loi n° 28-00 relative à la gestion des déchets et à leur élimination, d'un montant de 233,95 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1000.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "103-12",
+      "title": "relative aux établissements de crédit et",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 318,
+      "description": "Loi n° 103-12 relative aux établissements de crédit et, d'un montant de 193,00 dirhams",
+      "signatories": [
+        {
+          "name": "ABDELLATIF JOUAHRI",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 193.0,
+          "currency": "D"
+        }
+      }
+    }
+  ]
+}

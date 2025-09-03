@@ -1,0 +1,370 @@
+{
+  "bulletin_metadata": {
+    "issue_number": "7342",
+    "publication_year_description": "Cent-trezième année",
+    "date_hijri": "2 ramadan 1435",
+    "date_gregorian": "2014-06-30",
+    "issn": "0851-1217"
+  },
+  "table_of_contents": [],
+  "legal_texts": [
+    {
+      "type": "Loi",
+      "number": "20-13",
+      "title": "relative au Conseil de la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2356,
+      "description": "Loi n° 20-13 relative au Conseil de la, d'un montant de 2.023,00 dirhams, au profit de Office des changes",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 5.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "41-21",
+      "title": ", promulguée par le Dahir",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2342,
+      "description": "Loi n° 41-21 , promulguée par le Dahir, d'un montant de 60,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 13.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "104-12",
+      "title": "sur la liberté des prix et de la concurrence, tel qu'il a été modifié et complété",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2466,
+      "description": "Loi n° 104-12 sur la liberté des prix et de la concurrence, tel qu'il a été modifié et complété, d'un montant de 50.000,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 50000.0,
+          "currency": "MAD"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 104-12 relative à la liberté des prix et de la concurrence, telle que modifiée et complétée",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2352,
+      "description": "Loi n° 104-12 relative à la liberté des prix et de la concurrence, telle que modifiée et complétée, d'un montant de 2.023,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 2023.0,
+          "currency": "D",
+          "beneficiary": "ministère des Affaires"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "58-23",
+      "title": "relatif au régime d'aide sociale directe et la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2392,
+      "description": "Loi n° 58-23 relatif au régime d'aide sociale directe et la",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "59-23",
+      "title": "portant création de l'Agence nationale d'aide 31 Situation des charges et des ressources du trésor de décembre 2023",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2392,
+      "description": "Loi n° 59-23 portant création de l'Agence nationale d'aide 31 Situation des charges et des ressources du trésor de décembre 2023",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "76-20",
+      "title": "du 31 décembre 2020. Son plan d'action pour la période",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2394,
+      "description": "Loi n° 76-20 du 31 décembre 2020. Son plan d'action pour la période, d'un montant de 20,00 dirhams, au profit de office des changes montre \nune baisse des",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 20.0,
+          "currency": "D",
+          "beneficiary": "office des changes montre \nune baisse des"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "104-12",
+      "title": "et du décret n° 2.14.652 pris pour son application, de nouveaux seuils ont",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2406,
+      "description": "Décret n° 104-12 et du décret n° 2.14.652 pris pour son application, de nouveaux seuils ont, d'un montant de 206,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 206.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décision",
+      "number": "42",
+      "title": "/D/2023 du 23 février",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2420,
+      "description": "Décision n° 42 /D/2023 du 23 février, d'un montant de 2.023,00 dirhams, au profit de office pour",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 14.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-14-652",
+      "title": "établissent la vérification de l'un des critères qui suivent comme condition pour la notifiabilité au Conseil de la concurrence de toute opération de concentration économique : - Le premier critère tient compte, d'une part, du chiffre d'affaires total mondial, hors taxes, de l'ensemble des entreprises ou groupe de personnes physiques ou morales parties à la 47 Opérations dont la notifiabilité a été déclarée au regard des parts de marché des entreprises concernées",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2416,
+      "description": "Décret n° 2-14-652 établissent la vérification de l'un des critères qui suivent comme condition pour la notifiabilité au Conseil de la concurrence de toute opération de concentration économique : - Le premier critère tient compte, d'une part, du chiffre d'affaires total mondial, hors taxes, de l'ensemble des entreprises ou groupe de personnes physiques ou morales parties à la 47 Opérations dont la notifiabilité a été déclarée au regard des parts de marché des entreprises concernées, d'un montant de 3,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 652.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-02-376",
+      "title": "portant statut particulier des établissements d'éducation et d'enseignement public donne aux conseils d'enseignement institués au sein de chaque établissement d'enseignement public (école primaire, lycée collégial et lycée qualifiant), l'habilitation de choisir les livres à adopter par matière et par niveau",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2432,
+      "description": "Décret n° 2-02-376 portant statut particulier des établissements d'éducation et d'enseignement public donne aux conseils d'enseignement institués au sein de chaque établissement d'enseignement public (école primaire, lycée collégial et lycée qualifiant), l'habilitation de choisir les livres à adopter par matière et par niveau, d'un montant de 14,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 14.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-23-273",
+      "title": "du 22 mai 2023 (2 kaada 1444) modifiant et complétant le",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2436,
+      "description": "Décret n° 2-23-273 du 22 mai 2023 (2 kaada 1444) modifiant et complétant le, d'un montant de 273,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 273.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "",
+      "title": "n°2-14-652 pris pour l'application de la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2436,
+      "description": "Décret n°2-14-652 pris pour l'application de la",
+      "signatories": []
+    },
+    {
+      "type": "Décret",
+      "number": "2-23-274",
+      "title": "du 22 mai 2023 (2 kaada 1444) modifiant et",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2436,
+      "description": "Décret n° 2-23-274 du 22 mai 2023 (2 kaada 1444) modifiant et, d'un montant de 274,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 274.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-15-109",
+      "title": "du 16 chaabane 1436 (4 juin 2014), tel qu'il a été modifié et complété, quatre (4) Sections au moins sont instituées dont chacune est présidée par l'un des Vice-présidents, et une autre chargée du rapport annuel du Conseil de la concurrence, et présidée par le Président du Conseil",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2446,
+      "description": "Décret n° 2-15-109 du 16 chaabane 1436 (4 juin 2014), tel qu'il a été modifié et complété, quatre (4) Sections au moins sont instituées dont chacune est présidée par l'un des Vice-présidents, et une autre chargée du rapport annuel du Conseil de la concurrence, et présidée par le Président du Conseil, d'un montant de 109,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 109.0,
+          "currency": "D",
+          "beneficiary": "ministère des Affaires"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-18-963",
+      "title": "publié en même date (B.O n° 6734)50",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2436,
+      "description": "Décret n° 2-18-963 publié en même date (B.O n° 6734)50, d'un montant de 10,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 10.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n°20-13 relative au Conseil de la concurrence, telle qu'elle a été modifiée et complétée, et de l'article premier du",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 49,
+      "description": "Loi n°20-13 relative au Conseil de la concurrence, telle qu'elle a été modifiée et complétée, et de l'article premier du",
+      "signatories": []
+    },
+    {
+      "type": "Décret",
+      "number": "",
+      "title": "n° 2-23-1110 du 11 décembre 2023 (B.O n° 7255)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 49,
+      "description": "Décret n° 2-23-1110 du 11 décembre 2023 (B.O n° 7255), d'un montant de 1.110,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1110.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n°20-13 relative au Conseil de la concurrence, telle qu'elle a été modifiée et complétée, « Le Conseil se réunit en collège douze (12) fois par an, et ce le dernier jeudi de chaque mois, à moins que cette date ne coïncide avec un jour férié ou si une force majeure empêche la tenue de la réunion",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2438,
+      "description": "Loi n°20-13 relative au Conseil de la concurrence, telle qu'elle a été modifiée et complétée, « Le Conseil se réunit en collège douze (12) fois par an, et ce le dernier jeudi de chaque mois, à moins que cette date ne coïncide avec un jour férié ou si une force majeure empêche la tenue de la réunion, d'un montant de 14,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 14.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "40-21",
+      "title": "modifiant et complétant la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2442,
+      "description": "Loi n° 40-21 modifiant et complétant la",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 20-13 relative au Conseil de la concurrence",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2442,
+      "description": "Loi n° 20-13 relative au Conseil de la concurrence, d'un montant de 2.022,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 2022.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décision",
+      "number": "101",
+      "title": "/D/2021 du 10 septembre 2021 par la partie",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2444,
+      "description": "Décision n° 101 /D/2021 du 10 septembre 2021 par la partie, d'un montant de 2.021,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 2021.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-23-1110",
+      "title": "du 11 décembre 2023",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2446,
+      "description": "Décret n° 2-23-1110 du 11 décembre 2023, d'un montant de 1.110,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1110.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "13-09",
+      "title": "relative aux énergies renouvelables prévoit également un système financier et",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2478,
+      "description": "Loi n° 13-09 relative aux énergies renouvelables prévoit également un système financier et, d'un montant de 2.030,00 dirhams, au profit de Masen",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 2030.0,
+          "currency": "D",
+          "beneficiary": "Masen"
+        }
+      }
+    }
+  ]
+}

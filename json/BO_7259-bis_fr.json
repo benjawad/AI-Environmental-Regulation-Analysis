@@ -1,0 +1,881 @@
+{
+  "bulletin_metadata": {
+    "issue_number": "7259",
+    "publication_year_description": "Cent-douzième année",
+    "date_hijri": "14 chaabane 1436",
+    "date_gregorian": "2015-06-02",
+    "issn": "0851-1217"
+  },
+  "table_of_contents": [
+    {
+      "category": "TEXTES GENERAUX",
+      "title": "SOMMAIRE Loi de finances pour l'année budgétaire 2024. Dahir n° 1-23-91 du 30 joumada I 1445 (14 décembre 2023) portant promulgation de la loi de finances n° 55-23 pour l'année budgétaire 2024",
+      "description": "",
+      "page": 2912
+    },
+    {
+      "category": "TEXTES GENERAUX",
+      "title": "Ministre de l'économie et des finances. - Délégation de pouvoir. Décret n° 2-23-900 du 7 joumada II 1445 (21 décembre 2023) portant délégation de pouvoir, à la ministre de l'économie et des finances, en matière d'emprunts intérieurs et de recours à tout autre instrument financier ............................................................................................................................................. 3014 Décret n° 2-23-901 du 7 joumada II 1445 (21 décembre 2023) portant délégation de pouvoir, à la ministre de l'économie et des finances, en matière de financements extérieurs",
+      "description": "",
+      "page": 3014
+    },
+    {
+      "category": "TEXTES GENERAUX",
+      "title": "Décret n° 2-23-902 du 7 joumada II 1445 (21 décembre 2023) portant délégation de pouvoir, à la ministre de l'économie et des finances, en vue de conclure des contrats d'emprunts pour le remboursement de la dette extérieure onéreuse et des accords de couverture de risques de taux d'intérêts et d'échange de devises",
+      "description": "",
+      "page": 3015
+    }
+  ],
+  "legal_texts": [
+    {
+      "type": "Décret",
+      "number": "2-23-900",
+      "title": "du 7 joumada II 1445 (21 décembre 2023)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 3014,
+      "description": "Décret n° 2-23-900 du 7 joumada II 1445 (21 décembre 2023), d'un montant de 900,00 dirhams",
+      "signatories": [
+        {
+          "name": "et des finances",
+          "title": "La ministre de l'économie"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 900.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-23-901",
+      "title": "du 7 joumada II 1445 (21 décembre 2023)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 3014,
+      "description": "Décret n° 2-23-901 du 7 joumada II 1445 (21 décembre 2023), d'un montant de 901,00 dirhams",
+      "signatories": [
+        {
+          "name": "et des finances",
+          "title": "La ministre de l'économie"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        },
+        {
+          "name": "NADIA FETTAH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 901.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-23-902",
+      "title": "du 7 joumada II 1445 (21 décembre 2023) portant délégation de pouvoir, à la ministre",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 3014,
+      "description": "Décret n° 2-23-902 du 7 joumada II 1445 (21 décembre 2023) portant délégation de pouvoir, à la ministre, d'un montant de 902,00 dirhams",
+      "signatories": [
+        {
+          "name": "et des finances",
+          "title": "La ministre de l'économie"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 902.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "1-77-340",
+      "title": "du 25 chaoual 1397 (9 octobre 1977)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2912,
+      "description": "Loi n° 1-77-340 du 25 chaoual 1397 (9 octobre 1977), d'un montant de 340,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 340.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-23-47",
+      "title": "du 5 rejeb 1444 (27 janvier 2023),",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2912,
+      "description": "Décret n° 2-23-47 du 5 rejeb 1444 (27 janvier 2023),, d'un montant de 47,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 47.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-22-818",
+      "title": "du 22 rabii I 1444",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2912,
+      "description": "Décret n° 2-22-818 du 22 rabii I 1444, d'un montant de 818,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 818.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-23-317",
+      "title": "du 9 hija 1444 (28 juin 2023), portant",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2912,
+      "description": "Décret n° 2-23-317 du 9 hija 1444 (28 juin 2023), portant, d'un montant de 317,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 317.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-23-590",
+      "title": "du 3 moharrem 1445 (21 juillet 2023),",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2912,
+      "description": "Décret n° 2-23-590 du 3 moharrem 1445 (21 juillet 2023),, d'un montant de 590,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 590.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "1-77-339",
+      "title": "du 25 chaoual 1397 (9 octobre 1977),",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2912,
+      "description": "Loi n° 1-77-339 du 25 chaoual 1397 (9 octobre 1977),, d'un montant de 339,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 339.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "23-23",
+      "title": "précitée ; « 11° - les opérations des associations …………………… (la suite sans modification.) « Article 133",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2912,
+      "description": "Loi n° 23-23 précitée ; « 11° - les opérations des associations …………………… (la suite sans modification.) « Article 133, d'un montant de 31,00 dirhams, au profit de office un identifiant",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 31.0,
+          "currency": "D",
+          "beneficiary": "office un identifiant"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "43-20",
+      "title": "relative « aux services de confiance pour les transactions électroniques « promulguée par le dahir n° 1-20-100 du 16 joumada I 1442 « (31 décembre 2020)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2912,
+      "description": "Loi n° 43-20 relative « aux services de confiance pour les transactions électroniques « promulguée par le dahir n° 1-20-100 du 16 joumada I 1442 « (31 décembre 2020), d'un montant de 100,00 dirhams",
+      "signatories": [
+        {
+          "name": "COMPTES SPÉCIAUX DU TRÉSOR",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 8.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 1-77-340 du 25 chaoual 1397 (9 octobre 1977) précité, est complété par l'article 42 bis comme suit : « Article 42 bis",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2912,
+      "description": "Loi n° 1-77-340 du 25 chaoual 1397 (9 octobre 1977) précité, est complété par l'article 42 bis comme suit : « Article 42 bis, d'un montant de 340,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 340.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "98-15",
+      "title": "relative au régime de l'assurance maladie",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2912,
+      "description": "Loi n° 98-15 relative au régime de l'assurance maladie",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "99-15",
+      "title": "instituant « un régime de pensions, pour les catégories des professionnels, « des travailleurs indépendants et des personnes non salariées « exerçant une activité libérale",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2912,
+      "description": "Loi n° 99-15 instituant « un régime de pensions, pour les catégories des professionnels, « des travailleurs indépendants et des personnes non salariées « exerçant une activité libérale",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "103-12",
+      "title": "relative aux établissements de crédit et organismes assimilés, promulguée par le dahir n°1-14-193 du 1er rabii I 1436 (24 décembre 2014), une déclaration souscrite sur un imprimé-modèle établi par 2942 l'administration faisant ressortir la nature des avoirs détenus à l'étranger tels que visés au I-3 ci-dessus ; b) rapatrier les liquidités en devises ainsi que les revenus et produits générés par lesdites liquidités et céder au moins 25% de ces liquidités sur le marché des changes au Maroc contre des dirhams avec possibilité de déposer le reliquat dans des comptes",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2912,
+      "description": "Loi n° 103-12 relative aux établissements de crédit et organismes assimilés, promulguée par le dahir n°1-14-193 du 1er rabii I 1436 (24 décembre 2014), une déclaration souscrite sur un imprimé-modèle établi par 2942 l'administration faisant ressortir la nature des avoirs détenus à l'étranger tels que visés au I-3 ci-dessus ; b) rapatrier les liquidités en devises ainsi que les revenus et produits générés par lesdites liquidités et céder au moins 25% de ces liquidités sur le marché des changes au Maroc contre des dirhams avec possibilité de déposer le reliquat dans des comptes, d'un montant de 193,00 dirhams, au profit de Office des changes et",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 10000.0,
+          "currency": "MAD"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "15-97",
+      "title": "formant code de recouvrement",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2912,
+      "description": "Loi n° 15-97 formant code de recouvrement, d'un montant de 175,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 175.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "69-21",
+      "title": "portant modification de la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2912,
+      "description": "Loi n° 69-21 portant modification de la",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "15-95",
+      "title": "relative « au code de commerce et édictant des dispositions transitoires « relatives aux délais de paiement",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2912,
+      "description": "Loi n° 15-95 relative « au code de commerce et édictant des dispositions transitoires « relatives aux délais de paiement, d'un montant de 19,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 19.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "65-00",
+      "title": "« relative à l'assurance maladie obligatoire de base, « telle qu'elle a été modifiée et complétée, notamment « par la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2912,
+      "description": "Loi n° 65-00 « relative à l'assurance maladie obligatoire de base, « telle qu'elle a été modifiée et complétée, notamment « par la",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "27-22",
+      "title": "« - les versements au profit de l'organisme chargé de la « gestion du système d'aide sociale directe conformément « à la législation et la réglementation en vigueur ; « - les versements, dans un cadre conventionnel, au profit « des organismes chargés de la gestion du système d'aide « sociale directe ; 2946 « - les versements au profit des établissements et « entreprises publics ; « - la contribution,",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2912,
+      "description": "Loi n° 27-22 « - les versements au profit de l'organisme chargé de la « gestion du système d'aide sociale directe conformément « à la législation et la réglementation en vigueur ; « - les versements, dans un cadre conventionnel, au profit « des organismes chargés de la gestion du système d'aide « sociale directe ; 2946 « - les versements au profit des établissements et « entreprises publics ; « - la contribution,, d'un montant de 37,00 dirhams",
+      "signatories": [
+        {
+          "name": "TITRE II DISPOSITIONS RELATIVES AUX CHARGES",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 37.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-23-431",
+      "title": "du 26 chaoual 1444 (17 mai 2023)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2912,
+      "description": "Décret n° 2-23-431 du 26 chaoual 1444 (17 mai 2023), d'un montant de 431,00 dirhams",
+      "signatories": [
+        {
+          "name": "MANIERE AUTONOME",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 431.0,
+          "currency": "D",
+          "beneficiary": "Ministère de l"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-23-811",
+      "title": "du 25 safar 1445 (11 septembre 2023)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 2912,
+      "description": "Décret n° 2-23-811 du 25 safar 1445 (11 septembre 2023), d'un montant de 811,00 dirhams, au profit de Office des changes",
+      "signatories": [
+        {
+          "name": "CENTRE NATIONAL DE DOCUMENTATION",
+          "title": ""
+        },
+        {
+          "name": "ECOLE DES SCIENCES DE L'INFORMATION",
+          "title": ""
+        },
+        {
+          "name": "INSTITUT NATIONAL D'AMENAGEMENT ET D'URBANISME",
+          "title": ""
+        },
+        {
+          "name": "ECOLE NATIONALE D'ARCHITECTURE DE MARRAKECH",
+          "title": ""
+        },
+        {
+          "name": "ECOLE NATIONALE D'ARCHITECTURE D'OUJDA",
+          "title": ""
+        },
+        {
+          "name": "ECOLE NATIONALE D'ARCHITECTURE D'AGADIR",
+          "title": ""
+        },
+        {
+          "name": "POLITIQUE DE LA VILLE",
+          "title": ""
+        },
+        {
+          "name": "TOTAL CHEF DU GOUVERNEMENT",
+          "title": ""
+        },
+        {
+          "name": "- TOTAL DES DEPENSES D'INVESTISSEMENT DES",
+          "title": ""
+        },
+        {
+          "name": "SEGMA RATTACHES AU MINISTERE DES AFFAIRES",
+          "title": ""
+        },
+        {
+          "name": "TOTAL DES DEPENSES D'INVESTISSEMENT DES",
+          "title": ""
+        },
+        {
+          "name": "PRESCOLAIRE ET DES SPORTS",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL OUARZAZATE",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PREFECTORAL INEZGANE-AIT MELLOUL",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL TAROUDANT",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL TIZNIT",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL ESSAOUIRA",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL EL JADIDA",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL SAFI",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL KHOURIBGA",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL SETTAT",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL BOULEMANE",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL SEFROU",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL KENITRA",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL SIDI KACEM",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL CHEFCHAOUEN",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL LARACHE",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER REGIONAL DE TANGER",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL TETOUAN",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER REGIONAL D'ERRACHIDIA",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL IFRANE",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL AL HOCEIMA",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL TAZA",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL FIGUIG",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL NADOR",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL BERKANE",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER REGIONAL D'OUED-ED-DAHAB",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER REGIONAL DE LAAYOUNE",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL TAN-TAN",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER REGIONAL DE BENI MELLAL",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER REGIONAL D'AGADIR",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER REGIONAL DE MARRAKECH",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER REGIONAL DE CASABLANCA",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PREFECTORAL MOHAMMEDIA",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL KHEMISSET",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PREFECTORAL MEKNES",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER REGIONAL D'OUJDA",
+          "title": ""
+        },
+        {
+          "name": "INSTITUT NATIONAL D'HYGIENE",
+          "title": ""
+        },
+        {
+          "name": "CENTRE NATIONAL DE RADIOPROTECTION",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL CHICHAOUA",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PREFECTORAL D'ARRONDISSEMENT HAY HASSANI",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL TAOUNATE",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL TAOURIRT",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL CHTOUKA AIT BAHA",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PREFECTORAL D'ARRONDISSEMENT AIN CHOCK",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL BENSLIMANE",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL TATA",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL AL HAOUZ",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL ZAGORA",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL BOUJDOUR",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL ASSA ZAQ",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER REGIONAL DE GUELMIM",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL ESSMARA",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL NOUACEUR",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL AZILAL",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL EL HAJEB",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PREFECTORAL M'DIQ FNIDEQ",
+          "title": ""
+        },
+        {
+          "name": "ECOLE NATIONALE DE SANTE PUBLIQUE",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL JRADA",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER REGIONAL DE FES",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL TINGHIR",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL SIDI IFNI",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL SIDI SLIMANE",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL OUEZZANE",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL BERRECHID",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL RHAMNA",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL SIDI BENNOUR",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL YOUSSOUFIA",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL FKIH BEN SALAH",
+          "title": ""
+        },
+        {
+          "name": "CENTRE HOSPITALIER PROVINCIAL GUERCIF",
+          "title": ""
+        },
+        {
+          "name": "MINISTERE DE L'ECONOMIE ET DES FINANCES",
+          "title": ""
+        },
+        {
+          "name": "DIVISION ADMINISTRATIVE",
+          "title": ""
+        },
+        {
+          "name": "L'ECONOMIE SOCIALE ET SOLIDAIRE",
+          "title": ""
+        },
+        {
+          "name": "INSTITUT SPECIALISE DE TECHNOLOGIE APPLIQUEE",
+          "title": ""
+        },
+        {
+          "name": "CENTRE DE QUALIFICATION PROFESSIONNELLE",
+          "title": ""
+        },
+        {
+          "name": "INSTITUT SPÉCIALISÉ DES ARTS TRADITIONNELS FES",
+          "title": ""
+        },
+        {
+          "name": "INSTITUT SPÉCIALISÉ DES ARTS TRADITIONNELS MARRAKECH",
+          "title": ""
+        },
+        {
+          "name": "INSTITUT SPÉCIALISÉ DES ARTS TRADITIONNELS MEKNES",
+          "title": ""
+        },
+        {
+          "name": "INSTITUT SPÉCIALISÉ DES ARTS TRADITIONNELS OUARZAZATE",
+          "title": ""
+        },
+        {
+          "name": "INSTITUT SPÉCIALISÉ DES ARTS TRADITIONNELS INEZGANE",
+          "title": ""
+        },
+        {
+          "name": "SECRETARIAT GENERAL DU GOUVERNEMENT",
+          "title": ""
+        },
+        {
+          "name": "SERVICE DE LA FORMATION CONTINUE",
+          "title": ""
+        },
+        {
+          "name": "DIRECTION GENERALE DE LA METEOROLOGIE",
+          "title": ""
+        },
+        {
+          "name": "SERVICE DE GESTION DES CHANTIERS",
+          "title": ""
+        },
+        {
+          "name": "ET DE L'EAU",
+          "title": ""
+        },
+        {
+          "name": "INSTITUT SUPERIEUR D'ETUDES MARITIMES",
+          "title": ""
+        },
+        {
+          "name": "DIRECTION DE LA MARINE MARCHANDE",
+          "title": ""
+        },
+        {
+          "name": "DIRECTION GENERALE DE L'AVIATION CIVILE",
+          "title": ""
+        },
+        {
+          "name": "DE LA LOGISTIQUE",
+          "title": ""
+        },
+        {
+          "name": "ET FORETS",
+          "title": ""
+        },
+        {
+          "name": "INSTITUT DES TECHNICIENS SPECIALISES EN",
+          "title": ""
+        },
+        {
+          "name": "BOUKNADEL - SALE - - -",
+          "title": ""
+        },
+        {
+          "name": "INSTITUT SUPERIEUR DES PECHES MARITIMES",
+          "title": ""
+        },
+        {
+          "name": "ECOLE NATIONALE FORESTIERE D'INGENIEURS",
+          "title": ""
+        },
+        {
+          "name": "SERVICE DES LYCEES AGRICOLES",
+          "title": ""
+        },
+        {
+          "name": "DIVISION DU PELERINAGE - - -",
+          "title": ""
+        },
+        {
+          "name": "DEVELOPPEMENT DURABLE",
+          "title": ""
+        },
+        {
+          "name": "INSTITUT DES MINES DE TOUISSIT",
+          "title": ""
+        },
+        {
+          "name": "INSTITUT DES MINES DE MARRAKECH",
+          "title": ""
+        },
+        {
+          "name": "ENERGETIQUE ET DU DEVELOPPEMENT DURABLE",
+          "title": ""
+        },
+        {
+          "name": "LA COMMUNICATION",
+          "title": ""
+        },
+        {
+          "name": "DIVISION DE LA FORMATION",
+          "title": ""
+        },
+        {
+          "name": "L'EMPLOI ET DES COMPETENCES",
+          "title": ""
+        },
+        {
+          "name": "ADMINISTRATION DE LA DEFENSE NATIONALE",
+          "title": ""
+        },
+        {
+          "name": "CENTRE ROYAL DE TELEDETECTION SPACIALE",
+          "title": ""
+        },
+        {
+          "name": "HAUT COMMISSARIAT AU PLAN",
+          "title": ""
+        },
+        {
+          "name": "TOTAL MINISTERE DE L'AMENAGEMENT DU TERRITOIRE",
+          "title": ""
+        },
+        {
+          "name": "LA VILLE",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 811.0,
+          "currency": "D",
+          "beneficiary": "MINISTERE DE LA JUSTICE"
+        }
+      }
+    }
+  ]
+}

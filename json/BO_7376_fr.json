@@ -1,0 +1,1130 @@
+{
+  "bulletin_metadata": {
+    "issue_number": "7376",
+    "publication_year_description": "Cent-quatorzième année",
+    "date_hijri": "7 chaabane 1446",
+    "date_gregorian": "2025-02-06",
+    "issn": "0851-1217"
+  },
+  "table_of_contents": [],
+  "legal_texts": [
+    {
+      "type": "Loi",
+      "number": "96-21",
+      "title": "modifiant et complétant la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 214,
+      "description": "Loi n° 96-21 modifiant et complétant la",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "17-95",
+      "title": "relative aux sociétés anonymes, doivent être exclusivement sous la forme nominative",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 216,
+      "description": "Loi n° 17-95 relative aux sociétés anonymes, doivent être exclusivement sous la forme nominative, d'un montant de 280,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 280.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-22-208",
+      "title": "du 29 chaabane 1443",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 218,
+      "description": "Décret n° 2-22-208 du 29 chaabane 1443, d'un montant de 208,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 208.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "",
+      "title": "n° 2-21-928 du 23 rabii II 1443 (29 novembre 2021) pris pour l'application de la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 0,
+      "description": "Décret n° 2-21-928 du 23 rabii II 1443 (29 novembre 2021) pris pour l'application de la, d'un montant de 928,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 928.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "98-15",
+      "title": ".............................................. comme suit :",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 220,
+      "description": "Loi n° 98-15 .............................................. comme suit :, d'un montant de 100.000,00 dirhams",
+      "signatories": [
+        {
+          "name": "et de la protection sociale",
+          "title": "Le ministre de la santé"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        },
+        {
+          "name": "KHALID AIT TALEB",
+          "title": ""
+        },
+        {
+          "name": "RYAD MEZZOUR",
+          "title": ""
+        },
+        {
+          "name": "FATIMA ZAHRA AMMOR",
+          "title": ""
+        },
+        {
+          "name": "FOUZI LEKJAA",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 21.0,
+          "currency": "D",
+          "beneficiary": "ministère des Habous et \ndes affaires islamiques est"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "99-15",
+      "title": "précitées ART",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 222,
+      "description": "Loi n° 99-15 précitées ART",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 13.0,
+          "currency": "D",
+          "beneficiary": "ministère des habous et des affaires islamiques \nune convention fixant les"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-22-337",
+      "title": "du 8 kaada 1443 (8 juin 2022)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 218,
+      "description": "Décret n° 2-22-337 du 8 kaada 1443 (8 juin 2022), d'un montant de 337,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 337.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-22-338",
+      "title": "du 8 kaada 1443 (8 juin 2022)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 220,
+      "description": "Décret n° 2-22-338 du 8 kaada 1443 (8 juin 2022), d'un montant de 338,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 338.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-21-751",
+      "title": "du 23 rabii II 1443 (29 novembre 2021) pris pour l'application de la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 220,
+      "description": "Décret n° 2-21-751 du 23 rabii II 1443 (29 novembre 2021) pris pour l'application de la, d'un montant de 751,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 751.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-22-858",
+      "title": "du 30 rabii II 1444 (25 novembre",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 212,
+      "description": "Décret n° 2-22-858 du 30 rabii II 1444 (25 novembre, d'un montant de 858,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 858.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-22-859",
+      "title": "du 30 rabii II 1444 (25 novembre",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 212,
+      "description": "Décret n° 2-22-859 du 30 rabii II 1444 (25 novembre, d'un montant de 859,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 859.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "",
+      "title": "n° 2-21-751 du 23 rabii II 1443 (29 novembre 2021) pris pour l'application de la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 212,
+      "description": "Décret n° 2-21-751 du 23 rabii II 1443 (29 novembre 2021) pris pour l'application de la, d'un montant de 751,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 751.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-22-860",
+      "title": "du 30 rabii II 1444 (25 novembre",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 212,
+      "description": "Décret n° 2-22-860 du 30 rabii II 1444 (25 novembre, d'un montant de 860,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 860.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-22-861",
+      "title": "du 30 rabii II 1444 (25 novembre",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 212,
+      "description": "Décret n° 2-22-861 du 30 rabii II 1444 (25 novembre, d'un montant de 861,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 861.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-22-911",
+      "title": "du 30 rabii II 1444 (25 novembre",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 212,
+      "description": "Décret n° 2-22-911 du 30 rabii II 1444 (25 novembre, d'un montant de 911,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 911.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-23-562",
+      "title": "du 7 joumada II 1445 (21 décembre",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 212,
+      "description": "Décret n° 2-23-562 du 7 joumada II 1445 (21 décembre, d'un montant de 562,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 562.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-24-1090",
+      "title": "du 17 joumada II 1446 (19 décembre 2024)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 228,
+      "description": "Décret n° 2-24-1090 du 17 joumada II 1446 (19 décembre 2024), d'un montant de 1.090,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1090.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-24-1124",
+      "title": "du 26 rejeb 1446 (27 janvier 2025)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 212,
+      "description": "Décret n° 2-24-1124 du 26 rejeb 1446 (27 janvier 2025), d'un montant de 1.124,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1124.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-73-454",
+      "title": "du 27 hija 1394",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 212,
+      "description": "Décret n° 2-73-454 du 27 hija 1394, d'un montant de 454,00 dirhams",
+      "signatories": [
+        {
+          "name": "AVIS ET COMMUNICATIONS",
+          "title": ""
+        },
+        {
+          "name": "AHMED EL BOUARI",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 454.0,
+          "currency": "D"
+        },
+        "geographical_indication": {
+          "name": "tous risques chantier"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "35-96",
+      "title": "relative à « la création d'un dépositaire central et à l'institution d'un « régime général de l'inscription en compte de certaines valeurs, « promulguée par le dahir n° 1-96-246 du 29 chaabane 1417 « (9 janvier 1997)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 214,
+      "description": "Loi n° 35-96 relative à « la création d'un dépositaire central et à l'institution d'un « régime général de l'inscription en compte de certaines valeurs, « promulguée par le dahir n° 1-96-246 du 29 chaabane 1417 « (9 janvier 1997), d'un montant de 246,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 246.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "30-24",
+      "title": "modifiant et complétant la loi organique n° 02-12 relative à la nomination aux fonctions supérieures en application des dispositions des articles 49 et 92 de la Constitution",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 216,
+      "description": "Loi n° 30-24 modifiant et complétant la loi organique n° 02-12 relative à la nomination aux fonctions supérieures en application des dispositions des articles 49 et 92 de la Constitution, d'un montant de 92,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 92.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-21-928",
+      "title": "du 23 rabii II",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 218,
+      "description": "Décret n° 2-21-928 du 23 rabii II, d'un montant de 928,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 928.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 98-15 relative au régime de l'assurance maladie obligatoire de base et la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 218,
+      "description": "Loi n° 98-15 relative au régime de l'assurance maladie obligatoire de base et la",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "65-00",
+      "title": "portant code de la couverture médicale de base promulguée par le dahir n° 1-02-296 du 25 rejeb 1423 (3 octobre 2002), telle qu'elle a été modifiée et complétée ; Nº 7376 - 7 chaabane 1446 (6-2-2025) BULLETIN OFFICIEL 219",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 218,
+      "description": "Loi n° 65-00 portant code de la couverture médicale de base promulguée par le dahir n° 1-02-296 du 25 rejeb 1423 (3 octobre 2002), telle qu'elle a été modifiée et complétée ; Nº 7376 - 7 chaabane 1446 (6-2-2025) BULLETIN OFFICIEL 219, d'un montant de 296,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 296.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "65-99",
+      "title": "susvisée, par la durée annuelle normale",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 220,
+      "description": "Loi n° 65-99 susvisée, par la durée annuelle normale, d'un montant de 184,00 dirhams",
+      "signatories": [
+        {
+          "name": "et de la protection sociale",
+          "title": "Le ministre de la santé"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        },
+        {
+          "name": "KHALID AIT TALEB",
+          "title": ""
+        },
+        {
+          "name": "RYAD MEZZOUR",
+          "title": ""
+        },
+        {
+          "name": "FATIMA ZAHRA AMMOR",
+          "title": ""
+        },
+        {
+          "name": "FOUZI LEKJAA",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 184.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "1-73-255",
+      "title": "du 27 chaoual 1393",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 272,
+      "description": "Loi n° 1-73-255 du 27 chaoual 1393, d'un montant de 255,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 255.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-15-285",
+      "title": "du 20 joumada II 1436 (10 avril",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 218,
+      "description": "Décret n° 2-15-285 du 20 joumada II 1436 (10 avril, d'un montant de 285,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 285.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-18-622",
+      "title": "du 10 joumada I 1440 (17 janvier",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 218,
+      "description": "Décret n° 2-18-622 du 10 joumada I 1440 (17 janvier, d'un montant de 622,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 622.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 99-15 instituant un régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, tel qu'il a été modifié et complété notamment par le",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 218,
+      "description": "Loi n° 99-15 instituant un régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, tel qu'il a été modifié et complété notamment par le",
+      "signatories": []
+    },
+    {
+      "type": "Décret",
+      "number": "2-22-207",
+      "title": "du 29 chaabane 1443 (1er avril 2022) ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 218,
+      "description": "Décret n° 2-22-207 du 29 chaabane 1443 (1er avril 2022) ;, d'un montant de 207,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 207.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-21-929",
+      "title": "du 23 rabii II 1443 (29 novembre",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 218,
+      "description": "Décret n° 2-21-929 du 23 rabii II 1443 (29 novembre, d'un montant de 929,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 929.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "30-09",
+      "title": "relative à l'éducation physique et aux",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 222,
+      "description": "Loi n° 30-09 relative à l'éducation physique et aux, d'un montant de 150,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 150.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 99-15 instituant un régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, tel qu'il a été modifié et complété ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 222,
+      "description": "Loi n° 99-15 instituant un régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, tel qu'il a été modifié et complété ;",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 99-15 instituant un régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les journalistes professionnels et les journalistes professionnels accrédités, non-salariés et assimilés",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 224,
+      "description": "Loi n° 99-15 instituant un régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les journalistes professionnels et les journalistes professionnels accrédités, non-salariés et assimilés",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "89-13",
+      "title": "relative au statut des journalistes",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 224,
+      "description": "Loi n° 89-13 relative au statut des journalistes, d'un montant de 51,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 51.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "90-13",
+      "title": "portant création du Conseil national de la presse, promulguée par le dahir n° 1-16-24 du 30 joumada I 1437 (10 mars 2016) ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 224,
+      "description": "Loi n° 90-13 portant création du Conseil national de la presse, promulguée par le dahir n° 1-16-24 du 30 joumada I 1437 (10 mars 2016) ;, d'un montant de 24,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 24.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-19-121",
+      "title": "du 7 rejeb 1440 (14 mars 2019)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 224,
+      "description": "Décret n° 2-19-121 du 7 rejeb 1440 (14 mars 2019), d'un montant de 121,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 121.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 98-15 précitée, le Conseil national de la presse est considéré comme l'organisme de communication chargé de fournir à la Caisse nationale de sécurité sociale les informations dont il dispose relatives aux personnes appartenant à la catégorie des journalistes professionnels non salariés titulaires de la carte de journaliste professionnel et les personnes assimilées titulaires d'une carte de presse spéciale mentionnés à l'article premier ci-dessus, nécessaires à leur immatriculation et ce, conformément aux modalités fixées en vertu des textes réglementaires en vigueur",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 224,
+      "description": "Loi n° 98-15 précitée, le Conseil national de la presse est considéré comme l'organisme de communication chargé de fournir à la Caisse nationale de sécurité sociale les informations dont il dispose relatives aux personnes appartenant à la catégorie des journalistes professionnels non salariés titulaires de la carte de journaliste professionnel et les personnes assimilées titulaires d'une carte de presse spéciale mentionnés à l'article premier ci-dessus, nécessaires à leur immatriculation et ce, conformément aux modalités fixées en vertu des textes réglementaires en vigueur",
+      "signatories": [
+        {
+          "name": "MOHAMMED MEHDI BENSAID",
+          "title": ""
+        },
+        {
+          "name": "FOUZI LEKJAA",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "type": "Loi",
+      "number": "9915",
+      "title": "instituant un régime de pensions, pour les catégories des",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 224,
+      "description": "Loi n° 9915 instituant un régime de pensions, pour les catégories des",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 99-15 instituant un régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les préposés religieux chargés",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 226,
+      "description": "Loi n° 99-15 instituant un régime de pensions, pour les catégories des professionnels, des travailleurs indépendants et des personnes non salariées exerçant une activité libérale, en ce qui concerne les préposés religieux chargés, d'un montant de 104,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 104.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "27-22",
+      "title": "",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 226,
+      "description": "Loi n° 27-22",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "82-20",
+      "title": "portant création de l'Agence nationale de gestion stratégique des participations de l'Etat et de suivi des performances des EEP (ANGSPE), une réforme profonde de ce secteur a été engagée",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 228,
+      "description": "Loi n° 82-20 portant création de l'Agence nationale de gestion stratégique des participations de l'Etat et de suivi des performances des EEP (ANGSPE), une réforme profonde de ce secteur a été engagée, d'un montant de 49,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 49.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-22-796",
+      "title": "du 4 rejeb 1444 (26 janvier 2023) relatif à la composition de l'Instance de",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 228,
+      "description": "Décret n° 2-22-796 du 4 rejeb 1444 (26 janvier 2023) relatif à la composition de l'Instance de, d'un montant de 796,00 dirhams",
+      "signatories": [
+        {
+          "name": "NADIA FETTAH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 796.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "42-12",
+      "title": "relative au marché à terme d'instruments",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 236,
+      "description": "Loi n° 42-12 relative au marché à terme d'instruments, d'un montant de 96,00 dirhams",
+      "signatories": [
+        {
+          "name": "NADIA FETTAH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 96.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "1-76-472",
+      "title": "du 5 chaoual 1397 (19 septembre 1977),",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 238,
+      "description": "Loi n° 1-76-472 du 5 chaoual 1397 (19 septembre 1977),, d'un montant de 472,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 472.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-85-891",
+      "title": "du 18 rabii II 1406 (31 décembre",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 238,
+      "description": "Décret n° 2-85-891 du 18 rabii II 1406 (31 décembre, d'un montant de 891,00 dirhams, au profit de office national de",
+      "signatories": [
+        {
+          "name": "ESPECE VARIETE CATEGO RIE",
+          "title": ""
+        },
+        {
+          "name": "PERTES OU D'AVARIES",
+          "title": ""
+        },
+        {
+          "name": "LEGUMINEUSES ALIMENTAIRES ET FOURRAGERES IMPORTEES",
+          "title": ""
+        },
+        {
+          "name": "NOMS DES BENEFICIAIRES QUANTITES",
+          "title": ""
+        },
+        {
+          "name": "NUMERO DE FACTURE TOTAL",
+          "title": ""
+        },
+        {
+          "name": "ESPECE VARIETE CATEGORIE PRIX DE VENTE",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 891.0,
+          "currency": "D",
+          "beneficiary": "ministère de l"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "17-99",
+      "title": "précitée",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 268,
+      "description": "Loi n° 17-99 précitée, d'un montant de 31,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 7365.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-20-372",
+      "title": "du 10 rabii II 1442 (26 novembre",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 256,
+      "description": "Décret n° 2-20-372 du 10 rabii II 1442 (26 novembre, d'un montant de 372,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 372.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-18-1009",
+      "title": "du 23 chaabane 1440 (29 avril",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 258,
+      "description": "Décret n° 2-18-1009 du 23 chaabane 1440 (29 avril, d'un montant de 1.009,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1009.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 17-99 précitée, sont exclus de « la garantie dommages à l'ouvrage » : 1- les dommages et pertes provenant d'une faute intentionnelle ou dolosive de l'assuré ; 2- les dommages et pertes occasionnés par les tremblements de terre, les ouragans, les éruptions volcaniques, les crues ou les inondations ; 3- les dommages et pertes occasionnés par la guerre étrangère, la guerre civile, les émeutes et mouvements populaires ou les actes de terrorisme ou de sabotage ; 4- les dommages et pertes dus aux risques atomiques ou",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 258,
+      "description": "Loi n° 17-99 précitée, sont exclus de « la garantie dommages à l'ouvrage » : 1- les dommages et pertes provenant d'une faute intentionnelle ou dolosive de l'assuré ; 2- les dommages et pertes occasionnés par les tremblements de terre, les ouragans, les éruptions volcaniques, les crues ou les inondations ; 3- les dommages et pertes occasionnés par la guerre étrangère, la guerre civile, les émeutes et mouvements populaires ou les actes de terrorisme ou de sabotage ; 4- les dommages et pertes dus aux risques atomiques ou, d'un montant de 1,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 17-99 précitée, sont exclus de « la garantie responsabilité civile chantier » : 1- les dommages et pertes provenant d'une faute intentionnelle ou dolosive de l'assuré ; 2- les dommages consécutifs aux caractéristiques du sol, lorsque l'étude de sol n'a pas été effectuée avant le démarrage des travaux ou lorsque ces dommages résultent du non-respect des recommandations figurant dans ladite étude ; 3- les dommages résultant des vibrations, de la suppression ou de l'affaiblissement des points d'appui des ouvrages mitoyens à l'ouvrage assuré comportant cinq (5) étages ou plus et ayant",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 260,
+      "description": "Loi n° 17-99 précitée, sont exclus de « la garantie responsabilité civile chantier » : 1- les dommages et pertes provenant d'une faute intentionnelle ou dolosive de l'assuré ; 2- les dommages consécutifs aux caractéristiques du sol, lorsque l'étude de sol n'a pas été effectuée avant le démarrage des travaux ou lorsque ces dommages résultent du non-respect des recommandations figurant dans ladite étude ; 3- les dommages résultant des vibrations, de la suppression ou de l'affaiblissement des points d'appui des ouvrages mitoyens à l'ouvrage assuré comportant cinq (5) étages ou plus et ayant, d'un montant de 120,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 120.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 17-99 précitée ; • en cas de réquisition de la propriété de l'ouvrage assuré conformément aux dispositions de l'article 33 de la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 262,
+      "description": "Loi n° 17-99 précitée ; • en cas de réquisition de la propriété de l'ouvrage assuré conformément aux dispositions de l'article 33 de la, d'un montant de 33,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 33.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 17-99 précitée",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 264,
+      "description": "Loi n° 17-99 précitée, d'un montant de 2,00 dirhams",
+      "signatories": [
+        {
+          "name": "TITRE V PRESCRIPTION",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 2.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 17-99 précitée ; • en cas de résiliation d'un autre contrat par l'assureur après sinistre conformément aux dispositions de l'article 26 de la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 262,
+      "description": "Loi n° 17-99 précitée ; • en cas de résiliation d'un autre contrat par l'assureur après sinistre conformément aux dispositions de l'article 26 de la, d'un montant de 26,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 26.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 17-99 précitée ; • après sinistre, l'assuré a le droit de résilier les autres contrats qu'il a souscrit avec l'assureur conformément aux dispositions de l'article 26 de la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 262,
+      "description": "Loi n° 17-99 précitée ; • après sinistre, l'assuré a le droit de résilier les autres contrats qu'il a souscrit avec l'assureur conformément aux dispositions de l'article 26 de la, d'un montant de 26,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 26.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 17-99 précitée n'est pas appliquée au titre du présent contrat",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 266,
+      "description": "Loi n° 17-99 précitée n'est pas appliquée au titre du présent contrat, d'un montant de 38,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 38.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 17-99 précitée, sont exclus de la garantie : 1- les dommages et pertes provenant d'une faute intentionnelle ou dolosive de l'assuré ; 2- les dommages et pertes occasionnés par la guerre étrangère, la guerre civile, les émeutes et mouvements populaires ou les actes de terrorisme ou de sabotage ; 3- les dommages et pertes résultant de l'inobservation des réserves d'ordre technique émises par le bureau de contrôle et dûment notifiées au maître de l'ouvrage, lorsque lesdites réserves n'ont pas été levées ; 4- tout dommage causé aux seconds œuvres ou à toute",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 266,
+      "description": "Loi n° 17-99 précitée, sont exclus de la garantie : 1- les dommages et pertes provenant d'une faute intentionnelle ou dolosive de l'assuré ; 2- les dommages et pertes occasionnés par la guerre étrangère, la guerre civile, les émeutes et mouvements populaires ou les actes de terrorisme ou de sabotage ; 3- les dommages et pertes résultant de l'inobservation des réserves d'ordre technique émises par le bureau de contrôle et dûment notifiées au maître de l'ouvrage, lorsque lesdites réserves n'ont pas été levées ; 4- tout dommage causé aux seconds œuvres ou à toute, d'un montant de 769,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 769.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 17-99 précitée ; • en cas d'absence de déclaration de la date de réception conformément aux dispositions du point 5.2 de l'article 12 ci-dessous ; • après sinistre, l'assuré a le droit de résilier les autres contrats qu'il a souscrit avec l'assureur conformément aux dispositions de l'article 26 de la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 268,
+      "description": "Loi n° 17-99 précitée ; • en cas d'absence de déclaration de la date de réception conformément aux dispositions du point 5.2 de l'article 12 ci-dessous ; • après sinistre, l'assuré a le droit de résilier les autres contrats qu'il a souscrit avec l'assureur conformément aux dispositions de l'article 26 de la, d'un montant de 52,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 52.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "15-09",
+      "title": "susvisée ART",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 272,
+      "description": "Loi n° 15-09 susvisée ART, d'un montant de 25,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 25.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-12-645",
+      "title": "du 13 safar 1434 (27 décembre 2012)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 272,
+      "description": "Décret n° 2-12-645 du 13 safar 1434 (27 décembre 2012), d'un montant de 645,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 645.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Arrêté",
+      "number": "3758-18",
+      "title": "du 2 rabii II 1440",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 272,
+      "description": "Arrêté n° 3758-18 du 2 rabii II 1440, d'un montant de 18,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 18.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Arrêté",
+      "number": "3252-23",
+      "title": "du 11 joumada II",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 272,
+      "description": "Arrêté n° 3252-23 du 11 joumada II, d'un montant de 23,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 33.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-24-991",
+      "title": "du 24 rabii II 1446 (28 octobre 2024)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 282,
+      "description": "Décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024), d'un montant de 991,00 dirhams",
+      "signatories": [
+        {
+          "name": "AHMED EL BOUARI",
+          "title": ""
+        },
+        {
+          "name": "AVIS ET COMMUNICATIONS",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 991.0,
+          "currency": "D"
+        },
+        "geographical_indication": {
+          "name": "Article premier. - La liste des diplômes reconnus \n« équivalents au diplôme de docteur en médecine, assortis du \n« baccalauréat de l'enseignement secondaire - série sciences \n« expérimentales ou sciences mathématiques ou d'un diplôme \n« reconnu équivalent, est fixée ainsi qu'il suit :\n« ............................................................................................\n« - Ukraine :\n« ..............................................................................................\n« - Qualification de médecin, délivrée par l'Université \n« d'Etat de médecine de Zaporojie - Ukraine.\n «يجب أن تقرن هذه الشهادة بتدريب مدته ثالث سنوات مع اجتياز\n«امتحان تقييمي بنجاح مسلم من طرف إحدى كليات الطب والصيدلة \n«باملغرب الذي تصادق عليه اللجنة القطاعية لعلوم الصحة."
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "24-96",
+      "title": "susvisée",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 284,
+      "description": "Loi n° 24-96 susvisée, d'un montant de 500,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 4.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-97-813",
+      "title": "du 27 chaoual 1418 (25 février 1998) portant application",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 284,
+      "description": "Décret n° 2-97-813 du 27 chaoual 1418 (25 février 1998) portant application, d'un montant de 813,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 813.0,
+          "currency": "D"
+        }
+      }
+    }
+  ]
+}

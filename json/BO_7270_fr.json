@@ -1,0 +1,476 @@
+{
+  "bulletin_metadata": {
+    "issue_number": "40",
+    "publication_year_description": "Cent-treizième année",
+    "date_hijri": "19 rejeb 1444",
+    "date_gregorian": "2023-02-10",
+    "issn": "0851-1217"
+  },
+  "table_of_contents": [],
+  "legal_texts": [
+    {
+      "type": "Loi",
+      "number": "40-19",
+      "title": "modifiant et complétant la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 762,
+      "description": "Loi n° 40-19 modifiant et complétant la",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "13-09",
+      "title": "relative aux énergies renouvelables",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 762,
+      "description": "Loi n° 13-09 relative aux énergies renouvelables, d'un montant de 16,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 7173.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "48-15",
+      "title": "relative à la régulation du",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 766,
+      "description": "Loi n° 48-15 relative à la régulation du, d'un montant de 100.000,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 60.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "58-22",
+      "title": "modifiant et complétant la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 766,
+      "description": "Loi n° 58-22 modifiant et complétant la",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "41-05",
+      "title": "relative aux organismes de placement",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 768,
+      "description": "Loi n° 41-05 relative aux organismes de placement, d'un montant de 13,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 7228.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-23-1166",
+      "title": "du 27 joumada II 1445 (10 janvier 2024)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 774,
+      "description": "Décret n° 2-23-1166 du 27 joumada II 1445 (10 janvier 2024), d'un montant de cinquante millions d'euros (50.000.000,00 dirhams), conclu le 14 décembre 2023 avec KfW, pour le financement du Projet « Appui aux réformes du »",
+      "signatories": [
+        {
+          "name": "et des finances",
+          "title": "La ministre de l'économie"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        },
+        {
+          "name": "NADIA FETTAH",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 50000000.0,
+          "currency": "D",
+          "lender": "KfW",
+          "project": "Appui aux réformes du"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-23-1175",
+      "title": "du 27 joumada II 1445",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 774,
+      "description": "Décret n° 2-23-1175 du 27 joumada II 1445, d'un montant de 1.175,00 dirhams, conclu le 16 novembre 2023",
+      "signatories": [
+        {
+          "name": "CONSEIL SUPÉRIEUR DE LA COMMUNICATION AUDIOVISUELLE",
+          "title": ""
+        },
+        {
+          "name": "AVIS ET COMMUNIICATIONS",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1175.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 48-15 relative à la régulation du secteur de l'électricité et à la création de l'autorité nationale de régulation de l'électricité",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 762,
+      "description": "Loi n° 48-15 relative à la régulation du secteur de l'électricité et à la création de l'autorité nationale de régulation de l'électricité",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 48-15 relative à la régulation du secteur de l'électricité et à la création de l'autorité nationale de régulation de l'électricité, tel qu'il a été adopté par la Chambre des représentants et la Chambre des conseillers",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 762,
+      "description": "Loi n° 48-15 relative à la régulation du secteur de l'électricité et à la création de l'autorité nationale de régulation de l'électricité, tel qu'il a été adopté par la Chambre des représentants et la Chambre des conseillers",
+      "signatories": [
+        {
+          "name": "Le Chef du gouvernement",
+          "title": ":"
+        },
+        {
+          "name": "AZIZ AKHANNOUCH",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "type": "Loi",
+      "number": "57-09",
+      "title": "portant création de la société « Moroccan « Agency for Sustainable Energy », telle qu'elle a été modifiée « et complétée, et des dispositions de l'article 2 du dahir « n° 1-63-226 du 14 rabii I 1383 (5 août 1963) portant création de « l'Office national de l'électricité, tel qu'il a été modifié et « complété, les personnes morales de droit privé peuvent « produire de l'électricité à partir de sources d'énergies « renouvelables, conformément aux dispositions de la présente « loi et des textes pris pour son application.» « Article 4",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 764,
+      "description": "Loi n° 57-09 portant création de la société « Moroccan « Agency for Sustainable Energy », telle qu'elle a été modifiée « et complétée, et des dispositions de l'article 2 du dahir « n° 1-63-226 du 14 rabii I 1383 (5 août 1963) portant création de « l'Office national de l'électricité, tel qu'il a été modifié et « complété, les personnes morales de droit privé peuvent « produire de l'électricité à partir de sources d'énergies « renouvelables, conformément aux dispositions de la présente « loi et des textes pris pour son application.» « Article 4, d'un montant de 2,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 2.0,
+          "currency": "D",
+          "beneficiary": "Office national de l"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "47-18",
+      "title": "portant « réforme des Centres régionaux d'investissement et création « des Commissions régionales unifiées d'investissement, après « avis technique du gestionnaire du réseau électrique national « de transport et le gestionnaire du réseau de distribution « d'électricité concerné",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 764,
+      "description": "Loi n° 47-18 portant « réforme des Centres régionaux d'investissement et création « des Commissions régionales unifiées d'investissement, après « avis technique du gestionnaire du réseau électrique national « de transport et le gestionnaire du réseau de distribution « d'électricité concerné, d'un montant de 24,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 24.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 48-15 relative à la régulation du secteur de l'électricité et à la création de l'autorité nationale de régulation de l'électricité promulguée par le dahir n° 1-16-60 du 17 chaabane 1437 (24 mai 2016), sont modifiées et complétées comme suit : « Article 15 (deuxième alinéa)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 766,
+      "description": "Loi n° 48-15 relative à la régulation du secteur de l'électricité et à la création de l'autorité nationale de régulation de l'électricité promulguée par le dahir n° 1-16-60 du 17 chaabane 1437 (24 mai 2016), sont modifiées et complétées comme suit : « Article 15 (deuxième alinéa), d'un montant de 60,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 60.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "44-12",
+      "title": "précitée, dont le nombre, le montant",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 768,
+      "description": "Loi n° 44-12 précitée, dont le nombre, le montant, d'un montant de 277,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 55.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "103-12",
+      "title": "précitée « L'OPCC-RFA qui octroie des prêts doit détenir les « créances jusqu'à leur échéance sauf dans les cas de cession",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 770,
+      "description": "Loi n° 103-12 précitée « L'OPCC-RFA qui octroie des prêts doit détenir les « créances jusqu'à leur échéance sauf dans les cas de cession",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "15-95",
+      "title": "formant code du commerce, les",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 770,
+      "description": "Loi n° 15-95 formant code du commerce, les, d'un montant de 54,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 54.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 41-05 précitée sont modifiées ou complétées comme suit : « Article premier",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 770,
+      "description": "Loi n° 41-05 précitée sont modifiées ou complétées comme suit : « Article premier, d'un montant de 3,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 3.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "43-12",
+      "title": "relative à l'AMMC, un contrôle",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 772,
+      "description": "Loi n° 43-12 relative à l'AMMC, un contrôle, d'un montant de 757,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 757.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "",
+      "title": "n° 41-05 précitée sont abrogées et remplacées comme suit : « Article 3",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 772,
+      "description": "Loi n° 41-05 précitée sont abrogées et remplacées comme suit : « Article 3",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "1-93-213",
+      "title": "du 4 rabii II 1414 (21 septembre 1993)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 772,
+      "description": "Loi n° 1-93-213 du 4 rabii II 1414 (21 septembre 1993), d'un montant de 213,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 213.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-14-652",
+      "title": "du 8 safar 1436 (1er décembre 2014) pris pour l'application de la",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 774,
+      "description": "Décret n° 2-14-652 du 8 safar 1436 (1er décembre 2014) pris pour l'application de la, d'un montant de 652,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 652.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "104-12",
+      "title": "la liberté des prix et de la concurrence, tel qu'il a été modifié et complété et notamment son article premier ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 774,
+      "description": "Loi n° 104-12 la liberté des prix et de la concurrence, tel qu'il a été modifié et complété et notamment son article premier ;",
+      "signatories": []
+    },
+    {
+      "type": "Décret",
+      "number": "2-21-829",
+      "title": "du 14 rabii I 1443 (21 octobre 2021) relatif aux attributions de la ministre de",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 774,
+      "description": "Décret n° 2-21-829 du 14 rabii I 1443 (21 octobre 2021) relatif aux attributions de la ministre de, d'un montant de 829,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 829.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "12-06",
+      "title": "relative à la normalisation, à la certification et à l'accréditation, promulguée par le",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 776,
+      "description": "Loi n° 12-06 relative à la normalisation, à la certification et à l'accréditation, promulguée par le, d'un montant de 15,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 15.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-21-838",
+      "title": "du 14 rabii I 1443 (21 octobre 2021)",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 786,
+      "description": "Décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021), d'un montant de 838,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 838.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "1-73-255",
+      "title": "du 27 chaoual 1393 (23 novembre",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 788,
+      "description": "Loi n° 1-73-255 du 27 chaoual 1393 (23 novembre, d'un montant de 255,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 255.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Décret",
+      "number": "2-08-562",
+      "title": "du 13 hija 1429 (12 décembre",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 788,
+      "description": "Décret n° 2-08-562 du 13 hija 1429 (12 décembre, d'un montant de 562,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 562.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "28-00",
+      "title": "relative à la gestion des déchets et à leur élimination",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 788,
+      "description": "Loi n° 28-00 relative à la gestion des déchets et à leur élimination, d'un montant de 1.000,00 dirhams",
+      "signatories": [
+        {
+          "name": "LE CONSEIL SUPÉRIEUR DE LA COMMUNICATION",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 1000.0,
+          "currency": "D"
+        }
+      }
+    },
+    {
+      "type": "Loi",
+      "number": "11-15",
+      "title": "portant réorganisation de la Haute Autorité de la Communication Audiovisuelle, notamment ses articles 3 (alinéas premier et 4), 4 (alinéa 9), 7, 22 et 26 ;",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 790,
+      "description": "Loi n° 11-15 portant réorganisation de la Haute Autorité de la Communication Audiovisuelle, notamment ses articles 3 (alinéas premier et 4), 4 (alinéa 9), 7, 22 et 26 ;",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "77-03",
+      "title": "relative à la communication audiovisuelle, telle que modifiée et complétée dispose que : « La communication audiovisuelle est libre",
+      "publication_date_hijri": "",
+      "publication_date_gregorian": "",
+      "page_start": 790,
+      "description": "Loi n° 77-03 relative à la communication audiovisuelle, telle que modifiée et complétée dispose que : « La communication audiovisuelle est libre, d'un montant de 4,00 dirhams",
+      "signatories": [
+        {
+          "name": "LATIFA AKHARBACH",
+          "title": ""
+        },
+        {
+          "name": "AVIS ET COMMUNICATIONS",
+          "title": ""
+        }
+      ],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 4.0,
+          "currency": "D"
+        }
+      }
+    }
+  ]
+}
