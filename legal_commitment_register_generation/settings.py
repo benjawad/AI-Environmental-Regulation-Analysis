@@ -24,6 +24,9 @@ GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
 MEDIA_ROOT = str(BASE_DIR / "media")
 MEDIA_URL = "/media/"
 
+CSRF_TRUSTED_ORIGINS = os.getenv("CSRF_TRUSTED_ORIGINS", "").split(",")
+
+
 # Applications
 INSTALLED_APPS = [
     "django.contrib.admin",
