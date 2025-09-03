@@ -1,3 +1,4 @@
+# Tesseract OCR Integration with Django 
 Tesseract OCR Integration with Django
 This guide provides a step-by-step process for integrating Tesseract OCR into a Django project for a production environment on Windows. It covers the installation, configuration, and best practices for reliable text extraction from images.
 
@@ -46,7 +47,7 @@ Update settings.py: Add the Tesseract executable path to your Django settings fo
 
 Python
 
-# settings.py
+## settings.py
 import os
 
 TESSERACT_CMD_PATH = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
@@ -54,12 +55,12 @@ Configure pytesseract in your code: In your application logic (e.g., views.py), 
 
 Python
 
-# views.py
+## views.py
 import pytesseract
 from PIL import Image
 from django.conf import settings
 
-# Configure the pytesseract command path
+## Configure the pytesseract command path
 pytesseract.pytesseract.tesseract_cmd = settings.TESSERACT_CMD_PATH
 3. Production Best Practices
 For a reliable and scalable production setup, consider the following:
