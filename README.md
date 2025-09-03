@@ -24,8 +24,8 @@
 
 <p align="center">
   <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Tesseract_OCR_logo_%28Google%29.png" alt="Tesseract OCR" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/GEMINI_Logo.svg" alt="GEMINI" height="40"/>
+  <img src="https://tesseract.projectnaptha.com/assets/img/tesseract.png" alt="Tesseract OCR" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Google_Gemini_logo.svg" alt="GEMINI" height="40"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" height="40"/>
 </p>
 
