@@ -1,28 +1,4 @@
 providers = ["python"]
 
 [phases.setup]
-nixPkgs = [
-  "tesseract",
-  "python3",
-  # Add dependencies for Chromium (Playwright)
-  "libnss3",
-  "libatk1.0",
-  "libatk-bridge2.0",
-  "libcups",
-  "libxcomposite",
-  "libxrandr",
-  "libxdamage",
-  "libgbm",
-  "libpango",
-  "libpangocairo",
-  "libasound",
-  "libxshmfence",
-  "libx11-xcb"
-]
-
-[phases.build]
-cmds = [
-  "pip install -r requirements.txt",
-  "pip install playwright",
-  "playwright install"
-]
+nixPkgs = ["tesseract" , "python3"]
