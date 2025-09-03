@@ -6,7 +6,6 @@ import re
 import time
 from django.conf import settings
 from tqdm import tqdm
-import logging
 
 logger = logging.getLogger(__name__)
 

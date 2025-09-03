@@ -1,6 +1,5 @@
 import fitz  # PyMuPDF
 import pandas as pd
-import json
 import re
 import os
 import io
@@ -8,9 +7,8 @@ import traceback
 import numpy as np
 from PIL import Image
 import pytesseract
-from concurrent.futures import ThreadPoolExecutor
 import logging
-from typing import Dict, List, Any, Optional, Tuple
+from typing import Dict, List, Any, Optional
 from dataclasses import dataclass
 
 # Configuration du logging
