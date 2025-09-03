@@ -38,11 +38,9 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)  
 ![Django](https://img.shields.io/badge/Django-Backend-green?logo=django)  
-![React](https://img.shields.io/badge/React-Frontend-blue?logo=react)  
 ![OCR](https://img.shields.io/badge/Tesseract-OCR-orange?logo=google)  
 ![LLM](https://img.shields.io/badge/AI-LLM-yellow?logo=openai)  
-![Database](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=postgresql)  
-![Docker](https://img.shields.io/badge/Docker-Ready-lightblue?logo=docker)  
+![Database](https://img.shields.io/badge/PostgreSQL-Database-blue?logo=sqllight)  
 
 ---
 
