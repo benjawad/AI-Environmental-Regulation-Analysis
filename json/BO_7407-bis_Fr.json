@@ -1,0 +1,80 @@
+{
+  "bulletin_metadata": {
+    "issue_number": "7407",
+    "publication_year_description": "Cent-quatorzième année",
+    "date_hijri": "29 kaada 1446",
+    "date_gregorian": "2025-05-27",
+    "issn": "0851-1217"
+  },
+  "table_of_contents": [
+    {
+      "category": "TEXTES GENERAUX",
+      "title": "SOMMAIRE Etablissements touristiques et autres formes d'hébergement touristique. Arrêté conjoint du ministre de l'intérieur et de la ministre du tourisme, de l'artisanat et de l'économie sociale et solidaire n° 985-24 du 22 joumada II 1446 (24 décembre 2024) fixant les normes de classement des établissements d'hébergement touristique............................... 626 Arrêté conjoint du ministre de l'intérieur et de la ministre du tourisme, de l'artisanat et de l'économie sociale et solidaire n° 986-24 du 22 joumada II 1446 (24 décembre 2024) fixant les normes de classement du restaurant touristique et le modèle du formulaire des normes minimales",
+      "description": "",
+      "page": 1949
+    },
+    {
+      "category": "TEXTES GENERAUX",
+      "title": "Arrêté conjoint du ministre de l'intérieur et de la ministre du tourisme, de l'artisanat et de l'économie sociale et solidaire n° 987-24 du 22 joumada II 1446 (24 décembre 2024) fixant les modèles des documents administratifs relatifs aux demandes et autorisations d'exploitation des établissements d'hébergement touristique et aux demandes et décisions de classement des restaurants touristiques",
+      "description": "",
+      "page": 1962
+    },
+    {
+      "category": "TEXTES GENERAUX",
+      "title": "Arrêté de la ministre du tourisme, de l'artisanat et de l'économie sociale et solidaire n° 835-24 du 21 rejeb 1446 (22 janvier 2025) fixant les modèles des documents administratifs relatifs au classement des établissements d'hébergement touristique",
+      "description": "",
+      "page": 1973
+    },
+    {
+      "category": "TEXTES GENERAUX",
+      "title": "Arrêté de la ministre du tourisme, de l'artisanat et de l'économie sociale et solidaire n° 836-24 du 21 rejeb 1446 (22 janvier 2025) fixant les normes des résidences immobilières adossées à un établissement d'hébergement touristique",
+      "description": "",
+      "page": 1984
+    }
+  ],
+  "legal_texts": [
+    {
+      "type": "Décret",
+      "number": "2-23-441",
+      "title": "pris pour l'application de certaines dispositions",
+      "publication_date_hijri": "24 hija 1444",
+      "publication_date_gregorian": "2023-07-13",
+      "page_start": 1948,
+      "description": "Décret n° 2-23-441 du 24 hija 1444 (13 juillet 2023) pris pour l'application de certaines dispositions",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "80-14",
+      "title": "relative aux établissements touristiques et aux autres formes d'hébergement",
+      "publication_date_hijri": "23 chaoual 1424",
+      "publication_date_gregorian": "2003-12-18",
+      "page_start": 626,
+      "description": "Loi n° 80-14 du 23 chaoual 1424 (18 décembre 2003) relative aux établissements touristiques et aux autres formes d'hébergement, au profit de office des changes ou de l",
+      "signatories": [
+        {
+          "name": "NEDF NPQS",
+          "title": ""
+        },
+        {
+          "name": "A -",
+          "title": ""
+        },
+        {
+          "name": "A - NEDF NPQS",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "type": "Loi",
+      "number": "47-18",
+      "title": "portant réforme des centres régionaux d'investissement et création des commissions régionales unifiées d'investissement, promulguée par le dahir n°1-19-18 du 7 joumada II 1440 (13 février 2019) ; -",
+      "publication_date_hijri": "7 \njoumada II 1440",
+      "publication_date_gregorian": "2019-02-13",
+      "page_start": 1966,
+      "description": "Loi n° 47-18 du 7 \njoumada II 1440 (13 février 2019) portant réforme des centres régionaux d'investissement et création des commissions régionales unifiées d'investissement, promulguée par le dahir n°1-19-18 du 7 joumada II 1440 (13 février 2019) ; -",
+      "signatories": []
+    }
+  ]
+}

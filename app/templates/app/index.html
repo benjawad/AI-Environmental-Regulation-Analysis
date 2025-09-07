@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html lang="fr" data-theme="light">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>JESA – Portail EIE</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            /* Your core brand colors, slightly refined for modern screens */
+            --jesa-blue: #0056b3;
+            --jesa-orange: #ff6b35;
+
+            /* Light Theme Palette - Professional & Easy on the eyes */
+            --bg: #f7f8fa;
+            --surface: #ffffff;
+            --border: #e4e7eb;
+            --text-primary: #1e293b;
+            --text-secondary: #475569;
+            --text-muted: #64748b;
+            --primary: var(--jesa-blue);
+            --primary-light: #e6f0ff;
+            --accent: var(--jesa-orange);
+            --accent-light: #fff0e9;
+            --success: #10b981;
+            --success-light: #e7f8f3;
+            --warning: #f59e0b;
+            --warning-light: #fff8e1;
+            --shadow-sm: 0 1px 2px rgb(0 0 0 / 0.04);
+            --shadow-md: 0 4px 8px -2px rgb(20 20 43 / 0.07), 0 2px 4px -2px rgb(20 20 43 / 0.04);
+            --shadow-lg: 0 12px 16px -4px rgb(20 20 43 / 0.08), 0 4px 6px -2px rgb(20 20 43 / 0.04);
+        }
+
+        [data-theme="dark"] {
+            --bg: #111827;
+            --surface: #1f2937;
+            --border: #374151;
+            --text-primary: #f3f4f6;
+            --text-secondary: #d1d5db;
+            --text-muted: #9ca3af;
+            --primary: #4d9eff;
+            --primary-light: rgba(77, 158, 255, 0.1);
+            --accent: #ff8c66;
+            --accent-light: rgba(255, 140, 102, 0.1);
+            --success: #34d399;
+            --success-light: rgba(52, 211, 153, 0.1);
+            --warning: #fbbf24;
+            --warning-light: rgba(251, 191, 36, 0.1);
+        }
+
+        /* Base & Typography */
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: 'Inter', system-ui, -apple-system, sans-serif;
+            background: var(--bg);
+            color: var(--text-primary);
+            line-height: 1.6;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+        }
+
+        /* App Shell - Header */
+        .header {
+            background: var(--surface);
+            border-bottom: 1px solid var(--border);
+            position: sticky; top: 0; z-index: 100;
+        }
+        .header-content {
+            max-width: 1600px; margin: 0 auto; padding: 0 2rem;
+            height: 64px; display: flex; align-items: center; justify-content: space-between;
+        }
+        .header-left, .header-right { display: flex; align-items: center; gap: 1rem; }
+        .logo { height: 32px; object-fit: contain; }
+        .app-title { font-weight: 600; font-size: 1.1rem; color: var(--text-primary); }
+        .nav-link {
+            padding: 0.5rem 1rem; border-radius: 0.5rem; color: var(--text-secondary);
+            text-decoration: none; font-weight: 500; font-size: 0.9rem;
+            transition: all 0.2s ease; display: flex; align-items: center; gap: 0.5rem;
+        }
+        .nav-link:hover { background: var(--bg); color: var(--text-primary); }
+        .nav-link.active { color: var(--primary); background: var(--primary-light); }
+        .icon-btn {
+            width: 38px; height: 38px; border-radius: 0.5rem; border: none;
+            background: transparent; color: var(--text-muted); cursor: pointer;
+            display: grid; place-items: center; transition: all 0.2s ease;
+        }
+        .icon-btn:hover { background: var(--bg); color: var(--text-primary); }
+
+        /* Main Content Area */
+        .main { flex: 1; max-width: 1600px; margin: 0 auto; padding: 2rem; width: 100%; }
+        
+        /* Hero Section */
+        .hero {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 0.75rem;
+            padding: 3rem;
+            margin-bottom: 2rem;
+            text-align: center;
+        }
+        .hero-title {
+            font-size: 2.5rem;
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            color: var(--text-primary);
+            margin-bottom: 1rem;
+        }
+        .hero-subtitle {
+            font-size: 1.125rem;
+            color: var(--text-secondary);
+            max-width: 600px;
+            margin: 0 auto 1.5rem;
+        }
+
+        /* Stat Cards */
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 1.5rem;
+            margin-bottom: 2.5rem;
+        }
+        .stat-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 0.75rem;
+            padding: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+        }
+        .stat-icon {
+            width: 48px; height: 48px; border-radius: 50%;
+            display: grid; place-items: center; font-size: 1.25rem;
+        }
+        .stat-icon.primary { background: var(--primary-light); color: var(--primary); }
+        .stat-icon.accent { background: var(--accent-light); color: var(--accent); }
+        .stat-icon.success { background: var(--success-light); color: var(--success); }
+        .stat-value { font-size: 1.75rem; font-weight: 700; }
+        .stat-label { font-size: 0.9rem; color: var(--text-secondary); }
+
+        /* Section Title */
+        .section-header {
+            margin-bottom: 1.5rem;
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 1rem;
+        }
+        .section-title {
+            font-size: 1.5rem;
+            font-weight: 600;
+        }
+        
+        /* Module Cards Grid */
+        .modules-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 2rem;
+            margin-bottom: 2.5rem;
+        }
+        .module-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 0.75rem;
+            padding: 2rem;
+            transition: all 0.2s ease;
+            text-decoration: none;
+            color: inherit;
+        }
+        .module-card:hover {
+            transform: translateY(-4px);
+            box-shadow: var(--shadow-md);
+        }
+        .module-icon {
+            width: 48px; height: 48px; border-radius: 0.5rem;
+            display: grid; place-items: center; font-size: 1.5rem;
+            color: white; margin-bottom: 1rem;
+        }
+        .module-icon.primary { background: var(--primary); }
+        .module-icon.accent { background: var(--accent); }
+        .module-title { font-size: 1.25rem; font-weight: 600; margin-bottom: 0.5rem; }
+        .module-description { color: var(--text-secondary); margin-bottom: 1.5rem; }
+        .module-link {
+            font-weight: 600; color: var(--primary); display: inline-flex;
+            align-items: center; gap: 0.5rem;
+        }
+        
+        /* Recent Projects & Quick Actions Grid */
+        .dashboard-grid {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 2rem;
+            align-items: start;
+        }
+        .card {
+            background: var(--surface); border-radius: 0.75rem;
+            border: 1px solid var(--border); box-shadow: var(--shadow-sm);
+        }
+        .card-header { padding: 1rem 1.5rem; border-bottom: 1px solid var(--border); }
+        .card-title { font-size: 1.125rem; font-weight: 600; }
+        .card-body { padding: 1.5rem; }
+        
+        /* Projects List */
+        .project-list { list-style: none; }
+        .project-item {
+            display: flex; justify-content: space-between; align-items: center;
+            padding: 1rem 0; border-bottom: 1px solid var(--border);
+        }
+        .project-item:first-child { padding-top: 0; }
+        .project-item:last-child { border-bottom: none; padding-bottom: 0; }
+        .project-details h4 { font-weight: 500; margin-bottom: 0.25rem; }
+        .project-meta { font-size: 0.875rem; color: var(--text-muted); }
+        .status-badge {
+            padding: 0.25rem 0.75rem; border-radius: 99px;
+            font-size: 0.8rem; font-weight: 500; display: inline-flex;
+            align-items: center; gap: 0.35rem;
+        }
+        .status-badge.success { background: var(--success-light); color: var(--success); }
+        .status-badge.warning { background: var(--warning-light); color: var(--warning); }
+        
+        /* Quick Actions List */
+        .actions-list { display: flex; flex-direction: column; gap: 0.75rem; }
+        .action-link {
+            display: flex; align-items: center; gap: 1rem; padding: 0.75rem 1rem;
+            border-radius: 0.5rem; text-decoration: none; color: var(--text-secondary);
+            transition: all 0.2s ease;
+        }
+        .action-link:hover { background: var(--bg); color: var(--text-primary); }
+        .action-icon {
+            width: 36px; height: 36px; border-radius: 0.5rem;
+            display: grid; place-items: center;
+            background: var(--accent-light); color: var(--accent);
+        }
+
+        /* Buttons */
+        .btn {
+            display: inline-flex; align-items: center; justify-content: center; gap: 0.5rem;
+            padding: 0.75rem 1.5rem; border-radius: 0.5rem; font-weight: 600;
+            font-size: 0.95rem; border: none; cursor: pointer;
+            transition: all 0.2s ease; text-decoration: none;
+        }
+        .btn-primary { background: var(--primary); color: white; }
+        .btn-primary:hover { background: #004494; transform: translateY(-1px); box-shadow: var(--shadow-md); }
+        .btn-secondary { background: var(--surface); color: var(--text-secondary); border: 1px solid var(--border); }
+        .btn-secondary:hover { background: var(--bg); border-color: var(--border-hover); }
+
+        /* Footer */
+        footer {
+            margin-top: auto; padding: 2rem; border-top: 1px solid var(--border);
+            text-align: center; color: var(--text-muted); font-size: 0.875rem;
+        }
+        
+        /* Responsive */
+        @media (max-width: 1200px) {
+            .stats-grid { grid-template-columns: 1fr 1fr; }
+            .dashboard-grid { grid-template-columns: 1fr; }
+        }
+        @media (max-width: 768px) {
+            .header-content, .main { padding: 0 1rem; }
+            .main { padding-top: 1.5rem; padding-bottom: 1.5rem; }
+            .hero { padding: 2rem 1.5rem; }
+            .hero-title { font-size: 1.875rem; }
+            .hero-subtitle { font-size: 1rem; }
+            .stats-grid, .modules-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="header-content">
+            <div class="header-left">
+                <a href="{% url 'home' %}" style="text-decoration: none; display:flex; align-items:center; gap:0.75rem;">
+                    <img src="https://afrimag.net/wp-content/uploads/2022/03/JESA-Logo-2048x480.png" alt="JESA Logo" class="logo">
+                    <span class="app-title">Portail EIE</span>
+                </a>
+            </div>
+            <nav class="header-right">
+                <a href="{% url 'home' %}" class="nav-link active"><i class="fas fa-home"></i> Accueil</a>
+                <a href="{% url 'dashboard' %}" class="nav-link"><i class="fas fa-gavel"></i> Registre Juridique</a>
+                <a href="{% url 'commitment' %}" class="nav-link"><i class="fas fa-clipboard-check"></i> Engagements</a>
+                <button class="icon-btn" id="theme-toggle" aria-label="Basculer le thème">
+                    <i class="fas fa-moon"></i>
+                </button>
+            </nav>
+        </div>
+    </header>
+
+    <main class="main">
+        <section class="hero">
+            <h1 class="hero-title">Votre Centre de Contrôle de la Conformité</h1>
+            <p class="hero-subtitle">Générez, suivez et exportez vos registres environnementaux en un seul endroit. Simplifiez votre travail et assurez la conformité de vos projets.</p>
+            <div class="btn-group">
+                <a href="#" class="btn btn-primary"><i class="fas fa-plus"></i> Nouveau Projet</a>
+                <a href="#" class="btn btn-secondary"><i class="fas fa-file-import"></i> Importer un EIE</a>
+            </div>
+        </section>
+
+        <section class="stats-grid">
+            <div class="stat-card">
+                <div class="stat-icon primary"><i class="fas fa-balance-scale"></i></div>
+                <div>
+                    <div class="stat-value">1,245</div>
+                    <div class="stat-label">Textes Juridiques Indexés</div>
+                </div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon accent"><i class="fas fa-tasks"></i></div>
+                <div>
+                    <div class="stat-value">356</div>
+                    <div class="stat-label">Engagements Suivis</div>
+                </div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon success"><i class="fas fa-shield-alt"></i></div>
+                <div>
+                    <div class="stat-value">92%</div>
+                    <div class="stat-label">Conformité Moyenne</div>
+                </div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-icon primary"><i class="fas fa-folder"></i></div>
+                <div>
+                    <div class="stat-value">28</div>
+                    <div class="stat-label">Projets Actifs</div>
+                </div>
+            </div>
+        </section>
+
+        <section class="section-header">
+            <h2 class="section-title">Modules Principaux</h2>
+        </section>
+        
+        <section class="modules-grid">
+            <a href="legal.html" class="module-card">
+                <div class="module-icon primary"><i class="fas fa-gavel"></i></div>
+                <h3 class="module-title">Registre Juridique</h3>
+                <p class="module-description">Automatisez la collecte et l'analyse des textes de loi pour générer un registre fiable et toujours à jour.</p>
+                <span class="module-link">Accéder au module <i class="fas fa-arrow-right"></i></span>
+            </a>
+            <a href="home.html" class="module-card">
+                <div class="module-icon accent"><i class="fas fa-clipboard-check"></i></div>
+                <h3 class="module-title">Registre des Engagements</h3>
+                <p class="module-description">Extrayez, suivez et gérez tous les engagements de vos EIE, de la planification à la clôture.</p>
+                <span class="module-link">Accéder au module <i class="fas fa-arrow-right"></i></span>
+            </a>
+        </section>
+        
+        <div class="dashboard-grid">
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="card-title">Projets Récents</h3>
+                </div>
+                <div class="card-body">
+                    <ul class="project-list">
+                        <li class="project-item">
+                            <div class="project-details">
+                                <h4>Centrale Solaire Ouarzazate</h4>
+                                <p class="project-meta">Mis à jour il y a 2 jours • 42 engagements</p>
+                            </div>
+                            <span class="status-badge success"><i class="fas fa-check-circle"></i> Conforme 88%</span>
+                        </li>
+                        <li class="project-item">
+                            <div class="project-details">
+                                <h4>Extension Port Tanger Med</h4>
+                                <p class="project-meta">Mis à jour il y a 5 jours • 67 engagements</p>
+                            </div>
+                            <span class="status-badge warning"><i class="fas fa-exclamation-triangle"></i> À surveiller 72%</span>
+                        </li>
+                        <li class="project-item">
+                            <div class="project-details">
+                                <h4>Parc Éolien Tarfaya</h4>
+                                <p class="project-meta">Mis à jour il y a 1 semaine • 31 engagements</p>
+                            </div>
+                            <span class="status-badge success"><i class="fas fa-check-circle"></i> Conforme 95%</span>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="card-title">Actions Rapides</h3>
+                </div>
+                <div class="card-body">
+                    <div class="actions-list">
+                        <a href="#" class="action-link">
+                            <div class="action-icon"><i class="fas fa-plus"></i></div>
+                            <span>Créer un nouveau projet</span>
+                        </a>
+                        <a href="#" class="action-link">
+                            <div class="action-icon"><i class="fas fa-file-import"></i></div>
+                            <span>Importer un document EIE</span>
+                        </a>
+                        <a href="#" class="action-link">
+                            <div class="action-icon"><i class="fas fa-file-excel"></i></div>
+                            <span>Exporter un rapport global</span>
+                        </a>
+                        <a href="#" class="action-link">
+                            <div class="action-icon"><i class="fas fa-chart-line"></i></div>
+                            <span>Voir le tableau de bord</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        © 2025 JESA — Développé par Benali Jawad & Nouar Amine
+    </footer>
+
+    <script>
+        // Theme Management
+        const themeToggle = document.getElementById('theme-toggle');
+        const html = document.documentElement;
+        
+        function initTheme() {
+            const savedTheme = localStorage.getItem('theme') || 'light';
+            html.setAttribute('data-theme', savedTheme);
+            themeToggle.querySelector('i').className = savedTheme === 'dark' ? 'fas fa-sun' : 'fas fa-moon';
+        }
+        
+        themeToggle.addEventListener('click', () => {
+            const newTheme = html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+            html.setAttribute('data-theme', newTheme);
+            localStorage.setItem('theme', newTheme);
+            themeToggle.querySelector('i').className = newTheme === 'dark' ? 'fas fa-sun' : 'fas fa-moon';
+        });
+        
+        initTheme();
+    </script>
+</body>
+</html>

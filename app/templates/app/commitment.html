@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+<html lang="fr" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>JESA – Registre des Engagements</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --jesa-blue: #0056b3;
+      --jesa-orange: #ff6b35;
+
+      --bg: #f7f8fa;
+      --surface: #ffffff;
+      --border: #e4e7eb;
+      --text-primary: #1e293b;
+      --text-secondary: #475569;
+      --text-muted: #64748b;
+
+      --primary: var(--jesa-blue);
+      --primary-light: #e6f0ff;
+      --accent: var(--jesa-orange);
+      --accent-light: #fff0e9;
+
+      --success: #10b981;
+      --success-light: #e7f8f3;
+      --warning: #f59e0b;
+      --warning-light: #fff8e1;
+
+      --shadow-sm: 0 1px 2px rgb(0 0 0 / 0.04);
+      --shadow-md: 0 4px 8px -2px rgb(20 20 43 / 0.07), 0 2px 4px -2px rgb(20 20 43 / 0.04);
+      --shadow-lg: 0 12px 16px -4px rgb(20 20 43 / 0.08), 0 4px 6px -2px rgb(20 20 43 / 0.04);
+    }
+    [data-theme="dark"] {
+      --bg: #111827;
+      --surface: #1f2937;
+      --border: #374151;
+      --text-primary: #f3f4f6;
+      --text-secondary: #d1d5db;
+      --text-muted: #9ca3af;
+
+      --primary: #4d9eff;
+      --primary-light: rgba(77, 158, 255, 0.1);
+      --accent: #ff8c66;
+      --accent-light: rgba(255, 140, 102, 0.1);
+
+      --success: #34d399;
+      --success-light: rgba(52, 211, 153, 0.1);
+      --warning: #fbbf24;
+      --warning-light: rgba(251, 191, 36, 0.1);
+    }
+
+    * { margin:0; padding:0; box-sizing:border-box; }
+    body {
+      font-family: 'Inter', system-ui, -apple-system, sans-serif;
+      background: var(--bg);
+      color: var(--text-primary);
+      line-height: 1.6;
+      min-height: 100vh;
+      display: flex; flex-direction: column;
+    }
+
+    /* Header */
+    .header { background: var(--surface); border-bottom: 1px solid var(--border); position: sticky; top: 0; z-index: 100; }
+    .header-content { max-width: 1600px; margin: 0 auto; padding: 0 2rem; height: 64px; display: flex; align-items: center; justify-content: space-between; }
+    .header-left, .header-right { display: flex; align-items: center; gap: 1rem; }
+    .logo { height: 32px; object-fit: contain; }
+    .app-title { font-weight: 600; font-size: 1.1rem; color: var(--text-primary); }
+    .nav-link {
+      padding: 0.5rem 1rem; border-radius: 0.5rem; color: var(--text-secondary);
+      text-decoration: none; font-weight: 500; font-size: 0.9rem; display: flex; align-items: center; gap: 0.5rem;
+      transition: all .2s ease;
+    }
+    .nav-link:hover { background: var(--bg); color: var(--text-primary); }
+    .nav-link.active { color: var(--primary); background: var(--primary-light); }
+    .icon-btn {
+      width: 38px; height: 38px; border-radius: 0.5rem; border: none; background: transparent; color: var(--text-muted);
+      display: grid; place-items: center; cursor: pointer; transition: all .2s ease;
+    }
+    .icon-btn:hover { background: var(--bg); color: var(--text-primary); }
+
+    /* Main layout */
+    .main { flex:1; max-width:1600px; margin:0 auto; padding:2rem; width:100%; }
+    .page-header { margin-bottom: 1.5rem; }
+    .page-title { font-size: 1.875rem; font-weight: 700; letter-spacing: -0.02em; }
+    .page-sub { color: var(--text-secondary); font-size: 1.05rem; margin-top: .25rem; }
+
+    /* Workflow */
+    .workflow { display:flex; justify-content:space-between; align-items:center; position:relative; padding: 1.25rem 0; margin-bottom: 1.5rem; }
+    .workflow::before { content:''; position:absolute; top: 1.4rem; left: 10%; right: 10%; height: 2px; background: var(--border); }
+    .step { display:flex; flex-direction:column; align-items:center; gap:.5rem; z-index:1; text-align:center; }
+    .step-icon { width: 36px; height:36px; border-radius: 50%; background: var(--surface); border:2px solid var(--border); display:grid; place-items:center; color: var(--text-muted); transition: .2s; }
+    .step.active .step-icon { border-color: var(--primary); color: var(--primary); box-shadow: 0 0 0 4px var(--primary-light); }
+    .step.completed .step-icon { background: var(--success); border-color: var(--success); color: #fff; }
+    .step-label { font-size: .9rem; color: var(--text-secondary); font-weight: 600; }
+
+    /* Grid & Cards */
+    .grid { display:grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
+    @media (max-width: 1024px) { .grid { grid-template-columns: 1fr; } }
+
+    .card { background: var(--surface); border:1px solid var(--border); border-radius: .75rem; box-shadow: var(--shadow-sm); }
+    .card-header { padding: 1rem 1.5rem; border-bottom:1px solid var(--border); display:flex; align-items:center; justify-content:space-between; }
+    .card-title { font-size: 1.125rem; font-weight: 600; display:flex; align-items:center; gap:.6rem; }
+    .card-title i { color: var(--primary); }
+    .card-badge { padding:.25rem .65rem; border-radius: 999px; background: var(--primary-light); color: var(--primary); font-weight:700; font-size:.75rem; }
+    .card-body { padding:1.5rem; }
+
+    /* Forms */
+    .form-row { display:grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+    @media (max-width:640px) { .form-row { grid-template-columns: 1fr; } }
+    .label { display:block; margin-bottom:.35rem; font-weight:600; color:var(--text-primary); font-size:.9rem; }
+    .input, .select, .textarea {
+      width:100%; padding:.7rem .9rem; border:1px solid var(--border); background:var(--bg);
+      border-radius:.5rem; color:var(--text-primary); font-size:.95rem; transition:.2s;
+    }
+    .input:focus, .select:focus, .textarea:focus { outline:none; border-color:var(--primary); box-shadow:0 0 0 3px var(--primary-light); }
+    .textarea { min-height: 120px; resize: vertical; }
+
+    /* Buttons */
+    .btn-group { display:flex; gap:.75rem; flex-wrap: wrap; }
+    .btn { display:inline-flex; align-items:center; gap:.5rem; padding:.7rem 1.2rem; border-radius:.5rem; font-weight:700; font-size:.9rem; border:none; cursor:pointer; transition:.2s; }
+    .btn:disabled { opacity:.6; cursor:not-allowed; }
+    .btn-primary { background: var(--primary); color:#fff; }
+    .btn-primary:hover:not(:disabled) { background:#004494; transform: translateY(-1px); box-shadow: var(--shadow-md); }
+    .btn-secondary { background: var(--surface); color: var(--text-secondary); border:1px solid var(--border); }
+    .btn-secondary:hover { background: var(--bg); border-color: var(--border); }
+    .btn-success { background: var(--success); color:#fff; }
+    .btn-success:hover { background:#0f9b6c; transform: translateY(-1px); box-shadow: var(--shadow-md); }
+
+    /* Progress */
+    .progress-wrapper { margin: 1rem 0 0; display:none; }
+    .progress-label { display:flex; justify-content:space-between; color: var(--text-secondary); font-size:.85rem; margin-bottom:.4rem; }
+    .progress-bar { height:8px; background: var(--border); border-radius:999px; overflow:hidden; }
+    .progress-fill { height:100%; width:0%; background: var(--primary); border-radius:999px; transition: width .35s ease; }
+
+    /* KPIs / Stats */
+    .stats { display:grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 1rem; margin-top: 1rem; }
+    .stat { padding: 1rem; background: var(--bg); border:1px solid var(--border); border-radius:.5rem; text-align:center; }
+    .stat-value { font-size: 1.4rem; font-weight: 700; color: var(--primary); }
+    .stat-label { font-size:.85rem; color: var(--text-muted); }
+
+    /* Alerts */
+    .alert { padding: 1rem; border:1px solid transparent; border-radius:.5rem; display:flex; gap:.6rem; align-items:flex-start; margin-top: 1rem; }
+    .alert.info { background: var(--primary-light); border-color: rgba(0,86,179,.2); color: var(--primary); }
+    .alert.success { background: var(--success-light); border-color: rgba(16,185,129,.2); color: var(--success); }
+
+    /* Table preview */
+    .table-wrap { border:1px solid var(--border); border-radius:.5rem; overflow:auto; background: var(--surface); margin-top: 1rem; max-height: 420px; }
+    table { width:100%; border-collapse:collapse; }
+    th, td { padding:.7rem .9rem; border-bottom:1px solid var(--border); text-align:left; font-size:.95rem; }
+    thead th { position: sticky; top:0; background: var(--surface); z-index: 1; color: var(--text-secondary); font-weight: 600; }
+    tbody tr:hover { background: var(--bg); }
+
+    /* Toast */
+    .toast {
+      position: fixed; bottom: 2rem; right: 2rem; padding: 1rem 1.25rem; background: var(--surface);
+      border:1px solid var(--border); border-radius:.5rem; box-shadow: var(--shadow-lg);
+      display:flex; gap:.75rem; align-items:center; min-width:320px; transform: translateX(calc(100% + 2rem));
+      transition: transform .35s ease; z-index:1000;
+    }
+    .toast.show { transform: translateX(0); }
+    .toast-icon { font-size: 1.2rem; }
+    .toast-title { font-weight: 700; font-size: .9rem; }
+    .toast-message { color: var(--text-secondary); font-size: .85rem; }
+
+    /* Footer */
+    footer { margin-top:auto; padding: 2rem; text-align:center; color: var(--text-muted); border-top:1px solid var(--border); font-size:.9rem; }
+  </style>
+</head>
+<body>
+  <!-- Header -->
+  <header class="header">
+    <div class="header-content">
+      <div class="header-left">
+        <a href="{% url 'home' %}" style="text-decoration:none; display:flex; align-items:center; gap:.75rem;">
+          <img src="https://afrimag.net/wp-content/uploads/2022/03/JESA-Logo-2048x480.png" alt="JESA Logo" class="logo">
+          <span class="app-title">Portail EIE</span>
+        </a>
+      </div>
+      <nav class="header-right">
+        <a class="nav-link" href="{% url 'home' %}"><i class="fas fa-home"></i> Accueil</a>
+        <a class="nav-link" href="{% url 'dashboard' %}"><i class="fas fa-gavel"></i> Registre Juridique</a>
+        <a class="nav-link active" href="{% url 'commitment' %}"><i class="fas fa-clipboard-check"></i> Engagements</a>
+        <button class="icon-btn" id="theme-toggle" aria-label="Basculer le thème"><i class="fas fa-moon"></i></button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main">
+    <div class="page-header">
+      <h1 class="page-title">Registre des Engagements</h1>
+      <p class="page-sub">Collecte des documents, extraction des engagements, analyse assistée par IA et export.</p>
+    </div>
+
+    <!-- Workflow -->
+    <div class="workflow">
+      <div class="step" id="wf-1">
+        <div class="step-icon"><i class="fas fa-spider"></i></div>
+        <div class="step-label">Collecte</div>
+      </div>
+      <div class="step" id="wf-2">
+        <div class="step-icon"><i class="fas fa-file-pdf"></i></div>
+        <div class="step-label">Traitement</div>
+      </div>
+      <div class="step" id="wf-3">
+        <div class="step-icon"><i class="fas fa-brain"></i></div>
+        <div class="step-label">Analyse</div>
+      </div>
+      <div class="step" id="wf-4">
+        <div class="step-icon"><i class="fas fa-file-export"></i></div>
+        <div class="step-label">Résultats</div>
+      </div>
+    </div>
+
+    <div class="grid">
+      <!-- Left Column -->
+      <div>
+        <!-- Scraping -->
+        <div class="card">
+          <div class="card-header">
+            <h2 class="card-title"><i class="fas fa-spider"></i> Web Scraping — Collecte de PDFs</h2>
+            <span class="card-badge">Étape 1</span>
+          </div>
+          <div class="card-body">
+            <form id="scrape-form" method="POST" action="/scrape/">
+              <div class="form-row">
+                <div>
+                  <label class="label" for="base-url">URL de base</label>
+                  <input id="base-url" name="base_url" class="input" type="url" placeholder="https://www.environnement.gov.ma/" required>
+                </div>
+                <div>
+                  <label class="label">&nbsp;</label>
+                  <div class="btn-group">
+                    <button type="submit" class="btn btn-primary" id="scrape-btn"><i class="fas fa-play"></i> Lancer</button>
+                    <button type="button" class="btn btn-secondary" id="check-status-btn"><i class="fas fa-info-circle"></i> Statut</button>
+                  </div>
+                </div>
+              </div>
+              <input type="hidden" name="csrfmiddlewaretoken" value="{% csrf_token %}">
+            </form>
+
+            <div class="progress-wrapper" id="scrape-progress">
+              <div class="progress-label"><span>Collecte en cours...</span><span id="scrape-percent">0%</span></div>
+              <div class="progress-bar"><div class="progress-fill" id="scrape-progress-fill"></div></div>
+            </div>
+
+            <div id="scrape-results" style="display:none;">
+              <div class="stats">
+                <div class="stat"><div class="stat-value" id="pdfs-found">0</div><div class="stat-label">PDFs trouvés</div></div>
+                <div class="stat"><div class="stat-value" id="pdfs-downloaded">0</div><div class="stat-label">PDFs téléchargés</div></div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Processing -->
+        <div class="card">
+          <div class="card-header">
+            <h2 class="card-title"><i class="fas fa-file-pdf"></i> Traitement des PDFs</h2>
+            <span class="card-badge">Étape 2</span>
+          </div>
+          <div class="card-body">
+            <p class="page-sub" style="margin-bottom:1rem;">Extraction du contenu et création de la base de connaissances.</p>
+            <div class="btn-group">
+              <button class="btn btn-primary" id="process-pdfs-btn"><i class="fas fa-microchip"></i> Traiter</button>
+              <button class="btn btn-secondary" id="download-kb-btn" disabled><i class="fas fa-download"></i> Télécharger KB (JSON)</button>
+            </div>
+
+            <div class="progress-wrapper" id="process-progress">
+              <div class="progress-label"><span>Traitement...</span><span id="process-percent">0%</span></div>
+              <div class="progress-bar"><div class="progress-fill" id="process-progress-fill"></div></div>
+            </div>
+
+            <div id="process-results" style="display:none;">
+              <div class="alert success"><i class="fas fa-check-circle"></i> Base de connaissances générée</div>
+              <div class="stats">
+                <div class="stat"><div class="stat-value" id="docs-processed">0</div><div class="stat-label">Documents traités</div></div>
+                <div class="stat"><div class="stat-value" id="kb-size">0 KB</div><div class="stat-label">Taille de la base</div></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Right Column -->
+      <div>
+        <!-- Analysis -->
+        <div class="card">
+          <div class="card-header">
+            <h2 class="card-title"><i class="fas fa-brain"></i> Analyse des Engagements (IA)</h2>
+            <span class="card-badge">Étape 3</span>
+          </div>
+          <div class="card-body">
+            <label class="label" for="project-description">Contexte du projet (optionnel)</label>
+            <textarea class="textarea" id="project-description" placeholder="Décrivez votre projet : secteur, localisation, activités, principaux impacts, etc."></textarea>
+            <div class="btn-group" style="margin-top: .75rem;">
+              <button class="btn btn-success" id="analyze-btn"><i class="fas fa-microscope"></i> Analyser</button>
+              <button class="btn btn-secondary" id="clear-desc-btn"><i class="fas fa-eraser"></i> Effacer</button>
+            </div>
+
+            <div class="progress-wrapper" id="analysis-progress">
+              <div class="progress-label"><span id="analysis-status">Analyse en préparation...</span><span id="analysis-percent">0%</span></div>
+              <div class="progress-bar"><div class="progress-fill" id="analysis-progress-fill"></div></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Results -->
+        <div class="card">
+          <div class="card-header">
+            <h2 class="card-title"><i class="fas fa-file-export"></i> Résultats & Export</h2>
+            <span class="card-badge">Étape 4</span>
+          </div>
+          <div class="card-body">
+            <div id="no-results" class="alert info">
+              <i class="fas fa-info-circle"></i> Aucune analyse effectuée. Veuillez lancer l’analyse.
+            </div>
+
+            <div id="analysis-results" style="display:none;">
+              <div class="alert success"><i class="fas fa-check-circle"></i> Analyse terminée — Résultats disponibles</div>
+              <div class="btn-group" style="margin-bottom: .75rem;">
+                <button class="btn btn-primary" id="download-pdf-btn"><i class="fas fa-file-pdf"></i> Télécharger PDF</button>
+                <button class="btn btn-secondary" id="view-details-btn"><i class="fas fa-eye"></i> Voir détails</button>
+              </div>
+
+              <div id="results-preview" class="table-wrap" style="display:none;">
+                <table>
+                  <thead id="results-head"></thead>
+                  <tbody id="results-body"></tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </main>
+
+  <footer>© 2025 JESA — Développé par Benali Jawad & Nouar Amine</footer>
+
+  <!-- Toast -->
+  <div class="toast" id="toast">
+    <div class="toast-icon" id="toast-icon"><i class="fas fa-info-circle"></i></div>
+    <div>
+      <div class="toast-title" id="toast-title">Notification</div>
+      <div class="toast-message" id="toast-message">Message</div>
+    </div>
+  </div>
+
+  <script>
+    // Theme
+    const themeToggle = document.getElementById('theme-toggle');
+    const html = document.documentElement;
+    function initTheme(){
+      const saved = localStorage.getItem('theme') || 'light';
+      html.setAttribute('data-theme', saved);
+      themeToggle.querySelector('i').className = saved === 'da rk' ? 'fas fa-sun' : 'fas fa-moon';
+    }
+    themeToggle.addEventListener('click', ()=>{
+      const next = html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+      html.setAttribute('data-theme', next);
+      localStorage.setItem('theme', next);
+      themeToggle.querySelector('i').className = next === 'dark' ? 'fas fa-sun' : 'fas fa-moon';
+    });
+    initTheme();
+
+    // Toast
+    function showToast(title, message, type='info'){
+      const toast = document.getElementById('toast');
+      const icon = document.getElementById('toast-icon');
+      const icons = { info:'fa-info-circle', success:'fa-check-circle', error:'fa-times-circle' };
+      icon.innerHTML = `<i class="fas ${icons[type]}"></i>`;
+      document.getElementById('toast-title').textContent = title;
+      document.getElementById('toast-message').textContent = message;
+      toast.classList.add('show');
+      setTimeout(()=> toast.classList.remove('show'), 4500);
+    }
+
+    // Workflow
+    const steps = [document.getElementById('wf-1'), document.getElementById('wf-2'), document.getElementById('wf-3'), document.getElementById('wf-4')];
+    function updateWorkflow(step){
+      steps.forEach((el, i) => {
+        el.classList.remove('active', 'completed');
+        if(i < step-1) el.classList.add('completed');
+        else if(i === step-1) el.classList.add('active');
+      });
+    }
+    updateWorkflow(1);
+
+    // Helpers
+    function getCookie(name){
+      let cookieValue = null;
+      if(document.cookie && document.cookie !== ''){
+        const cookies = document.cookie.split(';');
+        for(let i=0;i<cookies.length;i++){
+          const cookie = cookies[i].trim();
+          if(cookie.substring(0, name.length + 1) === (name + '=')){
+            cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+            break;
+          }
+        }
+      }
+      return cookieValue;
+    }
+    function setProgress(wrapperId, fillId, percentId, value){
+      const wrap = document.getElementById(wrapperId);
+      const fill = document.getElementById(fillId);
+      const percent = document.getElementById(percentId);
+      if(wrap) wrap.style.display = 'block';
+      if(fill) fill.style.width = value + '%';
+      if(percent) percent.textContent = value + '%';
+    }
+    function endProgress(wrapperId, fillId){
+      const wrap = document.getElementById(wrapperId);
+      const fill = document.getElementById(fillId);
+      setTimeout(()=>{ if(wrap) wrap.style.display = 'none'; if(fill) fill.style.width = '0%'; }, 600);
+    }
+
+    // Step 1: Scrape
+    const scrapeForm = document.getElementById('scrape-form');
+    scrapeForm.addEventListener('submit', async (e)=>{
+      e.preventDefault();
+      updateWorkflow(1);
+      const btn = document.getElementById('scrape-btn');
+      btn.disabled = true;
+      setProgress('scrape-progress', 'scrape-progress-fill', 'scrape-percent', 12);
+      try{
+        const formData = new FormData(scrapeForm);
+        const resp = await fetch('/scrape/', { method: 'POST', headers: { 'X-CSRFToken': getCookie('csrftoken') }, body: formData });
+        setProgress('scrape-progress', 'scrape-progress-fill', 'scrape-percent', 70);
+        if(!resp.ok) throw new Error('Erreur lors du scraping');
+        const data = await resp.json();
+
+        document.getElementById('pdfs-found').textContent = data.pdf_links_count || 0;
+        document.getElementById('pdfs-downloaded').textContent = data.pdf_texts_count || 0;
+        document.getElementById('scrape-results').style.display = 'block';
+
+        setProgress('scrape-progress', 'scrape-progress-fill', 'scrape-percent', 100);
+        showToast('Collecte terminée', 'Les documents ont été récupérés avec succès', 'success');
+        updateWorkflow(2);
+      }catch(err){
+        showToast('Erreur', err.message, 'error');
+      }finally{
+        btn.disabled = false;
+        endProgress('scrape-progress', 'scrape-progress-fill');
+      }
+    });
+
+    // Status
+    document.getElementById('check-status-btn').addEventListener('click', async ()=>{
+      try{
+        const resp = await fetch('/status/');
+        const data = await resp.json();
+        showToast('Statut du système', `Statut: ${data.status} — App: ${data.app}`, 'info');
+      }catch(err){
+        showToast('Erreur', 'Impossible de récupérer le statut', 'error');
+      }
+    });
+
+    // Step 2: Process PDFs
+    document.getElementById('process-pdfs-btn').addEventListener('click', async ()=>{
+      updateWorkflow(2);
+      const btn = document.getElementById('process-pdfs-btn');
+      const dlBtn = document.getElementById('download-kb-btn');
+      btn.disabled = true;
+      setProgress('process-progress', 'process-progress-fill', 'process-percent', 18);
+      try{
+        const resp = await fetch('/process_pdfs/', { method: 'GET' });
+        if(!resp.ok) throw new Error('Aucun PDF à traiter ou erreur serveur');
+        setProgress('process-progress', 'process-progress-fill', 'process-percent', 65);
+        const data = await resp.json();
+
+        // Build KB blob
+        const jsonStr = JSON.stringify(data.kb || [], null, 2);
+        const blob = new Blob([jsonStr], { type: 'application/json' });
+        const sizeKB = (blob.size / 1024).toFixed(2);
+
+        // Enable download
+        dlBtn.disabled = false;
+        dlBtn.onclick = ()=>{
+          const url = URL.createObjectURL(blob);
+          const a = document.createElement('a');
+          a.href = url; a.download = 'engagements_kb.json';
+          document.body.appendChild(a); a.click();
+          document.body.removeChild(a); URL.revokeObjectURL(url);
+        };
+
+        document.getElementById('docs-processed').textContent = data.docs_processed || 0;
+        document.getElementById('kb-size').textContent = `${sizeKB} KB`;
+        document.getElementById('process-results').style.display = 'block';
+
+        setProgress('process-progress', 'process-progress-fill', 'process-percent', 100);
+        showToast('Traitement terminé', 'Base de connaissances générée', 'success');
+        updateWorkflow(3);
+      }catch(err){
+        showToast('Erreur', err.message, 'error');
+      }finally{
+        btn.disabled = false;
+        endProgress('process-progress', 'process-progress-fill');
+      }
+    });
+
+    // Step 3: Analyze commitments
+    document.getElementById('analyze-btn').addEventListener('click', async ()=>{
+      const desc = (document.getElementById('project-description').value || '').trim();
+      if(!desc){ showToast('Description requise', 'Veuillez décrire votre projet', 'info'); return; }
+
+      updateWorkflow(3);
+      const btn = document.getElementById('analyze-btn');
+      btn.disabled = true;
+      document.getElementById('analysis-status').textContent = 'Préparation de l’analyse...';
+      setProgress('analysis-progress', 'analysis-progress-fill', 'analysis-percent', 20);
+      try{
+        const resp = await fetch('/analyze_commitments/', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json', 'X-CSRFToken': getCookie('csrftoken') },
+          body: JSON.stringify({ project_description: desc })
+        });
+        setProgress('analysis-progress', 'analysis-progress-fill', 'analysis-percent', 70);
+        if(!resp.ok){
+          const err = await resp.json().catch(()=>({error:'Erreur lors de l’analyse'}));
+          throw new Error(err.error || 'Erreur lors de l’analyse');
+        }
+        const data = await resp.json();
+
+        document.getElementById('no-results').style.display = 'none';
+        document.getElementById('analysis-results').style.display = 'block';
+
+        document.getElementById('download-pdf-btn').onclick = ()=> { window.location.href = '/download_commitment_register/'; };
+        document.getElementById('view-details-btn').onclick = ()=> displayResults(data.result);
+
+        setProgress('analysis-progress', 'analysis-progress-fill', 'analysis-percent', 100);
+        document.getElementById('analysis-status').textContent = 'Analyse terminée';
+        showToast('Analyse terminée', 'Résultats prêts pour export', 'success');
+        updateWorkflow(4);
+      }catch(err){
+        showToast('Erreur', err.message, 'error');
+      }finally{
+        btn.disabled = false;
+        endProgress('analysis-progress', 'analysis-progress-fill');
+      }
+    });
+
+    // Results table
+    function displayResults(results){
+      const preview = document.getElementById('results-preview');
+      const thead = document.getElementById('results-head');
+      const tbody = document.getElementById('results-body');
+      preview.style.display = 'block';
+
+      if(!Array.isArray(results) || !results.length){
+        thead.innerHTML = ''; tbody.innerHTML = '<tr><td>Aucun résultat</td></tr>'; return;
+      }
+      const headers = Object.keys(results[0]);
+      thead.innerHTML = ''; tbody.innerHTML = '';
+
+      const trh = document.createElement('tr');
+      headers.forEach(h => { const th = document.createElement('th'); th.textContent = h; trh.appendChild(th); });
+      thead.appendChild(trh);
+
+      results.forEach(row=>{
+        const tr = document.createElement('tr');
+        headers.forEach(h=>{
+          const td = document.createElement('td');
+          const val = row[h];
+          td.textContent = val == null ? '' : (typeof val === 'object' ? JSON.stringify(val) : String(val));
+          tr.appendChild(td);
+        });
+        tbody.appendChild(tr);
+      });
+    }
+
+    // Clear description
+    document.getElementById('clear-desc-btn').addEventListener('click', ()=>{
+      document.getElementById('project-description').value = '';
+    });
+  </script>
+</body>
+</html>

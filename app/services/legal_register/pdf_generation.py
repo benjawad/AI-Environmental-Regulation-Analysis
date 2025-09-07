@@ -206,15 +206,25 @@ def generate_legal_register_story():
     body_style = styles['BodyText']; body_style.fontName = 'Helvetica'; body_style.fontSize = 7; body_style.leading = 10; body_style.alignment = TA_LEFT; body_style.spaceAfter = 4
     styles.add(ParagraphStyle(name='ListItem', parent=body_style, leftIndent=0, spaceBefore=0, spaceAfter=0))
     story.append(Paragraph("1. Objective", styles['MainHeading']))
-    story.append(Paragraph("The Legal Register is a listing of acts and regulations...", styles['BodyText']))
+    story.append(Paragraph("""The Legal Register is a listing of acts and regulations, including permits and approvals, applicable to the project or contract. The Legal Register is most useful on contracts and major projects where a significant number of regulations apply. The regulations can be sorted by
+Project Phase, Discipline, or Activity, and thus more easily managed. The objective of using a Legal Register is to be proactive in managing regulatory requirements and therefore be within compliance for the duration of the project/contract. Normally, the Sustainable Project
+Delivery (SPD) Lead will create and manage the Register, and provide updates to the Project Team on a regular basis. The SPD Lead is included in project activities such as status meetings to constantly inform relevant parties of their upcoming regulatory obligations on behalf of
+the customer.
+Creating and maintaining a Legal Register is agree between JESA and the Customer before project initiation and often during project development/Select phase.""", styles['BodyText']))
     story.append(Paragraph("2. Principals", styles['MainHeading']))
-    story.append(Paragraph("• The Legal Register must be reviewed...", styles['ListItem']))
+    for ref in ["• The Legal Register must be reviewed and approved by the Customer before use on a project or contract, as the Customer will own the Register.", "• The SPD Lead, or designate, shall work with the Discipline Leads and project manager(s) to populate and maintain an accurate status of each legal requirement on the register.", "• The SPD Lead, or designate, shall work with the Discipline Leads to determine which legal requirements must be incorporated into the design and who will be responsible for completing required actions.", "• The Legal Register can be used to create a Legal Matrix. A Legal Matrix is a table used to visually summarize the Legal Register. By listing project activities in a column and key legislation in a row across the top, markers can be placed to indicate all legislation that will impact a certain project activity."]:
+        story.append(Paragraph(ref, styles['ListItem']))
     story.append(Paragraph("3. Instruction", styles['MainHeading']))
-    story.append(Paragraph("Initiating and Customizing the Commitment Register", styles['SubHeading']))
-    story.append(Paragraph("The Project Manager / Project Engineering Manager or designate, shall:", styles['BodyText']))
-    story.append(Paragraph("- work with the Customer to populate the Register...", styles['ListItem']))
+    story.append(Paragraph("Initiating the Regulatory Framework", styles['SubHeading']))
+    story.append(Paragraph("The SPD Lead, or designate, shall develop the Legal Register as per the template or the needs of the project/contract.", styles['BodyText']))
+    story.append(Paragraph("Identifying Regulatory Framework", styles['SubHeading']))
+    story.append(Paragraph("A Legal Register is normally populated by a regulatory expert. The Customer and Project Manager shall assist with populating the register, and the Customer must approve the Register before use. The Register shall also be approved by the PM prior to use.", styles['BodyText']))
+    story.append(Paragraph("Populating the Register", styles['SubHeading']))
+    story.append(Paragraph("The framework headings will generally consist of:", styles['BodyText']))
+    for ref in ["• ID","• Phase", "• Aspect / Activity", "• Impacts", "• Jurisdiction", "• Type", "• Regulatory Requirements"]:
+        story.append(Paragraph(ref, styles['ListItem']))
     story.append(Paragraph("4. References", styles['MainHeading']))
-    for ref in ["Safe and Sustainable Engineering...", "Sustainable Project Delivery...", "Sustainable Solutions Standard..."]:
+    for ref in ["Safe and Sustainable Engineering for Asset Lifecycle (SEAL) Standard (MS-EP-STD-0017) Sustainable Project Delivery - Commitment Register (MS-EP-TEM-0051)", "Sustainable Solutions Standard (MS-PM-STD-0018)", "IFC – Guidelines Environmental, Health, and Safety Guidelines Environmental, Health and Safety Guidelines for Large Volume Inorganic Compounds Manufacturing and Coal Tar Distillation DECEMBER 10, 2007"]:
         story.append(Paragraph(ref, styles['ListItem']))
     story.append(Spacer(1, 0.2 * inch))
     story.append(Paragraph("5. Abbreviations", styles['MainHeading']))

@@ -1,16 +1,15 @@
-# services.py
+# @title # Gpt5
 from __future__ import annotations
-
 import os
 import re
 import json
 import hashlib
-import logging
+import argparse
 import unicodedata
 from dataclasses import dataclass
 from typing import Any, Dict, List, Optional, Tuple
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from decimal import Decimal
+from decimal import Decimal, InvalidOperation
 
 # Third-party (hard dependency)
 try:
@@ -49,7 +48,6 @@ try:
     from dateutil import parser as dateutil_parser
 except Exception:
     dateutil_parser = None
-logger = logging.getLogger(__name__)
 
 # ========================= Config =========================
 DEFAULT_DPI = 200
@@ -178,8 +176,6 @@ def parse_french_date_to_iso(date_str: str) -> Optional[str]:
             pass
     return None
 
-from decimal import InvalidOperation  # kept import location to match your original snippet
-
 def fr_amount_string(amount: float) -> str:
     """Format 578300000.0 -> '578.300.000,00'"""
     d = Decimal(str(amount)).quantize(Decimal('0.01'))
@@ -195,13 +191,13 @@ class PageResult:
     used_ocr: bool
     lang: str
 
-def _render_page_to_pil(page: fitz.Page, dpi: int = DEFAULT_DPI) :
+def _render_page_to_pil(page: fitz.Page, dpi: int = DEFAULT_DPI):
     mat = fitz.Matrix(dpi / 72.0, dpi / 72.0)
     pix = page.get_pixmap(matrix=mat, alpha=False)
     mode = 'RGB' if pix.n < 4 else 'RGBA'
     return Image.frombytes(mode, [pix.width, pix.height], pix.samples)
 
-def ocr_page_image(img, ocr_lang: str = 'fra+ara', ocr_config: str = '--psm 6') -> str:
+def ocr_page_image(img: Image.Image, ocr_lang: str = 'fra+ara', ocr_config: str = '--psm 6') -> str: # type: ignore
     if not OCR_AVAILABLE:
         return ''
     return pytesseract.image_to_string(img, lang=ocr_lang, config=ocr_config)
@@ -288,16 +284,8 @@ def extract_text_pages_hybrid(pdf_path: str, dpi: int = DEFAULT_DPI,
 
 # ========================= Parsing =========================
 
-def _normalize_katex(text: str) -> str:
-    """Normalize possible KATEX_INLINE markers to parentheses for robust regex matching."""
-    if not text:
-        return ''
-    return text.replace('KATEX_INLINE_OPEN', '(').replace('KATEX_INLINE_CLOSE', ')')
-
-# ------------------ Page markers / bulletin metadata ------------------
-
 def extract_page_markers(text: str) -> Dict[int, int]:
-    markers: Dict[int, int] = {}
+    markers = {}
     pattern = r'\n\s*([0-9]{2,5})\s+(?:BULLETIN(?:\s+OFFICIEL)?|النشرة)\b'
     for m in re.finditer(pattern, text or '', re.IGNORECASE):
         try:
@@ -307,36 +295,30 @@ def extract_page_markers(text: str) -> Dict[int, int]:
         markers[p] = m.start()
     return markers
 
-
 def find_issn(text: str) -> Optional[str]:
     m = re.search(r'ISSN\s*[:\s]*([0-9]{4}\s*-\s*[0-9]{4})', text or '', re.IGNORECASE)
     return m.group(1).replace(' ', '') if m else None
 
-
 def find_issue_and_dates(text: str) -> Tuple[str, str, str]:
-    """Try to extract issue number, Hijri (written) date, and Gregorian date (ISO) from bulletin text."""
-    txt = _normalize_katex(text or '')
     issue = ''
     hijri = ''
     greg = ''
-
-    m_issue = re.search(r'N[°oº]\s*([0-9]{2,6})', txt or '', re.IGNORECASE)
+    m_issue = re.search(r'N[°oº]\s*([0-9]{2,6})', text or '', re.IGNORECASE)
     if m_issue:
         issue = m_issue.group(1)
-
-    # Try: H (written) followed by (G) in parentheses — robust to KATEX markers because we normalized.
-    m = re.search(r'([0-9]{1,2}\s+[A-Za-zéèêëîïôûùâàäöü\-]{3,30}\s+[0-9]{3,4})\s*\(\s*([^\)]+)\s*\)', txt or '', re.IGNORECASE)
+    # hijri (FR words) + (greg)
+    if regex_mod:
+        m = regex_mod.search(r'([0-9]{1,2}\s+[^\(\)\d\n]{3,30}\s+[0-9]{3,4})\s*\(\s*([^\)]+)\s*\)', text or '', regex_mod.IGNORECASE)
+    else:
+        m = re.search(r'([0-9]{1,2}\s+[A-Za-zéèêëîïôûùâàäöü\-]+?\s+[0-9]{3,4})\s*\(\s*([^\)]+)\s*\)', text or '', re.IGNORECASE)
     if m:
         hijri = m.group(1).strip()
         greg = parse_french_date_to_iso(m.group(2).strip()) or ''
     else:
-        # fallback: find any parenthesized gregorian date
-        mg = re.search(r'\(\s*([0-9]{1,2}\s+[A-Za-zéèêëîïôûùâàäöü]+\s+[0-9]{4})\s*\)', txt or '')
+        mg = re.search(r'\(\s*([0-9]{1,2}\s+[A-Za-zéèêëîïôûùâàäöü]+\s+[0-9]{4})\s*\)', text or '')
         if mg:
             greg = parse_french_date_to_iso(mg.group(1)) or ''
-
     return issue, hijri, greg
-
 
 def parse_bulletin_metadata(full_text: str) -> Dict[str, str]:
     issue, hijri, greg = find_issue_and_dates(full_text)
@@ -351,8 +333,7 @@ def parse_bulletin_metadata(full_text: str) -> Dict[str, str]:
         "issn": issn or ''
     }
 
-# ------------------ Table of contents parsing ------------------
-
+# -------- TOC: robust, stateful line stitching ----------
 def parse_table_of_contents(full_text: str) -> List[Dict[str, Any]]:
     lines = full_text.splitlines()
     # Find SOMMAIRE / TABLE DES MATIERES
@@ -417,38 +398,30 @@ def parse_table_of_contents(full_text: str) -> List[Dict[str, Any]]:
             uniq[key] = e
     return list(uniq.values())
 
-# ------------------ Money extraction ------------------
-
+# -------- Money: precise, robust (FR separators) --------
 def extract_money_with_precision(chunk: str) -> Optional[Dict[str, Any]]:
-    """Return {'amount': float, 'currency': 'EUR'|'MAD', 'spelled'?: str} or None
-
-    Robust to different presentation styles: spelled-out amounts, parenthesised numeric, KATEX markers, FR separators.
-    """
+    """Return {'amount': float, 'currency': 'EUR'|'MAD', 'spelled'?: str} or None"""
     if not chunk:
         return None
 
-    txt = _normalize_katex(chunk)
-
-    # spelled-out pattern: "montant de <words> (12 345 678 €)"
     rx_spelled = re.compile(
-        r"montant\s+de\s+([a-zàâçéèêëîïôûùüÿ\-’'\s]{8,160})\s*\(?\s*([0-9][0-9\.\s\u202F,]+)\s*(€|euros?|eur|dh?s?|mad)\s*\)?",
+        r"montant\s+de\s+([a-zàâçéèêëîïôûùüÿ\-’'\s]{8,160})\s*\(\s*([0-9][0-9\.\s\u202F,]+)\s*(€|euros?|eur|dh?s?|mad)\s*\)",
         re.IGNORECASE,
     )
-
-    # plain numeric: (12 345 €) or 12 345 €
     rx_plain = re.compile(
-        r"\(?\s*([0-9][0-9\.\s\u202F,]+)\s*(€|euros?|eur|dh?s?|mad)\s*\)?|([0-9][0-9\.\s\u202F,]+)\s*(€|euros?|eur|dh?s?|mad)\b",
+        r"\(\s*([0-9][0-9\.\s\u202F,]+)\s*(€|euros?|eur|dh?s?|mad)\s*\)"
+        r"|([0-9][0-9\.\s\u202F,]+)\s*(€|euros?|eur|dh?s?|mad)\b",
         re.IGNORECASE,
     )
 
     spelled = None
-    m = rx_spelled.search(txt)
+    m = rx_spelled.search(chunk)
     if m:
         spelled = ' '.join(m.group(1).strip().split())
         num_raw = m.group(2)
         cur_raw = m.group(3)
     else:
-        m = rx_plain.search(txt)
+        m = rx_plain.search(chunk)
         if not m:
             return None
         if m.group(1) and m.group(2):
@@ -463,6 +436,7 @@ def extract_money_with_precision(chunk: str) -> Optional[Dict[str, Any]]:
         s = s.replace('.', '')
 
     try:
+        # keep float for JSON compatibility; avoids Decimal->str fallback
         amount_val = float(s)
     except Exception:
         try:
@@ -473,216 +447,10 @@ def extract_money_with_precision(chunk: str) -> Optional[Dict[str, Any]]:
     cur = (cur_raw or '').lower()
     currency = 'EUR' if cur in ('€', 'eur', 'euro', 'euros') else ('MAD' if cur in ('dh', 'dhs', 'mad') else cur.upper())
 
-    out: Dict[str, Any] = {
-        'amount': amount_val,
-        'currency': currency,
-    }
+    out = {"amount": amount_val, "currency": currency}
     if spelled:
-        out['spelled'] = spelled
+        out["spelled"] = spelled
     return out
-
-# ------------------ Title/description/content helpers ------------------
-
-def _extract_title_from_block(header: str, block_text: str) -> str:
-    after = ''
-    # header often contains the short title
-    if header:
-        after = header
-    # try to find the "title" piece after the standard opening words
-    body = []
-    for ln in block_text.splitlines()[0:12]:
-        ln = ln.strip()
-        if not ln:
-            continue
-        if re.search(r'^(Vu|Vus|Attendu|Consid[ée]rant|Chapitre|Article)\b', ln, re.IGNORECASE):
-            break
-        body.append(ln)
-        if ln.endswith('.'):
-            break
-
-    pieces = []
-    if after:
-        pieces.append(after.rstrip('.'))
-    if (not pieces) or len(pieces[0].split()) < 4 or re.match(r'^(approuvant|relatif|portant|modifiant|fixant|autorisant)\b', pieces[0], re.IGNORECASE):
-        if body:
-            sentence = ' '.join(body)
-            sentence = TITLE_STOP_WORDS.split(sentence)[0]
-            sentence = sentence.split(' .')[0].split('. ')[0].rstrip('.')
-            if sentence and sentence.lower() not in pieces:
-                pieces.append(sentence)
-
-    title = ' '.join(pieces).strip()
-    if len(title) < 10:
-        title = (after or ' '.join(body)).strip().rstrip('.')
-        title = TITLE_STOP_WORDS.split(title)[0].strip()
-    return title
-
-
-def build_description_fr(typ: str, num: str, hijri: str, greg_iso: str, title: str, block_text: str) -> str:
-    parts: List[str] = []
-    if typ:
-        parts.append(typ)
-    if num:
-        parts.append(f"n° {num}")
-    greg = format_date_fr(greg_iso) if greg_iso else ''
-    if hijri and greg:
-        parts.append(f"du {hijri} ({greg})")
-    elif greg:
-        parts.append(f"du {greg}")
-    elif hijri:
-        parts.append(f"du {hijri}")
-
-    desc = " ".join(parts).strip()
-    if title:
-        desc = (desc + " " + title.rstrip('.')).strip()
-
-    money = extract_money_with_precision(block_text)
-    if money:
-        amt_str = fr_amount_string(money["amount"]) if 'amount' in money else ''
-        unit = 'euros' if money["currency"] == 'EUR' else 'dirhams'
-        if money.get("spelled"):
-            desc += f", d'un montant de {money['spelled']} ({amt_str} {unit})"
-        else:
-            desc += f", d'un montant de {amt_str} {unit}"
-
-    m_conclu = re.search(r"\bconclu[e]?\s+le\s+([0-9]{1,2}\s+[a-zàâçéèêëîïôûùüÿ]+(?:\s+\d{4})?)", block_text, re.IGNORECASE)
-    if m_conclu:
-        concl_date = ' '.join(m_conclu.group(1).split())
-        if concl_date not in desc:
-            desc += f", conclu le {concl_date}"
-
-    # lender/beneficiary/project mentions (concise & factual)
-    m_lender = re.search(r'\b(Banque\s+internationale\s+pour\s+la\s+reconstruction\s+et\s+le\s+d[ée]veloppement|KfW|KFW|BEI|AFD)\b', block_text, re.IGNORECASE)
-    if m_lender and m_lender.group(1) not in desc:
-        desc += f" avec {m_lender.group(1)}"
-
-    m_benef = re.search(r'\b(MASEN|Moroccan Agency for Sustainable Energy|Office\s+[A-Z][A-Za-z\-\s]+)\b', block_text, re.IGNORECASE)
-    if m_benef and m_benef.group(1) not in desc:
-        desc += f", au profit de {m_benef.group(1)}"
-
-    m_proj = re.search(r'Projet\s+[«\"]?\s*([^»\"\n]+)\s*[»\"]?', block_text)
-    if m_proj:
-        proj = m_proj.group(1).strip()
-        if proj and proj not in desc:
-            desc += f", pour le financement du Projet « {proj} »"
-
-    return desc.strip()
-
-# ------------------ Content details / signatories / mapping ------------------
-
-def extract_content_details(block: str) -> Dict[str, Any]:
-    cd: Dict[str, Any] = {}
-    money = extract_money_with_precision(block)
-    if money:
-        loan: Dict[str, Any] = {"amount": float(money["amount"]), "currency": money["currency"]}
-        m_lender = re.search(r'\b(KfW|KFW|BEI|AFD|Banque\s+internationale\s+pour\s+la\s+reconstruction\s+et\s+le\s+d[ée]veloppement|Banque\s+europ[ée]enne\s+d\'investissement)\b', block, re.IGNORECASE)
-        if m_lender:
-            loan["lender"] = m_lender.group(1).strip()
-        m_benef = re.search(r'\b(MASEN|Moroccan Agency for Sustainable Energy|Office\s+[A-Z][A-Za-z\-\s]+|Minist[eè]re\s+[A-Za-z\-\s]+)\b', block, re.IGNORECASE)
-        if m_benef:
-            loan["beneficiary"] = m_benef.group(1).strip()
-        m_proj = re.search(r'Projet\s+[«\"]?\s*([^»\"\n]+)\s*[»\"]?', block)
-        if m_proj:
-            loan["project"] = m_proj.group(1).strip()
-        cd["loan_guarantee"] = loan
-
-    # IGP
-    if re.search(r'(Indication\s+G[eé]ographique|IGP)', block, re.IGNORECASE):
-        igp: Dict[str, str] = {}
-        m_prod = re.search(r'«\s*([^»]+)\s*»', block)
-        if m_prod:
-            igp["name"] = m_prod.group(1).strip()
-        m_area = re.search(r'aire\s+g[ée]ographique[^:]*:\s*(.+?)\.', block, re.IGNORECASE | re.DOTALL)
-        if m_area:
-            igp["area"] = m_area.group(1).strip()
-        m_cert = re.search(r'organisme\s+de\s+certification\s+et\s+de\s+contr[oô]le\s+«?\s*([^»\n]+)\s*»?', block, re.IGNORECASE)
-        if m_cert:
-            igp["certifier"] = m_cert.group(1).strip()
-        if igp:
-            cd["geographical_indication"] = igp
-
-    return cd
-
-
-def map_offset_to_page(offset: int, page_markers: Dict[int, int]) -> int:
-    if not page_markers:
-        return 0
-    chosen = 0
-    best_off = -1
-    for p, off in page_markers.items():
-        if off <= offset and off > best_off:
-            best_off = off
-            chosen = p
-    return chosen
-
-
-def parse_legal_text_block(block: Block, page_markers: Dict[int, int]) -> Optional[Dict[str, Any]]:
-    header = block.header or ''
-    typ = _detect_type(header)
-    num = _extract_number(header)
-    if not (typ or num):
-        return None
-    hijri, greg = _extract_dates_from_block(block.text)
-    title = _extract_title_from_block(header, block.text)
-    sigs = extract_signatories(block.text)
-    cd = extract_content_details(block.text)
-    description = build_description_fr(typ, num, hijri, greg, title, block.text)
-    page_start = map_offset_to_page(block.start, page_markers)
-    obj: Dict[str, Any] = {
-        "type": typ or "",
-        "number": num or "",
-        "title": title or "",
-        "publication_date_hijri": hijri or "",
-        "publication_date_gregorian": greg or "",
-        "page_start": page_start,
-        "description": description,
-        "signatories": sigs or []
-    }
-    if cd:
-        obj["content_details"] = cd
-    return obj
-
-
-def dedupe_legal_texts(objs: List[Dict[str, Any]], blocks: List[Block]) -> List[Dict[str, Any]]:
-    # Keep longest block per (type, number). If number empty, use (type, title) as fallback.
-    by_key: Dict[Tuple[str, str], Dict[str, Any]] = {}
-    lengths: Dict[Tuple[str, str], int] = {}
-    for obj, blk in zip(objs, blocks):
-        key = (obj.get('type',''), obj.get('number') or obj.get('title',''))
-        L = len(blk.text)
-        if key not in by_key or L > lengths[key]:
-            by_key[key] = obj
-            lengths[key] = L
-        else:
-            base = by_key[key]
-            existing = {(s.get('name',''), s.get('title','')) for s in base.get('signatories', [])}
-            for s in obj.get('signatories', []):
-                tup = (s.get('name',''), s.get('title',''))
-                if tup not in existing and s.get('name',''):
-                    base.setdefault('signatories', []).append(s)
-            for fld in ["title","publication_date_hijri","publication_date_gregorian"]:
-                if not base.get(fld) and obj.get(fld):
-                    base[fld] = obj[fld]
-            if obj.get('content_details'):
-                base.setdefault('content_details', {}).update(obj['content_details'])
-            if (base.get('page_start') in (0,None)) and obj.get('page_start'):
-                base['page_start'] = obj['page_start']
-    return list(by_key.values())
-
-# ------------------ Legal block detection (kept unchanged) ------------------
-
-def split_legal_texts(full_text: str) -> List[Block]:
-    starts = [m.start() for m in LEGAL_START_RE.finditer(full_text)]
-    starts = sorted(set(starts))
-    if not starts:
-        return []
-    blocks: List[Block] = []
-    for i, s in enumerate(starts):
-        e = starts[i+1] if i+1 < len(starts) else len(full_text)
-        chunk = full_text[s:e].strip('\n')
-        header = chunk.splitlines()[0] if chunk else ''
-        blocks.append(Block(start=s, end=e, header=header, text=chunk))
-    return blocks
 
 # -------- Signatories: contextual & filtered --------
 BLOCKLIST = {
@@ -751,7 +519,6 @@ def extract_signatories(block_text: str) -> List[Dict[str, str]]:
         out.append(s)
     return out
 
-
 # -------- Legal block detection & field extraction --------
 LEGAL_START_PATTERNS = [
     r'\bDécret\s+n[°oº]\s*[0-9][0-9\-\s]{0,20}[0-9]',
@@ -808,12 +575,12 @@ def _extract_dates_from_block(block_text: str) -> Tuple[str, str]:
     head = '\n'.join(block_text.splitlines()[:6])  # look in first lines
     candidates = [head, block_text]
     for zone in candidates:
-        m = re.search(r'du\s+([0-9]{1,2}\s+[^KATEX_INLINE_OPENKATEX_INLINE_CLOSE\d\n]{3,30}\s+[0-9]{3,4})\s*KATEX_INLINE_OPEN\s*([^KATEX_INLINE_CLOSE]+)\s*KATEX_INLINE_CLOSE', zone, re.IGNORECASE)
+        m = re.search(r'du\s+([0-9]{1,2}\s+[^\(\)\d\n]{3,30}\s+[0-9]{3,4})\s*\(\s*([^\)]+)\s*\)', zone, re.IGNORECASE)
         if m:
             hijri = hijri or m.group(1).strip()
             greg = greg or (parse_french_date_to_iso(m.group(2).strip()) or '')
         else:
-            mg = re.search(r'KATEX_INLINE_OPEN\s*([0-9]{1,2}\s+[A-Za-zéèêëîïôûùâàäöü]+\s+[0-9]{4})\s*KATEX_INLINE_CLOSE', zone)
+            mg = re.search(r'\(\s*([0-9]{1,2}\s+[A-Za-zéèêëîïôûùâàäöü]+\s+[0-9]{4})\s*\)', zone)
             if mg and not greg:
                 greg = parse_french_date_to_iso(mg.group(1).strip()) or ''
     return hijri, greg
@@ -822,7 +589,7 @@ def _extract_title_from_block(header: str, block_text: str) -> str:
     line = (header or '').strip()
 
     after = ''
-    m = re.search(r'KATEX_INLINE_CLOSE\s*(.+)$', line)
+    m = re.search(r'\)\s*(.+)$', line)
     if m and len(m.group(1).strip()) > 3:
         after = m.group(1).strip()
     if not after:
@@ -1009,7 +776,7 @@ def dedupe_legal_texts(objs: List[Dict[str, Any]], blocks: List[Block]) -> List[
                 base['page_start'] = obj['page_start']
     return list(by_key.values())
 
-# ========================= Orchestration (pure functions) =========================
+# ========================= Orchestration =========================
 
 def extract_and_parse_pdf(pdf_path: str, dpi: int = DEFAULT_DPI, cache_dir: str = DEFAULT_CACHE_DIR,
                           force_ocr: bool = False) -> Dict[str, Any]:
@@ -1035,6 +802,8 @@ def extract_and_parse_pdf(pdf_path: str, dpi: int = DEFAULT_DPI, cache_dir: str 
         "legal_texts": legal_texts,
     }
 
+# ========================= CLI =========================
+
 def _to_json_safe(obj: Any) -> Any:
     """Ensure JSON compatibility (Decimal -> float)."""
     if isinstance(obj, Decimal):
@@ -1045,158 +814,5 @@ def _to_json_safe(obj: Any) -> Any:
         return [_to_json_safe(x) for x in obj]
     return obj
 
-# ======================================================================
-#                        Django Service Class
-# ======================================================================
 
-class BOPdfParsingService:
-    """
-    Production-ready service wrapper for your existing extraction/parsing logic.
-    - Does NOT change the core logic: it delegates to extract_and_parse_pdf().
-    - Provides single/batch processing helpers and safe JSON file output.
-    - No Celery required; uses ThreadPoolExecutor when processing many PDFs.
 
-    Usage:
-      svc = BOPdfParsingService(cache_dir="/var/app/ocr_cache", dpi=200, force_ocr=False)
-      data = svc.parse_pdf("/path/to/file.pdf")  # dict with keys: bulletin_metadata, table_of_contents, legal_texts
-      out_path = svc.parse_pdf_to_file("/path/to/file.pdf", "/var/app/output/file.json")
-      results = svc.parse_many(["a.pdf", "b.pdf"], output_dir="/var/app/output")
-    """
-
-    def __init__(
-        self,
-        cache_dir: str = DEFAULT_CACHE_DIR,
-        dpi: int = DEFAULT_DPI,
-        force_ocr: bool = False,
-        logger_: Optional[logging.Logger] = None,
-    ) -> None:
-        self.cache_dir = cache_dir
-        self.dpi = dpi
-        self.force_ocr = force_ocr
-        self.logger = logger_ or logger
-        os.makedirs(self.cache_dir, exist_ok=True)
-
-    def parse_pdf(self, pdf_path: str) -> Dict[str, Any]:
-        """
-        Parse a single PDF into structured JSON-like dict.
-        Returns:
-          {
-            "bulletin_metadata": {...},
-            "table_of_contents": [...],
-            "legal_texts": [...]
-          }
-        """
-        abs_path = os.path.abspath(pdf_path)
-        if not os.path.isfile(abs_path):
-            raise FileNotFoundError(f"PDF not found: {abs_path}")
-        self.logger.debug("Parsing PDF: %s (dpi=%s, cache_dir=%s, force_ocr=%s)",
-                          abs_path, self.dpi, self.cache_dir, self.force_ocr)
-        data = extract_and_parse_pdf(abs_path, dpi=self.dpi, cache_dir=self.cache_dir, force_ocr=self.force_ocr)
-        return _to_json_safe(data)
-
-    def parse_pdf_to_file(self, pdf_path: str, output_path: Optional[str] = None) -> str:
-        """
-        Parse a single PDF and write result as JSON (UTF-8, pretty).
-        Returns the full path to the written JSON file.
-        """
-        data = self.parse_pdf(pdf_path)
-        if output_path:
-            out_path = os.path.abspath(output_path)
-            out_dir = os.path.dirname(out_path) or "."
-            os.makedirs(out_dir, exist_ok=True)
-        else:
-            base = os.path.splitext(os.path.basename(pdf_path))[0] or "output"
-            out_dir = os.getcwd()
-            out_path = os.path.join(out_dir, f"{base}.json")
-        tmp = out_path + ".tmp"
-        with open(tmp, "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
-        os.replace(tmp, out_path)
-        self.logger.info("Wrote JSON: %s", out_path)
-        return out_path
-
-    def parse_many(
-        self,
-        pdf_paths: List[str],
-        output_dir: Optional[str] = None,
-        max_workers: int = MAX_WORKERS,
-    ) -> List[Dict[str, Any]]:
-        """
-        Parse many PDFs (optionally in parallel) and optionally write per-file JSONs.
-        Returns a list of result objects:
-          [
-            {"file": "/abs/path/a.pdf", "ok": True,  "data": {...}, "json_path": "..."},
-            {"file": "/abs/path/b.pdf", "ok": False, "error": "..." }
-          ]
-        The 'data' content strictly respects original attribute names:
-        bulletin_metadata, table_of_contents, legal_texts.
-        """
-        abs_paths = [os.path.abspath(p) for p in pdf_paths]
-        for p in abs_paths:
-            if not os.path.isfile(p):
-                raise FileNotFoundError(f"PDF not found: {p}")
-
-        if output_dir:
-            os.makedirs(output_dir, exist_ok=True)
-
-        results: List[Dict[str, Any]] = []
-        def worker(path: str) -> Dict[str, Any]:
-            try:
-                data = self.parse_pdf(path)
-                item: Dict[str, Any] = {"file": path, "ok": True, "data": data}
-                if output_dir:
-                    base = os.path.splitext(os.path.basename(path))[0] or "output"
-                    json_path = os.path.join(output_dir, f"{base}.json")
-                    tmp = json_path + ".tmp"
-                    with open(tmp, "w", encoding="utf-8") as f:
-                        json.dump(data, f, ensure_ascii=False, indent=2)
-                    os.replace(tmp, json_path)
-                    item["json_path"] = json_path
-                return item
-            except Exception as e:
-                self.logger.exception("Failed to parse: %s", path)
-                return {"file": path, "ok": False, "error": str(e)}
-
-        # Parallel execution
-        with ThreadPoolExecutor(max_workers=max_workers) as ex:
-            futs = [ex.submit(worker, p) for p in abs_paths]
-            for fut in as_completed(futs):
-                results.append(fut.result())
-
-        # stable order (by input order)
-        ordered = {p: None for p in abs_paths}
-        for r in results:
-            ordered[r["file"]] = r
-        return [ordered[p] for p in abs_paths]
-
-    def dependency_report(self) -> Dict[str, Any]:
-        """
-        Quick environment/dependency report (useful for ops/debug).
-        """
-        return {
-            "pymupdf": True,
-            "ocr_available": OCR_AVAILABLE,
-            "pytesseract": bool(OCR_AVAILABLE),
-            "pil": bool(OCR_AVAILABLE and Image is not None),
-            "regex_module": bool(regex_mod),
-            "langid": bool(langid),
-            "dateparser": bool(dateparser),
-            "dateutil": bool(dateutil_parser),
-            "dpi": self.dpi,
-            "cache_dir": os.path.abspath(self.cache_dir),
-            "force_ocr": self.force_ocr,
-            "max_workers": MAX_WORKERS,
-        }
-
-__all__ = [
-    # service
-    "BOPdfParsingService",
-    # pure functions/constants (unchanged logic)
-    "DEFAULT_DPI", "DEFAULT_CACHE_DIR", "MAX_WORKERS",
-    "extract_and_parse_pdf", "_to_json_safe",
-    "PageResult", "Block",
-    "format_date_fr", "parse_french_date_to_iso",
-    "extract_text_pages_hybrid", "parse_bulletin_metadata", "parse_table_of_contents",
-    "extract_page_markers", "split_legal_texts", "parse_legal_text_block",
-    "dedupe_legal_texts", "extract_money_with_precision", "extract_signatories",
-]

@@ -544,3 +544,20 @@ JSON à corriger:
 def make_trainer(api_key: Optional[str] = None) -> GeminiBulletinTrainer:
     client = GeminiClient(api_key=api_key, model_name="gemini-1.5-flash-latest", temperature=0.2)
     return GeminiBulletinTrainer(client)
+
+class LegalRegisterRow(BaseModel):
+    """
+    Represents a single row of the final legal register table.
+    This schema is used to validate the LLM's output for a given legal text.
+    """
+    phase: str = ""
+    activity_aspect: str = ""
+    impacts: str = ""
+    jurisdiction: str = "National"  # Default value
+    type: str = ""
+    legal_requirement: str = ""
+    date: str = ""
+    description: str = ""
+    task: str = ""
+    responsibility: str = ""
+    comments: str = ""

@@ -1,0 +1,84 @@
+{
+  "bulletin_metadata": {
+    "issue_number": "7404",
+    "publication_year_description": "Cent-quatorzième année",
+    "date_hijri": "17 kaada 1446",
+    "date_gregorian": "2025-05-15",
+    "issn": "0851-1217"
+  },
+  "table_of_contents": [],
+  "legal_texts": [
+    {
+      "type": "Décret",
+      "number": "2-25-341",
+      "title": "du 1er kaada 1446 (29 avril 2025)",
+      "publication_date_hijri": "12 ramadan 1446",
+      "publication_date_gregorian": "2025-04-29",
+      "page_start": 592,
+      "description": "Décret n° 2-25-341 du 12 ramadan 1446 (29 avril 2025) du 1er kaada 1446 (29 avril 2025)",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "12-06",
+      "title": "relative à la normalisation, à la",
+      "publication_date_hijri": "26 safar 1431",
+      "publication_date_gregorian": "2010-02-11",
+      "page_start": 584,
+      "description": "Loi n° 12-06 du 26 safar 1431 (11 février 2010) relative à la normalisation, à la",
+      "signatories": [
+        {
+          "name": "RYAD MEZZOUR",
+          "title": ""
+        }
+      ]
+    },
+    {
+      "type": "Loi",
+      "number": "12-02",
+      "title": "relative à la responsabilité civile en",
+      "publication_date_hijri": "25 kaada 1425",
+      "publication_date_gregorian": "2005-01-07",
+      "page_start": 592,
+      "description": "Loi n° 12-02 du 25 kaada 1425 (7 janvier 2005) relative à la responsabilité civile en",
+      "signatories": []
+    },
+    {
+      "type": "Décret",
+      "number": "2-05-1560",
+      "title": "du 22 rabii I 1427 (21 avril 2006),",
+      "publication_date_hijri": "22 rabii I 1427",
+      "publication_date_gregorian": "2006-04-21",
+      "page_start": 592,
+      "description": "Décret n° 2-05-1560 du 22 rabii I 1427 (21 avril 2006) du 22 rabii I 1427 (21 avril 2006),",
+      "signatories": []
+    },
+    {
+      "type": "Décret",
+      "number": "2-24-490",
+      "title": "du 19 hija 1445 (26 juin 2024)",
+      "publication_date_hijri": "19 hija 1445",
+      "publication_date_gregorian": "2024-06-26",
+      "page_start": 592,
+      "description": "Décret n° 2-24-490 du 19 hija 1445 (26 juin 2024) du 19 hija 1445 (26 juin 2024)",
+      "signatories": []
+    },
+    {
+      "type": "Loi",
+      "number": "103-12",
+      "title": "relative aux établissements de crédit",
+      "publication_date_hijri": "10 kaada 1446",
+      "publication_date_gregorian": "2014-12-24",
+      "page_start": 592,
+      "description": "Loi n° 103-12 du 10 kaada 1446 (24 décembre 2014) relative aux établissements de crédit, d'un montant de 12.000,00 dirhams",
+      "signatories": [],
+      "content_details": {
+        "loan_guarantee": {
+          "amount": 12000.0,
+          "currency": "MAD",
+          "beneficiary": "Ministère de l"
+        }
+      }
+    }
+  ]
+}

@@ -34,9 +34,10 @@ KB_PATH = os.path.join(KB_DIR, "parsed_results.json")
 
 
 def home(request):
-    return render(request, 'app/home.html')
+    return render(request, 'app/index.html')
 
-
+def commitment(request):
+    return render(request, 'app/commitment.html')
 async def scrape_view(request):
     if request.method != "POST":
         return HttpResponseNotAllowed(["POST"])
@@ -220,19 +221,18 @@ def parser_validate_view(request):
 
 def _load_knowledge_base() -> List[Dict[str, str]]:
     """
-    Load KB from KB_PATH if exists; otherwise, build a minimal KB by reading PDFs in PDF_DIR.
-    The analyzer expects items with 'filename' and 'content'.
+    Load KB from KB_PATH if present; else build from PDFs (quick text scrape).
+    Shape: [{'filename': str, 'content': str}, ...]
     """
     if os.path.exists(KB_PATH):
         try:
             with open(KB_PATH, "r", encoding="utf-8") as f:
                 kb = json.load(f)
-            # Normalize shape (accept older schema with 'snippet')
             norm = []
             for item in kb:
                 if isinstance(item, dict):
-                    filename = item.get("filename", "")
-                    content = item.get("content") or item.get("snippet") or ""
+                    filename = (item.get("filename") or "").strip()
+                    content = (item.get("content") or item.get("snippet") or "").strip()
                     if filename and content:
                         norm.append({"filename": filename, "content": content})
             if norm:
@@ -240,7 +240,7 @@ def _load_knowledge_base() -> List[Dict[str, str]]:
         except Exception:
             pass
 
-    # 2) Fallback: build KB from PDFs
+    # Fallback: build from PDFs
     kb = []
     for path in sorted(glob(os.path.join(PDF_DIR, "*.pdf"))):
         try:
@@ -249,7 +249,6 @@ def _load_knowledge_base() -> List[Dict[str, str]]:
                 text = "".join(page.get_text() for page in doc)
             finally:
                 doc.close()
-            # Keep it reasonably small
             text = (text or "")[:8000]
             kb.append({"filename": os.path.basename(path), "content": text})
         except Exception:
@@ -258,7 +257,6 @@ def _load_knowledge_base() -> List[Dict[str, str]]:
 
 
 def _flatten_df(df: pd.DataFrame) -> tuple[List[str], List[Dict[str, Any]]]:
-   
     if isinstance(df.columns, pd.MultiIndex):
         flat_cols = [" | ".join([lvl for lvl in tup if lvl]) for tup in df.columns.to_list()]
         flat_df = df.copy()
@@ -272,21 +270,26 @@ def _flatten_df(df: pd.DataFrame) -> tuple[List[str], List[Dict[str, Any]]]:
 
 
 def _build_commitments_from_request(payload: Dict[str, Any], analyzer: CommitmentRegisterAnalyzer) -> List[List[str]]:
+    """
+    Build matrix of rows using the analyzer's column structure.
+    We set only 'Commitment Identifier' and 'Description' here; everything else blank.
+    """
     cols = list(analyzer.columns)
     ncols = len(cols)
     col_index = {col: i for i, col in enumerate(cols)}
 
-    def empty_row():
+    def empty_row() -> List[str]:
         return [""] * ncols
 
-    def set_field(row, col_tuple, value):
+    def set_field(row: List[str], col_tuple: Tuple[str, str, str], value: str):
         idx = col_index.get(col_tuple)
         if idx is not None:
             row[idx] = value
 
-    # If commitments are provided explicitly, use them
+    rows: List[List[str]] = []
+
+    # 1) If explicit commitments provided
     commitments_payload = payload.get("commitments")
-    rows = []
     if isinstance(commitments_payload, list) and commitments_payload:
         for i, item in enumerate(commitments_payload, start=1):
             desc = (item.get("description") or "").strip()
@@ -300,16 +303,17 @@ def _build_commitments_from_request(payload: Dict[str, Any], analyzer: Commitmen
         if rows:
             return rows
 
-    # Otherwise, derive naive commitments from description (bullets/sentences)
+    # 2) Else, derive naive commitments from project_description (bullets/sentences)
     desc_text = (payload.get("project_description") or "").strip()
+
+    # fix: robust bullet regex (numbers like "1. ", dashes, bullets)
     bullets = []
     for line in desc_text.splitlines():
         line = line.strip()
-        if re.match(r"^(\d+[KATEX_INLINE_CLOSE.\s]+|[-•*]\s+)", line):
-            bullets.append(re.sub(r"^(\d+[KATEX_INLINE_CLOSE.\s]+|[-•*]\s+)", "", line).strip())
+        if re.match(r"^(\d+[\.\)]\s+|[-•*]\s+)", line):
+            bullets.append(re.sub(r"^(\d+[\.\)]\s+|[-•*]\s+)", "", line).strip())
 
     if not bullets:
-        # Split into sentences as a fallback
         sentences = re.split(r"(?<=[.!?])\s+", desc_text)
         bullets = [s.strip() for s in sentences if len(s.strip()) > 20][:3]
 
@@ -327,7 +331,11 @@ def _build_commitments_from_request(payload: Dict[str, Any], analyzer: Commitmen
 
 @require_POST
 def analyze_commitments_view(request):
-
+    """
+    Run the LLM analysis.
+    - project_description is REQUIRED (returns 400 if missing/empty).
+    - Results stored in session for Excel/PDF endpoints.
+    """
     try:
         payload = json.loads(request.body.decode("utf-8"))
     except Exception:
@@ -337,45 +345,52 @@ def analyze_commitments_view(request):
     if not project_description:
         return JsonResponse({"error": "project_description is required"}, status=400)
 
-    # Prepare analyzer and KB
-    analyzer = CommitmentRegisterAnalyzer(project_description=project_description)
-    kb = _load_knowledge_base()
+    try:
+        analyzer = CommitmentRegisterAnalyzer(project_description=project_description)
+    except Exception as e:
+        return JsonResponse({"error": str(e)}, status=400)
 
-    # Prepare commitments data
+    kb = _load_knowledge_base()
     commitments_data = _build_commitments_from_request(payload, analyzer)
 
-    # Run analysis (Gemini calls happen inside)
-    df_final = analyzer.analyze_commitments(commitments_data, kb)
+    try:
+        df_final = analyzer.analyze_commitments(commitments_data, kb)
+    except Exception as e:
+        logger.exception("Analysis failed")
+        return JsonResponse({"error": f"Analysis failed: {e}"}, status=500)
 
-    # Flatten for UI
     headers, rows = _flatten_df(df_final)
 
-    # Store in session for download
+    # Persist to session for download endpoints
     request.session["commitment_register_rows"] = rows
     request.session["commitment_register_headers"] = headers
     request.session.modified = True
 
-    # Compute avg_confidence from the analyzer summary if present
-    avg_confidence = 0.0
-    try:
-        # df_final has no summary; get it by re-running minimal stats or rely on analyzer logs.
-        # Here we skip and just return 0.0; you can enhance the analyzer to return summary out.
-        pass
-    except Exception:
-        pass
-
     return JsonResponse({
         "result": rows,
         "rows_count": len(rows),
-        "avg_confidence": avg_confidence
+        "avg_confidence": 0.0,  # placeholder; analyzer does not compute it
     })
 
 
-@require_GET
-def download_commitment_register_view(request):
+def _reconstruct_multiindex(headers: List[str]) -> List[Tuple[str, str, str]]:
     """
-    Download the last analyzed commitment register as an Excel file.
-    Uses rows/headers stored in the session by analyze_commitments_view.
+    Turn flattened headers ("Level1 | Level2 | Level3") back into 3-level tuples.
+    """
+    tuples: List[Tuple[str, str, str]] = []
+    for h in headers:
+        parts = [p.strip() for p in str(h).split(" | ")]
+        while len(parts) < 3:
+            parts.append("")
+        tuples.append((parts[0], parts[1], parts[2]))
+    return tuples
+
+
+@require_GET
+def download_commitment_register_excel_view(request):
+    """
+    Download last analyzed register as Excel.
+    (Kept separate from PDF route to avoid name collisions.)
     """
     rows = request.session.get("commitment_register_rows")
     headers = request.session.get("commitment_register_headers")
@@ -383,13 +398,11 @@ def download_commitment_register_view(request):
         raise Http404("Aucun résultat d'analyse disponible pour téléchargement.")
 
     df = pd.DataFrame(rows)
-    # Ensure column order
-    missing = [h for h in headers if h not in df.columns]
-    for h in missing:
-        df[h] = ""
+    for h in headers:
+        if h not in df.columns:
+            df[h] = ""
     df = df[headers]
 
-    # Create Excel in memory
     buf = io.BytesIO()
     with pd.ExcelWriter(buf, engine="xlsxwriter") as writer:
         df.to_excel(writer, sheet_name="Commitment Register", index=False)
@@ -403,65 +416,28 @@ def download_commitment_register_view(request):
     )
 
 
-def _reconstruct_multiindex(headers: List[str]) -> List[Tuple[str, str, str]]:
-    """
-    Turn flattened headers like "Level1 | Level2 | Level3" back into 3-level tuples.
-    If header has only 1 or 2 parts, pad missing levels with ''.
-    """
-    tuples = []
-    for h in headers:
-        parts = [p.strip() for p in str(h).split(" | ")]
-        while len(parts) < 3:
-            parts.append("")
-        tuples.append((parts[0], parts[1], parts[2]))
-    return tuples
-
-
-
-def _reconstruct_multiindex(headers: List[str]) -> List[Tuple[str, str, str]]:
-    """
-    Turn flattened headers like "Level1 | Level2 | Level3" back into 3-level tuples.
-    If header has only 1 or 2 parts, pad missing levels with ''.
-    """
-    tuples = []
-    for h in headers:
-        parts = [p.strip() for p in str(h).split(" | ")]
-        while len(parts) < 3:
-            parts.append("")
-        tuples.append((parts[0], parts[1], parts[2]))
-    return tuples
-
-
 @require_GET
 def download_commitment_register_view(request):
     """
-    Generates and streams a PDF using your service.generate_commitment_register().
-    Requires that analyze_commitments_view has stored:
-      - session["commitment_register_rows"]: list[dict]
-      - session["commitment_register_headers"]: list[str] (flattened headers)
+    Generate & stream the PDF using your unchangeable generator.
+    Requires analyze_commitments_view to have populated session state.
     """
     rows = request.session.get("commitment_register_rows")
     headers = request.session.get("commitment_register_headers")
 
     if not rows or not headers:
-        # No analysis data in session
         raise Http404("Aucun résultat d'analyse disponible. Veuillez d'abord exécuter l'analyse.")
 
-    # Build a flat DataFrame in the exact header order
     df_flat = pd.DataFrame(rows)
-    # Ensure all columns exist
     for h in headers:
         if h not in df_flat.columns:
             df_flat[h] = ""
-    df_flat = df_flat[headers]  # reorder
+    df_flat = df_flat[headers]
 
-    # Rebuild MultiIndex columns
     col_tuples = _reconstruct_multiindex(headers)
     df_flat.columns = pd.MultiIndex.from_tuples(col_tuples)
 
-    # Attach the DataFrame to the request so your service can read request.df_initial
+    # Attach for your generator (expects request.df_initial)
     setattr(request, "df_initial", df_flat)
 
-    # Call your entrypoint (returns a FileResponse or HttpResponse)
     return generate_commitment_register(request)
-
