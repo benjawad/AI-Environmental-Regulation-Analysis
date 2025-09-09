@@ -15,7 +15,7 @@ from glob import glob
 from typing import Dict, Any, List, Tuple
 from django.views.decorators.http import require_GET , require_POST
 from .services.pdf_parser import  DocumentConfigs, TableValidationConfig, PDFParser, process_pdf_batch, validate_parsing_setup
-
+from django.views.decorators.csrf import csrf_exempt
 import logging
 import pandas as pd
 from .services.commitment_register_analyzer import CommitmentRegisterAnalyzer
@@ -38,6 +38,8 @@ def home(request):
 
 def commitment(request):
     return render(request, 'app/commitment.html')
+
+@csrf_exempt
 async def scrape_view(request):
     if request.method != "POST":
         return HttpResponseNotAllowed(["POST"])
@@ -65,8 +67,8 @@ async def scrape_view(request):
     return JsonResponse({
         "pdf_links_count": len(pdf_links),
         "pdf_texts_count": len(pdf_texts),
-        "links": pdf_links,  # optional, could be large
-        "texts": [{"filename": fn, "snippet": snip} for fn, snip in pdf_texts],  # optional
+        "links": pdf_links,
+        "texts": [{"filename": fn, "snippet": snip} for fn, snip in pdf_texts],  
     })
 
 

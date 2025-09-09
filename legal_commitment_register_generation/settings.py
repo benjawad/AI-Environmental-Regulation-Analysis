@@ -29,6 +29,9 @@ MEDIA_URL = "/media/"
 
 # Applications
 INSTALLED_APPS = [
+    "unfold", 
+    "unfold.contrib.filters",
+    "unfold.contrib.forms",   
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",
@@ -37,6 +40,16 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "app",
 ]
+SUIT_CONFIG = {
+    "ADMIN_NAME": "AI Legal Register",
+    "HEADER_DATE_FORMAT": "l, j. F Y",
+    "MENU_OPEN_FIRST_CHILD": True,
+    "MENU": (
+        "sites",
+        {"app": "app", "label": "Legal Data", "models": ("document", "analysisresult")},
+    ),
+}
+
 
 MIDDLEWARE = [
     "django.middleware.security.SecurityMiddleware",
