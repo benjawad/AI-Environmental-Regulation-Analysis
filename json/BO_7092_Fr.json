@@ -1,0 +1,850 @@
+{
+  "bulletin_number": "1069",
+  "publication_date": {
+    "gregorian": "2022-04-28",
+    "hijri": "26 ramadan 1443"
+  },
+  "source_file": "BO_7092_Fr.pdf",
+  "content": [
+    {
+      "entry_id": "BO-1069-P3-1",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 26 ramadan 1443 (28 avril 2022)",
+      "reference": {
+        "type": "decret",
+        "number": "2-22-254",
+        "date": "2022-04-28"
+      },
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi de finances n° 76-21 pour l'année budgétaire 2022,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le paragraphe I de l'article 41 de la loi de finances",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est approuvé, tel qu'il est annexé à",
+                "paragraphs": [
+                  "l'original du présent décret, l'accord de prêt conclu le 24 mars",
+                  "2022 entre le Royaume du Maroc et le Fonds de l'OPEP pour",
+                  "le développement international, portant sur un montant de",
+                  "cent millions de dollars (100.000.000 $), pour le financement",
+                  "du Programme d'inclusion financière et numérique."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La ministre de l'économie et des finances est",
+                "paragraphs": [
+                  "chargée de l'exécution du présent décret qui sera publié au"
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-1069-P3-2",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "4 ramadan 1443 (6 avril 2022) modifiant la nomenclature",
+      "reference": {
+        "type": "arrete",
+        "number": "1069-22",
+        "date": "2022-04-06"
+      },
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le code des douanes ainsi que des impôts indirects",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'article 4 § I de la loi de finances n° 25-00 pour la",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'article 216 § II du décret n° 2-77-862 du 25 chaoual 1397",
+            "reference_to": "Decret n° 2-77-862"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du ministre de l'agriculture, de la pêche"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La nomenclature du tarif des",
+                "paragraphs": [
+                  "droits de douane telle que définie par l'article 2 alinéa 1°",
+                  "du code des douanes et des impôts indirects est modifiée",
+                  "conformément aux indications du tableau figurant en annexe",
+                  "à l'original du présent arrêté."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Un exemplaire du tableau visé à l'article",
+                "paragraphs": [
+                  "premier ci-dessus est déposé à l'Administration des douanes",
+                  "et impôts indirects."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le directeur général de l'Administration des",
+                "paragraphs": [
+                  "douanes et impôts indirects est chargé de l'exécution du présent",
+                  "arrêté qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-1069-P4-3",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n° 1113-22 du",
+      "reference": {
+        "type": "arrete",
+        "number": "1113-22",
+        "date": "2022-04-14"
+      },
+      "pages": {
+        "start": 4,
+        "end": 4
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le dahir portant loi n° 1-73-255 du 27 chaoual 1393",
+            "reference_to": "Loi n° 1-73-255"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de l'Institut national de recherche halieutique ;"
+          },
+          {
+            "type": "adoption",
+            "text": "Après consultation des chambres des pêches maritimes,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La pêche et le ramassage de la",
+                "paragraphs": [
+                  "palourde (Ruditapes deccussatus) sont interdits dans la baie",
+                  "de Dakhla, telle que délimitée par la ligne droite joignant",
+                  "pointe de Durnford à la pointe del Pescador, à compter de la",
+                  "date de publication du présent arrêté au « Bulletin officiel »",
+                  "jusqu'au 31 décembre 2022.",
+                  "Toutefois, durant la période d'interdiction susmentionnée,",
+                  "l'Institut national de recherche halieutique (INRH) peut être",
+                  "autorisé à pratiquer la pêche et le ramassage de la palourde",
+                  "(Ruditapes deccussatus), conformément à son programme de",
+                  "recherche scientifique, dans la baie de Dakhla susindiquée, en",
+                  "vue de prélever des échantillons.",
+                  "L'autorisation visée ci-dessus fixe, notamment sa durée",
+                  "de validité, les lieux de prélèvement autorisés, les engins de",
+                  "pêche ou instruments de ramassage pouvant être utilisés, ainsi",
+                  "que les quantités de palourdes (Ruditapes deccussatus) dont le",
+                  "prélèvement est permis. La référence de cette autorisation est",
+                  "portée sur la licence de pêche dont bénéficie l'INRH à cet effet."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - En application des dispositions de l'article 6-1",
+                "paragraphs": [
+                  "du dahir portant loi n° 1-73-255 susvisé, les propriétaires et les",
+                  "exploitants des établissements ou locaux dans lesquels sont",
+                  "conservées les palourdes (Ruditapes deccussatus) pêchées ou",
+                  "ramassées dans la zone maritime indiquée à l'article premier",
+                  "ci-dessus avant la publication du présent arrêté, doivent",
+                  "déclarer les quantités qu'ils détiennent et dont ils assurent la",
+                  "conservation au délégué des pêches maritimes dans le ressort",
+                  "duquel se trouve leurs établissements ou locaux.",
+                  "A cet effet, ils disposent d'un délai de sept (7) jours",
+                  "francs à compter de la date de ladite publication pour effectuer",
+                  "cette déclaration. Passé ce délai et à défaut de déclaration,",
+                  "les palourdes (Ruditapes deccussatus) trouvées dans leurs",
+                  "établissements ou locaux sont réputées avoir été pêchées ou",
+                  "ramassées durant la période d'interdiction.",
+                  "Les propriétaires ou exploitants des établissements ou",
+                  "locaux indiqués ci-dessus doivent tenir le registre prévu à",
+                  "l'article 6-1 du dahir précité n° 1-73-255 selon le modèle annexé",
+                  "au présent arrêté."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Durant la période d'interdiction visée à",
+                "paragraphs": [
+                  "l'article premier ci-dessus, les palourdes (Ruditapes deccussatus)",
+                  "issues des fermes aquacoles implantées dans la baie de Dakhla",
+                  "susindiquée, et dont l'autorisation de création et d'exploitation",
+                  "pour l'élevage des palourdes est en cours de validité, peuvent",
+                  "continuer d'être commercialisées, à partir desdites fermes",
+                  "ainsi que par les établissements et entreprises bénéficiant de",
+                  "l'agrément sur le plan sanitaire délivré conformément aux",
+                  "dispositions de la loi n° 28-07 relative à la sécurité sanitaire des",
+                  "produits alimentaires et des textes pris pour son application."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-1069-P6-4",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 23 ramadan 1443 (25 avril 2022) modifiant l'arrêté",
+      "reference": {
+        "type": "arrete",
+        "number": "1190-22",
+        "date": "2022-04-25"
+      },
+      "pages": {
+        "start": 6,
+        "end": 6
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'INDUSTRIE ET DU COMMERCE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre du commerce extérieur, des",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les tissus non-tissés relevant des",
+                "paragraphs": [
+                  "positions tarifaires 5603.11.90.00, 5603.12.90.00, 5603.13.90.00,",
+                  "et 5603.14.90.00 sont retirés de la liste II des marchandises",
+                  "soumises à la licence d'exportation annexée à l'arrêté du",
+                  "ministre du commerce extérieur, des investissements extérieurs",
+                  "et de l'artisanat susvisé n° 1308-94."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté entre en vigueur à compter",
+                "paragraphs": [
+                  "de la date de sa publication au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-1069-P7-5",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 955-22 du 21 chaabane 1443",
+      "reference": {
+        "type": "arrete",
+        "number": "955-22",
+        "date": "2022-03-24"
+      },
+      "pages": {
+        "start": 7,
+        "end": 7
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi susvisée n°016-89,",
+                  "« assortis du baccalauréat, série scientifique ou technique ou",
+                  "« d'un diplôme reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Master's degree, field of study architecture and",
+                  "« construction programme subject area architecture and",
+                  "« town planning, délivré par Kyiv national University of",
+                  "« construction and architecture - Ukraine - le 31 mai 2021,",
+                  "« assorti de la qualification bachelor degree specialized",
+                  "« in architecture professional qualification architect,",
+                  "« délivrée par la même université - le 30 juin 2019 et d'une",
+                  "« attestation de validation du complément de formation,",
+                  "« délivrée par l'Ecole nationale d'architecture de Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-1069-P7-6",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1146-22 du 16 ramadan 1443",
+      "reference": {
+        "type": "arrete",
+        "number": "1146-22",
+        "date": "2022-04-18"
+      },
+      "pages": {
+        "start": 7,
+        "end": 7
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi susvisée n°016-89,",
+                  "« assortis du baccalauréat, série scientifique ou technique ou",
+                  "« d'un diplôme reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Diplôme national d'architecte, délivré par l'Ecole",
+                  "« nationale d'architecture et d'urbanisme - Université",
+                  "« de Carthage - Tunisie - le 22 juin 2018, assorti d'une",
+                  "« attestation de validation du complément de formation,",
+                  "« délivrée par l'Ecole nationale d'architecture de Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-1069-P8-7",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1152-22 du 19 ramadan 1443",
+      "reference": {
+        "type": "arrete",
+        "number": "1152-22",
+        "date": "2022-04-21"
+      },
+      "pages": {
+        "start": 8,
+        "end": 8
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 572-04 du 15 safar 1425 (6 avril 2004), est complété comme",
+                  "suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en radiologie,",
+                  "« est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Sénégal :",
+                  "« ..............................................................................................",
+                  "« - Diplôme d'études spécialisées (D.E.S) de radiologie et",
+                  "« imagerie médicale, délivré par la Faculté de médecine,",
+                  "« de pharmacie et d'odontologie-stomatologie, Université",
+                  "« Cheikh-Anta-Diop de Dakar, Sénégal - le 23 juillet 2021,",
+                  "« assorti d'une attestation d'évaluation des connaissances",
+                  "« et des compétences, délivrée par la Faculté de médecine",
+                  "« et de pharmacie de Marrakech - le 31 janvier 2022. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-1069-P8-8",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1155-22 du 19 ramadan 1443",
+      "reference": {
+        "type": "arrete",
+        "number": "1155-22",
+        "date": "2022-04-21"
+      },
+      "pages": {
+        "start": 8,
+        "end": 8
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur, de la",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 666-03 du 7 rejeb 1424 (4 septembre 2003), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en urologie,",
+                  "« est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Sénégal :",
+                  "« ..............................................................................................",
+                  "« - Diplôme d'études spécialisées (D.E.S) d'urologie,",
+                  "« délivré par la Faculté de médecine, de pharmacie et",
+                  "« d'odontologie - stomatologie, Université Cheikh-Anta-",
+                  "« Diop de Dakar - Sénégal - le 28 septembre 2020, assorti",
+                  "« d'une attestation d'évaluation des connaissances et des",
+                  "« compétences, délivrée par la Faculté de médecine et de",
+                  "« pharmacie de Casablanca - le 5 janvier 2022.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-1069-P9-10",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "durable n° 1105-22 du 9 ramadan 1443 (11 avril 2022)",
+      "reference": {
+        "type": "arrete",
+        "number": "1105-22",
+        "date": "2022-04-11"
+      },
+      "pages": {
+        "start": 9,
+        "end": 9
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE LA TRANSITION ÉNERGÉTIQUE ET DU",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'énergie, des mines, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté conjoint de la ministre de la transition",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article 3 de l'arrêté n° 3429-15",
+                "paragraphs": [
+                  "du 19 kaada 1436 (4 septembre 2015), est modifié ainsi qu'il",
+                  "suit :",
+                  "« Article 3. - Le permis de recherche d'hydrocarbures",
+                  "« dit « HAHA SUD » est délivré pour une période initiale",
+                  "« de six années et dix mois à compter du 4 septembre 2015. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera notifié aux intéressés et",
+                "paragraphs": [
+                  "publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-1069-P9-11",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "durable n° 1106-22 du 9 ramadan 1443 (11 avril 2022)",
+      "reference": {
+        "type": "arrete",
+        "number": "1106-22",
+        "date": "2022-04-11"
+      },
+      "pages": {
+        "start": 9,
+        "end": 9
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE LA TRANSITION ÉNERGÉTIQUE ET DU",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'énergie, des mines, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté conjoint de la ministre de la transition",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article 3 de l'arrêté n° 3430-15",
+                "paragraphs": [
+                  "du 19 kaada 1436 (4 septembre 2015), est modifié ainsi qu'il",
+                  "suit :",
+                  "« Article 3. - Le permis de recherche d'hydrocarbures",
+                  "« dit « HAHA CENTRE » est délivré pour une période initiale de",
+                  "« six années et dix mois à compter du 4 septembre 2015. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera notifié aux intéressés et",
+                "paragraphs": [
+                  "publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-1069-P9-9",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "durable n° 1104-22 du 9 ramadan 1443 (11 avril 2022)",
+      "reference": {
+        "type": "arrete",
+        "number": "1104-22",
+        "date": "2022-04-11"
+      },
+      "pages": {
+        "start": 9,
+        "end": 9
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE LA TRANSITION ÉNERGÉTIQUE ET DU",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'énergie, des mines, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté conjoint de la ministre de la transition",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article 3 de l'arrêté n° 3428-15",
+                "paragraphs": [
+                  "du 19 kaada 1436 (4 septembre 2015) susvisé, est modifié ainsi",
+                  "qu'il suit :",
+                  "« Article 3. - Le permis de recherche d'hydrocarbures",
+                  "« dit « HAHA NORD » est délivré pour une période initiale de",
+                  "« six années et dix mois à compter du 4 septembre 2015. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera notifié aux intéressés et",
+                "paragraphs": [
+                  "publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    }
+  ]
+}

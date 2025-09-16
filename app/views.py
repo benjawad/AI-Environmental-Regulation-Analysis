@@ -1,23 +1,31 @@
-from asyncio.log import logger
+﻿from asyncio.log import logger
 import os
 import io
 import re
 import json
+from tempfile import NamedTemporaryFile
+import traceback
 from django.conf import settings
-from django.http import HttpResponseNotAllowed, JsonResponse ,FileResponse, Http404
+from django.http import HttpResponseNotAllowed, JsonResponse ,FileResponse, Http404, HttpResponse
 from django.shortcuts import render
+from django.shortcuts import get_object_or_404
 from asgiref.sync import sync_to_async
+from django.urls import reverse
 import fitz
 from app.services.commitment_pdf_generation import generate_commitment_register
-from app.services.web_scrapping import PDFDownloader, PDFScraper
-
+from app.services.web_scrapping import PDFDownloader, PDFScraper, load_ministry_data_from_db
+from django.views.decorators.csrf import csrf_exempt
 from glob import glob
 from typing import Dict, Any, List, Tuple
 from django.views.decorators.http import require_GET , require_POST
-from .services.pdf_parser import  DocumentConfigs, TableValidationConfig, PDFParser, process_pdf_batch, validate_parsing_setup
-from django.views.decorators.csrf import csrf_exempt
-import logging
+from .services.pdf_parser import  DocumentConfigs, TableValidationConfig, PDFParser, process_pdf_batch
+import re
+import fitz
 import pandas as pd
+import json
+from pathlib import Path
+from typing import Optional, List, Any, Dict
+import logging
 from .services.commitment_register_analyzer import CommitmentRegisterAnalyzer
 import pytesseract
 
@@ -39,36 +47,83 @@ def home(request):
 def commitment(request):
     return render(request, 'app/commitment.html')
 
+def legal_register(request):
+    """Render the Legal Register wizard page."""
+    return render(request, 'app/legal_register.html')
+
+
+@require_GET
+def download_generated_register_view(request, pk: int):
+    """
+    Stream a generated register PDF stored in DB (fallback to file_path if needed).
+    URL: /registers/<pk>/download/
+    """
+    from app.models import GeneratedRegister
+
+    reg = get_object_or_404(GeneratedRegister, pk=pk)
+    filename = reg.filename or f"{reg.kind}_register_{reg.created_at:%Y%m%d_%H%M%S}.pdf"
+
+    # Prefer DB blob
+    if reg.pdf_data:
+        resp = HttpResponse(reg.pdf_data, content_type="application/pdf")
+        resp["Content-Disposition"] = f'attachment; filename="{filename}"'
+        return resp
+
+    # Fallback to stored file_path if present and exists
+    if reg.file_path and os.path.exists(reg.file_path):
+        return FileResponse(open(reg.file_path, "rb"), as_attachment=True, filename=os.path.basename(reg.file_path))
+
+    raise Http404("No PDF available for this generated register.")
+
+
 @csrf_exempt
 async def scrape_view(request):
     if request.method != "POST":
         return HttpResponseNotAllowed(["POST"])
 
-    base_url = request.POST.get("base_url", "").strip()
-    if not base_url:
-        return JsonResponse({"error": "Base URL is required"}, status=400)
+    # Accept one or multiple base URLs (multi-select)
+    base_urls = request.POST.getlist("base_urls") or []
+    single = (request.POST.get("base_url", "").strip() or None)
+    if single:
+        base_urls.append(single)
+    # Dedup and sanitize
+    base_urls = [u.strip() for u in base_urls if u.strip()]
+    base_urls = list(dict.fromkeys(base_urls))
+    if not base_urls:
+        # Fallback to DB-stored sources
+        try:
+            pairs = load_ministry_data_from_db()
+            base_urls = [u for (_n, u) in pairs if u]
+        except Exception:
+            base_urls = []
+    if not base_urls:
+        return JsonResponse({"error": "Select at least one website (or configure sources)."}, status=400)
 
     try:
         max_sections = int(request.POST.get("max_sections", 10))
     except ValueError:
         max_sections = 10
-    headless = "headless" in request.POST
+    headless = "headless" in request.POST or True
 
-    # 1) Scrape
-    scraper = PDFScraper(base_url=base_url, max_sections=max_sections, headless=headless)
-    pdf_links = await scraper.run()
+    all_links = set()
+    # 1) Scrape per site and aggregate
+    for url in base_urls:
+        scraper = PDFScraper(base_url=url, max_sections=max_sections, headless=headless)
+        links = await scraper.run()
+        for l in links:
+            all_links.add(l)
 
-    # 2) Download + extract
+    # 2) Download + extract (once for all)
     output_dir = os.path.join(getattr(settings, "MEDIA_ROOT", "media"), "pdfs")
     downloader = PDFDownloader(output_dir=output_dir, timeout=20)
-    pdf_texts = await sync_to_async(downloader.run, thread_sensitive=True)(pdf_links)
+    pdf_texts = await sync_to_async(downloader.run, thread_sensitive=True)(sorted(all_links))
 
-    # Return JSON only
     return JsonResponse({
-        "pdf_links_count": len(pdf_links),
+        "pdf_links_count": len(all_links),
         "pdf_texts_count": len(pdf_texts),
-        "links": pdf_links,
-        "texts": [{"filename": fn, "snippet": snip} for fn, snip in pdf_texts],  
+        "links": sorted(all_links),
+        "texts": [{"filename": fn, "snippet": snip} for fn, snip in pdf_texts],
+        "sources": base_urls,
     })
 
 
@@ -130,58 +185,166 @@ def _build(results_map: Dict[str, Any]) -> List[Dict[str, Any]]:
 
     return kb
 
+# --- Helper Functions ---
+
+def _detect_hardware_and_model():
+    """
+    Auto-detects available hardware (CPU/GPU/MPS) and selects the best LayoutLM model.
+    Returns a dictionary with device and model name.
+    """
+    hardware_info = {"device": "cpu", "model_name": None}
+    try:
+        import torch
+        if torch.cuda.is_available():
+            hardware_info["device"] = "cuda:0"
+            logger.info("GPU (CUDA) détecté. Utilisation pour l'inférence.")
+        elif hasattr(torch.backends, "mps") and torch.backends.mps.is_available():
+            hardware_info["device"] = "mps"
+            logger.info("Apple MPS détecté. Utilisation pour l'inférence.")
+        else:
+            logger.info("Pas de GPU détecté. Utilisation du CPU pour l'inférence.")
+    except Exception:
+        logger.warning("PyTorch non installé ou indisponible. Le parser fonctionnera en mode fallback.")
+
+    # Allow env override to force a specific model
+    env_override = os.getenv("LAYOUTLM_MODEL_NAME")
+    if env_override:
+        hardware_info["model_name"] = env_override
+        logger.info(f"Using model from env LAYOUTLM_MODEL_NAME: {env_override}")
+        return hardware_info
+
+    local_model_path = os.path.join(
+        settings.BASE_DIR, 'models', 'layoutlmv3-base-finetuned-publaynet'
+    )
+
+    def _is_valid_model_dir(path: str) -> bool:
+        try:
+            if not os.path.isdir(path):
+                return False
+            has_config = os.path.isfile(os.path.join(path, "config.json"))
+            has_weights = os.path.isfile(os.path.join(path, "pytorch_model.bin")) or \
+                          os.path.isfile(os.path.join(path, "model.safetensors"))
+            return has_config and has_weights
+        except Exception:
+            return False
+
+    if _is_valid_model_dir(local_model_path):
+        hardware_info["model_name"] = local_model_path
+        logger.info(f"Using local LayoutLM model from: {local_model_path}")
+    else:
+        if os.path.isdir(local_model_path):
+            logger.warning(
+                f"Local model directory exists but is not a valid HF repo (missing config/weights): {local_model_path}. "
+                "Falling back to a remote fine-tuned model."
+            )
+        else:
+            logger.info(f"Local model not found at path: {local_model_path}. Falling back to a remote fine-tuned model.")
+        hardware_info["model_name"] = os.getenv(
+            "LAYOUTLM_FALLBACK_REMOTE",
+            "HYPJUDY/layoutlmv3-base-finetuned-publaynet"
+        )
+    return hardware_info
+
+
+def _build_kb(results_map: Dict[str, Any]) -> List[Dict[str, Any]]:
+    """
+    Builds a compact knowledge base from the raw parsing results.
+    This function is now adapted to the output of the new LayoutLM-based parser.
+    """
+    kb: List[Dict[str, Any]] = []
+    for path, result in results_map.items():
+        if not isinstance(result, dict) or "error" in result:
+            continue
+
+        global_analysis = result.get("global_analysis", {})
+
+        all_tables = []
+        for page in result.get("pages", []):
+            tables_on_page = page.get("content", {}).get("tables", [])
+            if tables_on_page:
+                for tbl in tables_on_page:
+                    tbl["page_number"] = page.get("page_number")
+                all_tables.extend(tables_on_page)
+
+        doc_entry = {
+            "filename": os.path.basename(path),
+            "doc_type": result.get("document_type", "unknown"),
+            "pages_count": result.get("metadata", {}).get("pages", 0),
+            "avg_confidence": result.get("analysis_summary", {}).get("avg_confidence", 0.0),
+            "quality": global_analysis.get("document_quality", {}),
+            "pollutants": global_analysis.get("pollutants_summary", {}),
+            "limit_values": global_analysis.get("limit_values_summary", []),
+            "tables": all_tables,
+            "recommendations": global_analysis.get("extraction_recommendations", [])
+        }
+        kb.append(doc_entry)
+    return kb
+
+
 @require_GET
 def process_pdfs_view(request):
     """
-    Parse ALL PDFs in MEDIA_ROOT/pdfs using RobustPDFParser + process_pdf_batch.
-    Returns a compact knowledge base (KB) JSON.
+    Parses ALL PDFs using the LayoutLM-based PDFParser.
+    Auto-detects hardware and returns a compact knowledge base (KB) JSON.
     """
+    # Expect a PDF_DIR constant; otherwise derive from settings
+    try:
+        PDF_DIR = settings.PDF_DIR  # type: ignore
+    except Exception:
+        PDF_DIR = os.path.join(settings.MEDIA_ROOT, "pdfs")
+
     pdf_paths = sorted(glob(os.path.join(PDF_DIR, "*.pdf")))
     if not pdf_paths:
         return JsonResponse({"error": "Aucun PDF trouvé à traiter"}, status=404)
 
-    # Default validation config (you can tweak these)
-    default_config = TableValidationConfig(
-        max_columns=12,
-        min_rows=2,
-        max_null_percentage=0.4,
-        min_content_ratio=0.3,
+    hardware = _detect_hardware_and_model()
+    default_config = TableValidationConfig()
+
+    batch = process_pdf_batch(
+        pdf_files=pdf_paths,
+        config=default_config,
+        layout_model_name=hardware["model_name"],
+        layout_device=hardware["device"]
     )
 
-    batch = process_pdf_batch(pdf_paths, default_config)
-    results_map = batch.get("results", {}) or {}
-    summary = batch.get("summary", {}) or {}
+    results_map = batch.get("results", {})
+    summary = batch.get("summary", {})
+    kb = _build_kb(results_map)
 
-    kb = _build(results_map)
-
-    # Collect per-file errors to help the UI
-    errors: List[Dict[str, Any]] = []
-    for path, res in results_map.items():
-        if isinstance(res, dict) and "error" in res:
-            errors.append({
-                "filename": os.path.basename(path),
-                "error": res.get("error", "unknown"),
-            })
+    errors = [
+        {"filename": os.path.basename(path), "error": res.get("error", "unknown")}
+        for path, res in results_map.items() if isinstance(res, dict) and "error" in res
+    ]
 
     return JsonResponse({
         "docs_processed": len(kb),
         "kb": kb,
         "errors": errors,
         "summary": {
-            "total_files": int(summary.get("total_files", 0) or 0),
-            "successful": int(summary.get("successful", 0) or 0),
-            "failed": int(summary.get("failed", 0) or 0),
-            "avg_confidence": float(summary.get("avg_confidence", 0.0) or 0.0),
-            "processing_time": float(summary.get("processing_time", 0.0) or 0.0),
+            "total_files": summary.get("total_files", 0),
+            "successful": summary.get("successful", 0),
+            "failed": summary.get("failed", 0),
+            "avg_confidence": summary.get("avg_confidence", 0.0),
+            "processing_time": summary.get("processing_time", 0.0),
+            "hardware_used": {
+                "device": hardware["device"],
+                "model": hardware["model_name"]
+            }
         },
     })
+
 
 @require_GET
 def process_pdf_view(request):
     """
-    Parse a SINGLE PDF by filename (query param: ?filename=my.pdf).
-    Uses doc-type–aware config after initial classification for better results.
+    Parses a SINGLE PDF using a document-type-aware config with LayoutLM.
     """
+    # Expect a PDF_DIR constant; otherwise derive from settings
+    try:
+        PDF_DIR = settings.PDF_DIR  # type: ignore
+    except Exception:
+        PDF_DIR = os.path.join(settings.MEDIA_ROOT, "pdfs")
+
     filename = request.GET.get("filename")
     if not filename:
         return JsonResponse({"error": "Paramètre 'filename' requis"}, status=400)
@@ -191,25 +354,38 @@ def process_pdf_view(request):
         return JsonResponse({"error": f"Fichier introuvable: {filename}"}, status=404)
 
     try:
-        # First pass: instantiate to classify & analyze
-        parser = PDFParser(full_path)
+        hardware = _detect_hardware_and_model()
 
-        # Swap in a doc-type–specific config before parsing
-        parser.config = DocumentConfigs.get_config(parser.doc_type)
+        # Fast classification without loading the heavy model
+        initial_parser = PDFParser(full_path)
+        doc_type = initial_parser.doc_type
 
-        # Parse with the tuned config
-        result = parser.parse()
+        tuned_table_config = DocumentConfigs.get_config(doc_type)
 
-        kb = _build({full_path: result})
-        return JsonResponse({
+        final_parser = PDFParser(
+            full_path,
+            config=tuned_table_config,
+            layout_model_name=hardware["model_name"],
+            layout_device=hardware["device"]
+        )
+
+        result = final_parser.parse()
+        kb = _build_kb({full_path: result})
+
+        response_payload = {
             "doc": kb[0] if kb else {},
-            "raw": result,  # if payload is too big for your UI, remove or trim this
-        })
+        }
+        if request.GET.get("include_raw", "false").lower() == "true":
+            response_payload["raw"] = result
+
+        return JsonResponse(response_payload)
 
     except Exception as e:
         logger.exception("Erreur lors du parsing du fichier: %s", filename)
-        return JsonResponse({"error": str(e)}, status=500)
-
+        return JsonResponse({
+            "error": str(e),
+            "traceback": traceback.format_exc() if getattr(settings, "DEBUG", False) else "An internal error occurred."
+        }, status=500)
 
 @require_GET
 def parser_validate_view(request):
@@ -375,6 +551,60 @@ def analyze_commitments_view(request):
     })
 
 
+
+@require_POST
+def save_commitment_results_view(request):
+
+    try:
+        payload = json.loads(request.body.decode("utf-8"))
+    except Exception:
+        return JsonResponse({"error": "Invalid JSON body"}, status=400)
+
+    # Accept both shapes
+    rows = payload.get("rows")
+    headers = payload.get("headers")
+    if rows is None and isinstance(payload.get("results"), list):
+        rows = payload["results"]  # tolerate {results: [...]}
+
+    if not isinstance(rows, list):
+        return JsonResponse({"error": "'rows' must be a list of objects (or provide 'results')"}, status=400)
+
+    # Clean & normalize rows → list[dict[str, str]]
+    cleaned_rows = []
+    for row in rows:
+        if not isinstance(row, dict):
+            return JsonResponse({"error": "Each row must be an object"}, status=400)
+        cleaned = {}
+        for k, v in row.items():
+            cleaned[str(k)] = "" if v is None else (json.dumps(v, ensure_ascii=False) if isinstance(v, (list, dict)) else str(v))
+        cleaned_rows.append(cleaned)
+
+    # Determine headers
+    if isinstance(headers, list) and headers:
+        normalized_headers = [str(h) for h in headers]
+    else:
+        session_headers = request.session.get("commitment_register_headers") or []
+        if session_headers:
+            normalized_headers = [str(h) for h in session_headers]
+        elif cleaned_rows:
+            # infer from first row
+            normalized_headers = list(cleaned_rows[0].keys())
+        else:
+            normalized_headers = []
+
+    # Order columns when we know the headers
+    if normalized_headers:
+        ordered_rows = [{h: row.get(h, "") for h in normalized_headers} for row in cleaned_rows]
+    else:
+        ordered_rows = cleaned_rows
+
+    # Persist to session for PDF/Excel
+    request.session["commitment_register_rows"] = ordered_rows
+    request.session["commitment_register_headers"] = normalized_headers
+    request.session.modified = True
+
+    return JsonResponse({"status": "ok", "rows_count": len(ordered_rows), "headers_count": len(normalized_headers)})
+
 def _reconstruct_multiindex(headers: List[str]) -> List[Tuple[str, str, str]]:
     """
     Turn flattened headers ("Level1 | Level2 | Level3") back into 3-level tuples.
@@ -443,3 +673,267 @@ def download_commitment_register_view(request):
     setattr(request, "df_initial", df_flat)
 
     return generate_commitment_register(request)
+
+
+# ============================================================
+# Commitment Register Parser Integration
+# ============================================================
+
+
+def _normalize_header(val: Optional[str]) -> Optional[str]:
+    if val is None:
+        return None
+    s = str(val).replace("\u00a0", " ").replace("\n", " ").strip()
+    s = re.sub(r"\s+", " ", s)
+    s = re.sub(r"\s*/\s*", "/", s)
+    replacements = {
+        "Fungible": "Fungibility",
+        "Preparation/Construction": "Preparation/construction",
+        "Discharge Management": "Discharge management",
+        "Health and Safety": "Health & Safety",
+        "Health & safety": "Health & Safety",
+        "health & safety": "Health & Safety",
+        "Affected areas or processes": "Affected Areas or Processes",
+        "Impact or hazard addressed": "Impact or Hazard Addressed",
+    }
+    return replacements.get(s, s)
+
+def _ffill(seq: List[Optional[str]]) -> List[Optional[str]]:
+    out, last = [], None
+    for v in seq:
+        if v is not None:
+            last = v
+        out.append(last)
+    return out
+
+def _combine_two_row_headers(raw_df: pd.DataFrame) -> List[str]:
+    n_cols = raw_df.shape[1]
+    top = [_normalize_header(raw_df.iat[0, j]) if pd.notna(raw_df.iat[0, j]) else None for j in range(n_cols)]
+    sub = [_normalize_header(raw_df.iat[1, j]) if pd.notna(raw_df.iat[1, j]) else None for j in range(n_cols)]
+    parents_ff = _ffill(top)
+    headers: List[str] = []
+    for j in range(n_cols):
+        parent, child = parents_ff[j], sub[j]
+        if parent == "Affected Areas or Processes":
+            hdr = f"{parent} - {child}" if child else parent
+        elif parent == "Impact":
+            hdr = f"Impact - {child}" if child else parent
+        else:
+            hdr = _normalize_header(top[j]) or child
+        headers.append(_normalize_header(hdr))
+    return headers
+
+def _flatten_cell(x) -> str:
+    if pd.isna(x):
+        return ""
+    s = str(x).replace("\u00a0", " ").replace("\n", " ")
+    return re.sub(r"\s+", " ", s).strip()
+
+# ------------------------- Core Parser ------------------------- #
+
+def parse_commitment_register(pdf_path: str, start_page: int = 3, end_page: Optional[int] = None) -> pd.DataFrame:
+    doc = fitz.open(pdf_path)
+    start_idx = max(0, start_page - 1)
+    end_idx = len(doc) - 1 if end_page is None else min(len(doc) - 1, end_page - 1)
+    frames: List[pd.DataFrame] = []
+
+    for pnum in range(start_idx, end_idx + 1):
+        page = doc[pnum]
+        tables = page.find_tables()
+        if not tables:
+            continue
+        raw_df = max([t.to_pandas() for t in tables if t.to_pandas().shape[0] >= 3], key=lambda df: df.shape[0]*df.shape[1], default=None)
+        if raw_df is None or raw_df.empty:
+            continue
+        headers = _combine_two_row_headers(raw_df)
+        body = raw_df.iloc[2:].copy()
+        body.columns = headers
+        body = body.dropna(how="all")
+        if body.empty:
+            continue
+        for col in body.columns:
+            body[col] = body[col].apply(_flatten_cell)
+        frames.append(body)
+
+    return pd.concat(frames, ignore_index=True) if frames else pd.DataFrame()
+
+def export_commitment_register_to_json(pdf_path: str, json_path: str, compact: bool = False, keep_nulls: bool = False):
+    df = parse_commitment_register(pdf_path)
+    if df.empty:
+        records: List[Dict[str, Any]] = []
+    else:
+        if keep_nulls:
+            records = df.where(pd.notna(df), None).to_dict(orient="records")
+        else:
+            df = df.fillna("")
+            records = df.to_dict(orient="records")
+
+    out = Path(json_path)
+    out.parent.mkdir(parents=True, exist_ok=True)
+    with out.open("w", encoding="utf-8") as f:
+        if compact:
+            json.dump(records, f, ensure_ascii=False, separators=(",", ":"))
+        else:
+            json.dump(records, f, ensure_ascii=False, indent=2)
+
+    return out
+
+# ------------------------- Django View ------------------------- #
+
+@require_GET
+def parse_commitment_register_view(request):
+    """
+    Parse a PDF Commitment Register (page 3 → end) and return JSON.
+    Example: GET /parse_commitments/?filename=Q37440-00-EN-REG-00002.pdf
+    """
+    filename = request.GET.get("filename")
+    if not filename:
+        return JsonResponse({"error": "Paramètre 'filename' requis"}, status=400)
+
+    pdf_path = os.path.join(PDF_DIR, filename)
+    if not os.path.exists(pdf_path):
+        return JsonResponse({"error": f"Fichier introuvable: {filename}"}, status=404)
+
+    try:
+        df = parse_commitment_register(pdf_path)
+        rows = df.fillna("").to_dict(orient="records")
+        return JsonResponse({
+            "rows_count": len(rows),
+            "result": rows,
+        })
+    except Exception as e:
+        logger.exception("Erreur lors du parsing du fichier commitment register")
+        return JsonResponse({"error": str(e)}, status=500)
+
+
+@require_GET
+def list_commitment_registers_view(request):
+    """
+    List previously generated commitment registers stored in DB.
+    Returns light metadata + a download URL.
+    """
+    from app.models import GeneratedRegister
+
+    qs = GeneratedRegister.objects.filter(kind__iexact="commitment").order_by("-created_at")[:200]
+    docs = []
+    for r in qs:
+        size = None
+        try:
+            if r.pdf_data:
+                size = len(r.pdf_data)
+            elif r.file_path and os.path.exists(r.file_path):
+                size = os.path.getsize(r.file_path)
+        except Exception:
+            pass
+
+        docs.append({
+            "id": r.pk,
+            "filename": r.filename or f"commitment_{r.pk}.pdf",
+            "created_at": getattr(r, "created_at", None).isoformat() if getattr(r, "created_at", None) else None,
+            "size": size,
+            "download_url": reverse("download_generated_register", kwargs={"pk": r.pk}),
+        })
+    return JsonResponse({"docs": docs})
+
+
+@require_POST
+def upload_commitment_register_view(request):
+    """
+    Upload previous commitment registers (PDF or JSON).
+    - PDF: parsed into rows using parse_commitment_register
+    - JSON: either list[dict] or {"rows":[...]}
+    The last parsed file is loaded into the session so the user can edit/export immediately.
+    """
+    files = request.FILES.getlist("files") or ([request.FILES["file"]] if "file" in request.FILES else [])
+    if not files:
+        return JsonResponse({"error": "No file provided (accepts PDF or JSON)"}, status=400)
+
+    total_rows = 0
+    last_rows: List[Dict[str, Any]] = []
+
+    for f in files:
+        name = (f.name or "").lower()
+
+        if name.endswith(".json"):
+            try:
+                data = json.load(f)
+            except Exception as e:
+                return JsonResponse({"error": f"Invalid JSON: {e}"}, status=400)
+            rows = data.get("rows") if isinstance(data, dict) else (data if isinstance(data, list) else [])
+            if not isinstance(rows, list):
+                rows = []
+            rows = [r for r in rows if isinstance(r, dict)]
+            total_rows += len(rows)
+            last_rows = rows or last_rows
+
+        elif name.endswith(".pdf"):
+            # Save to a temp file then parse
+            with NamedTemporaryFile(delete=False, suffix=".pdf") as tmp:
+                for chunk in f.chunks():
+                    tmp.write(chunk)
+                tmp_path = tmp.name
+            try:
+                df = parse_commitment_register(tmp_path)
+                rows = df.fillna("").to_dict(orient="records")
+                total_rows += len(rows)
+                last_rows = rows or last_rows
+            finally:
+                try:
+                    os.remove(tmp_path)
+                except Exception:
+                    pass
+        else:
+            # ignore unknown extensions
+            continue
+
+    # If we parsed anything, store to session so the UI can display & export
+    if last_rows:
+        headers = list(last_rows[0].keys())
+        request.session["commitment_register_rows"] = last_rows
+        request.session["commitment_register_headers"] = headers
+        request.session.modified = True
+
+    return JsonResponse({
+        "uploaded": len(files),
+        "rows_count": total_rows,
+        "preview_rows": last_rows[:200],
+    })
+
+
+@require_GET
+def load_commitment_register_view(request, pk: int):
+    """
+    Load a previously generated commitment register from DB (PDF), parse it,
+    and push rows/headers into the session for immediate edit/export.
+    """
+    from app.models import GeneratedRegister
+
+    reg = get_object_or_404(GeneratedRegister, pk=pk)
+    pdf_bytes = None
+
+    if reg.pdf_data:
+        pdf_bytes = reg.pdf_data
+    elif reg.file_path and os.path.exists(reg.file_path):
+        with open(reg.file_path, "rb") as fh:
+            pdf_bytes = fh.read()
+    else:
+        raise Http404("No PDF found for this register.")
+
+    with NamedTemporaryFile(delete=False, suffix=".pdf") as tmp:
+        tmp.write(pdf_bytes)
+        tmp_path = tmp.name
+    try:
+        df = parse_commitment_register(tmp_path)
+        rows = df.fillna("").to_dict(orient="records")
+    finally:
+        try:
+            os.remove(tmp_path)
+        except Exception:
+            pass
+
+    headers = list(rows[0].keys()) if rows else []
+    request.session["commitment_register_rows"] = rows
+    request.session["commitment_register_headers"] = headers
+    request.session.modified = True
+
+    return JsonResponse({"rows_count": len(rows), "result": rows})

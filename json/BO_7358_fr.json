@@ -1,0 +1,2552 @@
+{
+  "bulletin_number": "7358",
+  "publication_date": {
+    "gregorian": "",
+    "hijri": "3 joumada II 1446"
+  },
+  "source_file": "BO_7358_fr.pdf",
+  "content": [
+    {
+      "entry_id": "BO-7358-P4-1",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 23 rabii II 1443 (29 novembre 2021) pris",
+      "reference": {
+        "type": "decret",
+        "number": "2-21-749",
+        "date": "2021-11-29"
+      },
+      "pages": {
+        "start": 4,
+        "end": 4
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi organique n° 130-13 relative à la loi de finances,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi-cadre n° 09-21 relative à la protection sociale,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 65-00 portant code de la couverture médicale",
+            "reference_to": "Loi n° 65-00"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 98-15 relative au régime de l'assurance maladie",
+            "reference_to": "Loi n° 98-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 99-15 instituant un régime de pensions pour",
+            "reference_to": "Loi n° 99-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 15-95 formant code de commerce, promulguée",
+            "reference_to": "Loi n° 15-95"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le Code général des impôts institué par l'article 5",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-622 du 10 joumada I 1440 (17 janvier",
+            "reference_to": "Decret n° 2-18-622"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions de",
+                "paragraphs": [
+                  "l'article 6 de la loi n° 98-15 relative au régime de l'assurance",
+                  "maladie obligatoire de base et de l'article 4 de la loi",
+                  "n° 99-15 instituant un régime de pensions, pour les catégories",
+                  "des professionnels, des travailleurs indépendants et des",
+                  "personnes non salariées exerçant une activité libérale, le",
+                  "présent décret fixe les modalités d'application des deux régimes",
+                  "précités aux personnes soumises au régime de la contribution",
+                  "professionnelle unique."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - En application des dispositions de l'article 8 de",
+                "paragraphs": [
+                  "la loi n° 98-15 précitée, l'immatriculation prend effet à compter",
+                  "du premier jour du mois qui suit celui au cours duquel la",
+                  "personne soumise au régime de la contribution professionnelle",
+                  "unique dépose la première déclaration de son chiffre d'affaires.",
+                  "Toutefois, l'immatriculation des personnes soumises",
+                  "au régime de la contribution professionnelle unique, à la date",
+                  "d'entrée en vigueur du présent décret, prend effet à compter",
+                  "du 1er décembre 2021."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - En application des dispositions du 2ème alinéa",
+                "paragraphs": [
+                  "de l'article 22 de la loi n° 98-15 susvisée, le montant de la",
+                  "cotisation au titre de l'assurance maladie obligatoire de base",
+                  "est déterminé sur la base des droits complémentaires prévus",
+                  "au code général des impôts.",
+                  "En application des dispositions du 3ème alinéa de l'article",
+                  "14 de la loi n° 99-15 susvisée, le montant de la cotisation au",
+                  "titre du régime des pensions est déterminé sur la base d'un",
+                  "coefficient de 1.57 à appliquer au montant de la cotisation",
+                  "relative au régime de l'assurance maladie obligatoire de base."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - En application des dispositions de l'article 12",
+                "paragraphs": [
+                  "de la loi n°98-15 et de l'article 14 de la loi n° 99-15 susvisées,",
+                  "les cotisations prévues à l'article 3 ci-dessus sont versées à",
+                  "compter du premier jour de chaque trimestre dont la cotisation",
+                  "est exigible , en cas d'option pour le paiement trimestriel, ou",
+                  "à compter du 1er avril de chaque année dont la cotisation est",
+                  "exigible, en cas d'option pour le paiement annuel."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - En application des dispositions du dernier",
+                "paragraphs": [
+                  "alinéa de l'article 27 de la loi n° 98-15 susvisée, les modalités",
+                  "d'application des dispositions dudit article en ce qui concerne",
+                  "les personnes soumises au régime de la contribution",
+                  "professionnelle unique sont fixées par arrêté de l'autorité",
+                  "gouvernementale chargée du budget."
+                ]
+              },
+              {
+                "article_number": "ART. 6. - En application des dispositions de l'article 11",
+                "paragraphs": [
+                  "de la loi n° 98-15 susvisée, la direction générale des impôts",
+                  "relevant du ministère de l'économie et des finances est",
+                  "considéré comme l'organisme chargé de communiquer à la",
+                  "Caisse nationale de sécurité sociale les informations dont",
+                  "il dispose concernant les personnes soumises au régime de",
+                  "la contribution professionnelle unique, nécessaires à leur",
+                  "immatriculation."
+                ]
+              },
+              {
+                "article_number": "ART. 7. - La direction générale des impôts perçoit des",
+                "paragraphs": [
+                  "personnes soumises au régime de la contribution professionnelle",
+                  "unique les cotisations et les majorations de retard au titre de",
+                  "l'assurance maladie obligatoire de base et ce, sur la base des",
+                  "droits complémentaires prévus au premier alinéa de l'article 3",
+                  "ci-dessus."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7358-P5-2",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 23 rabii II 1443 (29 novembre 2021)",
+      "reference": {
+        "type": "decret",
+        "number": "2-21-750",
+        "date": "2021-11-29"
+      },
+      "pages": {
+        "start": 5,
+        "end": 5
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-20-659 du 29 moharrem 1442",
+            "reference_to": "Decret n° 2-20-659"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article 5 du décret n° 2-20-659",
+                "paragraphs": [
+                  "du 29 moharrem 1442 (18 septembre 2020) susvisé est modifié",
+                  "comme suit :",
+                  "« Le revenu forfaitaire fixé à l'article 4 ci-dessus ..............",
+                  "« jusqu'à juillet 2022. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Sont abrogées les dispositions de l'article 8 du",
+                "paragraphs": [
+                  "décret précité n° 2-20-659 du 29 moharrem 1442 (18 septembre",
+                  "2020)."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le ministre de la santé et de la protection",
+                "paragraphs": [
+                  "sociale, la ministre du tourisme, de l'artisanat et de l'économie",
+                  "sociale et solidaire et le ministre délégué auprès de la ministre",
+                  "de l'économie et des finances, chargé du budget, sont chargés,",
+                  "chacun en ce qui le concerne, de l'exécution du présent décret",
+                  "qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7358-P5-3",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 23 rabii II 1443 (29 novembre 2021) pris",
+      "reference": {
+        "type": "decret",
+        "number": "2-21-751",
+        "date": "2021-11-29"
+      },
+      "pages": {
+        "start": 5,
+        "end": 6
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 65-00 portant code de la couverture médicale",
+            "reference_to": "Loi n° 65-00"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 98-15 relative au régime de l'assurance maladie",
+            "reference_to": "Loi n° 98-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 99-15 instituant un régime de pensions pour",
+            "reference_to": "Loi n° 99-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le Code général des impôts institué par l'article 5",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 15-95 formant code de commerce promulguée",
+            "reference_to": "Loi n° 15-95"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 50-17 relative à l'exercice des activités de",
+            "reference_to": "Loi n° 50-17"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-622 du 10 joumada I 1440 (17 janvier",
+            "reference_to": "Decret n° 2-18-622"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions",
+                "paragraphs": [
+                  "de l'article 6 de la loi n° 98-15 relative au régime de",
+                  "l'assurance maladie obligatoire de base et de l'article 4 de la loi",
+                  "n° 99-15 instituant un régime de pensions, pour les catégories des",
+                  "professionnels, des travailleurs indépendants et des personnes non"
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7358-P7-4",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 10 joumada I 1443 (15 décembre 2021) pris",
+      "reference": {
+        "type": "decret",
+        "number": "2-21-970",
+        "date": ""
+      },
+      "pages": {
+        "start": 7,
+        "end": 7
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 65-00 portant code de la couverture médicale",
+            "reference_to": "Loi n° 65-00"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 98-15 relative au régime de l'assurance maladie",
+            "reference_to": "Loi n° 98-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 99-15 instituant un régime de pensions pour",
+            "reference_to": "Loi n° 99-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 65-99 relative au Code du travail promulguée",
+            "reference_to": "Loi n° 65-99"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n°21-80 relative à l'exercice, à titre privé, de",
+            "reference_to": "Loi n° 21-80"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le dahir portant loi n°1-93-230 du 19 rabii II 1414",
+            "reference_to": "Loi n° 1-93-230"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-622 du 10 joumada I 1440 (17 janvier",
+            "reference_to": "Decret n° 2-18-622"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions de",
+                "paragraphs": [
+                  "l'article 6 de la loi n° 98-15 relative au régime de l'assurance",
+                  "maladie obligatoire de base et de l'article 4 de la loi n° 99-15",
+                  "instituant un régime de pensions susvisées, le présent décret",
+                  "fixe les modalités d'application des régimes précités aux",
+                  "vétérinaires."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - .En application des dispositions de l'article 7",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7358-P8-5",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 10 joumada I 1443 (15 décembre 2021)",
+      "reference": {
+        "type": "decret",
+        "number": "2-21-971",
+        "date": ""
+      },
+      "pages": {
+        "start": 8,
+        "end": 9
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 65-00 portant code de la couverture médicale",
+            "reference_to": "Loi n° 65-00"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 98-15 relative au régime de l'assurance maladie",
+            "reference_to": "Loi n° 98-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 99-15 instituant un régime de pensions pour",
+            "reference_to": "Loi n° 99-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-622 du 10 joumada I 1440 (17 janvier",
+            "reference_to": "Decret n° 2-18-622"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. -En application des dispositions de",
+                "paragraphs": [
+                  "l'article 6 de la loi n° 98-15 relative au régime de l'assurance",
+                  "maladie obligatoire de base et de l'article 4 de la loi n° 99-15",
+                  "instituant un régime de pensions susvisées, le présent décret",
+                  "fixe les modalités d'application des régimes précités aux",
+                  "ingénieurs géomètres-topographes.",
+                  "<<<BO_PAGE_9_DELIM>>>",
+                  "Nº 7358 - 3 joumada II 1446 (5-12-2024)"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - En application des dispositions de l'article 7",
+                "paragraphs": [
+                  "de la loi n° 98-15 précitée, l'ingénieur géomètre-topographe",
+                  "concerné est tenu dans un délai ne dépassant pas le dernier",
+                  "jour du mois durant lequel commence à courir, en ce qui",
+                  "le concerne, l'effet de l'immatriculation, de demander son",
+                  "immatriculation, via la plateforme électronique créée à cet",
+                  "effet par la Caisse nationale de sécurité sociale, ou de déposer",
+                  "sa demande auprès de l'une des agences de la Caisse proche",
+                  "de son lieu de résidence ou de travail ou auprès des réseaux",
+                  "de proximité relevant des établissements qui ont conclu une",
+                  "convention à cet effet avec la Caisse nationale de sécurité",
+                  "sociale, dont la liste est publiée sur le site électronique de la",
+                  "Caisse, ou par tout moyen approprié, contre un récépissé ou un",
+                  "accusé, et selon un modèle établi à cet effet par ladite Caisse.",
+                  "Sont jointes à ladite demande les pièces fixées en vertu des",
+                  "textes réglementaires en vigueur."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - En application des dispositions de l'article 8 de",
+                "paragraphs": [
+                  "la loi n° 98-15 précitée, l'effet de l'immatriculation commence,",
+                  "en ce qui concerne les ingénieurs géomètres-topographes, à",
+                  "partir du 1er jour du mois qui suit le mois où ces derniers",
+                  "ont rempli les conditions de l'assujettissement au régime",
+                  "mentionné à l'article premier de la loi précitée.",
+                  "Toutefois, l'immatriculation des ingénieurs géomètrestopographes qui exercent la profession à la date d'entrée en",
+                  "vigueur du présent décret, prend effet à compter du 1er janvier",
+                  "2022."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - En application des dispositions de l'article 22 de",
+                "paragraphs": [
+                  "la loi n° 98-15 et de l'article 14 de la loi n° 99-15 susmentionnées,",
+                  "le revenu forfaitaire des ingénieurs géomètres-topographes",
+                  "selon les années d'ancienneté dans l'exercice de la profession",
+                  "est fixé comme suit :",
+                  "- moins de 10 années : trois (3) fois la valeur résultant",
+                  "de la multiplication du salaire minimum légal dans",
+                  "les activités non agricoles, fixé conformément aux",
+                  "dispositions de l'article 356 de la loi n° 65-99 susvisée,",
+                  "par la durée normale annuelle du travail dans les",
+                  "activités non agricoles prévue à l'article 184 de la ladite",
+                  "loi ;",
+                  "- de 10 à 30 années complètes : 5 fois la valeur précitée ;",
+                  "- au-delà de 30 années : 3,5 fois la valeur précitée."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Les cotisations dues à la Caisse nationale de",
+                "paragraphs": [
+                  "sécurité sociale par chaque ingénieur géomètre-topographe,",
+                  "sont calculées sur la base du revenu forfaitaire fixé à l'article 4",
+                  "ci-dessus."
+                ]
+              },
+              {
+                "article_number": "ART. 6. - En application des dispositions du 1er alinéa de",
+                "paragraphs": [
+                  "l'article 12 de la loi n° 98-15 et de l'article 14 de la loi n° 99-15",
+                  "précitées, les cotisations sont versées mensuellement à partir",
+                  "du 1er jour de chaque mois dont la cotisation est exigible."
+                ]
+              },
+              {
+                "article_number": "ART. 7. - Conformément aux dispositions de l'article 10",
+                "paragraphs": [
+                  "de la loi n° 98-15 précitée, l'Ordre national des ingénieurs",
+                  "géomètres-topographes, institué en vertu de la loi n° 30-93",
+                  "susvisée, est considéré comme l'organisme de communication",
+                  "chargé de fournir à la Caisse nationale de sécurité sociale",
+                  "les informations dont il dispose relatives aux ingénieurs",
+                  "géomètres-topographes, nécessaires à leur immatriculation",
+                  "et ce, conformément aux modalités fixées en vertu des textes",
+                  "réglementaires en vigueur."
+                ]
+              },
+              {
+                "article_number": "ART. 8. - Le ministre de la santé et de la protection",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7358-P9-6",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 1er joumada II 1443 (4 janvier 2022) pris",
+      "reference": {
+        "type": "decret",
+        "number": "2-21-1018",
+        "date": "2022-01-04"
+      },
+      "pages": {
+        "start": 9,
+        "end": 10
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 65-00 portant code de la couverture médicale",
+            "reference_to": "Loi n° 65-00"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 98-15 relative au régime de l'assurance maladie",
+            "reference_to": "Loi n° 98-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 99-15 instituant un régime de pensions pour",
+            "reference_to": "Loi n° 99-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 65-99 relative au Code du travail promulguée",
+            "reference_to": "Loi n° 65-99"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 52-05 relative au Code de la route promulguée",
+            "reference_to": "Loi n° 52-05"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-10-314 du 20 chaoual 1431 (29 septembre",
+            "reference_to": "Decret n° 2-10-314"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-622 du 10 joumada I 1440 (17 janvier",
+            "reference_to": "Decret n° 2-18-622"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-929 du 23 rabii II 1443 (29 novembre",
+            "reference_to": "Decret n° 2-21-929"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération au Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions de",
+                "paragraphs": [
+                  "l'article 6 de la loi n° 98-15 relative au régime de l'assurance",
+                  "maladie obligatoire de base et de l'article 4 de la loi n° 99-15",
+                  "instituant un régime de pensions susvisées, le présent décret fixe",
+                  "les modalités d'application des régimes précités aux chauffeurs",
+                  "de taxi titulaires de la carte de conducteur professionnel."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - .En application des dispositions de l'article 7",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7358-P11-7",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 1er joumada II 1443 (4 janvier 2022)",
+      "reference": {
+        "type": "decret",
+        "number": "2-21-1019",
+        "date": "2022-01-04"
+      },
+      "pages": {
+        "start": 11,
+        "end": 13
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 65-00 portant code de la couverture médicale",
+            "reference_to": "Loi n° 65-00"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 98-15 relative au régime de l'assurance maladie",
+            "reference_to": "Loi n° 98-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 99-15 instituant un régime de pensions pour",
+            "reference_to": "Loi n° 99-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 65-99 relative au Code du travail promulguée",
+            "reference_to": "Loi n° 65-99"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-622 du 10 joumada I 1440 (17 janvier 2019)",
+            "reference_to": "Decret n° 2-18-622"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-929 du 23 rabii II 1443 (29 novembre",
+            "reference_to": "Decret n° 2-21-929"
+          },
+          {
+            "type": "adoption",
+            "text": "Après consultation des chambres d'agriculture ;"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions de",
+                "paragraphs": [
+                  "l'article 6 de la loi n° 98-15 relative au régime de l'assurance",
+                  "maladie obligatoire de base et de l'article 4 de la loi n° 99-15",
+                  "instituant un régime de pensions susvisées, le présent décret",
+                  "fixe les modalités d'application des régimes précités aux",
+                  "agriculteurs."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - En application des dispositions de l'article 7",
+                "paragraphs": [
+                  "de la loi n° 98-15 précitée, l'agriculteur concerné, est tenu",
+                  "dans un délai ne dépassant pas le dernier jour du mois durant",
+                  "lequel commence à courir, en ce qui le concerne, l'effet de",
+                  "l'immatriculation, de demander son immatriculation, via la",
+                  "plateforme électronique créée à cet effet par la Caisse nationale",
+                  "de sécurité sociale, ou de déposer sa demande auprès de l'une",
+                  "des agences de la Caisse proche de son lieu de résidence ou",
+                  "de travail ou auprès des réseaux de proximité relevant des",
+                  "établissements qui ont conclu une convention à cet effet avec la",
+                  "Caisse nationale de sécurité sociale, dont la liste est publiée sur",
+                  "le site électronique de la Caisse, ou par tout moyen approprié,",
+                  "contre un récépissé ou un accusé, et selon un modèle établi à",
+                  "cet effet par ladite Caisse. Sont jointes à ladite demande les",
+                  "pièces fixées en vertu des textes réglementaires en vigueur."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - En application des dispositions de l'article 8",
+                "paragraphs": [
+                  "de la loi n° 98-15 susmentionnée, l'effet de l'immatriculation",
+                  "des agriculteurs commence à partir du 1er jour du mois qui",
+                  "suit le mois où ces derniers ont rempli les conditions de",
+                  "l'assujettissement au régime mentionné à l'article premier de",
+                  "la loi précitée.",
+                  "Toutefois, l'immatriculation des agriculteurs qui",
+                  "exercent la profession à la date d'entrée en vigueur du présent",
+                  "décret, prend effet à compter du 1er mai 2022.",
+                  "Par dérogation aux deux alinéas précédents,",
+                  "l'immatriculation des agriculteurs qui seront immatriculés",
+                  "jusqu'au 30 avril 2022, prend effet à compter du 1er du mois",
+                  "suivant la date de leur immatriculation."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - En application des dispositions de l'article 22 de",
+                "paragraphs": [
+                  "la loi n° 98-15 et de l'article 14 de la loi n° 99-15 susmentionnées,",
+                  "le revenu forfaitaire est fixé pour les agriculteurs selon les",
+                  "critères suivants :",
+                  "1 - .Critères liés à la superficie allouée aux cultures, à",
+                  "l'exception des cultures à haute valeur ajoutée et des cultures",
+                  "couvertes :",
+                  "Catégorie",
+                  "Terrain bour",
+                  "Terrain irrigué",
+                  "Moins de 5 hectares",
+                  "-",
+                  "De 5 à moins de 15 hectares",
+                  "Moins de 3 hectares",
+                  "De 15 à moins de 25",
+                  "hectares",
+                  "De 3 à moins de 5",
+                  "hectares",
+                  "De 25 à moins de 50",
+                  "hectares",
+                  "De 5 à moins de 10",
+                  "hectares",
+                  "De 50 à moins de 100",
+                  "hectares",
+                  "-",
+                  "-",
+                  "De 10 à moins de 25",
+                  "hectares",
+                  "Plus de 100 hectares",
+                  "-",
+                  "-",
+                  "De 25 à moins de 50",
+                  "hectares",
+                  "-",
+                  "Plus de 50 hectares",
+                  "<<<BO_PAGE_12_DELIM>>>",
+                  "Nº 7358 - 3 joumada II 1446 (5-12-2024)",
+                  "Les critères liés à la superficie mentionnés dans le",
+                  "tableau ci-dessus s'appliquent :",
+                  "- à toutes les cultures en bour, y compris la culture des",
+                  "dattes dans les oasis traditionnelles et la culture du",
+                  "safran, des fleurs aromatiques et de l'arganier.",
+                  "- à toutes cultures irriguées, y compris la culture des",
+                  "dattes dans les oasis modernes.",
+                  "Dans le cas où l'agriculteur concerné exploite",
+                  "simultanément des terres en bour et des terres irriguées, il sera",
+                  "appliqué « un facteur d'équivalence en superficie » déterminé",
+                  "comme suit : un (1) hectare de terre irriguée équivaut à sept",
+                  "(7) hectares de terre en bour.",
+                  "2 - Critères liés à la superficie allouée aux cultures à haute",
+                  "valeur ajoutée et aux cultures couvertes :",
+                  "Catégorie",
+                  "Superficie",
+                  "Moins de 3 hectares",
+                  "De 3 à moins de 5 hectares",
+                  "Plus de 5 hectares",
+                  "La liste des cultures à haute valeur ajoutée et des",
+                  "cultures couvertes précitées est fixée par arrêté de l'autorité",
+                  "gouvernementale chargée de l'agriculture.",
+                  "3 - Critères applicables aux agriculteurs qui exercent les",
+                  "activités fixées dans le tableau suivant :",
+                  "Activité agricole",
+                  "Catégorie",
+                  "Aviculteurs",
+                  "Eleveurs de bétail",
+                  "Ruches",
+                  "d'abeilles",
+                  "(nombre)",
+                  "Poulet à viande",
+                  "(Nombre de",
+                  "têtes)",
+                  "Dindes",
+                  "(Nombre de",
+                  "têtes)",
+                  "Poules",
+                  "pondeuses",
+                  "(Nombre de",
+                  "têtes)",
+                  "Petits",
+                  "ruminants",
+                  "ovins et",
+                  "caprins",
+                  "(Nombre de",
+                  "têtes)",
+                  "Vaches",
+                  "laitières",
+                  "(Nombre",
+                  "de têtes)",
+                  "Camélidés",
+                  "(Nombre de",
+                  "têtes)",
+                  "Moins de 150",
+                  "Moins de 15",
+                  "Moins de 50",
+                  "Moins de 7000",
+                  "Moins de 2000",
+                  "Moins de",
+                  "De 150 à 250",
+                  "Moins de 10",
+                  "De 15 à 30",
+                  "De 50 à 100",
+                  "De 7000 à 15000",
+                  "De 2000 à",
+                  "De 3000 à",
+                  "De 251 à 350",
+                  "De 10 à 15",
+                  "Plus de 30",
+                  "De 101 à",
+                  "De 15001 à",
+                  "20000",
+                  "De 4501 à",
+                  "De 6001 à",
+                  "De 351 à 480",
+                  "De 16 à 30",
+                  "De 151 à",
+                  "De 481 à 680",
+                  "De 201 à",
+                  "De 20001 à",
+                  "40000",
+                  "De 6001 à",
+                  "12000",
+                  "De 8001 à",
+                  "16000",
+                  "De 31 à 50",
+                  "Plus de 680",
+                  "Plus de 300",
+                  "De 40001 à",
+                  "100000",
+                  "De 12001 à",
+                  "30000",
+                  "De 16001 à",
+                  "40000",
+                  "De 51 à 70",
+                  "Plus de 100000",
+                  "Plus de 30000",
+                  "Plus de 40000",
+                  "Plus de 70",
+                  "<<<BO_PAGE_13_DELIM>>>",
+                  "Nº 7358 - 3 joumada II 1446 (5-12-2024)",
+                  "Le revenu forfaitaire des agriculteurs, selon leurs",
+                  "catégories visées au tableau ci-dessus, est estimé sur la base",
+                  "du critère du salaire minimum légal dans les activités non",
+                  "agricoles et ce, de la manière suivante :",
+                  "Pour la catégorie 1 : 0,65 fois la valeur résultant de la",
+                  "multiplication du salaire minimum légal dans les activités non",
+                  "agricoles, fixé en application des dispositions de l'article 356",
+                  "de la loi n° 65-99 susvisée, par la durée annuelle normale de",
+                  "travail dans les activités non agricoles prévue à l'article 184",
+                  "de la même loi ;",
+                  "Pour la catégorie 2 : 0,85 fois la valeur précitée ;",
+                  "Pour la catégorie 3 : 1,25 fois la valeur précitée ;",
+                  "Pour la catégorie 4 : 1,5 fois la valeur précitée ;",
+                  "Pour la catégorie 5 : 2,5 fois la valeur précitée ;",
+                  "Pour la catégorie 6 : 3 fois la valeur précitée ;",
+                  "Pour la catégorie 7 : 3,5 fois la valeur précitée ;",
+                  "Pour la catégorie 8 : 5 fois la valeur précitée ;",
+                  "Pour la catégorie 9 : 6 fois la valeur précitée ;"
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Les cotisations à verser à la Caisse nationale",
+                "paragraphs": [
+                  "de sécurité sociale par tout agriculteur, sont calculées sur la",
+                  "base du revenu forfaitaire de chaque catégorie tel que prévu",
+                  "à l'article 4 ci-dessus."
+                ]
+              },
+              {
+                "article_number": "ART. 6. - En application des dispositions du 1er alinéa de",
+                "paragraphs": [
+                  "l'article 12 de la loi n° 98-15 et de l'article 14 de la loi n° 99-15",
+                  "précitées, les cotisations sont versées mensuellement à partir",
+                  "du 1er jour de chaque mois dont la cotisation est exigible."
+                ]
+              },
+              {
+                "article_number": "ART. 7. - En application des dispositions de l'article 11",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7358-P13-8",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 1er joumada II 1443 (4 janvier 2022) pris",
+      "reference": {
+        "type": "decret",
+        "number": "2-21-1020",
+        "date": "2022-01-04"
+      },
+      "pages": {
+        "start": 13,
+        "end": 14
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 65-00 portant code de la couverture médicale",
+            "reference_to": "Loi n° 65-00"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 98-15 relative au régime de l'assurance maladie",
+            "reference_to": "Loi n° 98-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 99-15 instituant un régime de pensions pour",
+            "reference_to": "Loi n° 99-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 65-99 relative au Code du travail promulguée",
+            "reference_to": "Loi n° 65-99"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 50-17 relative à l'exercice des activités de",
+            "reference_to": "Loi n° 50-17"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-622 du 10 joumada I 1440 (17 janvier",
+            "reference_to": "Decret n° 2-18-622"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-929 du 23 rabii II 1443 (29 novembre",
+            "reference_to": "Decret n° 2-21-929"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis des chambres d'artisanat ;"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions de",
+                "paragraphs": [
+                  "l'article 6 de la loi n° 98-15 relative au régime de l'assurance",
+                  "maladie obligatoire de base et de l'article 4 de la loi n° 99-15",
+                  "instituant un régime de pensions susvisées, le présent décret fixe",
+                  "les modalités d'application des régimes précités aux artisans",
+                  "non soumis au régime de la contribution professionnelle",
+                  "unique et au régime de l'auto-entrepreneur et qui ne tiennent",
+                  "pas une comptabilité.",
+                  "<<<BO_PAGE_14_DELIM>>>",
+                  "Nº 7358 - 3 joumada II 1446 (5-12-2024)"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - .En application des dispositions de l'article 7",
+                "paragraphs": [
+                  "de la loi n° 98-15 précitée, l'artisan concerné est tenu dans",
+                  "un délai ne dépassant pas le dernier jour du mois durant",
+                  "lequel commence à courir, en ce qui le concerne, l'effet de",
+                  "l'immatriculation, de demander son immatriculation, via la",
+                  "plateforme électronique créée à cet effet par la Caisse nationale",
+                  "de sécurité sociale, ou de déposer sa demande auprès de l'une",
+                  "des agences de la Caisse proche de son lieu de résidence ou",
+                  "de travail ou auprès des réseaux de proximité relevant des",
+                  "établissements qui ont conclu une convention à cet effet avec la",
+                  "Caisse nationale de sécurité sociale, dont la liste est publiée sur",
+                  "le site électronique de la Caisse, ou par tout moyen approprié ,",
+                  "contre un récépissé ou un accusé, et selon un modèle établi à",
+                  "cet effet par ladite Caisse. Sont jointes à ladite demande les",
+                  "pièces fixées en vertu des textes réglementaires en vigueur."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - .En application des dispositions de l'article 8 de",
+                "paragraphs": [
+                  "la loi n° 98-15 précitée, l'effet de l'immatriculation commence,",
+                  "en ce qui concerne les artisans, à partir du 1er jour du mois",
+                  "qui suit le mois où ces derniers ont rempli les conditions de",
+                  "l'assujettissement au régime mentionné à l'article premier de",
+                  "la loi précitée.",
+                  "Toutefois, l'effet de l'immatriculation des artisans qui",
+                  "exercent la profession à la date d'entrée en vigueur du présent",
+                  "décret, prend effet à compter du 1er mai 2022.",
+                  "Par dérogation aux dispositions des 2 alinéas ci-dessus,",
+                  "l'effet de l'immatriculation des artisans qui s'inscrivent",
+                  "jusqu'au 30 avril 2022, prend effet à compter du 1er jour du",
+                  "mois qui suit la date de leur inscription."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - En application des dispositions de l'article 22",
+                "paragraphs": [
+                  "de la loi n° 98-15 et de l'article 14 de la loi n° 99-15 précitées, le",
+                  "revenu forfaitaire, en ce qui concerne les artisans, est fixé à 0,75",
+                  "fois la valeur résultant de la multiplication du salaire minimum",
+                  "légal dans les activités non agricoles, fixé en application des",
+                  "dispositions de l'article 356 de la loi n° 65-99 susvisée, par",
+                  "la durée annuelle normale de travail dans les activités non",
+                  "agricoles mentionnée à l'article 184 de ladite loi."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Les cotisations obligatoires à verser à la Caisse",
+                "paragraphs": [
+                  "nationale de sécurité sociale, par tout artisan, sont calculées",
+                  "sur la base du revenu forfaitaire fixé à l'article 4 ci-dessus."
+                ]
+              },
+              {
+                "article_number": "ART. 6. - En application des dispositions du 1er alinéa de",
+                "paragraphs": [
+                  "l'article 12 de la loi n° 98-15 et de l'article 14 de la loi n° 99-15",
+                  "précitées, les cotisations sont versées mensuellement à partir",
+                  "du 1er jour de chaque mois dont la cotisation est exigible."
+                ]
+              },
+              {
+                "article_number": "ART. 7. - En application des dispositions de l'article 11 de",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7358-P14-9",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 1er chaabane 1443 (4 mars 2022) pris pour",
+      "reference": {
+        "type": "decret",
+        "number": "2-22-139",
+        "date": "2022-03-04"
+      },
+      "pages": {
+        "start": 14,
+        "end": 15
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 65-00 portant code de la couverture médicale",
+            "reference_to": "Loi n° 65-00"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 98-15 relative au régime de l'assurance maladie",
+            "reference_to": "Loi n° 98-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 99-15 instituant un régime de pensions pour",
+            "reference_to": "Loi n° 99-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 65-99 relative au Code du travail promulguée",
+            "reference_to": "Loi n° 65-99"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 68-16 relative à l'artiste et aux métiers",
+            "reference_to": "Loi n° 68-16"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-546 du 12 hija 1439 (24 août 2018)",
+            "reference_to": "Decret n° 2-18-546"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-929 du 23 rabii II 1443 (29 novembre",
+            "reference_to": "Decret n° 2-21-929"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-622 du 10 joumada I 1440 (17 janvier 2019)",
+            "reference_to": "Decret n° 2-18-622"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. -En application des dispositions de",
+                "paragraphs": [
+                  "l'article 6 de la loi n° 98-15 relative au régime de l'assurance",
+                  "maladie obligatoire de base et de l'article 4 de la loi n° 99-15",
+                  "instituant un régime de pensions susvisées, le présent décret",
+                  "fixe les modalités d'application des régimes précités aux",
+                  "catégories d'artistes travaillant pour leur propre compte,",
+                  "prévues dans le paragraphe « c » de l'article premier de la loi",
+                  "n° 68-16 susvisée."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - En application des dispositions de l'article 7 de la",
+                "paragraphs": [
+                  "loi n° 98-15 susvisée, les artistes concernés sont tenues, dans",
+                  "un délai ne dépassant pas le dernier jour du mois durant",
+                  "lequel commence à courir, en ce qui les concerne, l'effet de",
+                  "l'immatriculation, de demander leur immatriculation, via la",
+                  "plateforme électronique créée à cet effet par la Caisse nationale",
+                  "de sécurité sociale, ou de déposer leur demande auprès de",
+                  "l'une des agences de la Caisse proche de leur lieu de résidence",
+                  "ou de travail ou auprès des réseaux de proximité relevant des",
+                  "établissements qui ont conclu une convention à cet effet avec la",
+                  "Caisse nationale de sécurité sociale, dont la liste est publiée sur",
+                  "le site électronique de la Caisse, ou par tout moyen approprié,",
+                  "contre un récépissé ou un accusé, et selon un modèle établi à",
+                  "cet effet par ladite Caisse. Sont jointes à ladite demande les",
+                  "pièces fixées en vertu des textes réglementaires en vigueur."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - En application des dispositions de l'article 8 de la",
+                "paragraphs": [
+                  "loi n° 98-15 susvisée, l'effet d'immatriculation, pour les catégories",
+                  "d'artistes prévues à l'article premier ci-dessus, prend effet à",
+                  "compter du premier jour du mois qui suit celui au cours duquel",
+                  "ces personnes remplissent les conditions d'assujettissement au",
+                  "régime prévu à l'article premier de la loi précitée.",
+                  "Toutefois, l'immatriculation prend effet, pour les",
+                  "catégories d'artistes exerçant la profession à la date d'entrée",
+                  "en vigueur du présent décret, à compter du 1er avril 2022."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - En application des dispositions de l'article 22",
+                "paragraphs": [
+                  "de la loi n° 98-15 et de l'article 14 de la loi n° 99-15 susvisées, le",
+                  "revenu forfaitaire des catégories d'artistes prévues à l'article",
+                  "premier ci-dessus est fixé à une fois (1) la valeur résultant de",
+                  "la multiplication du salaire minimum légal dans les activités",
+                  "non agricoles, fixé en application des dispositions de l'article",
+                  "356 de la loi n° 65-99 susvisée, par la durée annuelle normale",
+                  "de travail dans les activités non agricoles prévue à l'article 184",
+                  "de la même loi."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Les cotisations dues à la Caisse nationale de",
+                "paragraphs": [
+                  "sécurité sociale par chaque artiste, sont calculées sur la base",
+                  "du revenu forfaitaire fixé par l'article 4 ci-dessus."
+                ]
+              },
+              {
+                "article_number": "ART. 6. - En application des dispositions du 1er alinéa de",
+                "paragraphs": [
+                  "l'article 12 de la loi n° 98-15 et de l'article 14 de la loi n° 99-15",
+                  "précitées, les cotisations sont versées mensuellement à partir",
+                  "du 1er jour de chaque mois dont la cotisation est exigible."
+                ]
+              },
+              {
+                "article_number": "ART. 7. - En application des dispositions de l'article 11 de",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7358-P15-10",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 26 chaabane 1443 (29 mars 2022) pris",
+      "reference": {
+        "type": "decret",
+        "number": "2-22-190",
+        "date": "2022-03-29"
+      },
+      "pages": {
+        "start": 15,
+        "end": 16
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 65-00 portant code de la couverture médicale",
+            "reference_to": "Loi n° 65-00"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 98-15 relative au régime de l'assurance maladie",
+            "reference_to": "Loi n° 98-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 99-15 instituant un régime de pensions pour",
+            "reference_to": "Loi n° 99-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 65-99 relative au Code du travail promulguée",
+            "reference_to": "Loi n° 65-99"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 52-05 relative au Code de la route promulguée",
+            "reference_to": "Loi n° 52-05"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-10-314 du 20 chaoual 1431 (29 septembre",
+            "reference_to": "Decret n° 2-10-314"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-929 du 23 rabii II 1443 (29 novembre",
+            "reference_to": "Decret n° 2-21-929"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-622 du 10 joumada I 1440 (17 janvier",
+            "reference_to": "Decret n° 2-18-622"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions de",
+                "paragraphs": [
+                  "l'article 6 de la loi n° 98-15 relative au régime de l'assurance",
+                  "maladie obligatoire de base et de l'article 4 de la loi n° 99-15",
+                  "instituant un régime de pensions susvisées, le présent décret",
+                  "fixe les modalités d'application des régimes précités aux",
+                  "chauffeurs titulaires de la carte de conducteur professionnel",
+                  "autres que les chauffeurs de taxi."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - En application des dispositions de l'article",
+                "paragraphs": [
+                  "7 de la loi n° 98-15 précitée, les chauffeurs visés à l'article",
+                  "premier ci-dessus sont tenus dans un délai ne dépassant pas",
+                  "le dernier jour du mois durant lequel commence à courir, en",
+                  "ce qui les concerne, l'effet de l'immatriculation, de demander",
+                  "leur immatriculation, via la plateforme électronique créée à cet",
+                  "effet par la Caisse nationale de sécurité sociale, ou de déposer",
+                  "leurs demandes auprès de l'une des agences de la Caisse proche",
+                  "de leur lieu de résidence ou de travail ou auprès des réseaux",
+                  "de proximité relevant des établissements qui ont conclu une",
+                  "convention à cet effet avec la Caisse nationale de sécurité",
+                  "sociale, dont la liste est publiée sur le site électronique de la",
+                  "Caisse, ou par tout moyen approprié, contre un récépissé ou un",
+                  "accusé, et selon un modèle établi à cet effet par ladite Caisse.",
+                  "Sont jointes à ladite demande les pièces fixées en vertu des",
+                  "textes réglementaires en vigueur."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - En application des dispositions de l'article 8 de",
+                "paragraphs": [
+                  "la loi n° 98-15 précitée, l'effet de l'immatriculation commence,",
+                  "en ce qui concerne les chauffeurs concernés, à partir du",
+                  "1er jour du mois qui suit le mois où ces derniers ont rempli",
+                  "les conditions de l'assujettissement au régime mentionné à",
+                  "l'article premier de la loi précitée.",
+                  "Toutefois, l'effet de l'immatriculation des chauffeurs",
+                  "concernés qui exercent la profession à la date d'entrée en",
+                  "vigueur du présent décret, prend effet à compter du 1er mai",
+                  "2022.",
+                  "Par dérogation aux dispositions des 2 alinéas ci-dessus,",
+                  "l'effet de l'immatriculation des chauffeurs concernés qui",
+                  "s'inscrivent jusqu'au 30 avril 2022, prend effet à compter du",
+                  "1er jour du mois qui suit la date de leur inscription."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - En application des dispositions de l'article 22",
+                "paragraphs": [
+                  "de la loi n° 98-15 et de l'article 14 de la loi n° 99-15 précitées,",
+                  "le revenu forfaitaire des chauffeurs concernés est fixé comme",
+                  "suit :",
+                  "• pour le chauffeur non propriétaire d'un véhicule autorisé",
+                  "à être utilisé dans le transport routier : 1 fois la valeur",
+                  "résultant de la multiplication du salaire minimum légal",
+                  "dans les activités non agricoles, fixé en application des",
+                  "dispositions de l'article 356 de la loi n° 65-99 susvisée,",
+                  "par la durée annuelle normale de travail dans les",
+                  "activités non agricoles mentionnée à l'article 184 de",
+                  "ladite loi ;",
+                  "• pour le chauffeur propriétaire d'un véhicule autorisé à",
+                  "être utilisé dans le transport routier : 1,3 fois la valeur",
+                  "précitée."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Les cotisations obligatoires à verser à la Caisse",
+                "paragraphs": [
+                  "nationale de sécurité sociale, par tout chauffeur titulaire de la",
+                  "carte de conducteur professionnel et qui n'est pas chauffeur",
+                  "de taxi, sont calculées sur la base du revenu forfaitaire fixé à",
+                  "l'article 4 ci-dessus."
+                ]
+              },
+              {
+                "article_number": "ART. 6. - En application des dispositions du 1er alinéa de",
+                "paragraphs": [
+                  "l'article 12 de la loi n° 98-15 et de l'article 14 de la loi n° 99-15",
+                  "précitées, les cotisations sont versées mensuellement à partir",
+                  "du 1er jour de chaque mois dont la cotisation est exigible."
+                ]
+              },
+              {
+                "article_number": "ART. 7. - En application des dispositions de l'article 11",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7358-P17-11",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 18 rabii II 1446 (22 octobre 2024) modifiant le décret n° 2-10-337 du 16 joumada I",
+      "reference": {
+        "type": "decret",
+        "number": "2-24-657",
+        "date": "2024-10-22"
+      },
+      "pages": {
+        "start": 17,
+        "end": 19
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 19-94 relative aux zones d'accélération industrielle promulguée par le dahir n° 1-95-1 du",
+            "reference_to": "Loi n° 19-94"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-95-562 du 19 rejeb 1416 (12 décembre 1955) pris pour l'application de la loi n° 19-94",
+            "reference_to": "Decret n° 2-95-562"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-10-337 du 16 joumada I 1432 (20 avril 2011) portant création de la zone franche",
+            "reference_to": "Decret n° 2-10-337"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni le 8 rabii I 1446 (12 septembre 2024),"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les dispositions du décret n° 2-10-337 susvisé, sont modifiées comme suit :",
+                "paragraphs": [
+                  "L'expression « zone franche d'exportation » est remplacée par « zone d'accélération industrielle » au",
+                  "niveau de l'intitulé et des articles du décret n° 2-10-337 précité."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Les dispositions de l'article 2 du décret n° 2-10-337 précité sont abrogées et remplacées",
+                "paragraphs": [
+                  "comme suit :",
+                  "« Article 2. - La zone d'accélération industrielle « Tanger Automotive City » sera réalisée sur la parcelle",
+                  "« de terrain située aux communes Melloussa et Jouamaa (province Fahs-Anjra) dont la superficie s'élève à",
+                  "« 808 ha, délimitée au Nord par des propriétés privées, à l'Est par la ville nouvelle Echrafate, à l'Ouest par",
+                  "« la route provinciale n° 4613 et au Sud par les propriétés privées, tel que figuré sur le plan annexé au présent",
+                  "« décret et par les coordonnées Lambert indiquées ci-après :",
+                  "<<<BO_PAGE_18_DELIM>>>",
+                  "Nº 7358 - 3 joumada II 1446 (5-12-2024)",
+                  "Liste des coordonnées de la zone d'accélération industrielle",
+                  "« Tanger Automotive City »",
+                  "<<<BO_PAGE_19_DELIM>>>",
+                  "Nº 7358 - 3 joumada II 1446 (5-12-2024)"
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le plan annexé au décret n° 2-10-337 précité est remplacé par le plan annexé au présent décret",
+                "paragraphs": []
+              },
+              {
+                "article_number": "ART. 4. - La ministre de l'économie et des finances et le ministre de l'industrie et du commerce sont chargés, chacun en ce",
+                "paragraphs": [
+                  "qui le concerne, de l'exécution du présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7358-P20-12",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 18 joumada I 1446 (21 novembre 2024)",
+      "reference": {
+        "type": "decret",
+        "number": "2-24-656",
+        "date": "2024-11-21"
+      },
+      "pages": {
+        "start": 20,
+        "end": 21
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 19-94 relative aux zones d'accélération",
+            "reference_to": "Loi n° 19-94"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 15-02 relative aux ports et portant création de",
+            "reference_to": "Loi n° 15-02"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-95-562 du 19 rejeb 1416 (12 décembre 1995)",
+            "reference_to": "Decret n° 2-95-562"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-09-684 du 30 rabii I 1431 (17 mars 2010)",
+            "reference_to": "Decret n° 2-09-684"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les dispositions du décret n° 2-09-684",
+                "paragraphs": [
+                  "susvisé, sont modifiées comme suit :",
+                  "« L'expression « zone franche d'exportation » est",
+                  "« remplacée par « zone d'accélération industrielle » au niveau",
+                  "« de l'intitulé et des articles du décret n° 2-09-684 précité. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Les dispositions de l'article 2 du décret n° 2-09-684",
+                "paragraphs": [
+                  "précité sont abrogées et remplacées comme suit :",
+                  "« Article 2. - La zone d'accélération industrielle",
+                  "« de Betoya sera réalisée sur trois lots de terrain d'une",
+                  "« superficie totale de 16849 ha 67 a et 50 ca dont une partie",
+                  "« terrestre d'une superficie de 2631 ha 3 a 83 ca et d'une partie",
+                  "« maritime d'une superficie de 14218 ha 63 a 67 ca.",
+                  "Le premier lot de terrain est délimité au Nord par la mer",
+                  "méditerranéenne, à l'Ouest par la mer méditerranéenne et des",
+                  "propriétés privées, au Sud par des propriétés privées et à l'Est",
+                  "par des propriétés privées, tel que figuré sur le plan annexé",
+                  "au présent décret et par les coordonnées indiquées ci-après :",
+                  "Liste des coordonnées de la zone d'accélération",
+                  "industrielle de Betoya (Terrain 1)",
+                  "N°",
+                  "X",
+                  "Y",
+                  "A1",
+                  "716151,13",
+                  "531979,62",
+                  "A2",
+                  "712724,70",
+                  "524844,83",
+                  "A3",
+                  "710499,60",
+                  "522224,89",
+                  "A4",
+                  "708252,97",
+                  "521205,07",
+                  "A5",
+                  "708977,83",
+                  "520540,71",
+                  "A6",
+                  "708608,10",
+                  "520320,45",
+                  "A7",
+                  "708417,56",
+                  "520506,69",
+                  "A8",
+                  "707457,86",
+                  "521140,88",
+                  "A9",
+                  "706664,92",
+                  "521108,31",
+                  "A10",
+                  "706270,36",
+                  "520991,57",
+                  "A11",
+                  "706232,15",
+                  "520302,57",
+                  "A12",
+                  "706031,69",
+                  "519622,00",
+                  "A13",
+                  "706346,44",
+                  "519078,46",
+                  "A14",
+                  "706213,94",
+                  "518887,60",
+                  "A15",
+                  "704688,45",
+                  "516470,92",
+                  "A16",
+                  "702322,82",
+                  "515648,80",
+                  "A17",
+                  "702493,87",
+                  "515268,91",
+                  "A18",
+                  "703427,67",
+                  "514773,63",
+                  "A19",
+                  "703237,57",
+                  "514461,06",
+                  "A20",
+                  "702767,88",
+                  "514660,38",
+                  "A21",
+                  "703718,24",
+                  "512549,77",
+                  "A22",
+                  "700929,99",
+                  "512276,18",
+                  "A23",
+                  "700908,20",
+                  "514679,11",
+                  "A24",
+                  "700435,04",
+                  "515112,07",
+                  "A25",
+                  "700102,04",
+                  "515219,30",
+                  "A26",
+                  "699745,87",
+                  "515242,87",
+                  "A27",
+                  "699802,93",
+                  "514773,67",
+                  "A28",
+                  "699003,38",
+                  "514495,22",
+                  "A29",
+                  "698116,75",
+                  "515595,75",
+                  "A30",
+                  "694327,81",
+                  "517701,58",
+                  "A31",
+                  "700947,33",
+                  "526232,28",
+                  "Le deuxième lot de terrain est délimité au Nord par des",
+                  "propriétés privées, à l'Ouest par la route nationale n° 16, au",
+                  "Sud par des propriétés privées et la route nationale n° 16 et",
+                  "à l'Est par des propriétés privées, tel que figuré sur le plan",
+                  "annexé au présent décret et par les coordonnées indiquées",
+                  "ci-après :",
+                  "Liste des coordonnées de la zone d'accélération",
+                  "industrielle de Betoya (Terrain 2)",
+                  "N°",
+                  "X",
+                  "Y",
+                  "B1",
+                  "703917,15",
+                  "513620,03",
+                  "B2",
+                  "705069,68",
+                  "513611,17",
+                  "B3",
+                  "705321,21",
+                  "513185,85",
+                  "B4",
+                  "705484,88",
+                  "511931,05",
+                  "B5",
+                  "705220,97",
+                  "511327,71",
+                  "B6",
+                  "705393,72",
+                  "510759,22",
+                  "B7",
+                  "704912,01",
+                  "509425,72",
+                  "B8",
+                  "704437,78",
+                  "509739,32",
+                  "<<<BO_PAGE_21_DELIM>>>",
+                  "Nº 7358 - 3 joumada II 1446 (5-12-2024)",
+                  "B9",
+                  "704367,22",
+                  "509848,57",
+                  "B10",
+                  "704334,74",
+                  "510103,55",
+                  "B11",
+                  "704367,57",
+                  "510937,36",
+                  "B12",
+                  "704414,89",
+                  "511186,74",
+                  "B13",
+                  "704436,71",
+                  "511507,52",
+                  "B14",
+                  "704375,42",
+                  "511959,45",
+                  "B15",
+                  "704399,34",
+                  "512059,19",
+                  "B16",
+                  "704342,65",
+                  "512325,64",
+                  "B17",
+                  "704344,78",
+                  "512434,62",
+                  "B18",
+                  "704323,60",
+                  "512589,73",
+                  "B19",
+                  "704331,82",
+                  "512778,92",
+                  "B20",
+                  "704298,68",
+                  "512993,90",
+                  "B21",
+                  "704169,66",
+                  "513275,03",
+                  "Le troisième lot de terrain est délimité au Nord par",
+                  "des propriétés privées, à l'Ouest par Ouad Kert, au Sud par",
+                  "des propriétés privées et à l'Est par la route nationale n° 16,",
+                  "tel que figuré sur le plan annexé au présent décret et par les",
+                  "coordonnées indiquées ci-après :",
+                  "Liste des coordonnées de la zone d'accélération",
+                  "industrielle de Betoya (Terrain 3)",
+                  "N°",
+                  "X",
+                  "Y",
+                  "C1",
+                  "702919,23",
+                  "510330,28",
+                  "C2",
+                  "703349,97",
+                  "510435,24",
+                  "C3",
+                  "704095,02",
+                  "510872,50",
+                  "C4",
+                  "704260,67",
+                  "510690,89",
+                  "C5",
+                  "704260,35",
+                  "510281,80",
+                  "C6",
+                  "704279,45",
+                  "509835,67",
+                  "C7",
+                  "704365,41",
+                  "509665,36",
+                  "C8",
+                  "704366,68",
+                  "509652,05",
+                  "C9",
+                  "704337,87",
+                  "509635,69",
+                  "C10",
+                  "704330,94",
+                  "509606,75",
+                  "C11",
+                  "704342,50",
+                  "509551,62",
+                  "C12",
+                  "704332,80",
+                  "509475,50",
+                  "C13",
+                  "704323,74",
+                  "509337,41",
+                  "C14",
+                  "704339,07",
+                  "509183,31",
+                  "C15",
+                  "704360,70",
+                  "509044,73",
+                  "C16",
+                  "704403,44",
+                  "508881,64",
+                  "C17",
+                  "704303,65",
+                  "508789,36",
+                  "C18",
+                  "704252,38",
+                  "508687,01",
+                  "C19",
+                  "703894,18",
+                  "508747,89",
+                  "C20",
+                  "703352,49",
+                  "508949,30",
+                  "C21",
+                  "703033,10",
+                  "508889,53",
+                  "C22",
+                  "702829,43",
+                  "508925,35",
+                  "C23",
+                  "702932,07",
+                  "509274,05",
+                  "C24",
+                  "702951,83",
+                  "509533,83"
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le plan annexé au décret n° 2-09-684 précité",
+                "paragraphs": [
+                  "est remplacé par le plan annexé au présent décret."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - La ministre de l'économie et des finances et le",
+                "paragraphs": [
+                  "ministre de l'industrie et du commerce sont chargés, chacun",
+                  "en ce qui le concerne, de l'exécution du présent décret qui sera",
+                  "publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7358-P23-13",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 6 rabii II 1446 (10 octobre 2024) portant",
+      "reference": {
+        "type": "arrete",
+        "number": "2471-24",
+        "date": "2024-10-10"
+      },
+      "pages": {
+        "start": 23,
+        "end": 23
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le code des douanes ainsi que des impôts indirects relevant de l'administration des douanes et impôts",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'article 4 § I de la loi de finances n° 25-00 pour la période du 1er juillet au 31 décembre 2000, promulguée",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'article 216 § II du décret n° 2-77-862 du 25 chaoual 1397 (9 octobre 1977) pris pour l'application du",
+            "reference_to": "Decret n° 2-77-862"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du ministre de l'industrie et du commerce et de la ministre de la transition énergétique et du"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La nomenclature du tarif des droits de douane telle que définie par l'article 2",
+                "paragraphs": [
+                  "alinéa 1° du code des douanes et des impôts indirects est modifiée conformément aux indications du tableau",
+                  "en annexe du présent arrêté."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le directeur général de l'administration des douanes et impôts indirects est chargé de l'exécution",
+                "paragraphs": [
+                  "du présent arrêté qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7358-P27-14",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decision",
+      "title": "du 27 rabii II 1446",
+      "reference": {
+        "type": "decision",
+        "number": "2573-24",
+        "date": "2024-10-31"
+      },
+      "pages": {
+        "start": 27,
+        "end": 27
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE DIRECTEUR DE L'INSTITUT MAROCAIN DE NORMALISATION",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 12-06 relative à la normalisation, à la certification et à l'accréditation, promulguée par le",
+            "reference_to": "Loi n° 12-06"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la résolution du Conseil d'administration de l'Institut marocain de normalisation (IMANOR) n° 10,",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCIDE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Sont homologuées comme normes marocaines, les normes dont les références",
+                "paragraphs": [
+                  "sont présentées en annexe de la présente décision."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Les normes visées à l'article premier ci-dessus, sont tenues à la disposition des intéressés à",
+                "paragraphs": [
+                  "l'Institut marocain de normalisation (IMANOR)."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La présente décision sera publiée au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7358-P34-15",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement durable n° 1435-24 du 22 kaada 1445",
+      "reference": {
+        "type": "arrete",
+        "number": "1435-24",
+        "date": "2024-05-31"
+      },
+      "pages": {
+        "start": 34,
+        "end": 34
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE LA TRANSITION ÉNERGÉTIQUE ET DU",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'énergie, des mines et du",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté conjoint de la ministre de la transition",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article 3 de l'arrêté n° 1698-19 du",
+                "paragraphs": [
+                  "30 chaabane 1440 (6 mai 2019), est modifié ainsi qu'il suit :",
+                  "« Article 3. - Le permis de recherche d'hydrocarbures",
+                  "« dit « GUERCIF ONSHORE I » est délivré pour une période",
+                  "« initiale de cinq années et un mois à compter du 6 mai 2019. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera notifié aux intéressés et",
+                "paragraphs": [
+                  "publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7358-P34-16",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement durable n° 1436-24 du 22 kaada 1445",
+      "reference": {
+        "type": "arrete",
+        "number": "1436-24",
+        "date": "2024-05-31"
+      },
+      "pages": {
+        "start": 34,
+        "end": 34
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE LA TRANSITION ÉNERGÉTIQUE ET DU",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'énergie, des mines et du",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté conjoint de la ministre de la transition",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article 3 de l'arrêté n° 1699-19 du",
+                "paragraphs": [
+                  "30 chaabane 1440 (6 mai 2019), est modifié ainsi qu'il suit :",
+                  "« Article 3. - Le permis de recherche d'hydrocarbures",
+                  "« dit « GUERCIF ONSHORE II » est délivré pour une période",
+                  "« initiale de cinq années et un mois à compter du 6 mai 2019. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera notifié aux intéressés et",
+                "paragraphs": [
+                  "publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7358-P35-17",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement durable n° 1437-24 du 22 kaada 1445 (31 mai",
+      "reference": {
+        "type": "arrete",
+        "number": "1437-24",
+        "date": "2024-05-31"
+      },
+      "pages": {
+        "start": 35,
+        "end": 35
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "GAS VENTURES LIMITED ».",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'énergie, des mines et du",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté conjoint de la ministre de la transition",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article 3 de l'arrêté n° 1700-19 du",
+                "paragraphs": [
+                  "30 chaabane 1440 (6 mai 2019), est modifié ainsi qu'il suit :",
+                  "« Article 3. - Le permis de recherche d'hydrocarbures",
+                  "« dit « GUERCIF ONSHORE III » est délivré pour une période",
+                  "« initiale de cinq années et un mois à compter du 6 mai 2019. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera notifié aux intéressés et",
+                "paragraphs": [
+                  "publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7358-P35-18",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement durable n° 1438-24 du 22 kaada 1445 (31 mai",
+      "reference": {
+        "type": "arrete",
+        "number": "1438-24",
+        "date": "2024-05-31"
+      },
+      "pages": {
+        "start": 35,
+        "end": 35
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "GAS VENTURES LIMITED ».",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'énergie, des mines et du",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté conjoint de la ministre de la transition",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article 3 de l'arrêté n° 1701-19 du",
+                "paragraphs": [
+                  "30 chaabane 1440 (6 mai 2019), est modifié ainsi qu'il suit :",
+                  "« Article 3. - Le permis de recherche d'hydrocarbures",
+                  "« dit « GUERCIF ONSHORE IV » est délivré pour une période",
+                  "« initiale de cinq années et un mois à compter du 6 mai 2019. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera notifié aux intéressés et",
+                "paragraphs": [
+                  "publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7358-P36-19",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement durable n° 1527-24 du 3 hija 1445",
+      "reference": {
+        "type": "arrete",
+        "number": "1527-24",
+        "date": "2024-06-10"
+      },
+      "pages": {
+        "start": 36,
+        "end": 36
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "« ENERGEAN MOROCCO LIMITED ».",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 21-90 relative à la recherche et à l'exploitation",
+            "reference_to": "Loi n° 21-90"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-93-786 du 18 joumada I 1414",
+            "reference_to": "Decret n° 2-93-786"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté conjoint du ministre de l'énergie, des mines",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'énergie, des mines et du",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'énergie, des mines et du",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté de la ministre de la transition énergétique",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté de la ministre de la transition énergétique",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté conjoint de la ministre de la transition",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La société « CHARIOT OIL &",
+                "paragraphs": [
+                  "GAS HOLDINGS (MOROCCO) LIMITED » est autorisée",
+                  "à céder 60% de ses parts d'intérêt qu'elle détient dans les",
+                  "permis de recherche d'hydrocarbures dénommés « LIXUS",
+                  "OFFSHORE I » et « LIXUS OFFSHORE II », au profit de la",
+                  "société « ENERGEAN MOROCCO LIMITED ».",
+                  "Les nouvelles parts d'intérêt deviennent :",
+                  "- l'Office national des hydrocarbures et des mines : 25% ;",
+                  "- la société « CHARIOT OIL & GAS HOLDINGS",
+                  "(MOROCCO) LIMITED » : 30% ;",
+                  "- la société « ENERGEAN MOROCCO LIMITED » :",
+                  "45%."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La société « ENERGEAN MOROCCO",
+                "paragraphs": [
+                  "LIMITED » devient partie à l'accord pétrolier « LIXUS",
+                  "OFFSHORE » conclu entre l'Office national des hydrocarbures",
+                  "et des mines et la société « CHARIOT OIL & GAS HOLDINGS",
+                  "(MOROCCO) LIMITED » et assume au titre dudit accord",
+                  "pétrolier ses obligations et ses responsabilités et jouit des droits",
+                  "et bénéfices y relatifs."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le présent arrêté sera notifié aux intéressés et",
+                "paragraphs": [
+                  "publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7358-P36-20",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement durable n° 1528-24 du 3 hija 1445",
+      "reference": {
+        "type": "arrete",
+        "number": "1528-24",
+        "date": "2024-06-10"
+      },
+      "pages": {
+        "start": 36,
+        "end": 37
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LIMITED ».",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 21-90 relative à la recherche et à l'exploitation",
+            "reference_to": "Loi n° 21-90"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-93-786 du 18 joumada I 1414",
+            "reference_to": "Decret n° 2-93-786"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté conjoint de la ministre de la transition",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté de la ministre de la transition énergétique et",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté de la ministre de la transition énergétique et",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté de la ministre de la transition énergétique et",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté de la ministre de la transition énergétique et",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté de la ministre de la transition énergétique et",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté conjoint de la ministre de la transition",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La société « CHARIOT RISSANA",
+                "paragraphs": [
+                  "LIMITED » est autorisée à céder 50% de ses parts d'intérêt",
+                  "qu'elle détient dans les permis de recherche d'hydrocarbures",
+                  "dénommés « RISSANA OFFSHORE 1 » à « RISSANA",
+                  "OFFSHORE 5 », au profit de la société « ENERGEAN",
+                  "MOROCCO LIMITED ».",
+                  "Les nouvelles parts d'intérêt deviennent :",
+                  "- l'Office national des hydrocarbures et des mines : 25% ;",
+                  "- la société « CHARIOT RISSANA LIMITED » : 37,5% ;",
+                  "- la société « ENERGEAN MOROCCO LIMITED » :",
+                  "37,5%."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La société « ENERGEAN MOROCCO",
+                "paragraphs": [
+                  "LIMITED » devient partie à l'accord pétrolier « RISSANA",
+                  "OFFSHORE » conclu entre l'Office national des hydrocarbures",
+                  "et des mines et la société « CHARIOT RISSANA LIMITED »",
+                  "et assume au titre dudit accord pétrolier ses obligations et ses",
+                  "responsabilités et jouit des droits et bénéfices y relatifs."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le présent arrêté sera notifié aux intéressés et",
+                "paragraphs": [
+                  "publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    }
+  ]
+}

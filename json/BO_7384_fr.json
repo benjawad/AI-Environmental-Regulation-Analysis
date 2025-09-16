@@ -1,0 +1,315 @@
+{
+  "bulletin_number": "7384",
+  "publication_date": {
+    "gregorian": "2025-03-06",
+    "hijri": "5 ramadan 1446"
+  },
+  "source_file": "BO_7384_fr.pdf",
+  "content": [
+    {
+      "entry_id": "BO-7384-P21-1",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "19 chaabane 1446 (18 février 2025) portant prorogation de",
+      "reference": {
+        "type": "arrete",
+        "number": "440-25",
+        "date": ""
+      },
+      "pages": {
+        "start": 21,
+        "end": 21
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'INDUSTRIE ET DU COMMERCE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre du commerce extérieur, des",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'industrie et du commerce",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est prorogé, jusqu'au 18 février",
+                "paragraphs": [
+                  "2026, la soumission à licence d'exportation des lingots de",
+                  "laiton relevant de la position tarifaire EX7403210000 et",
+                  "EX740721 figurant sur la liste II relative aux marchandises",
+                  "soumises à licence d'exportation, annexé à l'arrêté du ministre",
+                  "du commerce extérieur, des investissements extérieurs et de",
+                  "l'artisanat susvisé n° 1308-94 du 7 kaada 1414 (19 avril 1994)."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté est publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7384-P22-2",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "et des eaux et forêts, chargée de la pêche maritime n° 180-25 du 21 rejeb 1446 (22 janvier 2025) fixant le",
+      "reference": {
+        "type": "arrete",
+        "number": "180-25",
+        "date": "2025-01-22"
+      },
+      "pages": {
+        "start": 22,
+        "end": 22
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE L'AGRICULTURE, DE LA PÊCHE MARITIME, DU",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 03-12 relative aux interprofessions agricoles et halieutiques, promulguée par le dahir n° 1-12-14",
+            "reference_to": "Loi n° 03-12"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-12-602 du 9 rejeb 1434 (20 mai 2013) pris pour l'application de la loi n° 03-12 relative",
+            "reference_to": "Decret n° 2-12-602"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est fixé, tel qu'il est annexé au présent arrêté, le statut-type des interprofessions",
+                "paragraphs": [
+                  "halieutiques."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7384-P48-3",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n° 88-25 du",
+      "reference": {
+        "type": "arrete",
+        "number": "88-25",
+        "date": "2025-01-09"
+      },
+      "pages": {
+        "start": 48,
+        "end": 49
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la Commission nationale des signes"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les dispositions des articles 3, 6 et 7",
+                "paragraphs": [
+                  "de l'arrêté susvisé n° 1349-13 du 11 hija 1434 (17 octobre 2013),",
+                  "sont modifiées et complétées comme suit :",
+                  "« Article 3. - L'aire géographique ..............................,",
+                  "« réparties comme suit :",
+                  "« 1) Communes du cercle de Midelt : Aït Izdeg, ..............",
+                  "« Mibladen, Boumia,......................, Aït Ben Yacoub,..............,",
+                  "« Sidi Yahia ou Youssef, Anemzi ; »",
+                  "(La suite sans modification.)",
+                  "<<<BO_PAGE_49_DELIM>>>",
+                  "Nº 7384 - 5 ramadan 1446 (6-3-2025)",
+                  "« Article 6. - Le contrôle et la certification de la pomme",
+                  "« d'indication géographique « Pomme de Midelt » sont assurés",
+                  "« par l'organisme de certification et de contrôle « CCPB Maroc",
+                  "« Sarl » ou tout autre organisme de certification et de contrôle",
+                  "« agréé conformément à la réglementation en vigueur.",
+                  "« L'organisme de certification et de contrôle concerné",
+                  "« délivre aux producteurs et conditionneurs, inscrits auprès",
+                  "« dudit organisme, l'attestation de certification de la pomme",
+                  "« bénéficiant de l'Indication géographique « Pomme de Midelt ». »",
+                  "« Article 7. - Outre les mentions obligatoires .................",
+                  "« les indications suivantes :",
+                  "« - la mention .............................................................. ;",
+                  "« - le logo ..................................................................... ;",
+                  "« - la référence de l'organisme de certification et de",
+                  "« contrôle. »",
+                  "(La suite sans modification.)"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7384-P49-4",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n° 311-25 du",
+      "reference": {
+        "type": "arrete",
+        "number": "311-25",
+        "date": "2025-01-31"
+      },
+      "pages": {
+        "start": 49,
+        "end": 49
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-13-359 du 8 joumada I 1435 (10 mars",
+            "reference_to": "Decret n° 2-13-359"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-13-358 du 8 joumada I 1435 (10 mars",
+            "reference_to": "Decret n° 2-13-358"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la Commission nationale de la production"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est agréée la société « NORMACERT",
+                "paragraphs": [
+                  "Sarl » dont le siège social est sis à : n° 61, étage 2, bloc E4 BD",
+                  "11 janvier, cité Dakhla, Agadir, pour réaliser les activités de",
+                  "contrôle et de certification des produits agricoles et aquatiques",
+                  "obtenus selon le mode de production biologique."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - L'agrément est attribué pour une durée de trois",
+                "paragraphs": [
+                  "(3) ans à compter de la date de publication du présent arrêté au",
+                  "« Bulletin officiel » et peut être renouvelé, pour la même durée,",
+                  "dans les mêmes conditions, à la demande de son bénéficiaire",
+                  "déposée trois (3) mois, au moins, avant l'expiration de sa durée",
+                  "de validité."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Conformément aux dispositions de l'article 9",
+                "paragraphs": [
+                  "du décret susvisé n° 2-13-359, la société « NORMACERT",
+                  "Sarl » est tenue de communiquer, au plus tard, le 31 janvier",
+                  "de chaque année, à la Direction de Développement des Filières",
+                  "de Production relevant du ministère de l'agriculture, de la",
+                  "pêche maritime, du développement rural et des eaux et forêts,",
+                  "la liste des produits certifiés ventilée par opérateur dont elle",
+                  "assure le contrôle et la certification conformément aux cahiers",
+                  "des charges types concernés."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    }
+  ]
+}

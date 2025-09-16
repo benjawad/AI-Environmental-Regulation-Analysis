@@ -1,0 +1,2553 @@
+{
+  "bulletin_number": "7322",
+  "publication_date": {
+    "gregorian": "",
+    "hijri": "26 moharrem 1446"
+  },
+  "source_file": "BO_7322_fr.pdf",
+  "content": [
+    {
+      "entry_id": "BO-7322-P5-1",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 11 kaada 1444 (31 mai 2023) portant homologation",
+      "reference": {
+        "type": "arrete",
+        "number": "1439-23",
+        "date": "2023-05-31"
+      },
+      "pages": {
+        "start": 5,
+        "end": 5
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 64-12 portant création de l'Autorité de contrôle",
+            "reference_to": "Loi n° 64-12"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-16-171 du 3 chaabane 1437 (10 mai 2016)",
+            "reference_to": "Decret n° 2-16-171"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est homologuée la circulaire",
+                "paragraphs": [
+                  "du président de l'Autorité de contrôle des assurances et de la",
+                  "prévoyance sociale par intérim n° AS/01/23 du 15 mars 2023",
+                  "modifiant et complétant la circulaire du président de l'Autorité",
+                  "de contrôle des assurances et de la prévoyance sociale n° 01/AS/19",
+                  "du 2 janvier 2019 prise pour l'application de certaines dispositions",
+                  "de la loi n° 17-99 portant code des assurances, telle qu'annexée",
+                  "au présent arrêté."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté et la circulaire qui lui est",
+                "paragraphs": [
+                  "annexée sont publiés au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7322-P5-2",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "dahir",
+      "title": "son article 19 ;",
+      "reference": {
+        "type": "dahir",
+        "number": "01/AS/19",
+        "date": "2014-03-06"
+      },
+      "pages": {
+        "start": 5,
+        "end": 8
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "DÉCIDE :",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la circulaire du président de l'Autorité de contrôle des",
+            "reference_to": null
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission de régulation tenue le"
+          }
+        ],
+        "enacting_clause": "DÉCIDE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les dispositions des articles 7, 14, 31,",
+                "paragraphs": [
+                  "38, 50, 100, 114, 116, 120 ,127 et 127-3 de la circulaire n° 01/AS/19",
+                  "susvisée sont modifiées et complétées comme suit :",
+                  "« Article 7. - En application des dispositions de",
+                  "« l'article 165 de la loi n° 17-99 précitée, la demande d'agrément",
+                  "« présentée par l'entreprise concernée doit mentionner la ou",
+                  "« les catégories d'opérations qu'elle se propose de pratiquer.",
+                  "« Cette demande………...…………. suivants :",
+                  "« 1. un exemplaire ……………………..constitutive ;",
+                  "« ................................................................",
+                  "« 5 bis. les pièces ……………………… (annexe 67) ;",
+                  "« 6. un programme ..............................................................",
+                  "« et les informations suivantes :",
+                  "« a) un document ......................................... de garantir ;",
+                  "« b) pour chacune ......................................... d'agrément,",
+                  "« un exemplaire des polices ......................................... publiés ;",
+                  "« c) pour chacune ......................................... d'agrément,",
+                  "« un exemplaire du tarif ......................................... pratiquer ;",
+                  "« d) une note technique ................................ humaine ;",
+                  "« ................................................................ ;",
+                  "« k) les prévisions ................................ ci-dessus ;",
+                  "« 7. les noms ................................ l'entreprise ;",
+                  "« 8. une étude..................................... trois ans ;",
+                  "« 9. un certificat .....................................échéant.",
+                  "« La demande d'agrément et les documents",
+                  "« l'accompagnant sont déposés, contre récépissé, auprès de",
+                  "« l'Autorité de contrôle des assurances et de la prévoyance",
+                  "« sociale désignée dans la présente circulaire par « Autorité»,",
+                  "« ou lui sont transmis par tout moyen faisant preuve de",
+                  "« réception. »",
+                  "<<<BO_PAGE_6_DELIM>>>",
+                  "Nº 7322 - 26 moharrem 1446 (1er-8-2024)",
+                  "« Article 14. - Pour les opérations visant ...............",
+                  "« et informations suivants :",
+                  "« 1) informations ………………………. envisagée :",
+                  "« a) les informations ……………….. relatifs à :",
+                  "« - la nature ………………. l'opération ;",
+                  "« - la description ......................................... y afférents ;",
+                  "« - le nombre ......................................... ladite opération;",
+                  "« - la valeur ......................................... en pourcentage ;",
+                  "« - le contrat de cession ;",
+                  "« - la date ......................................... l'opération ;",
+                  "« - les conditions ......................................... échéant ;",
+                  "« - le rapport de valorisation de l'entreprise objet de",
+                  "« la cession ;",
+                  "« - le pacte d'actionnariat mis à jour, le cas échéant ;",
+                  "« - une note décrivant l'incidence de la cession sur la",
+                  "« gouvernance et la structure organisationnelle",
+                  "« générale de l'entreprise;",
+                  "« - le projet ......................................... est projetée ;",
+                  "(La suite sans modification).",
+                  "« Article 31. - La provision pour ..................................",
+                  "« deux évaluations.",
+                  "« Toutefois, l'Autorité peut autoriser à titre exceptionnel,",
+                  "« une entreprise d'assurances et de réassurance, sur sa demande,",
+                  "« à constituer, pendant trois (3) années consécutives à compter",
+                  "« de l'exercice comptable objet de l'autorisation, la provision",
+                  "« pour risque d'exigibilité à hauteur respectivement de 25%,",
+                  "« 50% et 75% de la moins-value globale visée au premier alinéa",
+                  "« ci-dessus.",
+                  "« Pour l'obtention de l'autorisation précitée, l'entreprise",
+                  "« concernée doit disposer des garanties financières prévues",
+                  "« aux articles 238 et 239 de la loi n° 17-99 précitée, et tenir",
+                  "« compte des conditions prévues au premier alinéa ci-dessus",
+                  "« relatives à la constatation de la moins-value globale.",
+                  "« L'autorisation peut comporter l'obligation pour",
+                  "« l'entreprise concernée de ne pas distribuer tout ou partie",
+                  "« des dividendes ou des excédents de recettes pendant la durée",
+                  "« de validité de ladite autorisation.",
+                  "« L'autorisation cesse d'être valable, immédiatement,",
+                  "« si l'entreprise concernée ne remplit plus les conditions sur",
+                  "« la base desquelles ladite autorisation a été octroyée.",
+                  "« Aucune autre autorisation ne peut être octroyée à la",
+                  "« même entreprise, pendant la durée de validité de l'autorisation",
+                  "« octroyée ou pendant la durée restante de l'autorisation",
+                  "« dont la validité a cessé conformément aux dispositions du",
+                  "« cinquième alinéa ci-dessus. »",
+                  "« Article 38. - Les provisions ..........................Toutefois :",
+                  "« 1) la représentation ......................................... cédantes ;",
+                  "« 2) la représentation ......................... l'Autorité ;",
+                  "« 3) les entreprises d'assurances et de réassurance opérant",
+                  "« à ........................................... localisés à l'étranger. »",
+                  "« Article 50. - Les valeurs et placements ...........................",
+                  "« des limitations suivantes :",
+                  "« 1°) pour les valeurs ........................................ article ;",
+                  "« 2°) pour l'ensemble ........................................ techniques.",
+                  "« En outre, ........................................ dépasser :",
+                  "« a) pour les obligations ............................... techniques ;",
+                  "« b) pour les immeubles bâtis, les autres immeubles",
+                  "« urbains, les parts et actions de sociétés immobilières",
+                  "« y compris les avances en compte courant et les titres émis",
+                  "« par les organismes de placement collectif immobilier, visés",
+                  "« respectivement aux 7° à 9° et 20° de l'article 39 précité :",
+                  "« 30% des provisions techniques ;",
+                  "« c) pour les prêts............................... techniques ;",
+                  "(La suite sans modification).",
+                  "« Article 100.- 1. Les entreprises ..................................",
+                  "« de la loi n° 17-99 précitée.",
+                  "« ................................................................",
+                  "« L'état..................................... des assurances.",
+                  "« Les états précités ............................... suivant :",
+                  "« a) avant le premier mars de chaque année :",
+                  "« ................................................................",
+                  "« d) avant le 30 septembre de chaque année :",
+                  "« - D01 : compte technique - assurance vie, relatif au",
+                  "« premier semestre de l'exercice comptable en cours ;",
+                  "« - D02 : compte technique - assurance non- vie, relatif",
+                  "« au premier semestre de l'exercice comptable en cours ;",
+                  "« - D03 : primes…………………….. en cours ;",
+                  "« - D06 : primes ……………………. 30 juin ;",
+                  "« - D06 bis : créances, ………………….. au 30 juin ;",
+                  "« - D14 : détail de certaines provisions techniques arrêtées",
+                  "« à la fin du premier semestre de l'exercice comptable",
+                  "« en cours ;",
+                  "« - D22 : situation ………………………….. juin ;",
+                  "« - D21 : dépôt ………………………. juin ;",
+                  "« - DM1 : détail ………….. (semestriel) ;",
+                  "« e) avant ……………………………….. : D26 ;",
+                  "« f) avant l'expiration ……………………….. écoulé :",
+                  "« - D23 : …………….trimestriels ;",
+                  "« - D32 : état……………………………….. facultative ;",
+                  "« - DM3 : statistiques relatives aux opérations",
+                  "« d'assurances remplissant les conditions fixées à",
+                  "« l'article 127-2 de la présente circulaire ;",
+                  "« g) avant l'expiration de la troisième semaine du mois",
+                  "« qui suit le mois écoulé : D23bis, D23ter ;",
+                  "« h) D30 : dans les ……………………………….trimestre.",
+                  "(La suite sans modification).",
+                  "<<<BO_PAGE_7_DELIM>>>",
+                  "Nº 7322 - 26 moharrem 1446 (1er-8-2024)",
+                  "« Article 114. - Toute entreprise ................................",
+                  "« ses états de synthèse annuels dans le « Bulletin officiel »,",
+                  "« édition des annonces légales, judiciaires et administratives",
+                  "« …………………….…………………... suivantes :",
+                  "(La suite sans modification).",
+                  "« Article 116. - Toute entreprise .......................................",
+                  "« arrêtés à la fin dudit semestre. »",
+                  "« Article 120. - La demande d'agrément ..........................",
+                  "« à l'Autorité :",
+                  "« ................................................................",
+                  "« La demande du candidat.......................................",
+                  "« des pièces suivantes :",
+                  "« 1°) une copie de la carte nationale d'identité ;",
+                  "« 2°) un extrait de la fiche anthropométrique datant de",
+                  "« moins de trois mois ;",
+                  "« 3°) une copie légalisée du diplôme prévu à l'article 304",
+                  "« de la loi n° 17-99 précitée ;",
+                  "« 4°) une attestation certifiant que le stage de formation,",
+                  "« prévu à l'article 304 de la loi n° 17-99 précitée, a été effectué",
+                  "« auprès d'une entreprise d'assurances et de réassurance, d'un",
+                  "« intermédiaire d'assurances ou de l'Autorité.",
+                  "« La demande d'agrément et les documents",
+                  "« l'accompagnant sont déposés, contre récépissé, auprès de",
+                  "« l'Autorité ou lui sont transmis par tout moyen faisant preuve",
+                  "« de réception.",
+                  "« Pour l'obtention .......................... les pièces suivantes :",
+                  "« A. - Pour la personne physique :",
+                  "« ................................................................",
+                  "« B. - Pour la personne morale :",
+                  "« 1°) une déclaration………………………….. (annexe 60) ;",
+                  "« 2°) une copie ………………………….. professionnelle ;",
+                  "« 3°) une copie …………………….. d'assurances ;",
+                  "« 4°) une copie des statuts ;",
+                  "« 5°) la liste………………………….. social ;",
+                  "(La suite sans modification).",
+                  "« Article 127. - Les sociétés ...................... par l'Autorité.",
+                  "« Toute demande ......................documents ci-après :",
+                  "« - la liste des personnes...................... ci-dessus ;",
+                  "« - la liste des agences ...................... clientèle ;",
+                  "« - un document précisant ...................... par ce dernier.",
+                  "« La demande d'autorisation et les documents",
+                  "« l'accompagnant sont déposés, contre récépissé, auprès de",
+                  "« l'Autorité ou lui sont transmis par tout moyen faisant preuve",
+                  "« de réception.",
+                  "« Au titre de leur activité ............................. pris pour",
+                  "« son application. »",
+                  "« Article 127-3. - Les établissements de paiement peuvent",
+                  "« ............................................. leurs agents principaux.",
+                  "« Les établissements de paiement sont tenus d'assurer,",
+                  "« ............................................. leur agents principaux.",
+                  "« ………………………………………..",
+                  "« Toute demande .......................... documents ci-après :",
+                  "« - la liste des personnes................................... ci-dessus ;",
+                  "« - la liste des agences ................................. d'assurances ;",
+                  "« - un document précisant .............................................",
+                  "« par ledit responsable.",
+                  "« La demande d'autorisation et les documents",
+                  "« l'accompagnant sont déposés, contre récépissé, auprès de",
+                  "« l'Autorité ou lui sont transmis par tout moyen faisant preuve",
+                  "« de réception. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La circulaire n° 01/AS/19 précitée est complétée",
+                "paragraphs": [
+                  "par les articles 116-1, 116-2 et 116-3 comme suit :",
+                  "« Article 116-1. - La publication visée à l'article 114",
+                  "« ci-dessus est assortie des conclusions de deux commissaires",
+                  "« aux comptes, visés à l'article 16 de la présente circulaire, dans",
+                  "« lesquelles ces derniers soit :",
+                  "« - certifient, avec ou sans réserve, que les états de synthèse",
+                  "« sont réguliers et sincères et donnent une image fidèle",
+                  "« de l'exercice financier écoulé, de la situation financière",
+                  "« et du patrimoine de l'entreprise à la fin de l'exercice",
+                  "« comptable ;",
+                  "« - refusent la certification des états de synthèse.",
+                  "« En cas de certification avec réserves ou de refus de",
+                  "« certification, les commissaires aux comptes doivent en",
+                  "« préciser les motifs. »",
+                  "« Article 116-2. - La publication visée à l'article 116",
+                  "« ci-dessus est assortie de conclusions de deux commissaires",
+                  "« aux comptes, visés à l'article 16 de la présente circulaire, dans",
+                  "« lesquelles ces derniers soit :",
+                  "« - certifient sans réserve que les informations contenues",
+                  "« dans les documents visés à l'article 116 de la présente",
+                  "« circulaire sont sincères ;",
+                  "« - certifient avec réserve de la sincérité de ces informations.",
+                  "« Dans ce cas, ils doivent en préciser les motifs. »",
+                  "« Article 116-3. - L'entreprise adresse à l'Autorité une",
+                  "« copie de tout communiqué, publié dans un journal d'annonces",
+                  "« légales, relatif aux états et documents visés aux articles 114",
+                  "« et 116 ci-dessus, au plus tard dans les sept (7) jours qui suivent",
+                  "« la date de sa publication. »"
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Les annexes n° 5, 11, 12, 15, 16, 25, 33, 35, 36,",
+                "paragraphs": [
+                  "46 ter et 52 jointes à l'original de la circulaire du président",
+                  "de l'Autorité de contrôle des assurances et de la prévoyance",
+                  "sociale n° 01/AS/19 précitée, sont abrogées et remplacées par",
+                  "les annexes n° 5, 11, 12, 15, 16, 25, 33, 35, 36, 46 ter et 52 jointes",
+                  "à l'original de la présente circulaire."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - La présente circulaire entre en vigueur à",
+                "paragraphs": [
+                  "compter de la date de la publication au Bulletin officiel de",
+                  "l'arrêté de la ministre chargée des finances portant son",
+                  "homologation.",
+                  "OTHMAN KHALIL EL ALAMY.",
+                  "Le texte en langue arabe a été publié dans l'édition générale du",
+                  "« Bulletin officiel » n° 7208 du 10 hija 1444 (29 juin 2023).",
+                  "<<<BO_PAGE_8_DELIM>>>",
+                  "Nº 7322 - 26 moharrem 1446 (1er-8-2024)"
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7322-P8-3",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 9 chaabane 1445 (20 février 2024) portant protection de variétés par certificat d'obtention végétale",
+      "reference": {
+        "type": "arrete",
+        "number": "388-24",
+        "date": ""
+      },
+      "pages": {
+        "start": 8,
+        "end": 8
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE MARITIME, DU DÉVELOPPEMENT RURAL ET DES EAUX",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 9-94 sur la protection des obtentions végétales, promulguée par le dahir n° 1-96-255 du",
+            "reference_to": "Loi n° 9-94"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 25-08 portant création de l'Office national de sécurité sanitaire des produits alimentaires,",
+            "reference_to": "Loi n° 25-08"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-01-2324 du 27 hija 1422 (12 mars 2002) pris pour l'application de la loi n° 9-94 sur la",
+            "reference_to": "Decret n° 2-01-2324"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du Comité consultatif de la protection des obtentions végétales,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Conformément aux dispositions de l'article 2 du décret susvisé n° 2-01-2324 du",
+                "paragraphs": [
+                  "27 hija 1422 (12 mars 2002), les variétés désignées dans le tableau annexé au présent arrêté bénéficient de la",
+                  "protection des obtentions végétales."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Sont désignés dans le tableau annexé au présent arrêté l'espèce, le numéro du dépôt, la",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7322-P14-4",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 14 ramadan 1445 (25 mars 2024) portant protection de variétés par certificat d'obtention végétale",
+      "reference": {
+        "type": "arrete",
+        "number": "755-24",
+        "date": "2024-03-25"
+      },
+      "pages": {
+        "start": 14,
+        "end": 14
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE MARITIME, DU DÉVELOPPEMENT RURAL ET DES EAUX",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 9-94 sur la protection des obtentions végétales, promulguée par le dahir n° 1-96-255 du",
+            "reference_to": "Loi n° 9-94"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 25-08 portant création de l'Office national de sécurité sanitaire des produits alimentaires,",
+            "reference_to": "Loi n° 25-08"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-01-2324 du 27 hija 1422 (12 mars 2002) pris pour l'application de la loi n° 9-94 sur la",
+            "reference_to": "Decret n° 2-01-2324"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du Comité consultatif de la protection des obtentions végétales,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Conformément aux dispositions de l'article 2 du décret susvisé n° 2-01-2324 du",
+                "paragraphs": [
+                  "27 hija 1422 (12 mars 2002), les variétés désignées dans le tableau annexé au présent arrêté bénéficient de la",
+                  "protection des obtentions végétales."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Sont désignés dans le tableau annexé au présent arrêté l'espèce, le numéro du dépôt, la",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7322-P26-5",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "4 kaada 1445 (13 mai 2024) abrogeant les arrêtés relatifs aux conditions hygiéniques et sanitaires auxquelles",
+      "reference": {
+        "type": "arrete",
+        "number": "1128-24",
+        "date": "2024-05-13"
+      },
+      "pages": {
+        "start": 26,
+        "end": 26
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE MARITIME, DU DÉVELOPPEMENT RURAL ET DES EAUX",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le décret n°2-04-684 du 14 kaada 1425 (27 décembre 2004) pris pour l'application de la loi n° 49-99",
+            "reference_to": "Decret n° 2-04-684"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-10-473 du 7 chaoual 1432 (6 septembre 2011) pris pour l'application de certaines dispositions",
+            "reference_to": "Decret n° 2-10-473"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Sont abrogés les arrêtés suivants :",
+                "paragraphs": [
+                  "- arrêté du ministre de l'agriculture, du développement rural et des pêches maritimes n° 445-06 du 7 safar",
+                  "1427 (8 mars 2006) fixant les conditions hygiéniques et sanitaires auxquelles doivent répondre les centres",
+                  "de transformation des œufs ;",
+                  "- arrêté du ministre de l'agriculture, du développement rural et des pêches maritimes n° 446-06 du",
+                  "7 safar 1427 (8 mars 2006) fixant les dispositions particulières à certaines espèces de volaille ;",
+                  "- arrêté du ministre de l'agriculture, du développement rural et des pêches maritimes n° 447-06 du",
+                  "7 safar 1427 (8 mars 2006) fixant les exigences sanitaires et hygiéniques de conception, d'équipement et",
+                  "de fonctionnement auxquelles doivent répondre les établissements de découpe, de transformation, de",
+                  "congélation et de conditionnement des viandes de volailles ;",
+                  "- arrêté du ministre de l'agriculture, du développement rural et des pêches maritimes n° 448-06 du 7 safar 1427",
+                  "(8 mars 2006) fixant les exigences sanitaires et hygiéniques de conception, d'équipement et de",
+                  "fonctionnement auxquelles doivent répondre les abattoirs avicoles ;",
+                  "- arrêté du ministre de l'agriculture, du développement rural et des pêches maritimes n° 449-06 du",
+                  "7 safar 1427 (8 mars 2006) fixant les exigences sanitaires, hygiéniques et d'équipement pour la",
+                  "commercialisation des viandes de volailles ;",
+                  "- arrêté du ministre de l'agriculture, du développement rural et des pêches maritimes n° 450-06 du",
+                  "7 safar 1427 (8 mars 2006) fixant les exigences sanitaires et hygiéniques auxquelles doivent répondre les",
+                  "centres de conditionnement des œufs."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7322-P27-6",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 14 kaada 1445 (23 mai 2024) autorisant l'inscription de nouvelles variétés de tomate indéterminée, de",
+      "reference": {
+        "type": "arrete",
+        "number": "1345-24",
+        "date": "2024-05-23"
+      },
+      "pages": {
+        "start": 27,
+        "end": 27
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE MARITIME, DU DÉVELOPPEMENT RURAL ET DES EAUX",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le dahir n° 1-69-169 du 10 joumada I 1389 (25 juillet 1969) réglementant la production et la",
+            "reference_to": "Dahir n° 1-69-169"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 25-08 portant création de l'Office national de sécurité sanitaire des produits alimentaires",
+            "reference_to": "Loi n° 25-08"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme agraire n°863-75 du 8 chaoual 1397 (22 septembre",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme agraire n°864-75 du 8 chaoual 1397 (22 septembre",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Sont inscrites au catalogue officiel des espèces et des variétés des plantes cultivables",
+                "paragraphs": [
+                  "au Maroc, les variétés de tomate indéterminée, de betterave potagère, du maïs, du riz, de la luzerne et du",
+                  "tournesol, désignées dans le tableau annexé au présent arrêté."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Cette inscription est valable pour une durée de dix (10) ans de la date de publication du présent",
+                "paragraphs": [
+                  "arrêté au « Bulletin officiel ». Elle peut être renouvelée pour des périodes de cinq (5) ans à condition que la",
+                  "demande soit formulée auprès de l'Office national de sécurité sanitaire des produits alimentaires deux ans, au",
+                  "moins, avant la date d'expiration de la durée de validité de l'inscription initiale ou du dernier renouvellement",
+                  "d'inscription."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7322-P31-7",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 14 hija 1445 (21 juin 2024) modifiant l'arrêté du ministre de l'agriculture et de la pêche maritime",
+      "reference": {
+        "type": "arrete",
+        "number": "1664-24",
+        "date": "2024-06-21"
+      },
+      "pages": {
+        "start": 31,
+        "end": 31
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE MARITIME, DU DÉVELOPPEMENT RURAL ET DES EAUX",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la pêche maritime n° 3873-15 du 8 safar 1437 (20 novembre 2015)",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'annexe à l'arrêté du ministre de l'agriculture et de la pêche maritime n° 3873-15",
+                "paragraphs": [
+                  "du 8 safar 1437 (20 novembre 2015) susvisé, est abrogée et remplacée par l'annexe au présent arrêté."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7322-P38-8",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 24 hija 1445 (1er juillet 2024)",
+      "reference": {
+        "type": "arrete",
+        "number": "1717-24",
+        "date": "2024-07-01"
+      },
+      "pages": {
+        "start": 38,
+        "end": 38
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE LA SANTÉ ET DE LA PROTECTION SOCIALE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-13-852 du 14 safar 1435 (18 décembre 2013) relatif aux conditions et aux modalités de",
+            "reference_to": "Decret n° 2-13-852"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté n° 787-14 du 7 joumada II 1435 (7 avril 2014) portant révision des prix publics de vente",
+            "reference_to": "Arrete n° 787-14"
+          },
+          {
+            "type": "visa",
+            "text": "Vu les demandes de fixation des prix publics de vente des médicaments princeps émanant des",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu les demandes d'homologation des prix publics de vente des médicaments génériques émanant des",
+            "reference_to": null
+          },
+          {
+            "type": "recital",
+            "text": "Considérant les demandes de révision à la baisse des prix des médicaments formulés par les établissements"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la Commission interministérielle des prix,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Le prix des médicaments princeps objet des demandes visées ci-dessus sont fixés",
+                "paragraphs": [
+                  "à l'annexe n° 1 jointe au présent arrêté.",
+                  "Sont homologués les prix des médicaments génériques, objet des demandes visées ci-dessus, figurant",
+                  "à l'annexe n° 2 jointe au présent arrêté.",
+                  "Les prix des médicaments figurant à l'annexe de l'arrêté visé ci-dessus n° 787-14, tel qu'il a été modifié et",
+                  "complété par les arrêtés subséquents, sont révisés à la baisse, tel qu'indiqué à l'annexe n°3 au présent arrêté."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7322-P41-10",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decision",
+      "title": "du 4 moharrem 1446",
+      "reference": {
+        "type": "decision",
+        "number": "1752-24",
+        "date": "2024-07-10"
+      },
+      "pages": {
+        "start": 41,
+        "end": 41
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE DIRECTEUR DE L'INSTITUT MAROCAIN DE NORMALISATION",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 12-06 relative à la normalisation, à la certification et à l'accréditation, promulguée par le",
+            "reference_to": "Loi n° 12-06"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la résolution du Conseil d'administration de l'Institut marocain de normalisation (IMANOR) n° 10,",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCIDE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Sont homologuées comme normes marocaines, les normes dont les références",
+                "paragraphs": [
+                  "sont présentées en annexe de la présente décision."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Les normes visées à l'article premier ci-dessus, sont tenues à la disposition des intéressés à",
+                "paragraphs": [
+                  "l'Institut marocain de normalisation (IMANOR)."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La présente décision sera publiée au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7322-P41-9",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decision",
+      "title": "du 17 rabii II 1445 (2 novembre 2023) relative à la non",
+      "reference": {
+        "type": "decision",
+        "number": "2671-23",
+        "date": "2023-11-02"
+      },
+      "pages": {
+        "start": 41,
+        "end": 41
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE L'ECONOMIE ET DES FINANCES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 17-99 portant code des assurances promulguée",
+            "reference_to": "Loi n° 17-99"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-1009 du 23 chaabane 1440 (29 avril",
+            "reference_to": "Decret n° 2-18-1009"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'économie, des finances et de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du Chef du gouvernement n° 3-58-23 du",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu les résultats de l'évaluation de l'ampleur des",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCIDE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "article premier ;",
+                "paragraphs": [
+                  "Vu l'arrêté du ministre de l'économie, des finances et de",
+                  "la réforme de l'administration n°3967-19 du 30 rabii II 1441",
+                  "(27 décembre 2019) fixant les plafonds globaux d'indemnisation",
+                  "au titre de la garantie contre les conséquences d'événements",
+                  "catastrophiques, les conditions et modalités de réduction",
+                  "de ladite indemnité et d'octroi d'une avance sur indemnité,",
+                  "notamment son article 2 ;",
+                  "Vu l'arrêté du Chef du gouvernement n° 3-58-23 du",
+                  "27 rabii I 1445 (13 octobre 2023) portant déclaration du",
+                  "tremblement de terre survenu au Royaume du Maroc le",
+                  "8 septembre 2023, événement catastrophique ;",
+                  "Vu les résultats de l'évaluation de l'ampleur des",
+                  "dommages résultant du tremblement de terre,",
+                  "DÉCIDE :"
+                ]
+              },
+              {
+                "article_number": "ARTICLE PREMIER. - Ne peuvent faire l'objet de",
+                "paragraphs": [
+                  "réduction, les indemnités dues au titre de la garantie contre",
+                  "les conséquences d'événements catastrophiques au profit",
+                  "des victimes du tremblement de terre déclaré événement",
+                  "catastrophique par l'arrêté du Chef du gouvernement n° 3-58-23",
+                  "susvisé."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La présente décision est publiée au Bulletin",
+                "paragraphs": [
+                  "officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7322-P48-11",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 22 kaada 1445 (31 mai 2024) modifiant et",
+      "reference": {
+        "type": "arrete",
+        "number": "1423-24",
+        "date": "2024-05-31"
+      },
+      "pages": {
+        "start": 48,
+        "end": 48
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'économie et des finances n° 1000-09 du 14 rabii II 1430 (10 avril 2009) fixant",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'annexe à l'arrêté du ministre de l'économie et des finances n° 1000-09 du 14 rabii II",
+                "paragraphs": [
+                  "1430 (10 avril 2009) susvisé, est modifiée et complétée comme suit :",
+                  "« Annexe à l'arrêté du ministre de l'économie et des finances",
+                  "« n° 1000-09 du 14 rabii II 1430 (10 avril 2009)",
+                  "« Nature des produits, services et prestations rendus par l'administration des douanes",
+                  "« et impôts indirects",
+                  "TARIFS",
+                  "« 1 - Prestations rendues par le service de la reprographie et de diffusion de",
+                  "« l'administration des douanes et impôts indirects au profit des tiers :",
+                  "« 1-1 Edition des ouvrages, revues et magazines :",
+                  "« ......................................................................................................................",
+                  "« ......................................................................................................................",
+                  "« 1-2 Edition des imprimés adminstratifs :",
+                  "« Carnet répertoire import (réf B21) ......................................................................",
+                  "« ......................................................................................................................",
+                  "« - Certificat d'origine de la zone de libre échange continentale africaine",
+                  "« - Certificat d'origine du système de préférences commerciales entre les Etats",
+                  "« membres de l'Organisation de la coopération islamique (en langue anglaise,",
+                  "« arabe et française)",
+                  "3 Dh",
+                  "« - Tableau des poinçons de titre et de garantie (réf T1)",
+                  "« ......................................................................................................................",
+                  "« - Autres imprimés administratifs",
+                  "« 1-3 Edition des imprimés informels et publicitaires :",
+                  "« ......................................................................................................................",
+                  "(la suite sans modification)"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le directeur général de l'administration des douanes et impôts indirects est chargé de l'exécution",
+                "paragraphs": [
+                  "du présent arrêté qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7322-P49-12",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n° 1591-24 du",
+      "reference": {
+        "type": "arrete",
+        "number": "1591-24",
+        "date": "2024-06-13"
+      },
+      "pages": {
+        "start": 49,
+        "end": 50
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 25-06 relative aux signes distinctifs d'origine",
+            "reference_to": "Loi n° 25-06"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-08-403 du 6 hija 1429 (5 décembre 2008)",
+            "reference_to": "Decret n° 2-08-403"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-08-404 du 6 hija 1429 (5 décembre 2008)",
+            "reference_to": "Decret n° 2-08-404"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la Commission nationale des signes"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est reconnu le Label Agricole",
+                "paragraphs": [
+                  "« Œufs de poules élevées en plein air», demandé par la",
+                  "société « Le Petit Domaine Sarl», pour les œufs obtenus dans",
+                  "les conditions fixées par le cahier des charges homologué et",
+                  "annexé à l'original du présent arrêté."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Seuls peuvent bénéficier du Label Agricole",
+                "paragraphs": [
+                  "« Œufs de poules élevées en plein air », les œufs produits",
+                  "exclusivement dans les conditions fixées par le cahier des",
+                  "charges mentionné à l'article premier ci-dessus."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le Label Agricole « Œufs de poules élevées en",
+                "paragraphs": [
+                  "plein air » concerne les œufs frais en coquille issus de souches",
+                  "sélectionnées de poules pondeuses élevées en plein air. Leurs",
+                  "principales caractéristiques sont les suivantes :",
+                  "- poids minimum de l'œuf : 48 grammes ;",
+                  "- couleur de la coquille : blanc, brun ou crème ;",
+                  "- couleur du jaune d'œuf : jaune à orange, supérieure ou",
+                  "égale à 9 sur l'échelle DSM."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - Les principales conditions de production, de",
+                "paragraphs": [
+                  "stockage et de conditionnement des œufs bénéficiant du Label",
+                  "Agricole « Œufs de poules élevées en plein air » sont comme",
+                  "suit :",
+                  "1. les conditions de production des œufs doivent se",
+                  "conformer aux dispositions législatives et réglementaires en",
+                  "vigueur relatives à la protection sanitaire des élevages avicoles,",
+                  "au contrôle de la production et à la commercialisation des",
+                  "produits avicoles ;",
+                  "2. les poussins d'un jour de « type ponte » doivent",
+                  "provenir d'unités d'accouvage autorisées ou importés et mis",
+                  "en place dans des unités autorisées à cet effet conformément",
+                  "à la réglementation en vigueur. Ils sont issus du même lot de",
+                  "reproducteurs et livrés en un seul lot ;",
+                  "3. seul l'élevage au sol est autorisé ;",
+                  "4. la densité d'élevage à l'intérieur du bâtiment ne doit",
+                  "pas dépasser 14 poulettes/m2 pour les poulettes et 9 poules/m2",
+                  "pour les poules pondeuses ;",
+                  "5. le transfert des poulettes doit avoir lieu à partir de la",
+                  "17ème semaine d'âge ;",
+                  "6. la phase de production d'œuf se déroule dans le",
+                  "bâtiment de production à partir de la 17ème semaine d'âge des",
+                  "poulettes jusqu'à la réforme ;",
+                  "7. la présence de perchoirs est obligatoire à raison d'un",
+                  "minimum de 2 cm de perchage par poule pondeuse ;",
+                  "8. chaque bâtiment doit avoir son propre parcours. La",
+                  "surface minimale du parcours est d'1 m2 par poule ;",
+                  "9. l'accès au parcours des poules pondeuses doit être au",
+                  "plus tard à la 25ème semaine d'âge des poules ;",
+                  "10. les aliments destinés aux poulettes et poules",
+                  "pondeuses doivent provenir d'établissements agréés ou",
+                  "autorisés conformément à la réglementation en vigueur. Ils",
+                  "doivent être composés exclusivement à base de matières",
+                  "végétales et minérales. Les matières premières d'origine",
+                  "animale et les colorants de synthèse sont interdits ;",
+                  "11. les silos d'aliment doivent être soigneusement",
+                  "vidangés, nettoyés, et désinfectés régulièrement ;",
+                  "12. le vide sanitaire par bâtiment et son propre parcours",
+                  "doit être de 21 jours au minimum après les opérations de",
+                  "nettoyage et de désinfection ;",
+                  "13. l'éclairage naturel est complété par un éclairage",
+                  "artificiel suivant un programme lumineux adapté à la saison et",
+                  "l'âge des poules. Une période ininterrompue de repos nocturne",
+                  "sans lumière artificielle d'au moins 8 h doit être respectée ;",
+                  "14. seuls les œufs pondus à partir de la 25ème semaine",
+                  "d'âge des poules et conformes aux normes relatives au poids",
+                  "et qualité de la coquille sont concernés par le Label Agricole ;",
+                  "15. l'âge limite de la réforme des poules pondeuses est",
+                  "de 75 semaines d'âge ;",
+                  "16. les œufs doivent être ramassés des pondoirs au moins",
+                  "deux fois par jour. 100 % des œufs doivent être ramassés le",
+                  "jour de leur ponte ;",
+                  "17. les opérations de triage, marquage, conditionnement",
+                  "et stockage des œufs doivent être réalisées dans des centres",
+                  "de conditionnement d'oeufs de consommation autorisés",
+                  "conformément à la réglementation en vigueur ;",
+                  "18. les œufs réceptionnés au niveau des centres de",
+                  "conditionnement doivent être triés. Ils doivent être solides,",
+                  "intègres et sans micro fêlures ;",
+                  "<<<BO_PAGE_50_DELIM>>>",
+                  "Nº 7322 - 26 moharrem 1446 (1er-8-2024)",
+                  "19. les œufs triés doivent être marqués. Le marquage",
+                  "doit être effectué sur la coquille de chaque œuf. Il comprend"
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7322-P65-13",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "durable n° 1805-24 du 2 moharrem 1446 (8 juillet 2024)",
+      "reference": {
+        "type": "arrete",
+        "number": "1805-24",
+        "date": "2024-07-08"
+      },
+      "pages": {
+        "start": 65,
+        "end": 65
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE LA TRANSITION ÉNERGÉTIQUE ET DU",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le dahir du 18 joumada I 1332 (14 avril 1914) portant",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le dahir du 17 safar 1332 (14 janvier 1914) réglementant",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté viziriel du 24 joumada I 1373 (30 janvier 1954)",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du directeur de la production industrielle et",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la demande, du 26 février 2024, présentée par la",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu les plans annexés à cette demande ;",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Une enquête de commodo et",
+                "paragraphs": [
+                  "incommodo, dans la commune d'Oulquadi, cercle d'Ighrem,",
+                  "province de Taroudant, d'une durée d'un mois, est ouverte du",
+                  "15 août au 14 septembre 2024, sur la demande présentée par la",
+                  "Compagnie Africaine des Explosifs (CADEX), à l'effet d'être",
+                  "autorisée à établir une (01) fabrique d'explosifs, un (01) dépôt",
+                  "mixte de détonateurs permanent, du type superficiel et entouré",
+                  "d'un merlon et un (01) dépôt mixte d'explosifs permanent et",
+                  "du type enterré.",
+                  "La capacité de stockage de chacun de ces deux dépôts",
+                  "est fixée à :",
+                  "- 10000 kilogrammes d'explosifs de la classe I ou d'une",
+                  "quantité équivalente d'une autre classe d'explosifs pour",
+                  "le dépôt enterré ;",
+                  "- 100000 unités de détonateurs pour le dépôt superficiel."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Cet arrêté reste affiché, pendant le délai d'un",
+                "paragraphs": [
+                  "mois à partir de la date fixée pour l'ouverture de l'enquête, au",
+                  "siège de la commune d'Oulquadi, chargée de l'enquête.",
+                  "Cette commune doit, en outre, en assurer sa publication",
+                  "à trois reprises et à huit jours d'intervalle dans les divers",
+                  "marchés situés dans un rayon de 5 kilomètres autour du lieu",
+                  "de ces installations.",
+                  "Les intéressés peuvent, pendant la durée de l'enquête,",
+                  "consulter les plans et déposer leurs réclamations sur le registre",
+                  "ouvert, à cet effet, au siège de la commune susmentionnée"
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le présent arrêté est publié au Bulletin officiel",
+                "paragraphs": [
+                  "et notifié à la Compagnie Africaine des Explosifs (CADEX)."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7322-P65-14",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1757-24 du 3 moharrem",
+      "reference": {
+        "type": "arrete",
+        "number": "1757-24",
+        "date": "2024-07-09"
+      },
+      "pages": {
+        "start": 65,
+        "end": 66
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995) est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du",
+                  "« baccalauréat, série scientifique ou technique ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« .............................................................................................",
+                  "<<<BO_PAGE_66_DELIM>>>",
+                  "Nº 7322 - 26 moharrem 1446 (1er-8-2024)",
+                  "« - Master's degree field of study «architecture and",
+                  "« construction» programme subject area «architecture",
+                  "« and town planning», délivré en date du 31 mai 2023 par",
+                  "« O.M Beketov national University of urban economy",
+                  "« in Kharkiv - Ukraine, assorti du bachelor's degree, field",
+                  "« of study «architecture and construction» programme",
+                  "« subject area «architecture and town planning», délivré",
+                  "« en date du 30 juin 2021 par la même université et d'une",
+                  "« attestation de validation du complément de formation,",
+                  "« délivrée par l'Ecole nationale d'architecture de",
+                  "« Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7322-P66-15",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1758-24 du 3 moharrem",
+      "reference": {
+        "type": "arrete",
+        "number": "1758-24",
+        "date": "2024-07-09"
+      },
+      "pages": {
+        "start": 66,
+        "end": 66
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995) est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du",
+                  "« baccalauréat, série scientifique ou technique ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« .............................................................................................",
+                  "« - Diplôme de formation supérieure, qualification maître",
+                  "« spécialité : architecture qualification professionnelle",
+                  "« architecte, délivré en 2018 par l'Université",
+                  "« d'architecture de construction et de géodésie Sofia -",
+                  "« Bulgarie, assorti d'une attestation de validation",
+                  "« du complément de formation, délivrée par l'Ecole",
+                  "« nationale d'architecture de Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7322-P66-16",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1759-24 du 3 moharrem",
+      "reference": {
+        "type": "arrete",
+        "number": "1759-24",
+        "date": "2024-07-09"
+      },
+      "pages": {
+        "start": 66,
+        "end": 67
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995) est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du",
+                  "« baccalauréat, série scientifique ou technique ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« .............................................................................................",
+                  "<<<BO_PAGE_67_DELIM>>>",
+                  "Nº 7322 - 26 moharrem 1446 (1er-8-2024)",
+                  "« - Master's degree field of study «architecture and",
+                  "« construction» program subject area «architecture and",
+                  "« town planning» professional qualification «architect»,",
+                  "« délivré en date du 31 mai 2022 par Kharkiv national",
+                  "« University of civil engineering and architecture -",
+                  "« Ukraine, assorti du bachelor degree, program subject",
+                  "« area «architecture and town planning», educational",
+                  "« program «architecture and town planning», délivré",
+                  "« en date du 30 juin 2020 par la même université et d'une",
+                  "« attestation de validation du complément de formation,",
+                  "« délivrée par l'Ecole nationale d'architecture de",
+                  "Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7322-P67-17",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1760-24 du 3 moharrem",
+      "reference": {
+        "type": "arrete",
+        "number": "1760-24",
+        "date": "2024-07-09"
+      },
+      "pages": {
+        "start": 67,
+        "end": 67
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995) est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du",
+                  "« baccalauréat, série scientifique ou technique ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« .............................................................................................",
+                  "« - Diplôme national d'architecte, délivré en date du",
+                  "« 13 avril 2021 par l'Université de Carthage, Ecole",
+                  "« nationale d'architecture et d'urbanisme - Tunisie,",
+                  "« assorti d'une attestation de validation du complément",
+                  "« de formation, délivrée par l'Ecole nationale",
+                  "« d'architecture de Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7322-P67-18",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1761-24 du 3 moharrem",
+      "reference": {
+        "type": "arrete",
+        "number": "1761-24",
+        "date": "2024-07-09"
+      },
+      "pages": {
+        "start": 67,
+        "end": 67
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995) est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du",
+                  "« baccalauréat, série scientifique ou technique ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« .............................................................................................",
+                  "« - Master's degree field of study architecture and",
+                  "« construction programme subject area architecture and",
+                  "« town planning, délivré en date du 31 mai 2023 par Kyiv",
+                  "« national University of construction and architecture -",
+                  "« Ukraine, assorti du bachelor's degree field of study",
+                  "« architecture and construction programme subject area",
+                  "« architecture and town planning, délivré en date du",
+                  "« 13 juillet 2021 par la même université et d'une",
+                  "« attestation de validation du complément de formation,",
+                  "« délivrée par l'Ecole nationale d'architecture de",
+                  "« Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7322-P68-19",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1762-24 du 3 moharrem",
+      "reference": {
+        "type": "arrete",
+        "number": "1762-24",
+        "date": "2024-07-09"
+      },
+      "pages": {
+        "start": 68,
+        "end": 68
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995) est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du",
+                  "« baccalauréat, série scientifique ou technique ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« .............................................................................................",
+                  "« - Master's degree field of study architecture and",
+                  "« construction programme subject area architecture and",
+                  "« town planning, délivré en date du 31 mai 2023 par Kyiv",
+                  "« national University of construction and architecture -",
+                  "« Ukraine, assorti du bachelor's degree field of study",
+                  "« architecture and construction programme subject area",
+                  "« architecture and town planning, délivré en date du",
+                  "« 6 juillet 2021 par la même université et d'une attestation",
+                  "« de validation du complément de formation, délivrée",
+                  "« par l'Ecole nationale d'architecture de Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7322-P68-20",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1763-24 du 3 moharrem",
+      "reference": {
+        "type": "arrete",
+        "number": "1763-24",
+        "date": "2024-07-09"
+      },
+      "pages": {
+        "start": 68,
+        "end": 68
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995) est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du",
+                  "« baccalauréat, série scientifique ou technique ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« .............................................................................................",
+                  "« - Qualification de master, dans la spécialité architecture",
+                  "« délivrée en date du 10 juillet 2018 par l'Université d'Etat",
+                  "« d'architecture et de génie civil de Nijni - Novgorod -",
+                  "« Fédération de Russie, assortie de la qualification de",
+                  "« bachelor dans la spécialité architecture, délivrée en",
+                  "« date du 1er août 2016 par la même université et d'une",
+                  "« attestation de validation du complément de formation,",
+                  "« délivrée par l'Ecole nationale d'architecture de",
+                  "« Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7322-P69-21",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1764-24 du 3 moharrem",
+      "reference": {
+        "type": "arrete",
+        "number": "1764-24",
+        "date": "2024-07-09"
+      },
+      "pages": {
+        "start": 69,
+        "end": 69
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995) est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du",
+                  "« baccalauréat, série scientifique ou technique ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« .............................................................................................",
+                  "« - Qualification de master, dans la spécialité d'architecture,",
+                  "« délivrée en date du 10 juillet 2023 par l'Université d'Etat",
+                  "« d'architecture et de génie civil de Nijni - Novgorod -",
+                  "« Fédération de Russie, assortie de la qualification de",
+                  "« bachelor dans la spécialité d'architecture, délivrée en",
+                  "« date du 7 juillet 2021 par la même université et d'une",
+                  "« attestation de validation du complément de formation,",
+                  "« délivrée par l'Ecole nationale d'architecture de",
+                  "« Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7322-P69-22",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1765-24 du 3 moharrem",
+      "reference": {
+        "type": "arrete",
+        "number": "1765-24",
+        "date": "2024-07-09"
+      },
+      "pages": {
+        "start": 69,
+        "end": 69
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995) est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du",
+                  "« baccalauréat, série scientifique ou technique ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« .............................................................................................",
+                  "« - Master's degree field of study architecture and",
+                  "« construction programme subject area architecture and",
+                  "« town planning, délivré en date du 31 mai 2023 par Kyiv",
+                  "« national University of construction and architecture -",
+                  "« Ukraine, assorti du bachelor's degree field of study",
+                  "« architecture and construction programme subject",
+                  "« area architecture and town planning, délivré en",
+                  "« date du 30 juin 2021 par la même université et d'une",
+                  "« attestation de validation du complément de formation,",
+                  "« délivrée par l'Ecole nationale d'architecture de",
+                  "« Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7322-P70-23",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1766-24 du 3 moharrem",
+      "reference": {
+        "type": "arrete",
+        "number": "1766-24",
+        "date": "2024-07-09"
+      },
+      "pages": {
+        "start": 70,
+        "end": 70
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995) est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du",
+                  "« baccalauréat, série scientifique ou technique ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« .............................................................................................",
+                  "« - Titulo universitario oficial de graduado en arquitectura,",
+                  "« délivré en date du 2 décembre 2019 par la Universidad",
+                  "« de Las Palmas de Gran Canaria - Espagne, assorti",
+                  "« d'une attestation de validation du complément de",
+                  "« formation, délivrée par l'Ecole nationale d'architecture",
+                  "« de Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7322-P70-24",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1767-24 du 3 moharrem",
+      "reference": {
+        "type": "arrete",
+        "number": "1767-24",
+        "date": "2024-07-09"
+      },
+      "pages": {
+        "start": 70,
+        "end": 70
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995) est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du",
+                  "« baccalauréat, série scientifique ou technique ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« .............................................................................................",
+                  "« - Master's degree field of study architecture and",
+                  "« construction programme subject area architecture and",
+                  "« town planning, délivré en date du 31 mai 2022 par Kyiv",
+                  "« national University of construction and architecture -",
+                  "« Ukraine, assorti du bachelor degree program subject",
+                  "« area architecture and town planning educational",
+                  "« program architecture professional qualification",
+                  "« architect, délivré en date du 30 juin 2020 par la",
+                  "« même université et d'une attestation de validation",
+                  "« du complément de formation, délivrée par l'Ecole",
+                  "« nationale d'architecture de Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7322-P71-25",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1768-24 du 3 moharrem",
+      "reference": {
+        "type": "arrete",
+        "number": "1768-24",
+        "date": "2024-07-09"
+      },
+      "pages": {
+        "start": 71,
+        "end": 71
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995) est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du",
+                  "« baccalauréat, série scientifique ou technique ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« .............................................................................................",
+                  "« - Master of science (MSc) of architecture, délivré",
+                  "« en date du 29 juin 2019 par KU Leuven - Belgique,",
+                  "« assorti du degree of bachelor of science (BSc) in",
+                  "« architecture, délivré en date du 13 juin 2017 par",
+                  "« Uludag Universitesi - Turquie et d'une attestation de",
+                  "« validation du complément de formation, délivrée par",
+                  "« l'Ecole nationale d'architecture de Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7322-P71-26",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1772-24 du 3 moharrem",
+      "reference": {
+        "type": "arrete",
+        "number": "1772-24",
+        "date": "2024-07-09"
+      },
+      "pages": {
+        "start": 71,
+        "end": 71
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995) est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du",
+                  "« baccalauréat, série scientifique ou technique ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« .............................................................................................",
+                  "« - Diplôme national d'architecte, délivré en date du",
+                  "« 14 novembre 2022 par l'Université de Carthage, Ecole",
+                  "« nationale d'architecture et d'urbanisme - Tunisie, assorti",
+                  "« d'une attestation de validation du complément de",
+                  "« formation, délivrée par l'Ecole nationale d'architecture",
+                  "« de Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7322-P72-27",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "decision",
+      "title": "de la prévoyance sociale n° P/CD/1.23 du 19 joumada II",
+      "reference": {
+        "type": "decision",
+        "number": "",
+        "date": "2024-01-02"
+      },
+      "pages": {
+        "start": 72,
+        "end": 72
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE PRÉSIDENT DE L'AUTORITÉ DE CONTRÔLE DES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la décision du président de l'Autorité de contrôle",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision n° R-C 29/10 du conseil de l'Autorité",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la lettre de la Fédération marocaine des sociétés",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCIDE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les dispositions de l'article premier",
+                "paragraphs": [
+                  "de la décision n° 2356-16 susvisée sont modifiées comme suit :",
+                  "« Article premier. - Est fixée, comme suit, la liste des",
+                  "« membres de la commission de discipline prévue par le",
+                  "« dernier alinéa de l'article 24 de la loi n° 64-12 susvisée :",
+                  "« 1. .................................................................... ;",
+                  "« 2. .................................................................... ;",
+                  "« 3. .................................................................... ;",
+                  "« 4. .................................................................... ;",
+                  "« 5. En tant que représentant des entreprises d'assurances",
+                  "« et de réassurance :",
+                  "« - M.Jalal BENCHEKROUN, membre titulaire ;",
+                  "« - ....................................................................",
+                  "(La suite sans modification.)"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La présente décision est publiée au Bulletin",
+                "paragraphs": [
+                  "officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7322-P72-28",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "decision",
+      "title": "de la prévoyance sociale n° P/CR/1.23 du 19 joumada II",
+      "reference": {
+        "type": "decision",
+        "number": "",
+        "date": "2024-01-02"
+      },
+      "pages": {
+        "start": 72,
+        "end": 72
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE PRÉSIDENT DE L'AUTORITÉ DE CONTRÔLE DES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-23-721 du 14 safar 1445 (31 août 2023)",
+            "reference_to": "Decret n° 2-23-721"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du conseil de l'Autorité de contrôle des",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la lettre de la Fédération marocaine des sociétés",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du président de l'Autorité de contrôle",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCIDE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les dispositions de l'article premier",
+                "paragraphs": [
+                  "de la décision n° 2357-16 susvisée sont modifiées comme suit :",
+                  "« Article premier. - Est fixée, comme suit, la liste des",
+                  "« membres de la commission de régulation prévue par le",
+                  "« dernier alinéa de l'article 28 de la loi n° 64-12 susvisée :",
+                  "« 1. .................................................................... :",
+                  "« 2. .................................................................... :",
+                  "« 3. En tant que représentants de la Fédération marocaine",
+                  "« des sociétés d'assurances et de réassurance :",
+                  "« - le président de la Fédération marocaine des sociétés",
+                  "« d'assurances et de réassurance ;",
+                  "« - ……………………………………………… ;",
+                  "« - M.Boubker JAI.",
+                  "« 4. ....................................................................",
+                  "(La suite sans modification.)"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La présente décision est publiée au Bulletin",
+                "paragraphs": [
+                  "officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    }
+  ]
+}

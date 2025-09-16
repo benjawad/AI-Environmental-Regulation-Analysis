@@ -1,0 +1,436 @@
+{
+  "bulletin_number": "7070",
+  "publication_date": {
+    "gregorian": "2021-04-21",
+    "hijri": "8 ramadan 1442"
+  },
+  "source_file": "BO_7070_Fr.pdf",
+  "content": [
+    {
+      "entry_id": "BO-7070-P21-1",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 25 joumada I 1443 (30 décembre 2021) complétant",
+      "reference": {
+        "type": "arrete",
+        "number": "4035-21",
+        "date": ""
+      },
+      "pages": {
+        "start": 21,
+        "end": 21
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'économie, des finances et",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les dispositions de l'article premier",
+                "paragraphs": [
+                  "de l'arrêté du ministre de l'économie, des finances et de la",
+                  "réforme de l'administration susvisé n°3480-19 du 7 rabii I 1441",
+                  "(5 novembre 2019) sont complétées comme suit :",
+                  "«Article premier. - En application des dispositions",
+                  "« de l'article 187-1° .................. non aromatisées, des tabacs",
+                  "« manufacturés, des appareils, des équipements et des batteries",
+                  "« visés à l'article 9, tableaux «J» et «K» du dahir portant",
+                  "« loi n°1-77-340 du 25 chaoual 1397 (9 octobre 1977) déterminant",
+                  "« les quotités applicables aux marchandises et ouvrages soumis",
+                  "« à taxe intérieure de consommation ainsi que les dispositions",
+                  "« spécifiques à ces marchandises et ouvrages »."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le directeur général de l'Administration des",
+                "paragraphs": [
+                  "douanes et impôts indirects est chargé de l'application du",
+                  "présent arrêté qui sera publié au Bulletin officiel et prendra",
+                  "effet à compter du 1er janvier 2022."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7070-P21-2",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "6 rejeb 1443 (8 février 2022) fixant, pour l'année 2022,",
+      "reference": {
+        "type": "arrete",
+        "number": "383-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 21,
+        "end": 22
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu les dispositions des articles 65-II et 248-III du Code",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les coefficients de réévaluation",
+                "paragraphs": [
+                  "en matière d'impôt sur le revenu au titre des profits fonciers,",
+                  "prévus par les dispositions de l'article 65-II du code précité,",
+                  "sont fixés pour l'année 2022 comme suit :",
+                  "Années",
+                  "Coefficients",
+                  "Année 1945 et années",
+                  "antérieures",
+                  "3%",
+                  "50,225",
+                  "39,112",
+                  "27,574",
+                  "22,151",
+                  "21,635",
+                  "19,218",
+                  "16,399",
+                  "15,878",
+                  "17,315",
+                  "16,399",
+                  "13,926",
+                  "14,676",
+                  "12,000",
+                  "12,000",
+                  "11,546",
+                  "11,016",
+                  "10,833",
+                  "9,967",
+                  "9,592",
+                  "9,269",
+                  "9,308",
+                  "9,475",
+                  "9,410",
+                  "9,089",
+                  "8,997",
+                  "<<<BO_PAGE_22_DELIM>>>",
+                  "Nº 7070 - 29 rejeb 1443 (3-3-2022)",
+                  "8,581",
+                  "8,144",
+                  "8,041",
+                  "7,185",
+                  "6,227",
+                  "5,684",
+                  "5,231",
+                  "4,703",
+                  "4,366",
+                  "4,041",
+                  "3,604",
+                  "3,238",
+                  "3,110",
+                  "2,683",
+                  "2,541",
+                  "2,309",
+                  "2,270",
+                  "2,218",
+                  "2,140",
+                  "2,000",
+                  "1,829",
+                  "1,740",
+                  "1,650",
+                  "1,583",
+                  "1,507",
+                  "1,468",
+                  "1,456",
+                  "1,417",
+                  "1,405",
+                  "1,379",
+                  "1,366",
+                  "1,337",
+                  "1,325",
+                  "1,299",
+                  "1,287",
+                  "1,246",
+                  "1,220",
+                  "1,177",
+                  "1,139",
+                  "1,128",
+                  "1,119",
+                  "1,106",
+                  "1,087",
+                  "1,082",
+                  "1,065",
+                  "1,049",
+                  "1,042",
+                  "1,023",
+                  "1,021",
+                  "1,014"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7070-P22-3",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 29 rejeb 1443 (3 mars 2022) prorogeant l'application",
+      "reference": {
+        "type": "arrete",
+        "number": "731-22",
+        "date": "2022-03-03"
+      },
+      "pages": {
+        "start": 22,
+        "end": 22
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'économie, des finances et de",
+            "reference_to": null
+          },
+          {
+            "type": "adoption",
+            "text": "Après consultation du conseil de la concurrence qui a émis"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission interministérielle des prix ;"
+          },
+          {
+            "type": "recital",
+            "text": "Considérant la persistance des circonstances"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Demeurent en vigueur, pour",
+                "paragraphs": [
+                  "une période de six (6) mois à compter du 6 mars 2022, les",
+                  "prix maximum des examens biologiques de dépistage et de",
+                  "diagnostic de l'infection par le virus SARS-CoV-2 (Covid-19),",
+                  "réglementés en vertu de l'arrêté du ministre de l'économie,",
+                  "des finances et de la réforme de l'administration n°2385-21 du",
+                  "28 moharrem 1443 (6 septembre 2021) susvisé."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté est publié au Bulletin officiel ",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7070-P23-4",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 7 rejeb 1443 (9 février 2022) reconduisant",
+      "reference": {
+        "type": "decret",
+        "number": "2-22-054",
+        "date": ""
+      },
+      "pages": {
+        "start": 23,
+        "end": 23
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 12-02 relative à la responsabilité civile en",
+            "reference_to": "Loi n° 12-02"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-05-1560 du 22 rabii I 1427 (21 avril 2006),",
+            "reference_to": "Decret n° 2-05-1560"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-71 du 7 rejeb 1442 (19 février 2021)",
+            "reference_to": "Decret n° 2-21-71"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'Etat reconduit en faveur du",
+                "paragraphs": [
+                  "Centre national de l'énergie, des sciences et des techniques",
+                  "nucléaires, la garantie consentie en vertu du décret n° 2-05-1560",
+                  "susvisé pour la couverture de la responsabilité civile de ce dernier",
+                  "à concurrence du montant de cinq millions de DTS, prévu à",
+                  "l'article 22 de la loi précitée n° 12-02.",
+                  "La reconduction de la garantie accordée par l'Etat prend",
+                  "effet à partir du 1er janvier 2022 et expire le 31 décembre 2022."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La ministre de l'économie et des finances et",
+                "paragraphs": [
+                  "la ministre de la transition énergétique et du développement",
+                  "durable sont chargées, chacune en ce qui la concerne, de",
+                  "l'exécution du présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7070-P23-5",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "25 joumada I 1443 (30 décembre 2021) portant délégation",
+      "reference": {
+        "type": "arrete",
+        "number": "4034-21",
+        "date": ""
+      },
+      "pages": {
+        "start": 23,
+        "end": 23
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le dahir n° 1-21-111 du 4 rabii I 1443 (11 octobre 2021)",
+            "reference_to": "Dahir n° 1-21-111"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le dahir n° 1-70-16 du 20 joumada I 1390 (24 juillet",
+            "reference_to": "Dahir n° 1-70-16"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n°15-97 formant code de recouvrement des",
+            "reference_to": "Loi n° 15-97"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n°2-21-829 du 14 rabii I 1443 (21 octobre",
+            "reference_to": "Decret n° 2-21-829"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Délégation de pouvoir est donnée",
+                "paragraphs": [
+                  "aux ordonnateurs de l'Administration des douanes et impôts",
+                  "indirects à l'effet d'émettre les titres de recette se rapportant",
+                  "à la taxe spéciale sur les tabacs instaurée par le dahir n°1-77-16",
+                  "visé ci-dessus."
+                ]
+              },
+              {
+                "article_number": "ART.2. - Le directeur général de l'Administration des",
+                "paragraphs": [
+                  "douanes et impôts indirects est chargé de l'exécution du présent",
+                  "arrêté qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "bulletin_number": "2367",
+  "publication_date": {
+    "gregorian": "2022-10-06",
+    "hijri": "9 rabii I 1444"
+  },
+  "source_file": "BO_7136_Fr.pdf",
+  "content": [
+    {
+      "entry_id": "BO-2367-P3-1",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 9 rabii I 1444 (6 octobre 2022) approuvant l'accord conclu le 4 août 2022 entre le Royaume",
+      "reference": {
+        "type": "decret",
+        "number": "2-22-713",
+        "date": "2022-10-06"
+      },
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le paragraphe premier de l'article 41 de la loi de finances pour l'année 1982, n° 26-81, promulguée par",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est approuvé, tel qu'il est annexé à l'original du présent décret, l'accord conclu le",
+                "paragraphs": [
+                  "4 août 2022 entre le Royaume du Maroc et la Banque africaine de développement, pour la garantie du prêt de",
+                  "soixante-dix millions d'euros (70.000.000 €), consenti par ladite Banque à l'Office national de l'électricité et de",
+                  "l'eau potable (ONEE), pour le financement du projet de renforcement de la production et d'amélioration de la",
+                  "performance technique et commerciale de l'eau potable."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La ministre de l'économie et des finances est chargée de l'exécution du présent décret qui sera publié",
+                "paragraphs": [
+                  "au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2367-P4-2",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 8 safar 1444 (5 septembre 2022) complétant",
+      "reference": {
+        "type": "arrete",
+        "number": "2367-22",
+        "date": "2022-09-05"
+      },
+      "pages": {
+        "start": 4,
+        "end": 4
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'INDUSTRIE ET DU COMMERCE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre du commerce extérieur, des investissements extérieurs et de l'artisanat",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les listes I et II, des marchandises soumises respectivement à la licence d'importation",
+                "paragraphs": [
+                  "et d'exportation, annexées à l'arrêté du ministre du commerce extérieur, des investissement extérieurs et de",
+                  "l'artisanat n°1308-94, sont complétées par des marchandises citées dans la liste annexée au présent arrêté."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2367-P17-3",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n° 2526-22 du",
+      "reference": {
+        "type": "arrete",
+        "number": "2526-22",
+        "date": "2022-09-23"
+      },
+      "pages": {
+        "start": 17,
+        "end": 17
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le dahir portant loi n° 1-73-255 du 27 chaoual 1393",
+            "reference_to": "Loi n° 1-73-255"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de l'Institut national de recherche halieutique ;"
+          },
+          {
+            "type": "adoption",
+            "text": "Après consultation des chambres des pêches maritimes,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La pêche des espèces appelées",
+                "paragraphs": [
+                  "requin marteau de la famille des sphyrnidae exception faite de",
+                  "l'espèce dite (sphyrna tiburo), requin océanique (carcharhinus",
+                  "longimanus) et requin renard à gros yeux (alopias superciliosus)",
+                  "est interdite dans les eaux maritimes marocaines pour une",
+                  "durée de cinq (5) ans à compter de la date de publication du",
+                  "présent arrêté au « Bulletin officiel »."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Par dérogation aux dispositions de l'article",
+                "paragraphs": [
+                  "premier ci-dessus, l'Institut national de recherche halieutique",
+                  "(INRH) peut être autorisé durant la période d'interdiction",
+                  "susindiquée, à pratiquer la pêche des espèces susmentionnées,",
+                  "dans les eaux maritimes marocaines, en vue de prélever des",
+                  "échantillons, conformément à son programme de recherche",
+                  "scientifique.",
+                  "L'autorisation visée ci-dessus fixe, notamment sa durée",
+                  "de validité, les lieux de prélèvement autorisés, les engins de",
+                  "pêche pouvant être utilisés ainsi que le nombre de pièces des",
+                  "espèces dont le prélèvement est permis. La référence de cette",
+                  "autorisation est portée sur la licence de pêche dont bénéficie",
+                  "l'INRH à cet effet."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2367-P18-4",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decision",
+      "title": "du 30 safar 1444",
+      "reference": {
+        "type": "decision",
+        "number": "2619-22",
+        "date": "2022-09-27"
+      },
+      "pages": {
+        "start": 18,
+        "end": 18
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE DIRECTEUR DE L'INSTITUT MAROCAIN DE NORMALISATION",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 12-06 relative à la normalisation, à la certification et à l'accréditation promulguée par le",
+            "reference_to": "Loi n° 12-06"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la résolution du Conseil d'administration de l'Institut marocain de normalisation (IMANOR) n° 10,",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCIDE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Sont homologuées comme normes marocaines, les normes dont les références",
+                "paragraphs": [
+                  "sont présentées en annexe de la présente décision."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Les normes visées à l'article premier ci-dessus, sont tenues à la disposition des intéressés à",
+                "paragraphs": [
+                  "l'Institut marocain de normalisation (IMANOR)."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La présente décision sera publiée au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    }
+  ]
+}

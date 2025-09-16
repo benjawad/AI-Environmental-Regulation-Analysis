@@ -1,0 +1,331 @@
+{
+  "bulletin_number": "1289",
+  "publication_date": {
+    "gregorian": "2022-05-10",
+    "hijri": "9 chaoual \n1443"
+  },
+  "source_file": "BO_7110_Fr.pdf",
+  "content": [
+    {
+      "entry_id": "BO-1289-P7-1",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decision",
+      "title": "du 6 hija 1443 (6 juillet 2022)",
+      "reference": {
+        "type": "decision",
+        "number": "1860-22",
+        "date": "2022-07-06"
+      },
+      "pages": {
+        "start": 7,
+        "end": 7
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE DIRECTEUR DE L'INSTITUT MAROCAIN DE NORMALISATION",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 12-06 relative à la normalisation, à la certification et à l'accréditation promulguée par le",
+            "reference_to": "Loi n° 12-06"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la résolution du Conseil d'administration de l'Institut marocain de normalisation (IMANOR) n° 10,",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCIDE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Sont homologuées comme normes marocaines, les normes dont les références",
+                "paragraphs": [
+                  "sont présentées en annexe de la présente décision."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Les normes visées à l'article premier ci-dessus, sont tenues à la disposition des intéressés à",
+                "paragraphs": [
+                  "l'Institut marocain de normalisation (IMANOR)."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La présente décision sera publiée au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-1289-P16-2",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 2 kaada 1443 (2 juin 2022) approuvant",
+      "reference": {
+        "type": "decret",
+        "number": "2-22-399",
+        "date": "2022-06-02"
+      },
+      "pages": {
+        "start": 16,
+        "end": 16
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 19-94 relative aux zones d'accélération",
+            "reference_to": "Loi n° 19-94"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-95-562 du 19 rejeb 1416 (12 décembre 1995)",
+            "reference_to": "Decret n° 2-95-562"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-19-345 du 18 ramadan 1440 (24 mai 2019)",
+            "reference_to": "Decret n° 2-19-345"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "article 7 ;",
+                "paragraphs": [
+                  "Vu le décret n° 2-95-562 du 19 rejeb 1416 (12 décembre 1995)",
+                  "pris pour l'application de la loi n° 19-94 relative aux zones",
+                  "d'accélération industrielle, notamment son article 5 ;",
+                  "Vu le décret n° 2-19-345 du 18 ramadan 1440 (24 mai 2019)",
+                  "portant création de la zone d'accélération industrielle TangerTech ;",
+                  "Sur proposition de la commission nationale des zones",
+                  "d'accélération industrielle,",
+                  "DÉCRÈTE :"
+                ]
+              },
+              {
+                "article_number": "ARTICLE PREMIER. - Est approuvée la concession",
+                "paragraphs": [
+                  "de l'aménagement et la gestion de la zone d'accélération",
+                  "industrielle Tanger-Tech à la société d'aménagement de Tanger",
+                  "Tech conformément aux clauses du cahier des charges annexé",
+                  "à l'original du présent décret."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La ministre de l'économie et des finances et le",
+                "paragraphs": [
+                  "ministre de l'industrie et du commerce sont chargés, chacun",
+                  "en ce qui le concerne, de l'exécution du présent décret qui sera",
+                  "publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-1289-P17-3",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "25 chaoual 1443 (26 mai 2022) relatif à l'extension de",
+      "reference": {
+        "type": "arrete",
+        "number": "1499-22",
+        "date": "2022-05-26"
+      },
+      "pages": {
+        "start": 17,
+        "end": 17
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'INDUSTRIE ET DU COMMERCE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 24-09 relative à la sécurité des produits",
+            "reference_to": "Loi n° 24-09"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-12-502 du 2 rejeb 1434 (13 mai 2013) pris",
+            "reference_to": "Decret n° 2-12-502"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'industrie, du commerce,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'industrie, de l'investissement,",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'agrément du Laboratoire",
+                "paragraphs": [
+                  "d'Expertise et de Contrôle de l'Ecole Supérieure des Industries",
+                  "du Textile et Habillement (ESITH LEC), numéro de patente",
+                  "36208130, objet de l'arrêté n° 2478-19, visé ci-dessus, est étendu",
+                  "pour effectuer les évaluations de la conformité des « Cahiers",
+                  "scolaires et articles assimilés fabriqués à partir de pâtes",
+                  "vierges », « Cahiers scolaires et articles assimilés fabriqués",
+                  "à partir de pâtes recyclées » et « Papiers photocopie à base",
+                  "de papiers recyclés», pour la durée de validité restante de",
+                  "l'agrément initial."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Ledit agrément est octroyé pour les prestations",
+                "paragraphs": [
+                  "exercées dans le site « ESITH LEC » sis à «Route d'El Jadida,",
+                  "Km 8, Bp 7731, Oulfa, Casablanca, Maroc »."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le numéro d'identification de l'organisme est",
+                "paragraphs": [
+                  "« MA002 »."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-1289-P20-4",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1975-22 du 13 hija 1443",
+      "reference": {
+        "type": "arrete",
+        "number": "1975-22",
+        "date": "2022-07-13"
+      },
+      "pages": {
+        "start": 20,
+        "end": 20
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'éducation nationale, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté",
+                "paragraphs": [
+                  "susvisé n° 2188-04 du 14 kaada 1425 (27 décembre 2004)",
+                  "est complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en ophtalmologie,",
+                  "« est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Sénégal :",
+                  "« ............................................................................................",
+                  "« - Diplôme d'études spécialisées (D.E.S) d'ophtalmologie,",
+                  "« délivré en date du 30 octobre 2019 par la Faculté de",
+                  "« médecine, de pharmacie et d'odontologie, Université",
+                  "« Cheikh Anta-Diop de Dakar - Sénégal, assorti d'un",
+                  "« stage d'une année au sein du C.H.U. Rabat-Salé et",
+                  "« d'une attestation d'évaluation des connaissances et des",
+                  "« compétences, délivrée par la Faculté de médecine et de",
+                  "« pharmacie de Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    }
+  ]
+}

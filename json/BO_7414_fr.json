@@ -1,0 +1,2486 @@
+{
+  "bulletin_number": "7414",
+  "publication_date": {
+    "gregorian": "2025-06-19",
+    "hijri": "22 hija 1446"
+  },
+  "source_file": "BO_7414_fr.pdf",
+  "content": [
+    {
+      "entry_id": "BO-7414-P11-1",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 15 hija 1446 (12 juin 2025) relatif",
+      "reference": {
+        "type": "decret",
+        "number": "2-25-270",
+        "date": "2025-06-12"
+      },
+      "pages": {
+        "start": 11,
+        "end": 11
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n°28-07 relative à la sécurité sanitaire des",
+            "reference_to": "Loi n° 28-07"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n°13-83 relative à la répression des fraudes",
+            "reference_to": "Loi n° 13-83"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n°2-10-473 du 7 chaoual 1432 (6 septembre 2011)",
+            "reference_to": "Decret n° 2-10-473"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n°2-12-389 du 11 joumada II 1434 (22 avril 2013)",
+            "reference_to": "Decret n° 2-12-389"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en conseil du gouvernement réuni le"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Conformément aux dispositions",
+                "paragraphs": [
+                  "des articles 5 et 8 de la loi susvisée n°28-07 relative à la sécurité"
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P15-2",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "9 kaada 1446 (7 mai 2025) complétant l'arrêté du ministre de l'agriculture et de la réforme agraire n° 256-91",
+      "reference": {
+        "type": "arrete",
+        "number": "1150-25",
+        "date": "2025-05-07"
+      },
+      "pages": {
+        "start": 15,
+        "end": 15
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE MARITIME, DU DÉVELOPPEMENT RURAL ET DES EAUX",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme agraire n° 256-91 du 7 joumada II 1411",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Le tableau annexé à l'arrêté susvisé n° 256-91 du 7 joumada II 1411 (25 décembre",
+                "paragraphs": [
+                  "1990), est complété comme suit :",
+                  "« Tableau relatif aux laboratoires habilités à procéder",
+                  "« aux analyses dans le domaine agricole dans le cadre du décret n° 2-89-563",
+                  "« du 18 joumada I 1410 (18 décembre 1989)",
+                  "DÉSIGNATION",
+                  "DES LABORATOIRES",
+                  "TYPES",
+                  "D'ANALYSES",
+                  "- Laboratoire de l'Institut national de la",
+                  "recherche agronomique du milieu physique,",
+                  "Rabat-Guich.",
+                  "..........................................................",
+                  "- Analyses des sols, des plantes et des eaux.",
+                  "..................................................",
+                  "- Laboratoire « PRECISIA » sis à El Jadida.",
+                  "- Analyses du sol et des eaux.",
+                  "- Laboratoire « ELAM » sis à Agadir.",
+                  "- Analyses du sol, des eaux, des plantes",
+                  "et des résidus."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P16-3",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "de la pêche maritime, du développement rural et des",
+      "reference": {
+        "type": "arrete",
+        "number": "2648-24",
+        "date": "2024-11-08"
+      },
+      "pages": {
+        "start": 16,
+        "end": 16
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-722 du 1er safar 1441 (30 septembre 2019)",
+            "reference_to": "Decret n° 2-18-722"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n°2-08-562 du 13 hija 1429 (12 décembre 2008)",
+            "reference_to": "Decret n° 2-08-562"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n°2-92-1026 du 4 rejeb 1413 (29 décembre 1992)",
+            "reference_to": "Decret n° 2-92-1026"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n°2-17-456 du 26 joumada II 1439 (15 mars 2018)",
+            "reference_to": "Decret n° 2-17-456"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture, de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre des pêches maritimes, des affaires",
+            "reference_to": null
+          },
+          {
+            "type": "recital",
+            "text": "Considérant la nécessité de conservation des espèces,"
+          }
+        ],
+        "enacting_clause": "",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": []
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P17-4",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "Ces quotas peuvent être répartis ensuite en quotas",
+      "reference": {
+        "type": "arrete",
+        "number": "",
+        "date": ""
+      },
+      "pages": {
+        "start": 17,
+        "end": 17
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "",
+        "preamble": [],
+        "enacting_clause": "",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ART. 5. - Pour les madragues, chaque bénéficiaire d'un",
+                "paragraphs": [
+                  "quota individuel doit avoir calé sa madrague au plus tard",
+                  "quinze (15) jours avant la date d'ouverture de la saison de",
+                  "pêche du thon rouge mentionnée dans sa convention.",
+                  "Les madragues et navires bénéficiaires de quotas",
+                  "individuels sont inscrits, chaque année, sur le registre ICCAT,",
+                  "et ce, au plus tard quinze (15) jours avant la date prévue pour",
+                  "la première opération de pêche du thon rouge."
+                ]
+              },
+              {
+                "article_number": "ART. 6. - Conformément aux dispositions de l'article 9",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P20-5",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 24 kaada 1446 (22 mai 2025) portant création du parc naturel de Beni Snassen",
+      "reference": {
+        "type": "decret",
+        "number": "2-25-291",
+        "date": "2025-05-22"
+      },
+      "pages": {
+        "start": 20,
+        "end": 20
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 22-07 relative aux aires protégées, promulguée par le dahir n°1-10-123 du 3 chaabane 1431",
+            "reference_to": "Loi n° 22-07"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 52-20 portant création de l'Agence nationale des eaux et forêts, promulguée par le dahir n° 1-21-71",
+            "reference_to": "Loi n° 52-20"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-242 du 14 ramadan 1442 (27 avril 2021) pris pour l'application de certaines dispositions",
+            "reference_to": "Decret n° 2-18-242"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-990 du 24 rabii II 1446 (28 octobre 2024) relatif aux attributions du ministre de",
+            "reference_to": "Decret n° 2-24-990"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions de l'article 14 de la loi n° 22-07 susvisée, il est créé",
+                "paragraphs": [
+                  "une aire protégée dénommée « parc naturel de Beni Snassen », sis dans les provinces de Berkane et d'OujdaAngad, d'une superficie de 16 474 ha, classée dans la catégorie de parc naturel.",
+                  "Les limites de l'aire protégée sont représentées par un trait rouge sur la carte topographique à l'échelle",
+                  "de 1/50000, annexée au présent décret."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts",
+                "paragraphs": [
+                  "est chargé de l'exécution du présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P22-6",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 24 kaada 1446 (22 mai 2025) portant création du parc naturel de Bouhachem",
+      "reference": {
+        "type": "decret",
+        "number": "2-25-292",
+        "date": "2025-05-22"
+      },
+      "pages": {
+        "start": 22,
+        "end": 22
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 22-07 relative aux aires protégées, promulguée par le dahir n°1-10-123 du 3 chaabane 1431",
+            "reference_to": "Loi n° 22-07"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 52-20 portant création de l'Agence nationale des eaux et forêts, promulguée par le dahir n° 1-21-71",
+            "reference_to": "Loi n° 52-20"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-242 du 14 ramadan 1442 (27 avril 2021) pris pour l'application de certaines dispositions",
+            "reference_to": "Decret n° 2-18-242"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-990 du 24 rabii II 1446 (28 octobre 2024) relatif aux attributions du ministre de",
+            "reference_to": "Decret n° 2-24-990"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions de l'article 14 de la loi n° 22-07 susvisée, il est créé",
+                "paragraphs": [
+                  "une aire protégée dénommée « parc naturel de Bouhachem », sis dans les provinces de Tétouan, Larache et",
+                  "Chefchaouen, d'une superficie de 81503 ha, classée dans la catégorie de parc naturel.",
+                  "Les limites de l'aire protégée sont représentées par un trait rouge sur la carte topographique à l'échelle",
+                  "de 1/50000, annexée au présent décret."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts",
+                "paragraphs": [
+                  "est chargé de l'exécution du présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P24-7",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 24 kaada 1446 (22 mai 2025) portant création du parc naturel de Tamga",
+      "reference": {
+        "type": "decret",
+        "number": "2-25-293",
+        "date": "2025-05-22"
+      },
+      "pages": {
+        "start": 24,
+        "end": 24
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 22-07 relative aux aires protégées, promulguée par le dahir n°1-10-123 du 3 chaabane 1431",
+            "reference_to": "Loi n° 22-07"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 52-20 portant création de l'Agence nationale des eaux et forêts, promulguée par le dahir",
+            "reference_to": "Loi n° 52-20"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-242 du 14 ramadan 1442 (27 avril 2021) pris pour l'application de certaines dispositions",
+            "reference_to": "Decret n° 2-18-242"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-990 du 24 rabii II 1446 (28 octobre 2024) relatif aux attributions du ministre de",
+            "reference_to": "Decret n° 2-24-990"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions de l'article 14 de la loi n° 22-07 susvisée, il est créé une",
+                "paragraphs": [
+                  "aire protégée dénommée « parc naturel de Tamga », sis dans la Province d'Azilal, d'une superficie de 14000 ha,",
+                  "classée dans la catégorie de parc naturel.",
+                  "Les limites de l'aire protégée sont représentées par un trait rouge sur la carte topographique à l'échelle",
+                  "de 1/50000, annexée au présent décret."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts",
+                "paragraphs": [
+                  "est chargé de l'exécution du présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P26-8",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 24 kaada 1446 (22 mai 2025) portant création du parc naturel de Jbel Krouz",
+      "reference": {
+        "type": "decret",
+        "number": "2-25-294",
+        "date": "2025-05-22"
+      },
+      "pages": {
+        "start": 26,
+        "end": 26
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 22-07 relative aux aires protégées, promulguée par le dahir n°1-10-123 du 3 chaabane 1431",
+            "reference_to": "Loi n° 22-07"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 52-20 portant création de l'Agence nationale des eaux et forêts, promulguée par le dahir",
+            "reference_to": "Loi n° 52-20"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-242 du 14 ramadan 1442 (27 avril 2021) pris pour l'application de certaines dispositions",
+            "reference_to": "Decret n° 2-18-242"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-990 du 24 rabii II 1446 (28 octobre 2024) relatif aux attributions du ministre de",
+            "reference_to": "Decret n° 2-24-990"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions de l'article 14 de la loi n° 22-07 susvisée, il est créé",
+                "paragraphs": [
+                  "une aire protégée dénommée « parc naturel de Jbel Krouz», sis dans la Province de Figuig, d'une superficie de",
+                  "178900 ha, classée dans la catégorie de parc naturel.",
+                  "Les limites de l'aire protégée sont représentées par un trait rouge sur la carte topographique à l'échelle",
+                  "de 1/50000, annexée au présent décret."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts",
+                "paragraphs": [
+                  "est chargé de l'exécution du présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P28-9",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 24 kaada 1446 (22 mai 2025) portant création du parc naturel de Chekhar",
+      "reference": {
+        "type": "decret",
+        "number": "2-25-295",
+        "date": "2025-05-22"
+      },
+      "pages": {
+        "start": 28,
+        "end": 28
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 22-07 relative aux aires protégées, promulguée par le dahir n°1-10-123 du 3 chaabane 1431",
+            "reference_to": "Loi n° 22-07"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 52-20 portant création de l'Agence nationale des eaux et forêts, promulguée par le dahir",
+            "reference_to": "Loi n° 52-20"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-242 du 14 ramadan 1442 (27 avril 2021) pris pour l'application de certaines dispositions",
+            "reference_to": "Decret n° 2-18-242"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-990 du 24 rabii II 1446 (28 octobre 2024) relatif aux attributions du ministre de",
+            "reference_to": "Decret n° 2-24-990"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions de l'article 14 de la loi n° 22-07 susvisée, il est créé",
+                "paragraphs": [
+                  "une aire protégée dénommée « parc naturel de Chekhar », sis dans la province de Jerada, d'une superficie de",
+                  "66300 ha, classée dans la catégorie de parc naturel.",
+                  "Les limites de l'aire protégée sont représentées par un trait rouge sur la carte topographique à l'échelle",
+                  "de 1/50000, annexée au présent décret."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts",
+                "paragraphs": [
+                  "est chargé de l'exécution du présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P30-10",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 24 kaada 1446 (22 mai 2025) portant création du parc naturel",
+      "reference": {
+        "type": "decret",
+        "number": "2-25-296",
+        "date": "2025-05-22"
+      },
+      "pages": {
+        "start": 30,
+        "end": 30
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 22-07 relative aux aires protégées, promulguée par le dahir n°1-10-123 du 3 chaabane 1431",
+            "reference_to": "Loi n° 22-07"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 52-20 portant création de l'Agence nationale des eaux et forêts, promulguée par le dahir",
+            "reference_to": "Loi n° 52-20"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-242 du 14 ramadan 1442 (27 avril 2021) pris pour l'application de certaines dispositions",
+            "reference_to": "Decret n° 2-18-242"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-990 du 24 rabii II 1446 (28 octobre 2024) relatif aux attributions du ministre de",
+            "reference_to": "Decret n° 2-24-990"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions de l'article 14 de la loi n° 22-07 précitée, il est créé",
+                "paragraphs": [
+                  "une aire protégée dénommée « parc naturel de Plateau Central », sis dans la province de Khemisset, d'une",
+                  "superficie de 148880 ha, classée dans la catégorie de parc naturel.",
+                  "Les limites de l'aire protégée sont représentées par un trait rouge sur la carte topographique à l'échelle",
+                  "de 1/50000, annexée au présent décret."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts",
+                "paragraphs": [
+                  "est chargé de l'exécution du présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P32-11",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 24 kaada 1446 (22 mai 2025) portant création de la réserve biologique",
+      "reference": {
+        "type": "decret",
+        "number": "2-25-297",
+        "date": "2025-05-22"
+      },
+      "pages": {
+        "start": 32,
+        "end": 32
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 22-07 relative aux aires protégées, promulguée par le dahir n°1-10-123 du 3 chaabane 1431",
+            "reference_to": "Loi n° 22-07"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 52-20 portant création de l'Agence nationale des eaux et forêts, promulguée par le dahir",
+            "reference_to": "Loi n° 52-20"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-242 du 14 ramadan 1442 (27 avril 2021) pris pour l'application de certaines dispositions",
+            "reference_to": "Decret n° 2-18-242"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-990 du 24 rabii II 1446 (28 octobre 2024) relatif aux attributions du ministre de",
+            "reference_to": "Decret n° 2-24-990"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions de l'article 14 de la loi n° 22-07 précitée, il est créé",
+                "paragraphs": [
+                  "une aire protégée dénommée « la réserve biologique de Sidi Boughaba », sis dans la province de Kénitra, d'une",
+                  "superficie de 613 ha, classée dans la catégorie de réserve biologique.",
+                  "Les limites de l'aire protégée sont représentées par un trait rouge sur la carte topographique à l'échelle",
+                  "de 1/50000, annexée au présent décret."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts",
+                "paragraphs": [
+                  "est chargé de l'exécution du présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P34-12",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 24 kaada 1446 (22 mai 2025) portant création de la réserve naturelle",
+      "reference": {
+        "type": "decret",
+        "number": "2-25-298",
+        "date": "2025-05-22"
+      },
+      "pages": {
+        "start": 34,
+        "end": 34
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 22-07 relative aux aires protégées, promulguée par le dahir n°1-10-123 du 3 chaabane 1431",
+            "reference_to": "Loi n° 22-07"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 52-20 portant création de l'Agence nationale des eaux et forêts, promulguée par le dahir",
+            "reference_to": "Loi n° 52-20"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-242 du 14 ramadan 1442 (27 avril 2021) pris pour l'application de certaines dispositions",
+            "reference_to": "Decret n° 2-18-242"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-990 du 24 rabii II 1446 (28 octobre 2024) relatif aux attributions du ministre de",
+            "reference_to": "Decret n° 2-24-990"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions de l'article 14 de la loi n° 22-07 précitée, il est créé",
+                "paragraphs": [
+                  "une aire protégée dénommée « la réserve naturelle de l'Archipel d'Essaouira », sis dans la province d'Essaouira,",
+                  "d'une superficie de 47 ha, classée dans la catégorie de réserve naturelle.",
+                  "Les limites de l'aire protégée sont représentées par un trait rouge sur la carte topographique à l'échelle",
+                  "de 1/50000, annexée au présent décret."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le ministre de l'agriculture, de la pêche maritime, du développement rural et des eaux et forêts",
+                "paragraphs": [
+                  "est chargé de l'exécution du présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P36-13",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1191-25 du 14 kaada 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "1191-25",
+        "date": "2025-05-12"
+      },
+      "pages": {
+        "start": 36,
+        "end": 36
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'éducation nationale, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 743-09 du 26 rabii I 1430 (24 mars 2009), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en biologie",
+                  "« médicale (ou analyses biologiques médicales), est fixée ainsi",
+                  "« qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Belgique :",
+                  "« ..............................................................................................",
+                  "« - Grade académique de master de spécialisation en",
+                  "« biologie clinique, délivré par l'Université catholique",
+                  "« de Louvain - Belgique. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P36-14",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1192-25 du 14 kaada 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "1192-25",
+        "date": "2025-05-12"
+      },
+      "pages": {
+        "start": 36,
+        "end": 36
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur, de la",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 666-03 du 7 rejeb 1424 (4 septembre 2003), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en urologie,",
+                  "« est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Ukraine :",
+                  "« ..............................................................................................",
+                  "« - Certificate of specialized training in medicine (clinical",
+                  "« ordinatura), specialization in urology, délivré par",
+                  "« Poltava state medical University - Ukraine.",
+                  "«يجب أن تقرن هذه الشهادة بتدريب مدته سنتين مع اجتياز",
+                  "«امتحان تقييمي بنجاح مسلم من طرف إحدى كليات الطب والصيدلة",
+                  "«باملغرب الذي تصادق عليه اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P36-15",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1193-25 du 14 kaada 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "1193-25",
+        "date": "2025-05-12"
+      },
+      "pages": {
+        "start": 36,
+        "end": 37
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Ukraine :",
+                  "« ..............................................................................................",
+                  "« - Qualification specialist degree general medicine,",
+                  "« délivrée par Ukrainain medical stomatological Academy -",
+                  "« Ukraine ;",
+                  "« - Qualification master's degree medicine, délivrée par",
+                  "« Kharkiv national medical University - Ukraine ;",
+                  "« - Qualification physician, master's degree medicine,",
+                  "« délivrée par Zaporizhzhia state medical University -",
+                  "« Ukraine ;",
+                  "« - Qualification physician, doctor of medicine, délivrée",
+                  "« par Dnipropetrovsk medical Academy of health",
+                  "« ministry of Ukraine - Ukraine ;",
+                  "« - Qualification specialist general medicine, délivrée par",
+                  "« Dnipro state medical University - Ukraine ;",
+                  "« - Qualification master's degree medicine, délivrée par",
+                  "« Poltava state medical University - Ukraine ;",
+                  "« - Qualification master's degree medicine, délivrée par",
+                  "« Dnipro state medical University - Ukraine.",
+                  "«يجب أن تقرن هاته الشهادات بتدريب مدته سنتين مع اجتياز",
+                  "«امتحان تقييمي بنجاح مسلم من طرف إحدى كليات الطب والصيدلة",
+                  "«باملغرب الذي تصادق عليه اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P37-16",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1194-25 du 14 kaada 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "1194-25",
+        "date": "2025-05-12"
+      },
+      "pages": {
+        "start": 37,
+        "end": 37
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'éducation nationale, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 743-09 du 26 rabii I 1430 (24 mars 2009), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en biologie",
+                  "« médicale (ou analyses biologiques médicales), est fixée ainsi",
+                  "« qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Côte d'Ivoire :",
+                  "« ..............................................................................................",
+                  "« - Diplôme d'études spécialisées, spécialité : biologie",
+                  "« clinique, délivré par l'Université Félix Houphouet -",
+                  "« Boigny - Côte d'Ivoire.",
+                  "«يجب أن تقرن هذه الشهادة باجتياز امتحان تقييمي بنجاح مسلم",
+                  "«من طرف إحدى كليات الطب والصيدلة باملغرب الذي تصادق عليه",
+                  "«اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P38-17",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1195-25 du 14 kaada 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "1195-25",
+        "date": "2025-05-12"
+      },
+      "pages": {
+        "start": 38,
+        "end": 38
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'éducation nationale, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 743-09 du 26 rabii I 1430 (24 mars 2009), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en biologie",
+                  "« médicale (ou analyses biologiques médicales), est fixée ainsi",
+                  "« qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Roumanie :",
+                  "« ..............................................................................................",
+                  "« - Certificat de medic specialist medicina de laborator,",
+                  "« délivré par ministerul sanatatii - Roumanie.",
+                  "«يجب أن تقرن هذه الشهادة بتدريب مدته سنة مع اجتياز امتحان",
+                  "«تقييمي بنجاح مسلم من طرف إحدى كليات الطب والصيدلة باملغرب",
+                  "«الذي تصادق عليه اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P38-18",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1196-25 du 14 kaada 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "1196-25",
+        "date": "2025-05-12"
+      },
+      "pages": {
+        "start": 38,
+        "end": 39
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Roumanie :",
+                  "« ..............................................................................................",
+                  "« - Titlul de doctor-medic, délivré par Universitatii de Vest",
+                  "« «Vasile Goldis» din Arad - Roumanie.",
+                  "«يجب أن تقرن هذه الشهادة بتدريب مدته سنة مع اجتياز امتحان",
+                  "«تقييمي بنجاح مسلم من طرف إحدى كليات الطب والصيدلة باملغرب",
+                  "«الذي تصادق عليه اللجنة القطاعية لعلوم الصحة.»",
+                  "<<<BO_PAGE_39_DELIM>>>",
+                  "Nº 7414 - 22 hija 1446 (19-6-2025)"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P39-19",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1197-25 du 14 kaada",
+      "reference": {
+        "type": "arrete",
+        "number": "1197-25",
+        "date": "2025-05-12"
+      },
+      "pages": {
+        "start": 39,
+        "end": 39
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'éducation nationale, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2188-04 du 14 kaada 1425 (27 décembre 2004), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en",
+                  "« ophtalmologie, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Ukraine :",
+                  "« ..............................................................................................",
+                  "« - Certificate of specialized training in medicine (clinical",
+                  "« ordinatura) specialization in ophthalmology, délivré",
+                  "« par Shupyk national health care University - Ukraine.",
+                  "«يجب أن تقرن هذه الشهادة بتدريب مدته ثالث سنوات مع اجتياز",
+                  "«امتحان تقييمي بنجاح مسلم من طرف إحدى كليات الطب والصيدلة",
+                  "«باملغرب الذي تصادق عليه اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P39-20",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1198-25 du 14 kaada 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "1198-25",
+        "date": "2025-05-12"
+      },
+      "pages": {
+        "start": 39,
+        "end": 39
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Ukraine :",
+                  "« ..............................................................................................",
+                  "« - Qualification level specialist general medicine, délivrée",
+                  "« par Bogomolets national medical University - Ukraine.",
+                  "«يجب أن تقرن هذه الشهادة بتدريب مدته ثالث سنوات مع اجتياز",
+                  "«امتحان تقييمي بنجاح مسلم من طرف إحدى كليات الطب والصيدلة",
+                  "«باملغرب الذي تصادق عليه اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P40-21",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1199-25 du 14 kaada 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "1199-25",
+        "date": "2025-05-12"
+      },
+      "pages": {
+        "start": 40,
+        "end": 40
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Roumanie :",
+                  "« ..............................................................................................",
+                  "« - Titlul doctor-medic, délivré par Universitatii de",
+                  "« medicina si farmacie «IULIU Hatieganu» din Cluj-",
+                  "« Napoca - Roumanie.",
+                  "«يجب أن تقرن هذه الشهادة باجتياز امتحان تقييمي بنجاح مسلم",
+                  "«من طرف إحدى كليات الطب والصيدلة باملغرب الذي تصادق عليه",
+                  "«اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P40-22",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1200-25 du 14 kaada 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "1200-25",
+        "date": "2025-05-12"
+      },
+      "pages": {
+        "start": 40,
+        "end": 40
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Egypte :",
+                  "« ..............................................................................................",
+                  "- درجة البكالوريوس في الطب والجراحة مسلمة من جامعة بنها-«",
+                  "».«مصر"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P40-23",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1201-25 du 14 kaada 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "1201-25",
+        "date": "2025-05-12"
+      },
+      "pages": {
+        "start": 40,
+        "end": 41
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'éducation nationale, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 743-09 du 26 rabii I 1430 (24 mars 2009), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en biologie",
+                  "« médicale (ou analyses biologiques médicales), est fixée ainsi",
+                  "« qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Sénégal :",
+                  "« ..............................................................................................",
+                  "« - Diplôme d'études spécialisées (D.E.S) de biologie",
+                  "« clinique, délivré par l'Université Cheikh-Anta-Diop",
+                  "« de Dakar - Sénégal.",
+                  "«يجب أن تقرن هذه الشهادة باجتياز امتحان تقييمي بنجاح مسلم",
+                  "«من طرف إحدى كليات الطب والصيدلة باملغرب الذي تصادق عليه",
+                  "«اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P41-24",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1202-25 du 14 kaada 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "1202-25",
+        "date": "2025-05-12"
+      },
+      "pages": {
+        "start": 41,
+        "end": 41
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Fédération de Russie :",
+                  "« ..............................................................................................",
+                  "« - Qualification de médecin-généraliste, délivrée par",
+                  "« l'Université d'Etat de médecine V.I.Razoumovski de",
+                  "« Saratov - Fédération de Russie.",
+                  "«يجب أن تقرن هذه الشهادة بتدريب مدته سنتين مع اجتياز",
+                  "«امتحان تقييمي بنجاح مسلم من طرف إحدى كليات الطب والصيدلة",
+                  "«باملغرب الذي تصادق عليه اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P41-25",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1203-25 du 14 kaada 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "1203-25",
+        "date": "2025-05-12"
+      },
+      "pages": {
+        "start": 41,
+        "end": 42
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Chine :",
+                  "« ..............................................................................................",
+                  "« - Degree of bachelor of medicine and bachelor of",
+                  "« Surgery, délivré par Fujian medical University - Chine.",
+                  "«يجب أن تقرن هذه الشهادة بتدريب مدته سنتين مع اجتياز",
+                  "«امتحان تقييمي بنجاح مسلم من طرف إحدى كليات الطب والصيدلة",
+                  "«باملغرب الذي تصادق عليه اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P42-26",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1204-25 du 14 kaada 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "1204-25",
+        "date": "2025-05-12"
+      },
+      "pages": {
+        "start": 42,
+        "end": 42
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Espagne :",
+                  "« ..............................................................................................",
+                  "« - Titulo universitario oficial de grado en medicina, délivré",
+                  "« par Universidad Europea Madrid - Espagne ;",
+                  "« - Titulo universitario oficial de graduado en medicina,",
+                  "« délivré par Universidad complutense de Madrid -",
+                  "« Espagne. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P42-27",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1205-25 du 14 kaada 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "1205-25",
+        "date": "2025-05-12"
+      },
+      "pages": {
+        "start": 42,
+        "end": 43
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'éducation nationale, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 743-09 du 26 rabii I 1430 (24 mars 2009), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en biologie",
+                  "« médicale (ou analyses biologiques médicales), est fixée ainsi",
+                  "« qu'il suit :",
+                  "« ............................................................................................",
+                  "« - France :",
+                  "« ..............................................................................................",
+                  "<<<BO_PAGE_43_DELIM>>>",
+                  "Nº 7414 - 22 hija 1446 (19-6-2025)",
+                  "« - Diplôme d'études spécialisées de biologie médicale,",
+                  "« option précoce hématologie et immunologie, délivré",
+                  "« par l'Université Paris Cité - France. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P43-28",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1206-25 du 14 kaada 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "1206-25",
+        "date": "2025-05-12"
+      },
+      "pages": {
+        "start": 43,
+        "end": 43
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'éducation nationale, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2189-04 du 14 kaada 1425 (27 décembre 2004), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en cardiologie,",
+                  "« est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Tunisie :",
+                  "« ..............................................................................................",
+                  "شهادة االختصاص في أمراض القلب، مسلمة من جامعة تونس-«",
+                  "تونس ؛- «املنار",
+                  "- شهادة التخصص في أمراض القلب، مسلمة من جامعة املنستير-«",
+                  ".«تونس",
+                  "«يجب أن تقرن هاتين الشهادتين باجتياز امتحان تقييمي بنجاح",
+                  "«مسلم من طرف إحدى كليات الطب والصيدلة باملغرب الذي تصادق",
+                  "«عليه اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P43-29",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1207-25 du 14 kaada 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "1207-25",
+        "date": "2025-05-12"
+      },
+      "pages": {
+        "start": 43,
+        "end": 43
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'éducation nationale, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2189-04 du 14 kaada 1425 (27 décembre 2004), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en cardiologie,",
+                  "« est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Ukraine :",
+                  "« ..............................................................................................",
+                  "« - Certificate of specialized training in medicine (clinical",
+                  "« ordinatura) specialization in cardiology, délivré par",
+                  "« Dnipro state medical University - Ukraine.",
+                  "«يجب أن تقرن هذه الشهادة بتدريب مدته سنتين مع اجتياز",
+                  "«امتحان تقييمي بنجاح مسلم من طرف إحدى كليات الطب والصيدلة",
+                  "«باملغرب الذي تصادق عليه اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7414-P114-30",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "decision",
+      "title": "du 24 ramadan 1446 (25 mars 2025)",
+      "reference": {
+        "type": "decision",
+        "number": "15-25",
+        "date": "2025-03-25"
+      },
+      "pages": {
+        "start": 114,
+        "end": 115
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CONSEIL SUPÉRIEUR DE LA COMMUNICATION",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 11-15 portant réorganisation de la Haute",
+            "reference_to": "Loi n° 11-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 77-03 relative à la communication",
+            "reference_to": "Loi n° 77-03"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du Chef du gouvernement n° 3-70-21",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'industrie, de l'investissement",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la demande d'autorisation d'exploitation temporaire",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'avis conforme de l'Agence Nationale de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le dossier d'instruction de la Direction générale de",
+            "reference_to": null
+          },
+          {
+            "type": "recital",
+            "text": "Considérant que la période de validité de l'autorisation"
+          },
+          {
+            "type": "recital",
+            "text": "Considérant que les émissions radiophoniques d'une"
+          },
+          {
+            "type": "visa",
+            "text": "Vu les délibérations du Conseil Supérieur de la",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCIDE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "article 4 (alinéa 1) ;",
+                "paragraphs": [
+                  "Vu la loi n° 77-03 relative à la communication",
+                  "audiovisuelle, telle que modifiée et complétée, notamment",
+                  "ses articles 5, 14 et 29 ;",
+                  "Vu la décision du Chef du gouvernement n° 3-70-21",
+                  "du 15 juillet 2021 portant publication du Plan National des",
+                  "Fréquences, publiée au «Bulletin officiel» n° 7022 en date du",
+                  "16 septembre 2021 ;",
+                  "Vu l'arrêté du ministre de l'industrie, de l'investissement",
+                  "du commerce et de l'économie numérique n° 2045-18 du 20 juin",
+                  "2018 fixant les redevances pour assignation de fréquences",
+                  "radioélectriques, publié au «Bulletin officiel» n° 6692 en date",
+                  "du 19 juillet 2018 ;",
+                  "Vu la demande d'autorisation d'exploitation temporaire",
+                  "d'une fréquence pour les besoins d'émissions radiophoniques",
+                  "par Tanger Med Port Authority SA., dans le cadre de la",
+                  "couverture de l'opération Marhaba 2025, communiquée à la",
+                  "Haute Autorité en date du 20 février 2025 ;",
+                  "Vu l'avis conforme de l'Agence Nationale de",
+                  "Réglementation des Télécommunication (ANRT), en date du",
+                  "13 mars 2025, conditionné par la finalisation de la procédure",
+                  "de coordination internationale ;",
+                  "Vu le dossier d'instruction de la Direction générale de",
+                  "la communication audiovisuelle ;",
+                  "Considérant que la période de validité de l'autorisation",
+                  "sollicitée ne coïncide pas avec une période de campagne",
+                  "électorale ;",
+                  "Considérant que les émissions radiophoniques d'une",
+                  "durée limitée à autoriser sont en relation directe avec la",
+                  "promotion de l'objet de la manifestation ;",
+                  "Vu les délibérations du Conseil Supérieur de la",
+                  "communication audiovisuelle en date du 25 mars 2025,",
+                  "Décide :",
+                  "1°) D'autoriser la société Tanger Med Port Authority SA.",
+                  "à exploiter, à titre temporaire, une fréquence pour les besoins",
+                  "d'émissions radiophoniques, mises en place exclusivement à",
+                  "l'occasion de la couverture de l'opération Marhaba 2025 ;",
+                  "2°) D'assigner, à titre provisoire, à cet effet, à la société",
+                  "Tanger Med Port Authority SA. la fréquence 100 MHz sur le site",
+                  "de Tanger Med, devant être utilisée selon les caractéristiques",
+                  "techniques arrêtées en annexe ;",
+                  "La Haute Autorité se réserve le droit de procéder, à tout",
+                  "moment, à toutes modifications rendues nécessaires par les",
+                  "exigences nationales et internationales, notamment en matière",
+                  "de coordination des fréquences et d'optimisation de l'usage",
+                  "des ressources radioélectriques.",
+                  "3°) D'accorder la présente autorisation pour la période",
+                  "s'étalant du 1er mai au 31 octobre 2025 ;",
+                  "4°) Que la redevance due au titre de l'assignation de la",
+                  "fréquence, objet de la présente décision, est arrêtée en annexe",
+                  "conformément à la réglementation en vigueur ;",
+                  "Toute modification de la réglementation en vigueur en",
+                  "la matière entraîne modification automatique du montant de",
+                  "ladite redevance ;",
+                  "5°) Que sans préjudice des pénalités prévues par la loi",
+                  "n° 77-03 relative à la communication audiovisuelle, telle que",
+                  "modifiée et complétée, que le non-respect des dispositions",
+                  "susvisées, concernant :",
+                  "a) la durée de diffusion : expose la société Tanger Med",
+                  "Port Authority SA. à une amende de cinq mille dirhams",
+                  "(5000,00 Dhs) pour chaque jour de dépassement ;",
+                  "b) la diffusion de programmes en rapport direct avec",
+                  "l'objet de la manifestation, visant à informer les passagers au",
+                  "sujet de l'activité de transport du port ou à les accompagner",
+                  "pendant l'opération de transit par du contenu, pouvant",
+                  "notamment consister à la reprise en direct des journaux",
+                  "d'information des services radiophoniques édités par la SNRT",
+                  "et SOREAD 2M, sous réserve du respect du régime des droits",
+                  "y afférant : expose la société Tanger Med Port Authority SA.",
+                  "à une amende de vingt mille dirhams (20000,00 Dhs) par",
+                  "dépassement ;",
+                  "c) l'utilisation de la fréquence radioélectrique assignée,",
+                  "notamment pour ce qui a trait à la zone géographique à",
+                  "couvrir, telle que spécifiée en annexe : expose la société Tanger",
+                  "Med Port Authority SA. à une amende de vingt mille dirhams",
+                  "(20000,00 Dhs) par dépassement ;",
+                  "6°) Ordonne la notification de la présente décision",
+                  "à la société Tanger Med Port Authority SA., à l'autorité",
+                  "gouvernementale en charge de la communication et à l'Agence",
+                  "nationale de réglementation des télécommunications (ANRT) ;",
+                  "7°) Ordonne la publication de cette décision au Bulletin",
+                  "officiel et sur le site internet de la HACA.",
+                  "Délibérée par le Conseil Supérieur de la communication",
+                  "audiovisuelle - CSCA - lors de sa séance du 24 ramadan 1446",
+                  "(25 mars 2025), tenue au siège de la Haute Autorité de la",
+                  "Communication Audiovisuelle à Rabat, où siégeaient Madame",
+                  "Latifa Akharbach, Présidente, Mesdames et Messieurs Narjis",
+                  "Rerhaye, Jaafar Kansoussi, Ali Bakkali Hassani, Yassir",
+                  "Ghorbal, Fatima Baroudi, Mohamed Laroussi, Abdellatif",
+                  "Aadil et Adil Benhamza, Membres.",
+                  "Pour le Conseil Supérieur",
+                  "de la Communication Audiovisuelle,",
+                  "La Présidente,",
+                  "LATIFA AKHARBACH.",
+                  "*",
+                  "* *",
+                  "<<<BO_PAGE_115_DELIM>>>",
+                  "Nº 7414 - 22 hija 1446 (19-6-2025)",
+                  "Annexe",
+                  "La fréquence et ses caractéristiques techniques",
+                  "Le texte en langue arabe a été publié dans l'édition générale du « Bulletin officiel » n° 7413 du 19 hija 1446",
+                  "(16 juin 2025)."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    }
+  ]
+}

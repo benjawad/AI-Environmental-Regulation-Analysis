@@ -1,0 +1,1377 @@
+{
+  "bulletin_number": "7422",
+  "publication_date": {
+    "gregorian": "2025-07-17",
+    "hijri": "21 moharrem 1447"
+  },
+  "source_file": "BO_7422_fr.pdf",
+  "content": [
+    {
+      "entry_id": "BO-7422-P4-1",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 15 moharrem 1447 (11 juillet 2025) fixant la composition de la commission administrative",
+      "reference": {
+        "type": "decret",
+        "number": "2-25-565",
+        "date": "2025-07-11"
+      },
+      "pages": {
+        "start": 4,
+        "end": 4
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n°24-96 relative à la poste et aux télécommunications promulguée par le dahir n°1-97-162 du 2 rabii",
+            "reference_to": "Loi n° 24-96"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-995 du 24 rabii II 1446 (28 octobre 2024) portant délégation d'attributions et de pouvoirs",
+            "reference_to": "Decret n° 2-24-995"
+          },
+          {
+            "type": "adoption",
+            "text": "Après examen par le Conseil du gouvernement, réuni le 14 moharrem 1447 (10 juillet 2025),"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La commission administrative instituée par l'article 11 de la loi susvisée n° 24-96,",
+                "paragraphs": [
+                  "chargée d'approuver les cahiers des charges relatifs à l'établissement et/ou l'exploitation de réseaux ou services de",
+                  "télécommunications, se compose des représentants :",
+                  "- du Chef du gouvernement ;",
+                  "- de l'Autorité gouvernementale chargée de l'Intérieur ;",
+                  "- du Secrétaire Général du Gouvernement.",
+                  "- de l'Autorité gouvernementale chargée des Finances ;",
+                  "- de l'Autorité gouvernementale chargée de l'Urbanisme ;",
+                  "- de l'Autorité gouvernementale chargée de l'Enseignement Supérieur ;",
+                  "- de l'Administration de la Défense Nationale ;",
+                  "- de l'Autorité gouvernementale chargée des Télécommunications.",
+                  "La commission se réunit sous la présidence du directeur de l'Agence nationale de réglementation des",
+                  "télécommunications et sur sa convocation autant de fois que nécessaire."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La ministre déléguée auprès du Chef de gouvernement, chargée de la transition numérique et de la",
+                "paragraphs": [
+                  "réforme de l'administration et le directeur de l'Agence nationale de réglementation des télécommunications sont",
+                  "chargés, chacun en ce qui le concerne, de l'exécution du présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7422-P5-2",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n° 365-25 du",
+      "reference": {
+        "type": "arrete",
+        "number": "365-25",
+        "date": ""
+      },
+      "pages": {
+        "start": 5,
+        "end": 6
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 25-06 relative aux signes distinctifs d'origine",
+            "reference_to": "Loi n° 25-06"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-08-403 du 6 hija 1429 (5 décembre 2008)",
+            "reference_to": "Decret n° 2-08-403"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-08-404 du 6 hija 1429 (5 décembre 2008)",
+            "reference_to": "Decret n° 2-08-404"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la Commission nationale des signes"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est reconnue l'Indication",
+                "paragraphs": [
+                  "Géographique « Amandes de Ghassate », demandée par",
+                  "l'Union des Coopératives OUGROUR, pour les amandes",
+                  "obtenues dans les conditions fixées par le cahier des charges",
+                  "homologué et annexé à l'original du présent arrêté."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Seules peuvent bénéficier de l'Indication",
+                "paragraphs": [
+                  "Géographique « Amandes de Ghassate », les amandes",
+                  "produites exclusivement dans les conditions fixées par le",
+                  "cahier des charges homologué et mentionné à l'article premier",
+                  "ci-dessus."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - L'aire géographique couverte par l'Indication",
+                "paragraphs": [
+                  "Géographique « Amandes de Ghassate » s'étend sur la",
+                  "commune de Ghassate relevant de la province d'Ouarzazate."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - L'Indication Géographique « Amandes de",
+                "paragraphs": [
+                  "Ghassate » concerne les amandes douces entières décortiquées",
+                  "issues exclusivement de la variété locale appelée communément",
+                  "« Beldi », de l'espèce Prunus dulcis. Leurs principales",
+                  "caractéristiques sont les suivantes :",
+                  "1 - Caractéristiques physico-chimiques :",
+                  "1. Forme",
+                  "ovoïde et elliptique allongée",
+                  "2. Couleur du tégument",
+                  "marron clair",
+                  "3. Poids d'un amandon",
+                  "de 0,8 g à 1,2 gramme",
+                  "4. Taux d'humidité",
+                  "≤ 5 %",
+                  "5. Teneur en matière grasse",
+                  "de 45 à 55 %",
+                  "6. Teneur en protéines",
+                  "de 15 à 22 %",
+                  "7. Teneur en glucides",
+                  "de 20 à 26 %",
+                  "2 - Caractéristiques organoleptiques :",
+                  "- sucré avec goût de noisette ;",
+                  "- croquant."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Les principales conditions de production, de",
+                "paragraphs": [
+                  "stockage et de conditionnement des amandes d'Indication",
+                  "Géographique « Amandes de Ghassate » sont comme suit :",
+                  "1. les opérations de production, de stockage et de",
+                  "conditionnement des amandes doivent être réalisées à",
+                  "l'intérieur de l'aire géographique mentionnée à l'article 3 cidessus ;",
+                  "2. les plants doivent être issus, exclusivement, de semis",
+                  "des graines de la variété locale visée à l'article 4 ci-dessus ;",
+                  "3. l'irrigation commence à partir du mois d'octobre",
+                  "jusqu'au mois de mai avec une moyenne de 3 apports par mois ;",
+                  "4. la fertilisation est assurée exclusivement par l'apport",
+                  "de fertilisants organiques à raison de 5 à 8 T/ha/an ;",
+                  "5. la taille est effectuée durant les mois de novembre et",
+                  "décembre avant le débourrement des bourgeons ;",
+                  "6. la période de récolte des amandes s'étale de mi-juillet",
+                  "à fin septembre. L'indicateur de maturité est le fendillement",
+                  "des écales ;",
+                  "7. les amandes récoltées doivent être immédiatement",
+                  "séchées au soleil pendant une durée de 8 à 10 jours en fonction",
+                  "des conditions climatiques ;",
+                  "8. les opérations de triage, de stockage, de dépulpage,",
+                  "de décorticage et de conditionnement des amandes doivent",
+                  "être réalisées au niveau d'unités de décorticage et de",
+                  "conditionnement autorisées sur le plan sanitaire ;",
+                  "9. les amandes réceptionnées au niveau des unités de",
+                  "décorticage et de conditionnement, sont triées et stockées dans",
+                  "des contenants appropriés et dans des conditions d'aération",
+                  "et d'humidité adéquates. La durée maximale du stockage est",
+                  "de douze (12) mois ;",
+                  "<<<BO_PAGE_6_DELIM>>>",
+                  "Nº 7422 - 21 moharrem 1447 (17-7-2025)",
+                  "10. le dépulpage et le décorticage se font manuellement",
+                  "ou mécaniquement. Les amandons sont triés et calibrés en lots",
+                  "homogènes. Ils doivent être sains et entiers ;",
+                  "11. les amandons doivent être stockés dans des contenants",
+                  "appropriés et dans des conditions d'aération et d'humidité",
+                  "adéquates ;",
+                  "12. les amandes décortiquées sont conditionnées en lots",
+                  "homogènes, selon le calibre, dans des contenants appropriés",
+                  "composés de matériaux destinés à entrer en contact avec des",
+                  "produits alimentaires de contenances ne dépassant pas un",
+                  "(1) kg."
+                ]
+              },
+              {
+                "article_number": "ART. 6. - Le contrôle du respect des clauses du cahier",
+                "paragraphs": [
+                  "des charges est assuré, selon le plan de contrôle prévu par le",
+                  "cahier des charges précité, par l'organisme de certification et",
+                  "de contrôle « CCPB Maroc Sarl » ou par tout autre organisme",
+                  "de certification et de contrôle agréé conformément à la",
+                  "réglementation en vigueur.",
+                  "L'organisme de certification et de contrôle concerné",
+                  "délivre aux producteurs et conditionneurs, inscrits auprès",
+                  "dudit organisme, l'attestation de certification des amandes",
+                  "bénéficiant de l'Indication Géographique « Amandes de",
+                  "Ghassate »."
+                ]
+              },
+              {
+                "article_number": "ART. 7. - Outre les mentions obligatoires prévues",
+                "paragraphs": [
+                  "par la réglementation applicable en matière d'étiquetage",
+                  "et de présentation des produits alimentaires, l'étiquetage",
+                  "des amandes d'Indication Géographique « Amandes de",
+                  "Ghassate », doit comporter les indications suivantes :",
+                  "- la mention « Indication Géographique Protégée",
+                  "Amandes de Ghassate » ou « IGP Amandes de",
+                  "Ghassate » ;",
+                  "- le logo officiel de l'Indication Géographique Protégée,",
+                  "tel que publié en annexe au décret susvisé n° 2-08-403",
+                  "du 6 hija 1429 (5 décembre 2008) ;",
+                  "- la référence de l'Organisme de Certification et de",
+                  "Contrôle.",
+                  "Ces indications doivent être regroupées dans le même",
+                  "champ visuel, sur la même étiquette.",
+                  "Elles sont présentées dans des caractères apparents,",
+                  "lisibles, indélébiles et suffisamment grands pour qu'ils",
+                  "ressortent bien du cadre sur lequel ils sont imprimés et pour",
+                  "qu'on puisse les distinguer nettement de l'ensemble des autres",
+                  "indications et dessins."
+                ]
+              },
+              {
+                "article_number": "ART. 8. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7422-P6-3",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n° 988-25",
+      "reference": {
+        "type": "arrete",
+        "number": "988-25",
+        "date": "2025-04-17"
+      },
+      "pages": {
+        "start": 6,
+        "end": 7
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la Commission nationale des signes"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les dispositions des articles 3 et",
+                "paragraphs": [
+                  "6 de l'arrêté susvisé n° 1399-11 du 23 joumada II 1432 (27 mai",
+                  "2011) sont abrogées et remplacées comme suit :",
+                  "« Article 3. - L'aire géographique concernée par",
+                  "« l'appellation d'origine «Rose de Kelâat M'Gouna-Dadès»",
+                  "« comprend les communes suivantes relevant de la province",
+                  "« de Tinghir : Kelâat M'gouna, Boumalne Dadès, Aït Sedrate",
+                  "« Sahel El Gharbia, Aït Sedrate Sahel Echarkia, Aït Ouassif,",
+                  "« Souk Lekhmis Dadès, Ighil N'Oumgoun. »",
+                  "« Article 6. - Le contrôle du respect des clauses du cahier",
+                  "« des charges est assuré, selon le plan de contrôle prévu par",
+                  "« le cahier des charges précité, par l'organisme de certification",
+                  "« et de contrôle « Normacert Sarl » ou par tout autre organisme",
+                  "« de certification et de contrôle agréé conformément à la",
+                  "« réglementation en vigueur.",
+                  "« L'organisme de certification et de contrôle concerné",
+                  "« délivre aux producteurs et conditionneurs, inscrits auprès",
+                  "« dudit organisme, l'attestation de certification de la rose",
+                  "« bénéficiant de l'appellation d'origine « Rose de Kelâat",
+                  "« M'Gouna-Dadès ». »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Les dispositions de l'article 7 de l'arrêté précité",
+                "paragraphs": [
+                  "n° 1399-11 sont modifiées comme suit :",
+                  "« Article 7. - Outre les mentions .................... suivantes :",
+                  "« - la mention ............................................................. ;",
+                  "« - le logo .................................................................... ;",
+                  "« - la référence de l'organisme de certification et de",
+                  "« contrôle.",
+                  "« Ces mentions sont regroupées ...........................................",
+                  "(La suite sans modification.)",
+                  "<<<BO_PAGE_7_DELIM>>>",
+                  "Nº 7422 - 21 moharrem 1447 (17-7-2025)"
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7422-P7-4",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 30 kaada 1446 (28 mai 2025) relatif à l'ouverture du",
+      "reference": {
+        "type": "arrete",
+        "number": "2405-24",
+        "date": "2025-05-28"
+      },
+      "pages": {
+        "start": 7,
+        "end": 7
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ÉQUIPEMENT ET DE L'EAU",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 15-02 relative aux ports et portant création",
+            "reference_to": "Loi n° 15-02"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 25-10 relative à l'aménagement et à la mise",
+            "reference_to": "Loi n° 25-10"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-07-263 du 18 ramadan 1429",
+            "reference_to": "Decret n° 2-07-263"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-1072 du 16 joumada II 1443",
+            "reference_to": "Decret n° 2-21-1072"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'ouverture du port de plaisance",
+                "paragraphs": [
+                  "Marchica 1 (Nord d'Atalayoun) dont les coordonnées",
+                  "(35°13'02\"N et 2°54'11\" W) et des ouvrages maritimes",
+                  "des bassins d'accueil (dont les coordonnées du bassin A",
+                  "(35°12'24\"N et 2°51'48\"W) et du bassin B (35°12'06\"N et",
+                  "2°51'54\"W) relatifs à la lagune de Marchica (situé à la mer",
+                  "méditerranée) à l'exploitation à compter du 24 juillet 2024."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - L'Agence pour l'aménagement du site de la",
+                "paragraphs": [
+                  "lagune de Marchica est chargée de l'exécution de cet arrêté."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le présent arrêté est publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7422-P7-5",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1437-25 du 1er hija 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "1437-25",
+        "date": "2025-05-29"
+      },
+      "pages": {
+        "start": 7,
+        "end": 7
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi n° 016-89, assortis",
+                  "« du baccalauréat, série scientifique ou technique ou d'un",
+                  "« diplôme reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Diplôme de master dans la spécialité architecture,",
+                  "« délivré en date du 10 juillet 2023 par l'Université",
+                  "« d'Etat d'architecture et de génie civil de Nijni Novgorod -",
+                  "« Fédération de Russie, assorti du diplôme de bachelor",
+                  "« dans la spécialité architecture, délivré en date du",
+                  "« 7 juillet 2021 par la même université et d'une attestation",
+                  "« de validation du complément de formation, délivrée",
+                  "« par l'Ecole nationale d'architecture de Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7422-P8-6",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1438-25 du 1er hija 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "1438-25",
+        "date": "2025-05-29"
+      },
+      "pages": {
+        "start": 8,
+        "end": 8
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi n° 016-89, assortis",
+                  "« du baccalauréat, série scientifique ou technique ou d'un",
+                  "« diplôme reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Qualification de master dans la spécialité d'architecture,",
+                  "« délivrée en date du 22 juin 2023 par l'Université d'Etat",
+                  "« technologique de Belgorod V.G. Choukhav - Fédération",
+                  "« de Russie, assortie de la qualification de bachelor dans",
+                  "« la spécialité d'architecture, délivrée en date du 5 juillet",
+                  "« 2021 par la même université et d'une attestation de",
+                  "« validation du complément de formation, délivrée par",
+                  "« l'Ecole nationale d'architecture de Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7422-P8-7",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1439-25 du 1er hija 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "1439-25",
+        "date": "2025-05-29"
+      },
+      "pages": {
+        "start": 8,
+        "end": 8
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi n° 016-89, assortis",
+                  "« du baccalauréat, série scientifique ou technique ou d'un",
+                  "« diplôme reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Master's degree field of study «architecture and",
+                  "« construction» programme subject area «architecture",
+                  "« and town planning», délivré en date du 31 mai 2022",
+                  "« par O.M. Beketov national University of urban",
+                  "« economy in Kharkiv - Ukraine, assorti du bachelor",
+                  "« degree program subject area «architecture and town",
+                  "« planning» educational program «architecture», délivré",
+                  "« en date du 30 juin 2020 par la même université et d'une",
+                  "« attestation de validation du complément de formation,",
+                  "« délivrée par l'Ecole nationale d'architecture de",
+                  "« Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7422-P9-8",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1440-25 du 1er hija 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "1440-25",
+        "date": "2025-05-29"
+      },
+      "pages": {
+        "start": 9,
+        "end": 9
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi n° 016-89, assortis",
+                  "« du baccalauréat, série scientifique ou technique ou d'un",
+                  "« diplôme reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Master's degree field of study «architecture and",
+                  "« construction» programme subject area «architecture",
+                  "« and town planning», délivré en date du 30 juin 2023",
+                  "« par Odessa state Academy of civil engineering and",
+                  "« architecture - Ukraine, assorti du bachelor's degree field",
+                  "« of study «architecture and construction» programme",
+                  "« subject area «architecture and town planning», délivré",
+                  "« en date du 1er juillet 2021 par la même académie et",
+                  "« d'une attestation de validation du complément de",
+                  "« formation, délivrée par l'Ecole nationale d'architecture",
+                  "« de Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7422-P9-9",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1441-25 du 1er hija 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "1441-25",
+        "date": "2025-05-29"
+      },
+      "pages": {
+        "start": 9,
+        "end": 9
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi n° 016-89, assortis",
+                  "« du baccalauréat, série scientifique ou technique ou d'un",
+                  "« diplôme reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Master's degree field of study architecture and",
+                  "« construction programme subject area architecture and",
+                  "« town planning, délivré en date du 31 mai 2024 par Kyiv",
+                  "« national University of construction and architecture -",
+                  "« Ukraine, assorti de la qualification bachelor's degree,",
+                  "« field of study «architecture and construction»,",
+                  "« program subject area «architecture and town planning»,",
+                  "« délivrée en date du 30 juin 2022 par Kharkiv national",
+                  "« University of civil engineering and architecture -",
+                  "« Ukraine et d'une attestation de validation du",
+                  "« complément de formation, délivrée par l'Ecole",
+                  "« nationale d'architecture de Rabat.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7422-P10-10",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1442-25 du 1er hija 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "1442-25",
+        "date": "2025-05-29"
+      },
+      "pages": {
+        "start": 10,
+        "end": 10
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi n° 016-89, assortis",
+                  "« du baccalauréat, série scientifique ou technique ou d'un",
+                  "« diplôme reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Master's degree field of study architecture and",
+                  "« construction programme subject area construction",
+                  "« and civil engineering professional qualification architect",
+                  "« and city planner, délivré en date du 31 mars 2024 par",
+                  "« Zaporizhzhia national University - Ukraine, assorti",
+                  "« de la qualification bachelor's degree, field of study",
+                  "« architecture and construction programme subject area",
+                  "« architecture and town planning, délivrée en date du",
+                  "« 30 juin 2022 par la même université et d'une attestation",
+                  "« de validation du complément de formation, délivrée",
+                  "« par l'Ecole nationale d'architecture de Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7422-P10-11",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1443-25 du 1er hija 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "1443-25",
+        "date": "2025-05-29"
+      },
+      "pages": {
+        "start": 10,
+        "end": 10
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi n° 016-89, assortis",
+                  "« du baccalauréat, série scientifique ou technique ou d'un",
+                  "« diplôme reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Qualification de master dans la spécialité de",
+                  "« « architecture », délivrée en date du 28 juin 2024",
+                  "« par l'Université d'Etat d'architecture et de génie civil",
+                  "« de Saint-Pétersbourg - Fédération de Russie, assortie",
+                  "« de la qualification de bachelor dans la spécialité de",
+                  "« « architecture », délivrée en date du 30 juin 2022 par",
+                  "« la même université et d'une attestation de validation",
+                  "« du complément de formation, délivrée par l'Ecole",
+                  "« nationale d'architecture de Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7422-P11-12",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1444-25 du 1er hija 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "1444-25",
+        "date": "2025-05-29"
+      },
+      "pages": {
+        "start": 11,
+        "end": 11
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi n° 016-89, assortis",
+                  "« du baccalauréat, série scientifique ou technique ou d'un",
+                  "« diplôme reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Grade académique de master en architecture, à",
+                  "« finalité spécialisée (Art de Bâtir et Urbanisme), délivré",
+                  "« en l'année académique 2019-2020 par l'Université de",
+                  "« Liège, Faculté d'architecture - Belgique, assorti du",
+                  "« grade académique de bachelier en architecture, délivré",
+                  "« en l'année académique 2015-2016 par la même",
+                  "« université et d'une attestation de validation du",
+                  "« complément de formation, délivrée par l'Ecole",
+                  "« nationale d'architecture de Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7422-P11-13",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1445-25 du 1er hija 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "1445-25",
+        "date": "2025-05-29"
+      },
+      "pages": {
+        "start": 11,
+        "end": 11
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi n° 016-89, assortis",
+                  "« du baccalauréat, série scientifique ou technique ou d'un",
+                  "« diplôme reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Master's degree field of study « architecture and",
+                  "« construction » programme subject area « architecture",
+                  "« and town planning », délivré en date du 31 mai 2024 par",
+                  "«O.M Beketov national University of urban economy",
+                  "« in Kharkiv - Ukraine, assorti du bachelor's degree field",
+                  "« of study « architecture and construction » programme",
+                  "« subject area « architecture and town planning », délivré",
+                  "« en date du 4 juillet 2022 par la même université et",
+                  "« d'une attestation de validation du complément de",
+                  "« formation, délivrée par l'Ecole nationale d'architecture",
+                  "« de Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7422-P12-14",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1446-25 du 1er hija 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "1446-25",
+        "date": "2025-05-29"
+      },
+      "pages": {
+        "start": 12,
+        "end": 12
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi n° 016-89, assortis",
+                  "« du baccalauréat, série scientifique ou technique ou d'un",
+                  "« diplôme reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« .............................................................................................",
+                  "« - Master's degree field of study « architecture and",
+                  "« construction » programme subject area « architecture",
+                  "« and town planning », délivré en date du 31 mai 2024 par",
+                  "« O.M Beketov national University of urban economy",
+                  "« in Kharkiv - Ukraine, assorti de la qualification",
+                  "« bachelor's degree, field of study « architecture and",
+                  "« construction » programme subject area « architecture",
+                  "« and town planning », délivrée en date du 30 juin 2022",
+                  "« par la même université et d'une attestation de",
+                  "« validation du complément de formation, délivrée par",
+                  "« l'Ecole nationale d'architecture de Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7422-P12-15",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 1449-25 du 1er hija 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "1449-25",
+        "date": "2025-05-29"
+      },
+      "pages": {
+        "start": 12,
+        "end": 12
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi n° 016-89, assortis",
+                  "« du baccalauréat, série scientifique ou technique ou d'un",
+                  "« diplôme reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Diplôme national d'architecte, délivré en date du",
+                  "« 26 juin 2023 par l'Université de Carthage - Tunisie,",
+                  "« assorti d'une attestation de validation du complément",
+                  "« de formation, délivrée par l'Ecole nationale",
+                  "« d'architecture de Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    }
+  ]
+}

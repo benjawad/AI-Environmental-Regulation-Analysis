@@ -1,0 +1,3587 @@
+{
+  "bulletin_number": "2140",
+  "publication_date": {
+    "gregorian": "",
+    "hijri": "13 moharrem 1444"
+  },
+  "source_file": "BO_7170_fr.pdf",
+  "content": [
+    {
+      "entry_id": "BO-2140-P15-1",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 4 rejeb 1444 (26 janvier 2023) relatif",
+      "reference": {
+        "type": "decret",
+        "number": "2-22-191",
+        "date": "2023-01-26"
+      },
+      "pages": {
+        "start": 15,
+        "end": 17
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n°40-13 portant code de l'aviation civile,",
+            "reference_to": "Loi n° 40-13"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-968 du 25 joumada I 1443 (30 décembre",
+            "reference_to": "Decret n° 2-21-968"
+          },
+          {
+            "type": "recital",
+            "text": "Considérant la Convention relative à l'aviation civile"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Le présent décret a pour objet de",
+                "paragraphs": [
+                  "fixer les conditions et modalités de fourniture des services",
+                  "de la navigation aérienne, les modalités de leur certification",
+                  "et de leur planification ainsi que les conditions et modalités",
+                  "d'installation, de modification et de maintenance des",
+                  "installations et équipements des services de la navigation",
+                  "aérienne.",
+                  "Il édicte également des règles en vue d'améliorer les",
+                  "performances globales du système de gestion du trafic aérien",
+                  "et des services de la navigation aérienne."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Les dispositions du présent décret s'appliquent",
+                "paragraphs": [
+                  "à l'espace aérien se trouvant sous la souveraineté du Royaume",
+                  "du Maroc, ainsi qu'aux espaces aériens pour lesquels le",
+                  "aérienne, la fourniture des services de la navigation aérienne.",
+                  "Elles s'appliquent également aux prestataires qui",
+                  "assurent la fourniture des services de la navigation aérienne",
+                  "dans le cadre de la circulation aérienne générale, ainsi qu'aux",
+                  "exploitants d'aéronefs et aux usagers des espaces aériens",
+                  "prévus à l'alinéa précédent.",
+                  "Les dispositions du présent décret ne s'appliquent pas",
+                  "aux services de la circulation aérienne ni aux services de",
+                  "la télécommunication aéronautique fournis au niveau des",
+                  "aérodromes militaires."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Les règles de l'air et de la circulation aérienne",
+                "paragraphs": [
+                  "ainsi que le système de feu et de signalisation utilisés pour la",
+                  "circulation aérienne, prévus à l'article 140 de la loi susvisée",
+                  "n° 40-13, s'appliquent :",
+                  "a) aux aéronefs civils évoluant sur les aérodromes, dans",
+                  "l'espace aérien se trouvant sous la souveraineté du Royaume",
+                  "du Maroc et dans les espaces aériens où le Royaume assure,",
+                  "en vertu des accords régionaux de navigation aérienne, la",
+                  "fourniture des services de la circulation aérienne ;",
+                  "<<<BO_PAGE_16_DELIM>>>",
+                  "Nº 7170 - 25 rejeb 1444 (16-2-2023)",
+                  "b) aux aéronefs d'Etat, évoluant dans les mêmes",
+                  "espaces, dont les conditions d'exécution de leurs missions sont",
+                  "compatibles avec ces règles ;",
+                  "c) aux aéronefs portant les marques d'immatriculation",
+                  "marocaines, où qu'ils se trouvent, dans la mesure où ces règles",
+                  "ne contreviennent pas aux règles édictées par l'Etat sous",
+                  "l'autorité duquel le territoire survolé se trouve placé.",
+                  "Le pilote commandant de bord qu'il tienne ou non",
+                  "les commandes de l'aéronef, est responsable de sa conduite",
+                  "conformément aux règles de l'air et de la circulation aérienne,",
+                  "sous réserve d'instructions contraires des services de la",
+                  "circulation aérienne. Il ne peut déroger auxdites règles que",
+                  "s'il le juge absolument nécessaire pour des motifs de sécurité",
+                  "de l'aéronef ou des personnes se trouvant à bord.",
+                  "Les règles de l'air et de la circulation aérienne",
+                  "applicables aux aéronefs évoluant dans l'espace ou au sol sur",
+                  "l'aire de mouvement d'un aérodrome ainsi que la classification",
+                  "de l'espace aérien sont fixées par arrêté de l'autorité",
+                  "gouvernementale chargée de l'aviation civile en tenant compte",
+                  "des dispositions de la convention relative à l'aviation civile",
+                  "internationale susvisée, notamment, son annexe 2 relative aux",
+                  "règles de l'air."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - Les catégories d'aéronefs qui, conformément",
+                "paragraphs": [
+                  "aux dispositions de l'article 145 de la loi précitée n° 40-13,",
+                  "peuvent être dispensés d'utiliser un aérodrome international,",
+                  "en raison de la nature de leur exploitation, sont fixées par",
+                  "arrêté de l'autorité gouvernementale chargée de l'aviation",
+                  "civile.",
+                  "Chapitre II",
+                  "Dispositions communes"
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Les services de la navigation aérienne qui,",
+                "paragraphs": [
+                  "conformément aux dispositions de l'article 150 de la loi précitée",
+                  "n° 40-13, s'entendent de tous les services qui visent à garantir la",
+                  "sécurité, la régularité et l'efficacité de la navigation aérienne tels",
+                  "les services de la circulation aérienne, la télécommunication",
+                  "aéronautique, les informations météorologiques, les recherches",
+                  "et sauvetage et les informations aéronautiques, doivent être",
+                  "fournis selon les conditions et modalités fixées au présent",
+                  "décret."
+                ]
+              },
+              {
+                "article_number": "ART. 6. - Conformément aux dispositions de l'article 151",
+                "paragraphs": [
+                  "de la loi précitée n° 40-13, l'autorité gouvernementale chargée",
+                  "de l'aviation civile ou la personne déléguée par elle à cet effet",
+                  "procède à la certification des services de la navigation aérienne",
+                  "ainsi qu'à la supervision du respect des exigences applicables",
+                  "auxdits services de la part de leurs prestataires. Elle surveille",
+                  "également la sécurité des services fournis.",
+                  "L'autorité gouvernementale chargée de l'aviation civile",
+                  "procède, également, à la certification des services liés à la",
+                  "fourniture des données aéronautiques, à la conception des",
+                  "procédures de vol, à la gestion de l'espace aérien ainsi qu'à la",
+                  "gestion du courant du trafic aérien.",
+                  "La certification susmentionnée est accordée à la demande",
+                  "du prestataire lorsque celui-ci justifie des capacités humaines,",
+                  "financières, techniques, matérielles, organisationnelles,",
+                  "procédurales et documentaires nécessaires compte tenu du",
+                  "type des services fournis.",
+                  "La demande doit être accompagnée d'un dossier",
+                  "constitué des documents dont la liste et la consistance sont",
+                  "fixées par arrêté de l'autorité gouvernementale chargée de",
+                  "l'aviation civile."
+                ]
+              },
+              {
+                "article_number": "ART. 7. - Le certificat délivré mentionne notamment",
+                "paragraphs": [
+                  "l'identité du bénéficiaire et le ou les services concernés par la",
+                  "certification.",
+                  "Les exigences auxquelles doivent répondre les services",
+                  "de la navigation aérienne et les modalités de délivrance et de",
+                  "retrait du certificat susmentionné sont fixées par arrêté de",
+                  "l'autorité gouvernementale chargée de l'aviation civile."
+                ]
+              },
+              {
+                "article_number": "ART. 8. - Les prestataires de services de la navigation",
+                "paragraphs": [
+                  "aérienne détenteurs de certificats sont désignés selon les",
+                  "modalités fixées par arrêté de l'autorité gouvernementale",
+                  "chargée de l'aviation civile après avis de l'administration de",
+                  "la défense nationale."
+                ]
+              },
+              {
+                "article_number": "ART. 9. - L'autorité gouvernementale chargée de",
+                "paragraphs": [
+                  "l'aviation civile veille, en coordination avec les prestataires",
+                  "de services de la navigation aérienne, à la réalisation de",
+                  "l'interopérabilité entre les différents systèmes, composantes et",
+                  "procédures associées de l'espace aérien du Royaume du Maroc",
+                  "et du réseau européen de gestion du trafic aérien, en tenant",
+                  "compte des règles internationales applicables en la matière.",
+                  "L'autorité gouvernementale chargée de l'aviation civile",
+                  "fixe par arrêté les modalités de la réalisation de l'interopérabilité",
+                  "prévue à l'alinéa précédent.",
+                  "Chapitre III",
+                  "Des services de la navigation aérienne",
+                  "Section première. - Services de la circulation aérienne"
+                ]
+              },
+              {
+                "article_number": "ART. 10. - Les services de la circulation aérienne se",
+                "paragraphs": [
+                  "composent du service d'information de vol, du service d'alerte,",
+                  "du service consultatif de la circulation aérienne et du service",
+                  "du contrôle de la circulation aérienne (contrôle régional,",
+                  "contrôle d'approche ou contrôle d'aérodrome). Ces services",
+                  "ont pour objet :",
+                  "a) d'éviter les abordages entre aéronefs ;",
+                  "b) d'éviter les collisions entre les aéronefs sur l'aire de",
+                  "manœuvre et les obstacles se trouvant sur cette aire ;",
+                  "c) d'accélérer et de réguler la circulation aérienne ;",
+                  "d) de fournir les avis et les renseignements nécessaires",
+                  "à l'exécution sûre et efficace des vols ;",
+                  "e) d'alerter les organismes compétents lorsque des",
+                  "aéronefs ont besoin de l'aide des organismes de recherches",
+                  "et de sauvetage, et de prêter à ces organismes le concours",
+                  "nécessaire.",
+                  "<<<BO_PAGE_17_DELIM>>>",
+                  "Nº 7170 - 25 rejeb 1444 (16-2-2023)"
+                ]
+              },
+              {
+                "article_number": "ART. 11. - L'autorité gouvernementale chargée de",
+                "paragraphs": [
+                  "l'aviation civile, fixe les limites des portions d'espace-région",
+                  "d'information de vol, région de contrôle, zone de contrôle,",
+                  "routes et voies aériennes dans lesquelles les services de la",
+                  "circulation aérienne sont assurés. Cette délimitation fait l'objet",
+                  "de publication d'information aéronautique.",
+                  "Les prestataires des services de la circulation aérienne",
+                  "sont responsables de la fourniture de ces services dans les",
+                  "régions d'information de vol, les régions de contrôle, les zones",
+                  "de contrôle, les routes et les voies aériennes susindiquées."
+                ]
+              },
+              {
+                "article_number": "ART. 12. - Les espaces aériens où les services de la",
+                "paragraphs": [
+                  "circulation aérienne sont assurés par le Royaume du Maroc",
+                  "comprennent une région d'information de vol, qui inclut les",
+                  "espaces aériens contrôlés, les zones dangereuses, réglementées",
+                  "ou interdites et les aérodromes contrôlés.",
+                  "L'autorité gouvernementale chargée de l'aviation civile",
+                  "veille à ce que les services de la circulation aérienne soient",
+                  "fournis de manière à faciliter la circulation aérienne générale,",
+                  "tout en tenant compte des considérations de sécurité et des",
+                  "exigences du trafic.",
+                  "Les conditions techniques et les modalités de la",
+                  "fourniture des services de la circulation aérienne sont fixées",
+                  "par arrêté de l'autorité gouvernementale chargée de l'aviation",
+                  "civile, en tenant compte des dispositions de la Convention",
+                  "relative à l'aviation civile internationale précitée, notamment,",
+                  "son annexe 11 relative aux services de la circulation aérienne."
+                ]
+              },
+              {
+                "article_number": "ART. 13. - L'autorité gouvernementale chargée de",
+                "paragraphs": [
+                  "l'aviation civile veille à ce que les structures de l'espace aérien",
+                  "soient étudiées, conçues, et validées en coordination avec",
+                  "l'administration de la défense nationale et les prestataires",
+                  "des services de la navigation aérienne, après consultation",
+                  "des usagers de l'espace aérien. Ces structures font l'objet de",
+                  "publications d'informations aéronautiques.",
+                  "Les modalités d'étude, de conception et de validation des",
+                  "structures de l'espace aérien sont fixées par arrêté de l'autorité",
+                  "gouvernementale chargée de l'aviation civile."
+                ]
+              },
+              {
+                "article_number": "ART. 14. - Le pilote commandant de bord doit fournir",
+                "paragraphs": [
+                  "aux services compétents de la circulation aérienne tous les",
+                  "renseignements concernant le vol projeté sous forme d'un plan",
+                  "de vol soit avant le départ soit au cours dudit vol selon les cas.",
+                  "Le contenu du plan de vol, son établissement, ses",
+                  "modifications et sa clôture sont fixés par arrêté de l'autorité",
+                  "gouvernementale chargée de l'aviation civile.",
+                  "Section 2. - Services de télécommunication aéronautique"
+                ]
+              },
+              {
+                "article_number": "ART. 15. - L'autorité gouvernementale chargée de",
+                "paragraphs": [
+                  "l'aviation civile assure la coordination et la gestion des",
+                  "ressources utilisées pour la circulation aérienne générale, en",
+                  "particulier, les fréquences aéronautiques et les « adresses mode",
+                  "S d'aéronef ».",
+                  "A cet effet, elle veille à ce que les systèmes de",
+                  "communication, de navigation et de surveillance en lien avec",
+                  "l'aéronautique civile soient installés, exploités, maintenus et",
+                  "modifiés conformément aux dispositions de la présente section."
+                ]
+              },
+              {
+                "article_number": "ART. 16. - Un système normalisé d'unités de mesure",
+                "paragraphs": [
+                  "est utilisé dans le domaine de l'aviation civile. Ce système",
+                  "normalisé est fondé sur le Système international d'unités (SI)",
+                  "et sur certaines unités autres que les unités SI qui ont été",
+                  "jugées nécessaires pour répondre aux besoins particuliers de",
+                  "l'aviation civile.",
+                  "Les règles relatives au système normalisé d'unités de",
+                  "mesure dans le domaine de l'aviation civile sont définies par",
+                  "arrêté de l'autorité gouvernementale chargée de l'aviation",
+                  "civile et ce, conformément aux exigences internationales en",
+                  "la matière, en particulier, les dispositions de la Convention",
+                  "relative à l'aviation civile internationale précitée, notamment,",
+                  "son annexe 5 relative aux unités de mesure à utiliser dans",
+                  "l'exploitation en vol et au sol."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P20-2",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n° 2140-22 du",
+      "reference": {
+        "type": "arrete",
+        "number": "2140-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 20,
+        "end": 20
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le dahir n° 1-69-169 du 10 joumada I 1389 (25 juillet",
+            "reference_to": "Dahir n° 1-69-169"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 25-08 portant création de l'Office national",
+            "reference_to": "Loi n° 25-08"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est homologué, tel qu'il est annexé",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P352-3",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 2 joumada II 1444 (26 décembre 2022) autorisant l'inscription de nouvelles variétés de betterave à sucre,",
+      "reference": {
+        "type": "arrete",
+        "number": "3557-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 352,
+        "end": 352
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE MARITIME, DU DÉVELOPPEMENT RURAL ET DES EAUX",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le dahir n°1-69-169 du 10 joumada I 1389 (25 juillet 1969) réglementant la production et la commercialisation",
+            "reference_to": "Dahir n° 1-69-169"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 25-08 portant création de l'Office national de sécurité sanitaire des produits alimentaires",
+            "reference_to": "Loi n° 25-08"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme agraire n°863-75 du 8 chaoual 1397 (22 septembre",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme agraire n°864-75 du 8 chaoual 1397 (22 septembre",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Sont inscrites au Catalogue officiel des espèces et des variétés des plantes cultivables",
+                "paragraphs": [
+                  "au Maroc, les variétés de betterave à sucre, de maïs, de riz et de luzerne, désignées dans le tableau annexé au",
+                  "présent arrêté."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - L'inscription susindiquée a une durée de validité de dix (10) ans à compter de la date de publication",
+                "paragraphs": [
+                  "du présent arrêté au « Bulletin officiel ». Elle peut être renouvelée pour une période de cinq (5) ans, à condition",
+                  "que la demande de renouvellement soit formulée auprès de l'Office national de sécurité sanitaire des produits",
+                  "alimentaires deux (2) ans, au moins, avant la date d'expiration de la durée de validité de l'inscription initiale ou",
+                  "du dernier renouvellement d'inscription."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P355-4",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 4 joumada II 1444 (28 décembre 2022) relatif au plan",
+      "reference": {
+        "type": "arrete",
+        "number": "3582-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 355,
+        "end": 355
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 17-99 portant code des assurances promulguée",
+            "reference_to": "Loi n° 17-99"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n°9-88 relative aux obligations comptables",
+            "reference_to": "Loi n° 9-88"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-1009 du 23 chaabane 1440 (29 avril 2019)",
+            "reference_to": "Decret n° 2-18-1009"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-88-19 du 16 rabii II 1410 (16 novembre 1989)",
+            "reference_to": "Decret n° 2-88-19"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du Conseil national de la comptabilité ;"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de l'Autorité de contrôle des assurances et de"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La forme et le contenu du cadre",
+                "paragraphs": [
+                  "comptable et des états de synthèse ainsi que la liste et les",
+                  "modalités de fonctionnement des comptes visés à l'article 234",
+                  "de la loi n° 17-99 susvisée, sont fixés conformément au",
+                  "document, annexé à l'original du présent arrêté, dénommé",
+                  "« plan comptable des assurances - 2022 ».",
+                  "Le plan comptable précité peut être consulté sur le",
+                  "site électronique du ministère de l'économie et des finances",
+                  "www.finances.gov.ma."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Est abrogé l'arrêté du ministre des finances et de",
+                "paragraphs": [
+                  "la privatisation n° 1493-05 du 16 ramadan 1426 (20 octobre 2005)",
+                  "relatif au plan comptable des assurances."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le présent arrêté est publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P355-5",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 17 joumada II 1444 (10 janvier 2023) relatif au",
+      "reference": {
+        "type": "arrete",
+        "number": "83-23",
+        "date": "2023-01-10"
+      },
+      "pages": {
+        "start": 355,
+        "end": 355
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 47-06 relative à la fiscalité des collectivités",
+            "reference_to": "Loi n° 47-06"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 15-97 formant code de recouvrement des",
+            "reference_to": "Loi n° 15-97"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté conjoint du ministre de l'intérieur et de la",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. -En application des dispositions de",
+                "paragraphs": [
+                  "l'article 6 de la loi susvisée n° 07-20, tous les contribuables",
+                  "assujettis à la taxe professionnelle en vertu de la loi n°47-06",
+                  "relative à la fiscalité des collectivités territoriales, doivent",
+                  "s'acquitter de cette taxe auprès de la recette de l'administration",
+                  "fiscale."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - En application des dispositions de l'article 168 ter",
+                "paragraphs": [
+                  "de la loi précitée n° 47-06, il peut être procédé au paiement",
+                  "électronique de la taxe professionnelle à travers le portail",
+                  "électronique de la Direction générale des impôts www.tax.",
+                  "gov.ma ou à travers l'un des établissements de crédit ou des",
+                  "établissements de paiement agréés ou par tout autre moyen de",
+                  "paiement conformément aux textes législatifs et réglementaires",
+                  "en vigueur."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le présent arrêté est publié au Bulletin officiel",
+                "paragraphs": [
+                  "et entre en vigueur à compter du 1er mars 2023."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P355-6",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "4 rejeb 1444 (26 janvier 2023) portant prorogation du délai",
+      "reference": {
+        "type": "arrete",
+        "number": "214-23",
+        "date": "2023-01-26"
+      },
+      "pages": {
+        "start": 355,
+        "end": 355
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'INDUSTRIE ET DU COMMERCE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre du commerce extérieur, des",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est prorogé, jusqu'au 18 février",
+                "paragraphs": [
+                  "2024, le délai d'exigibilité de la licence d'exportation sur les",
+                  "lingots de laiton relevant de la position tarifaire EX7403210000",
+                  "et EX740721 figurant sur la liste II relative aux marchandises",
+                  "soumises à licence d'exportation, annexé à l'arrêté du ministre",
+                  "du commerce extérieur, des investissements extérieurs et de",
+                  "l'artisanat susvisé n° 1308-94 du 7 kaada 1414 (19 avril 1994)."
+                ]
+              },
+              {
+                "article_number": "ART. 2. -Le présent arrêté est publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P394-7",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3436-22 du 19 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3436-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 394,
+        "end": 394
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'éducation nationale, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2189-04 du 14 kaada 1425 (27 décembre 2004), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en cardiologie,",
+                  "« est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Sénégal :",
+                  "« ..............................................................................................",
+                  "« - Diplôme d'études spécialisées (D.E.S) de cardiologie,",
+                  "« délivré en date du 6 décembre 2021 par la Faculté de",
+                  "« médecine, de pharmacie et d'odontologie-stomatologie,",
+                  "« Université Cheikh-Anta-Diop de Dakar - Sénégal,",
+                  "« assorti d'une attestation d'évaluation des connaissances",
+                  "« et des compétences, délivrée par la Faculé de médecine",
+                  "« et de pharmacie de Rabat - le 13 septembre 2022.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P394-8",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3437-22 du 19 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3437-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 394,
+        "end": 394
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'éducation nationale, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 346-04 du 4 moharrem 1425 (25 février 2004), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en oto-rhino-",
+                  "« laryngologie, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Sénégal :",
+                  "« ..............................................................................................",
+                  "« - Diplôme d'études spécialisées (D.E.S) d'oto-rhino-",
+                  "« laryngologie, délivré en date du 21 décembre 2020 par",
+                  "« la Faculté de médecine, de pharmacie et d'odontologie",
+                  "« stomatologie, Université Cheikh - Anta - Diop de Dakar -",
+                  "« Sénégal, assorti d'un stage d'une année au C.H.U Rabat -",
+                  "« Salé et d'une attestation d'évaluation des connaissances",
+                  "« et des compétences, délivrée par la Faculté de médecine",
+                  "« et de pharmacie de Rabat - le 13 septembre 2022.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P395-10",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3439-22 du 19 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3439-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 395,
+        "end": 395
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Ukraine :",
+                  "« ..............................................................................................",
+                  "« - Qualification doctor of medicine, general medicine,",
+                  "« délivrée en date du 30 juin 2018, par Zaporizhzhia",
+                  "« state medical University - Ukraine, assortie d'un stage",
+                  "« de deux années, validé par la Faculté de médecine et",
+                  "« de pharmacie de Marrakech - le 27 septembre 2022. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P395-9",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3438-22 du 19 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3438-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 395,
+        "end": 395
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Fédération de Russie :",
+                  "« ..............................................................................................",
+                  "« - Qualification de médecin, dans la spécialité médecine",
+                  "« générale, délivrée en date du 24 juin 2016 par",
+                  "« l'Académie d'Etat de médecine de Perm E.A Vagner -",
+                  "« Fédération de Russie, assortie d'un stage de deux",
+                  "« années, validé par la Faculté de médecine et de",
+                  "« pharmacie de Marrakech - le 27 septembre 2022. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P396-11",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3440-22 du 19 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3440-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 396,
+        "end": 396
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Fédération de Russie :",
+                  "« ..............................................................................................",
+                  "« - Qualification de médecin, médecine générale, délivrée",
+                  "« en date du 5 juillet 2019 par l'Université d'Etat de Tambov",
+                  "« nommée d'après G.R. Derzhavin - Fédération de Russie,",
+                  "« assortie d'un stage de deux années : du 24 décembre",
+                  "« 2020 au 11 décembre 2021 au C.H.U Rabat-Salé et du",
+                  "« 13 décembre 2021 au 14 février 2022, à la province",
+                  "« de Khémisset et d'une attestation d'évaluation des",
+                  "« connaissances et des compétences, délivrée par la Faculté",
+                  "« de médecine et de pharmacie de Rabat - le 13 septembre",
+                  "« 2022. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P396-12",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3441-22 du 19 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3441-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 396,
+        "end": 396
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Ukraine :",
+                  "« ..............................................................................................",
+                  "« - Qualification specialist general medicine, doctor",
+                  "« of medicine, délivrée en date du 26 juin 2019 par",
+                  "« Kharkiv national medical University - Ukraine,",
+                  "« assortie d'un stage de deux années : une année au",
+                  "« sein du Centre hospitalier Ibn Rochd de Casablanca",
+                  "« et une année au sein du Centre hospitalier provincial",
+                  "« Mohamed Sekkat de Casablanca, validé par la Faculté",
+                  "« de médecine et de pharmacie de Casablanca - le",
+                  "« 24 octobre 2022. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P397-13",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3442-22 du 19 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3442-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 397,
+        "end": 397
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'éducation nationale, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L' article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 1482-04 du 24 joumada II 1425 (11 août 2004), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en traumatologie-",
+                  "« orthopédie, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Sénégal :",
+                  "« ..............................................................................................",
+                  "« - Diplôme d'études spécialisées (D.E.S) d'orthopédie",
+                  "« traumatologie, délivré en date du 2 septembre",
+                  "« 2020 par la Faculté de médecine, de pharmacie et",
+                  "« d'odontologie stomatologie, Université Cheikh-Anta-",
+                  "« Diop de Dakar - Sénégal, assorti d'un stage d'une",
+                  "« année au sein du Centre hospitalier Ibn Rochd de",
+                  "« Casablanca, validé par la Faculté de médecine et de",
+                  "« pharmacie de Casablanca - le 26 octobre 2022. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P397-14",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3443-22 du 19 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3443-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 397,
+        "end": 397
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Egypte :",
+                  "« ..............................................................................................",
+                  "، درجة اإلجازة العالية (البكالوريوس) في الطب والجراحة-«",
+                  "».«مسلمة من كلية الطب بنين، جامعة األزهر، مصر"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P398-15",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3444-22 du 19 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3444-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 398,
+        "end": 398
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur, de la",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 405-14 du 7 rabii II 1435 (7 février 2014), est complété comme",
+                  "suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en médecine",
+                  "« du travail, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Sénégal :",
+                  "« ..............................................................................................",
+                  "« - Certificat d'études spéciales de médecine de travail,",
+                  "« délivré en date du 13 novembre 2000 par la Faculté",
+                  "« de médecine, de pharmacie et d'odonto-stomatologie,",
+                  "« Université Cheikh-Anta-Diop de Dakar - Sénégal, assorti",
+                  "« d'un stage d'une année au sein du Centre hospitalier Ibn",
+                  "« Rochd de Casablanca, validé par la Faculté de médecine",
+                  "« et de pharmacie de Casablanca - le 12 octobre 2022. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P398-16",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3502-22 du 24 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3502-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 398,
+        "end": 398
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Ukraine :",
+                  "« ..............................................................................................",
+                  "« - Qualification physician, doctor of medicine, general",
+                  "« medicine, délivrée en date du 12 juillet 2019, par V.N.",
+                  "« Karazin Kharkiv national University - Ukraine,",
+                  "« assortie d'un stage de deux années, validé par",
+                  "« la Faculté de médecine et de pharmacie d'Oujda. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P399-17",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3503-22 du 24 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3503-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 399,
+        "end": 399
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Fédération de Russie :",
+                  "« ..............................................................................................",
+                  "« - Qualification de médecin généraliste, dans la spécialité",
+                  "« médecine générale, délivrée en date du 29 juin 2019 par",
+                  "« l'Université d'Etat de médecine d'Astrakhan -",
+                  "« Fédération de Russie, assortie d'un stage de deux années :",
+                  "« une année au sein du Centre hospitalier Ibn Rochd de",
+                  "« Casablanca et une année au sein du Centre hospitalier",
+                  "« provincial Sidi Othmane de Casablanca, validé par la",
+                  "« Faculté de médecine et de pharmacie de Casablanca -",
+                  "« le 20 juillet 2022. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P399-18",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3504-22 du 24 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3504-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 399,
+        "end": 399
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Fédération de Russie :",
+                  "« ..............................................................................................",
+                  "« - Qualification de médecin généraliste, dans la spécialité",
+                  "« médecine générale, délivrée en date du 5 juillet 2019 par",
+                  "« l'Université d'Etat de Tambov G.R. Derjavin -",
+                  "« Fédération de Russie, assortie d'un stage de deux années :",
+                  "« une année au sein du Centre hospitalier Ibn Rochd de",
+                  "« Casablanca et une année au sein du Centre hospitalier",
+                  "« provincial de Mohammédia, validé par la Faculté de",
+                  "« médecine et de pharmacie de Casablanca - le 28 juillet",
+                  "« 2022. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P400-19",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3505-22 du 24 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3505-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 400,
+        "end": 400
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Roumanie :",
+                  "« ..............................................................................................",
+                  "« - Titlul de doctor-medic, in domeniul sanatate, programul",
+                  "« medicina, délivré en date du 15 mars 2021, par Facultatea",
+                  "« de medicina - Universitatii de medicina si farmacie",
+                  "« «Victor Babes» din Timisoara - Roumanie, assorti",
+                  "« d'une attestation d'évaluation des connaissances et",
+                  "« des compétences, délivrée par la Faculté de médecine",
+                  "« et de pharmacie de Casablanca - le 26 juillet 2022. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P400-20",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3506-22 du 24 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3506-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 400,
+        "end": 400
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Ukraine :",
+                  "« ..............................................................................................",
+                  "« - Qualification specialist general medicine, doctor of",
+                  "« medicine, délivrée en date du 26 juin 2019 par Donetsk",
+                  "« national medical University - Ukraine, assortie d'un",
+                  "« stage de deux années : une année au sein du Centre",
+                  "« hospitalier Ibn Rochd de Casablanca et une année",
+                  "« au sein du Centre hospitalier provincial Hassan II de",
+                  "« Khouribgha, validé par la Faculté de médecine et de",
+                  "« pharmacie de Casablanca - le 4 octobre 2022. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P401-21",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3507-22 du 24 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3507-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 401,
+        "end": 401
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Fédération de Russie :",
+                  "« ..............................................................................................",
+                  "« - Qualification de médecin-généraliste, dans la",
+                  "« spécialité médecine générale, délivrée en date du",
+                  "« 5 juillet 2019 par l'Université d'Etat de Tambov G.R.",
+                  "« Derjavin - Fédération de Russie, assortie d'un stage de",
+                  "« deux années : une année au sein du Centre hospitalier",
+                  "« Ibn Rochd de Casablanca et une année au sein du",
+                  "« Centre hospitalier provincial Hassan II de Khouribgha,",
+                  "« validé par la Faculté de médecine et de pharmacie de",
+                  "« Casablanca - le 4 octobre 2022. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P401-22",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3508-22 du 24 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3508-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 401,
+        "end": 401
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'éducation nationale, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 753-06 du 27 rabii I 1427 (26 avril 2006), est complété comme",
+                  "suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en néphrologie,",
+                  "« est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Ukraine :",
+                  "« ..............................................................................................",
+                  "- Certificate of specialized training in medicine (clinical",
+                  "« ordinatura) specialization in nephrology, délivré en",
+                  "« date du 23 décembre 2019 par Sil Zaporizhia medical",
+                  "« Academy of post graduate education ministry of",
+                  "« health of Ukraine - Ukraine , assorti d'un stage de",
+                  "« deux années, une année au sein du Centre hospitalier",
+                  "« Ibn Rochd de Casablanca et une année au sein du",
+                  "« Centre hospitalier provincial Mohammed V de Sefrou,",
+                  "« validé par la Faculté de médecine et de pharmacie de",
+                  "« Casablanca - le 13 septembre 2022. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P402-23",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3509-22 du 24 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3509-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 402,
+        "end": 402
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Fédération de Russie :",
+                  "« ..............................................................................................",
+                  "« - Qualification en médecine générale, docteur en médecine,",
+                  "« délivrée en date du 22 juin 2011 par l'Université d'Etat",
+                  "« de médecine de Riazan - Fédération de Russie, assortie",
+                  "« d'un stage de deux années : une année au sein du Centre",
+                  "« hospitalier Ibn Rochd de Casablanca et une année au sein",
+                  "« du Centre hospitalier provincial Mohammed V de Sefrou,",
+                  "« validé par la Faculté de médecine et de pharmacie de",
+                  "« Casablanca, le 13 septembre 2022.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P402-24",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3510-22 du 24 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3510-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 402,
+        "end": 402
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur, de la",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté",
+                "paragraphs": [
+                  "susvisé n° 570-04 du 15 safar 1425 (6 avril 2004), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en dermatologie,",
+                  "« est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Sénégal :",
+                  "« ..............................................................................................",
+                  "« - Diplôme d'études spécialisées (D.E.S.) de dermatologie-",
+                  "« vénéréologie, délivré en date du 29 octobre 2021 par",
+                  "« la Faculté de médecine, de pharmacie et d'odontologie -",
+                  "« stomatologie, Université Cheikh-Anta-Diop de Dakar -",
+                  "« Sénégal, assorti d'une attestation d'évaluation des",
+                  "« connaissances et des compétences, délivrée par la",
+                  "« Faculté de médecine et de pharmacie de Casablanca - le",
+                  "« 1er septembre 2022. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P403-25",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3511-22 du 24 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3511-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 403,
+        "end": 403
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur, de la",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté",
+                "paragraphs": [
+                  "susvisé n° 570-04 du 15 safar 1425 (6 avril 2004), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en dermatologie,",
+                  "« est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Sénégal :",
+                  "« ..............................................................................................",
+                  "« - Diplôme d'études spécialisées (D.E.S.) de dermatologie-",
+                  "« vénéréologie, délivré en date du 2 novembre 2021 par",
+                  "« la Faculté de médecine, de pharmacie et d'odontologie -",
+                  "« stomatologie, Université Cheikh-Anta-Diop de Dakar -",
+                  "« Sénégal, assorti d'une attestation d'évaluation des",
+                  "« connaissances et des compétences, délivrée par la",
+                  "« Faculté de médecine et de pharmacie de Casablanca - le",
+                  "« 1er septembre 2022.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P403-26",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3512-22 du 24 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3512-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 403,
+        "end": 403
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur, de la",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 950-04 du 6 rabii II 1425 (26 mai 2004), est complété comme",
+                  "suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en gynécologie-",
+                  "« obstétrique, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Sénégal :",
+                  "« ..............................................................................................",
+                  "« - Diplôme d'études spécialisées (D.E.S) de gynécologie -",
+                  "« obstétrique, délivré en date du 11 janvier 2021 par la",
+                  "« Faculté de médecine, de pharmacie et d'odontologie",
+                  "« stomatologie, Université Cheikh-Anta-Diop de Dakar -",
+                  "« Sénégal, assorti d'un stage d'une année au sein du",
+                  "« Centre hospitalier Ibn Rochd de Casablanca, validé par",
+                  "« la Faculté de médecine et de pharmacie de Casablanca,",
+                  "« le 8 septembre 2022.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P404-27",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3513-22 du 24 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3513-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 404,
+        "end": 404
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Fédération de Russie :",
+                  "« ..............................................................................................",
+                  "« - Qualification de médecin, dans la spécialité médecine",
+                  "« générale, délivrée en date du 7 juillet 2017 par",
+                  "« l'Université d'Etat de Tambov G.R. derjavin-Fédération",
+                  "« de Russie, assortie d'un stage de deux années : une année",
+                  "« au sein du Centre hospitalier Ibn Rochd de Casablanca",
+                  "« et une année au sein du Centre hospitalier provincial",
+                  "« de Bouskoura, validé par la Faculté de médecine et de",
+                  "« pharmacie de Casablanca - le 5 septembre 2022. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P404-28",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3514-22 du 24 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3514-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 404,
+        "end": 404
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur, de la",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 950-04 du 6 rabii II 1425 (26 mai 2004), est complété comme",
+                  "suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en gynécologie-",
+                  "« obstétrique, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Sénégal :",
+                  "« ..............................................................................................",
+                  "« - Diplôme d'études spécialisées (D.E.S) de gynécologie -",
+                  "« obstétrique, délivré en date du 2 février 2021 par la",
+                  "« Faculté de médecine, de pharmacie et d'odontologie",
+                  "« stomatologie, Université Cheikh-Anta-Diop de Dakar -",
+                  "« Sénégal, assorti d'un stage d'une année au sein du",
+                  "« Centre hospitalier Ibn Rochd de Casablanca, validé par",
+                  "« la Faculté de médecine et de pharmacie de Casablanca,",
+                  "« le 8 septembre 2022.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P405-29",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3515-22 du 24 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3515-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 405,
+        "end": 405
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 572-04 du 15 safar 1425 (6 avril 2004), est complété comme",
+                  "suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en radiologie,",
+                  "« est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Ukraine :",
+                  "« ..............................................................................................",
+                  "« - Certificate of specialized training in medicine (clinical",
+                  "« ordinatura) specialization in radiology, délivré en date",
+                  "« du 16 décembre 2019 par Sil Zaporizhia medical",
+                  "« Academy of post graduate education ministry",
+                  "« of health of Ukraine - Ukraine, assorti d'un stage de",
+                  "« deux années, une année au sein du Centre hospitalier",
+                  "« Ibn Rochd de Casablanca et une année au sein du",
+                  "« Centre hospitalier Moulay Youssef, validé par la",
+                  "« Faculté de médecine et de pharmacie de Casablanca -",
+                  "« le 8 septembre 2022. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P405-30",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3516-22 du 24 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3516-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 405,
+        "end": 405
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Espagne :",
+                  "« ..............................................................................................",
+                  "« - Titulo universitario oficial de graduada en medicina,",
+                  "« délivré par Universidad de Malaga - Espagne.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P406-31",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3517-22 du 24 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3517-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 406,
+        "end": 406
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur, de la",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 666-03 du 7 rejeb 1424 (4 septembre 2003), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en urologie,",
+                  "« est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Sénégal :",
+                  "« ..............................................................................................",
+                  "« - Diplôme d'études spécialisées (D.E.S) d'urologie,",
+                  "« délivré en date du 14 janvier 2022 par la Faculté de",
+                  "« médecine, de pharmacie et d'odontologie - stomatologie,",
+                  "« Université Cheikh - Anta - Diop de Dakar - Sénégal,",
+                  "« assorti d'une attestation d'évaluation des connaissances",
+                  "« et des compétences, délivrée par la Faculté de médecine,",
+                  "« de pharmacie et de médecine dentaire de Fès - le",
+                  "« 30 septembre 2022. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P406-32",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3518-22 du 24 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3518-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 406,
+        "end": 406
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'éducation nationale, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 346-04 du 4 moharrem 1425 (25 février 2004), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en oto-rhinolaryngologie, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Sénégal :",
+                  "« ..............................................................................................",
+                  "« - Diplôme d'études spécialisées (D.E.S) d'oto-rhino-",
+                  "« laryngologie, délivré en date du 16 décembre 2020 par",
+                  "« la Faculté de médecine, de pharmacie et d'odontologie",
+                  "« stomatologie, Université Cheikh-Anta-Diop de",
+                  "« Dakar - Sénégal, assorti d'un stage d'une année : du",
+                  "« 12 juillet 2021 au 13 juillet 2022 au Centre hospitalier",
+                  "« Hassan II de Fès, validé par la Faculté de médecine,",
+                  "« de pharmacie et de médecine dentaire de Fès - le",
+                  "« 30 septembre 2022.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P407-33",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3519-22 du 24 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3519-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 407,
+        "end": 407
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Roumanie :",
+                  "« ..............................................................................................",
+                  "« - Titlul de doctor-medic, in domeniul sanatate,",
+                  "« programul medicina, délivré en date du 16 septembre 2021",
+                  "« par Facultatea de medicina, Universitatii de Vest",
+                  "« « Vasile Goldis » Din Arad - Roumanie, assorti d'une",
+                  "« attestation d'évaluation des connaissances et des",
+                  "« compétences, délivrée par la Faculté de médecine et",
+                  "« de pharmacie de Casablanca - le 23 septembre 2022. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P407-34",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3520-22 du 24 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3520-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 407,
+        "end": 407
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'éducation nationale, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2189-04 du 14 kaada 1425 (27 décembre 2004), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en cardiologie ,",
+                  "« est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - France :",
+                  "« ..............................................................................................",
+                  "« - Diplôme d'études spécialisées de cardiologie et maladies",
+                  "« vasculaires, délivré par les Universités françaises.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P408-35",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3521-22 du 24 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3521-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 408,
+        "end": 408
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Fédération de Russie :",
+                  "« ..............................................................................................",
+                  "« - Qualification de médecin, dans la spécialité médecine",
+                  "« générale, délivrée en date du 23 juin 2015 par l'Université",
+                  "« d'Etat de médecine de Riazan nommée par l'Académicien",
+                  "« I.P. Pavlov - Fédération de Russie, assortie d'un stage",
+                  "« de deux années, une année au sein du Centre hospitalier",
+                  "« Ibn Rochd de Casablanca et une année au sein du",
+                  "« Centre hospitalier Moulay Youssef, validé par la",
+                  "« Faculté de médecine et de pharmacie de Casablanca -",
+                  "« le 8 septembre 2022.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P408-36",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3522-22 du 24 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3522-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 408,
+        "end": 408
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur, de la",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 666-03 du 7 rejeb 1424 (4 septembre 2003), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en urologie,",
+                  "« est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Sénégal :",
+                  "« ..............................................................................................",
+                  "« - Diplôme d'études spécialisées (D.E.S) d'urologie,",
+                  "« délivré en date du 6 décembre 2021 par la Faculté",
+                  "« de médecine, de pharmacie et d'odontologie -",
+                  "« stomatologie, Université Cheikh - Anta - Diop de Dakar -",
+                  "« Sénégal, assorti d'une attestation d'évaluation des",
+                  "« connaissances et des compétences, délivrée par la",
+                  "« Faculté de médecine et de pharmacie de Casablanca -",
+                  "« le 7 octobre 2022. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P409-37",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3523-22 du 24 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3523-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 409,
+        "end": 409
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur, de la",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté",
+                "paragraphs": [
+                  "susvisé n° 570-04 du 15 safar 1425 (6 avril 2004), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en dermatologie,",
+                  "« est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Sénégal :",
+                  "« ..............................................................................................",
+                  "« - Diplôme d'études spécialisées (D.E.S.) de dermatologie-",
+                  "« vénéréologie, délivré en date du 13 décembre 2021 par",
+                  "« la Faculté de médecine, de pharmacie et d'odontologie -",
+                  "« stomatologie, Université Cheikh-Anta-Diop de Dakar -",
+                  "« Sénégal, assorti d'une attestation d'évaluation des",
+                  "« connaissances et des compétences, délivrée par la",
+                  "« Faculté de médecine et de pharmacie de Casablanca - le",
+                  "« 1er septembre 2022. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P409-38",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3524-22 du 24 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3524-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 409,
+        "end": 409
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur, de la",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 950-04 du 6 rabii II 1425 (26 mai 2004), est complété comme",
+                  "suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en gynécologie-",
+                  "« obstétrique, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Roumanie :",
+                  "« ..............................................................................................",
+                  "« - Certificat de medic specialist obstetrica-ginecologie,",
+                  "« délivré en date du 29 janvier 2021 par ministerul",
+                  "« sanatatii - Roumanie, assorti d'un stage d'une année",
+                  "« au sein du Centre hospitalier Ibn Rochd de Casablanca,",
+                  "« validé par la Faculté de médecine et de pharmacie de",
+                  "« Casablanca - le 8 septembre 2022 .»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P410-39",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3525-22 du 24 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3525-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 410,
+        "end": 410
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Roumanie :",
+                  "« ..............................................................................................",
+                  "« - Titlul doctor-medic, in domeniul sanatate, specializarea",
+                  "« medicina, délivré en date du 5 janvier 2016 par",
+                  "« Facultatea de medicina, Universitatii de medicina",
+                  "« si farmacie « IULIU Hatieganu » din Cluj-Napoca,",
+                  "« Roumanie, assorti d'un stage d'une année au sein du",
+                  "« Centre hospitalier Ibn Rochd de Casablanca, validé par",
+                  "« la Faculté de médecine et de pharmacie de Casablanca -",
+                  "« le 8 septembre 2022.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P410-40",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 50-23 du 13 joumada II 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "50-23",
+        "date": "2023-01-06"
+      },
+      "pages": {
+        "start": 410,
+        "end": 410
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi n° 016-89,",
+                  "« assortis du baccalauréat, série scientifique ou technique ou",
+                  "« d'un diplôme reconnu équivalent :",
+                  "« ............................................................................................",
+                  "« - Diplôme national d'architecte, délivré en date du",
+                  "« 4 novembre 2020 par l'Ecole nationale d'architecture et",
+                  "« d'urbanisme, Université de Carthage - Tunisie, assorti de",
+                  "« l'attestation de validation du complément de formation,",
+                  "« délivrée par l'Ecole nationale d'architecture de Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-2140-P411-41",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 51-23 du 13 joumada II 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "51-23",
+        "date": "2023-01-06"
+      },
+      "pages": {
+        "start": 411,
+        "end": 411
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi n° 016-89, assortis du",
+                  "« baccalauréat, série scientifique ou technique ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« .............................................................................................",
+                  "« - Master degree program subject area «architecture",
+                  "« and town planning» educational and scientific program",
+                  "« « architecture of buildings and constructions» délivré en",
+                  "« date du 30 mai 2020 par O.M. Beketov national",
+                  "« University of Urban economy in Kharkiv-Ukraine,",
+                  "« assorti du grade de bachelier ès arts (B.A) en design",
+                  "« de l'environnement, délivré en date du 17 juin 2014 par",
+                  "« la Faculté des arts, Université du Québec à Montréal,",
+                  "« Canada et de l'attestation de validation du complément",
+                  "« de formation, délivrée par l'Ecole nationale",
+                  "« d'architecture de Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    }
+  ]
+}

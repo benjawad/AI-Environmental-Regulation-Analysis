@@ -29,9 +29,9 @@ MEDIA_URL = "/media/"
 
 # Applications
 INSTALLED_APPS = [
-    "unfold", 
-    "unfold.contrib.filters",
-    "unfold.contrib.forms",   
+    "jazzmin", 
+    # "unfold.contrib.filters",
+    # "unfold.contrib.forms",   
     "django.contrib.admin",
     "django.contrib.auth",
     "django.contrib.contenttypes",
@@ -40,14 +40,21 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "app",
 ]
-SUIT_CONFIG = {
-    "ADMIN_NAME": "AI Legal Register",
-    "HEADER_DATE_FORMAT": "l, j. F Y",
-    "MENU_OPEN_FIRST_CHILD": True,
-    "MENU": (
-        "sites",
-        {"app": "app", "label": "Legal Data", "models": ("document", "analysisresult")},
-    ),
+
+JAZZMIN_SETTINGS = {
+    "site_title": "Legal Register Admin",
+    "site_header": "Legal Register",
+    "site_brand": "Legal Register",
+    "welcome_sign": "Welcome to the Legal Register",
+    "copyright": "Legal Register Ltd",
+    "search_model": "auth.User",
+    "search_models": ["auth.User", "app.Document", "app.AnalysisResult"],
+    "icons": {
+        "auth": "fas fa-users-cog",
+        "auth.user": "fas fa-user",
+        "app.Document": "fas fa-file-alt",
+        "app.AnalysisResult": "fas fa-clipboard-list",
+    },
 }
 
 

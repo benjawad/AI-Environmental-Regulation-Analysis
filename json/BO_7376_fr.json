@@ -1,0 +1,3906 @@
+{
+  "bulletin_number": "7376",
+  "publication_date": {
+    "gregorian": "",
+    "hijri": "7 chaabane 1446"
+  },
+  "source_file": "BO_7376_fr.pdf",
+  "content": [
+    {
+      "entry_id": "BO-7376-P8-1",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 29 chaabane 1443 (1er avril 2022)",
+      "reference": {
+        "type": "decret",
+        "number": "2-22-208",
+        "date": "2022-04-01"
+      },
+      "pages": {
+        "start": 8,
+        "end": 8
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-928 du 23 rabii II 1443 (29 novembre",
+            "reference_to": "Decret n° 2-21-928"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les dispositions de l'article 2 du",
+                "paragraphs": [
+                  "décret susvisé n° 2-21-928 du 23 rabii II 1443 (29 novembre",
+                  "2021) sont modifiées et complétées comme suit :",
+                  "« Article 2. - En application des dispositions de l'article 8",
+                  "« de la loi n° 98-15 susvisée, l'immatriculation prend effet à",
+                  "« compter du premier jour du mois qui suit celui durant lequel",
+                  "« l'auto-entrepreneur doit présenter la première déclaration de",
+                  "« son chiffre d'affaires conformément à la législation en vigueur.",
+                  "« Cependant, l'immatriculation des auto-entrepreneurs",
+                  "« inscrits au registre national des auto-entrepreneurs jusqu'au",
+                  "« 31 décembre 2021, prend effet à compter du 1er février 2022.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le ministre de la santé et de la protection sociale,",
+                "paragraphs": [
+                  "le ministre de l'inclusion économique, de la petite entreprise, de",
+                  "l'emploi et des compétences ainsi que le ministre délégué auprès",
+                  "de la ministre de l'économie et des finances, chargé du budget",
+                  "sont chargés, chacun en ce qui le concerne, de l'exécution du",
+                  "présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P8-2",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 8 kaada 1443 (8 juin 2022) portant",
+      "reference": {
+        "type": "decret",
+        "number": "2-22-337",
+        "date": "2022-06-08"
+      },
+      "pages": {
+        "start": 8,
+        "end": 9
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 65-00 portant code de la couverture médicale",
+            "reference_to": "Loi n° 65-00"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 98-15 relative au régime de l'assurance maladie",
+            "reference_to": "Loi n° 98-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 99-15 instituant un régime de pensions pour",
+            "reference_to": "Loi n° 99-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 65-99 relative au Code du travail promulguée",
+            "reference_to": "Loi n° 65-99"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le dahir portant loi n° 1-73-255 du 27 chaoual 1393",
+            "reference_to": "Loi n° 1-73-255"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-15-285 du 20 joumada II 1436 (10 avril",
+            "reference_to": "Decret n° 2-15-285"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-622 du 10 joumada I 1440 (17 janvier",
+            "reference_to": "Decret n° 2-18-622"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-929 du 23 rabii II 1443 (29 novembre",
+            "reference_to": "Decret n° 2-21-929"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions de",
+                "paragraphs": [
+                  "l'article 6 de la loi n° 98-15 relative au régime de l'assurance",
+                  "maladie obligatoire de base et l'article 4 de la loi n° 99-15",
+                  "instituant un régime de pensions susvisées, le présent décret",
+                  "fixe les modalités d'application des régimes précités aux",
+                  "propriétaires de barques de pêche artisanale, à l'exception de",
+                  "ceux qui sont assujettis au régime de la sécurité sociale."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - En application des dispositions de l'article 7 de",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P10-3",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 8 kaada 1443 (8 juin 2022)",
+      "reference": {
+        "type": "decret",
+        "number": "2-22-338",
+        "date": "2022-06-08"
+      },
+      "pages": {
+        "start": 10,
+        "end": 10
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-751 du 23 rabii II 1443 (29 novembre",
+            "reference_to": "Decret n° 2-21-751"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les dispositions de l'article 4 du",
+                "paragraphs": [
+                  "décret susvisé n° 2-21-751 du 23 rabii II 1443 (29 novembre",
+                  "2021) sont modifiées et complétées comme suit :",
+                  "« Article 4. - En application des dispositions de l'article 22",
+                  "« de la loi n° 98-15 .............................................. comme suit :",
+                  "« - une (1) fois la valeur résultant ............................. au",
+                  "« régime du résultat net simplifié ;",
+                  "« - 3,2 fois la valeur précitée ............... les artisans soumis",
+                  "« au régime du résultat net réel, réalisant .....................",
+                  "« inférieur ou égal à 100.000 dirhams ;",
+                  "« - 6 fois la valeur précitée .................... artisans soumis",
+                  "« au régime du résultat net réel, réalisant ....................",
+                  "« supérieur à 100.000 dirhams ;",
+                  "« Par dérogation aux dispositions du premier alinéa",
+                  "« ci-dessus, le revenu forfaitaire est fixé à 3,2 de la valeur",
+                  "« précitée pour les commerçants et les artisans tenant une",
+                  "« comptabilité et soumis au régime du résultat net réel, au titre",
+                  "« de la période allant du premier du mois qui suit celui durant",
+                  "« lequel ils ont commencé à tenir une comptabilité jusqu'à",
+                  "« la fin du mois durant lequel ils doivent déposer leur première",
+                  "« déclaration fiscale. A défaut, le revenu forfaitaire sera fixé",
+                  "« au titre des périodes suivantes à 6 fois la valeur précitée, à",
+                  "« condition de procéder à une mise à jour en se basant sur la",
+                  "« déclaration fiscale présentée par les personnes concernées,",
+                  "« et ce en appliquant le revenu forfaitaire correspondant à cette",
+                  "« déclaration au titre de l'année concernée.",
+                  "« Au cas où il s'est avéré, selon la déclaration fiscale,",
+                  "« que le revenu forfaitaire au titre de l'année concernée est égal",
+                  "« à 3,2 fois la valeur précitée, la Caisse nationale de la sécurité",
+                  "« sociale restitue d'office, dans un délai qui ne dépasse pas",
+                  "« trois (3) mois à compter de la date de réception de ladite",
+                  "« déclaration de la part de la Direction générale des impôts, la",
+                  "« différence avec les cotisations versées par l'intéressé sur la base",
+                  "« du revenu forfaitaire estimé à 6 fois la valeur précitée, tout en",
+                  "« l'informant par tout moyen de communication possible. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le ministre de la santé et de la protection",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P10-4",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 30 rabii II 1444 (25 novembre 2022) pris",
+      "reference": {
+        "type": "decret",
+        "number": "2-22-858",
+        "date": "2022-11-25"
+      },
+      "pages": {
+        "start": 10,
+        "end": 11
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 65-00 portant code de la couverture médicale",
+            "reference_to": "Loi n° 65-00"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 98-15 relative au régime de l'assurance maladie",
+            "reference_to": "Loi n° 98-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 99-15 instituant un régime de pensions pour",
+            "reference_to": "Loi n° 99-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 65-99 relative au Code du travail promulguée",
+            "reference_to": "Loi n° 65-99"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le Code général des impôts institué par l'article",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-622 du 10 joumada I 1440 (17 janvier 2019)",
+            "reference_to": "Decret n° 2-18-622"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-929 du 23 rabii II 1443 (29 novembre",
+            "reference_to": "Decret n° 2-21-929"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions de",
+                "paragraphs": [
+                  "l'article 6 de la loi n° 98-15 relative au régime de l'assurance maladie",
+                  "obligatoire de base et de l'article 4 de la loi n° 99-15 instituant",
+                  "un régime de pensions pour les catégories des professionnels,",
+                  "des travailleurs indépendants et des personnes non salariées"
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P12-5",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 30 rabii II 1444 (25 novembre 2022)",
+      "reference": {
+        "type": "decret",
+        "number": "2-22-859",
+        "date": "2022-11-25"
+      },
+      "pages": {
+        "start": 12,
+        "end": 13
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-751 du 23 rabii II 1443 (29 novembre",
+            "reference_to": "Decret n° 2-21-751"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les dispositions de l'article 4 du",
+                "paragraphs": [
+                  "décret susvisé n° 2-21-751 du 23 rabii II 1443 (29 novembre",
+                  "2021) sont modifiées et complétées comme suit :",
+                  "« Article 4. - En application des dispositions de l'article 22",
+                  "« de la loi n° 98-15 .................................... comme suit :",
+                  "« - une (1) fois la valeur résultant … au régime du résultat",
+                  "« net simplifié ;",
+                  "« - deux (2) fois la valeur résultant de la multiplication du",
+                  "« salaire minimum légal dans les activités non agricoles,",
+                  "« fixé en application des dispositions de l'article 356 de",
+                  "« la loi n° 65-99 susvisée, par la durée annuelle normale",
+                  "« de travail dans les activités non agricoles mentionnée",
+                  "« à l'article 184 de ladite loi pour les commerçants et",
+                  "« les artisans soumis au régime du résultat net réel et",
+                  "« réalisant des profits annuels nets ne dépassant pas",
+                  "« 50.000 dirhams ;",
+                  "« - trois (3) fois la valeur précitée pour les commerçants",
+                  "« et les artisans soumis au régime du résultat net réel et",
+                  "« réalisant des profits annuels nets ne dépassent pas 50.000",
+                  "« dirhams et ne dépassant pas 100.000 dirhams ;",
+                  "« - quatre (4) fois la valeur précitée pour les commerçants",
+                  "« et les artisans soumis au régime du résultat net réel et",
+                  "« réalisant des profits annuels nets supérieurs à 100.000",
+                  "« dirhams et ne dépassant pas 150.000 dirhams ;",
+                  "« - cinq (5) fois la valeur précitée pour les commerçants",
+                  "« et les artisans soumis au régime du résultat net réel et",
+                  "« réalisant des profits annuels nets supérieurs à 150.000",
+                  "« dirhams et ne dépassant pas 200.000 dirhams ;",
+                  "« - six (6) fois la valeur précitée pour les commerçants",
+                  "« et les artisans soumis au régime du résultat net",
+                  "« réel et réalisant des profits annuels nets supérieurs à",
+                  "« 200.000 dirhams.",
+                  "« Par dérogation aux dispositions …………..... est fixé à",
+                  "« 2 fois la valeur ……………… l'année concernée.",
+                  "« Au cas où il s'est avéré, selon la déclaration fiscale, que",
+                  "« le revenu forfaitaire au titre de l'année concernée est égal à",
+                  "« 2, 3, 4 ou 5 fois la valeur précitée. ………………………. moyen",
+                  "« de communication possible. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Les dispositions du présent décret sont",
+                "paragraphs": [
+                  "applicables aux commerçants et artisans soumis au régime",
+                  "du résultat net réel, visés à l'article premier ci-dessus, qui font",
+                  "leur déclaration fiscale à compter du 1er janvier 2023.",
+                  "<<<BO_PAGE_13_DELIM>>>",
+                  "Nº 7376 - 7 chaabane 1446 (6-2-2025)"
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le ministre de la santé et de la protection",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P13-6",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 30 rabii II 1444 (25 novembre 2022) pris",
+      "reference": {
+        "type": "decret",
+        "number": "2-22-860",
+        "date": "2022-11-25"
+      },
+      "pages": {
+        "start": 13,
+        "end": 13
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 65-00 portant code de la couverture médicale",
+            "reference_to": "Loi n° 65-00"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 98-15 relative au régime de l'assurance maladie",
+            "reference_to": "Loi n° 98-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 99-15 instituant un régime de pensions pour",
+            "reference_to": "Loi n° 99-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 65-99 relative au Code du travail promulguée",
+            "reference_to": "Loi n° 65-99"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 30-09 relative à l'éducation physique et aux",
+            "reference_to": "Loi n° 30-09"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-622 du 10 joumada I 1440 (17 janvier",
+            "reference_to": "Decret n° 2-18-622"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-929 du 23 rabii II 1443 (29 novembre",
+            "reference_to": "Decret n° 2-21-929"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions de",
+                "paragraphs": [
+                  "l'article 6 de la loi n° 98-15 relative au régime de l'assurance",
+                  "maladie obligatoire de base et de l'article 4 de la loi n° 99-15",
+                  "instituant un régime de pensions susvisées, le présent décret",
+                  "fixe les modalités d'application des régimes précités aux",
+                  "sportifs et aux cadres sportifs non-salariés exerçant une",
+                  "activité footballistique, sous l'égide de la Fédération Royale",
+                  "Marocaine de Football."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - En application des dispositions de l'article 7",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P14-7",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 30 rabii II 1444 (25 novembre 2022)",
+      "reference": {
+        "type": "decret",
+        "number": "2-22-861",
+        "date": "2022-11-25"
+      },
+      "pages": {
+        "start": 14,
+        "end": 15
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 65-00 portant code de la couverture médicale",
+            "reference_to": "Loi n° 65-00"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 98-15 relative au régime de l'assurance maladie",
+            "reference_to": "Loi n° 98-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 99-15 instituant un régime de pensions pour",
+            "reference_to": "Loi n° 99-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 89-13 relative au statut des journalistes",
+            "reference_to": "Loi n° 89-13"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 90-13 portant création du Conseil national de",
+            "reference_to": "Loi n° 90-13"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-19-121 du 7 rejeb 1440 (14 mars 2019)",
+            "reference_to": "Decret n° 2-19-121"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-622 du 10 joumada I 1440 (17 janvier",
+            "reference_to": "Decret n° 2-18-622"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-929 du 23 rabii II 1443 (29 novembre",
+            "reference_to": "Decret n° 2-21-929"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions de",
+                "paragraphs": [
+                  "l'article 6 de la loi n° 98-15 relative au régime de l'assurance",
+                  "maladie obligatoire de base et de l'article 4 de la loi n° 99-15",
+                  "instituant un régime de pensions susvisées, le présent décret",
+                  "fixe les modalités d'application des deux régimes précités",
+                  "aux journalistes professionnels non salariés titulaires de la",
+                  "carte de journaliste professionnel, aux personnes assimilées",
+                  "titulaires d'une carte de presse spéciale et aux journalistes",
+                  "professionnels accrédités et assimilés, non salariés, titulaires",
+                  "de la carte de journaliste professionnel."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - En application des dispositions de l'article 7",
+                "paragraphs": [
+                  "de la loi n° 98-15 précitée, les personnes visées à l'article",
+                  "premier ci-dessus sont tenues, dans un délai ne dépassant pas",
+                  "le dernier jour du mois durant lequel commence à courir, en",
+                  "ce qui les concerne, l'effet de l'immatriculation, de demander",
+                  "leur immatriculation, via la plateforme électronique créée à cet",
+                  "effet par la Caisse nationale de sécurité sociale, ou de déposer",
+                  "leur demande auprès de l'une des agences de la Caisse proche",
+                  "de leur lieu de résidence ou de travail ou auprès des réseaux",
+                  "de proximité relevant des établissements qui ont conclu une",
+                  "convention à cet effet avec la Caisse nationale de sécurité",
+                  "sociale, dont la liste est publiée sur le site électronique de la",
+                  "Caisse, ou par tout moyen approprié , contre un récépissé",
+                  "ou un accusé, et selon un modèle établi à cet effet par ladite",
+                  "Caisse. Sont jointes à ladite demande les pièces fixées en vertu",
+                  "des textes réglementaires en vigueur."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - En application des dispositions de l'article 8 de",
+                "paragraphs": [
+                  "la loi n° 98-15 précitée, l'immatriculation des personnes visées",
+                  "à l'article premier ci-dessus prend effet à compter du premier",
+                  "jour du mois qui suit celui au cours duquel ces personnes",
+                  "remplissent les conditions d'assujettissement au régime prévu",
+                  "à l'article premier de ladite loi."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - En application des dispositions de l'article 22",
+                "paragraphs": [
+                  "de la loi n° 98-15 et de l'article 14 de la loi n°99-15 susvisées, le",
+                  "revenu forfaitaire de la catégorie ci-dessus est fixé à deux (2)",
+                  "fois la valeur résultant de la multiplication du salaire minimum",
+                  "légal dans les activités non agricoles, fixé en application des",
+                  "dispositions de l'article 356 de la loi n° 65-99 susmentionnée,",
+                  "par la durée normale annuelle du travail dans les activités non",
+                  "agricoles mentionnée à l'article 184 de ladite loi."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Les cotisations à verser à la Caisse nationale",
+                "paragraphs": [
+                  "de sécurité sociale par toute personne parmi celles visées à",
+                  "l'article premier ci-dessus, sont calculées sur la base du revenu",
+                  "forfaitaire fixé à l'article 4 ci-dessus."
+                ]
+              },
+              {
+                "article_number": "ART. 6. - En application des dispositions du 1er alinéa de",
+                "paragraphs": [
+                  "l'article 12 de la loi n° 98-15 et de l'article 14 de la loi n° 99-15",
+                  "précitées, les cotisations sont versées mensuellement à partir",
+                  "du 1er jour de chaque mois dont la cotisation est exigible."
+                ]
+              },
+              {
+                "article_number": "ART. 7. - En application des dispositions de l'article 11 de",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P15-8",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 30 rabii II 1444 (25 novembre 2022) pris",
+      "reference": {
+        "type": "decret",
+        "number": "2-22-911",
+        "date": "2022-11-25"
+      },
+      "pages": {
+        "start": 15,
+        "end": 16
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 65-00 portant code de la couverture médicale",
+            "reference_to": "Loi n° 65-00"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 98-15 relative au régime de l'assurance maladie",
+            "reference_to": "Loi n° 98-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 99-15 instituant un régime de pensions pour",
+            "reference_to": "Loi n° 99-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 30-09 relative à l'éducation physique et aux",
+            "reference_to": "Loi n° 30-09"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-622 du 10 joumada I 1440 (17 janvier",
+            "reference_to": "Decret n° 2-18-622"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-929 du 23 rabii II 1443 (29 novembre",
+            "reference_to": "Decret n° 2-21-929"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions de",
+                "paragraphs": [
+                  "l'article 6 de la loi n° 98-15 relative au régime de l'assurance",
+                  "maladie obligatoire de base et de l'article 4 de la loi n° 99-15",
+                  "instituant un régime de pensions susmentionnées, ce décret",
+                  "fixe les modalités d'application des régimes précitées aux",
+                  "sportifs et aux cadres sportifs non-salariés, autre que les",
+                  "sportifs et les cadres sportifs non-salariés exerçant une activité",
+                  "footballistique sous l'égide de la Fédération Royale Marocaine",
+                  "de Football."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - En application des dispositions de l'article",
+                "paragraphs": [
+                  "7 de la loi n° 98-15 précitée, les personnes visées à l'article",
+                  "premier ci-dessus sont tenues, dans un délai ne dépassant pas",
+                  "le dernier jour du mois durant lequel commence à courir, en",
+                  "ce qui les concerne, l'effet de l'immatriculation, de demander",
+                  "leur immatriculation, via la plateforme électronique créée à cet",
+                  "effet par la Caisse nationale de sécurité sociale, ou de déposer",
+                  "leur demande auprès de l'une des agences de la Caisse proche",
+                  "de leur lieu de résidence ou de travail ou auprès des réseaux",
+                  "de proximité relevant des établissements qui ont conclu une",
+                  "convention à cet effet avec la Caisse nationale de sécurité",
+                  "sociale, dont la liste est publiée sur le site électronique de la",
+                  "Caisse, ou par tout moyen approprié, contre un récépissé ou un",
+                  "accusé, et selon un modèle établi à cet effet par ladite Caisse.",
+                  "Sont jointes à ladite demande les pièces fixées en vertu des",
+                  "textes réglementaires en vigueur."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - En application des dispositions de l'article 8",
+                "paragraphs": [
+                  "de la loi n° 98-15 susmentionnée, l'effet de l'immatriculation",
+                  "des personnes visées à l'article premier ci-dessus commence",
+                  "à partir du 1er jour du mois qui suit le mois où ces dernières",
+                  "ont rempli les conditions de l'assujettissement au régime",
+                  "mentionné à l'article premier de la loi précitée."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - En application des dispositions de l'article 22 de",
+                "paragraphs": [
+                  "la loi n° 98-15 et de l'article 14 de la loi n° 99-15 susmentionnées,",
+                  "le revenu forfaitaire est fixé, pour les personnes visées à l'article",
+                  "premier ci-dessus, à une fois (1) la valeur résultant de la",
+                  "multiplication du salaire minimum légal dans les activités non",
+                  "agricoles, fixé en application des dispositions de l'article 356",
+                  "de la loi n° 65-99 susvisée, par la durée annuelle normale de",
+                  "travail dans les activités non agricoles prévue à l'article 184",
+                  "de la même loi."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Les cotisations à verser à la Caisse nationale",
+                "paragraphs": [
+                  "de sécurité sociale par toute personne parmi celles visées à",
+                  "l'article premier ci-dessus, sont calculées sur la base du revenu",
+                  "forfaitaire fixé à l'article 4 ci-dessus."
+                ]
+              },
+              {
+                "article_number": "ART. 6. - En application des dispositions du 1er alinéa de",
+                "paragraphs": [
+                  "l'article 12 de la loi n° 98-15 et de l'article 14 de la loi n° 99-15",
+                  "précitées, les cotisations sont versées mensuellement à partir",
+                  "du 1er jour de chaque mois dont la cotisation est exigible."
+                ]
+              },
+              {
+                "article_number": "ART. 7. - En application des dispositions de l'article 11",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P17-9",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 7 joumada II 1445 (21 décembre 2023)",
+      "reference": {
+        "type": "decret",
+        "number": "2-23-562",
+        "date": ""
+      },
+      "pages": {
+        "start": 17,
+        "end": 18
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la dahir n° 1-14-104 du 20 rejeb 1435 (20 mai 2014)",
+            "reference_to": "Dahir n° 1-14-104"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 65-00 portant code de la couverture médicale",
+            "reference_to": "Loi n° 65-00"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 98-15 relative à l'assurance maladie",
+            "reference_to": "Loi n° 98-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 99-15 instituant un régime de pensions pour",
+            "reference_to": "Loi n° 99-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 65-99 relative au Code du travail promulguée",
+            "reference_to": "Loi n° 65-99"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-622 du 10 joumada I 1440 (17 janvier 2019)",
+            "reference_to": "Decret n° 2-18-622"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-929 du 23 rabii II 1443 (29 novembre 2021)",
+            "reference_to": "Decret n° 2-21-929"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions de",
+                "paragraphs": [
+                  "l'article 6 de la loi n° 98-15 relative au régime de l'assurance",
+                  "maladie obligatoire de base et l'article 4 de la loi n° 99-15",
+                  "instituant un régime de pensions et sous réserve de la",
+                  "dérogation prévue à l'article 18 du dahir n° 1-14-104 susvisé,",
+                  "le présent décret fixe les modalités d'application des régimes",
+                  "précités aux préposés religieux chargés."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - En application des dispositions de l'article 7",
+                "paragraphs": [
+                  "de la loi n° 98-15 susvisée, les personnes prévues à l'article",
+                  "1er ci-dessus sont tenues, dans un délai ne dépassant pas le",
+                  "dernier jour du mois durant lequel commence à courir, en ce",
+                  "qui les concerne, l'effet de l'immatriculation, de demander leur",
+                  "immatriculation, via la plateforme électronique créée à cet",
+                  "effet par la Caisse nationale de sécurité sociale, ou de déposer",
+                  "leur demande auprès de l'une des agences de la Caisse proche",
+                  "de leur lieu de résidence ou de travail ou auprès des réseaux",
+                  "de proximité relevant des établissements qui ont conclu une",
+                  "convention à cet effet avec la Caisse nationale de sécurité",
+                  "sociale, dont la liste est publiée sur le site électronique de la",
+                  "Caisse, ou par tout moyen approprié, contre un récépissé ou un",
+                  "accusé, et selon un modèle établi à cet effet par ladite Caisse.",
+                  "Sont jointes à ladite demande les pièces fixées en vertu des",
+                  "textes réglementaires en vigueur."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - En application des dispositions de l'article",
+                "paragraphs": [
+                  "8 de la loi n° 98-15 susvisée, l'effet d'immatriculation, pour",
+                  "les préposés religieux chargés prévus à l'article premier cidessus, prend effet à compter du premier du mois qui suit",
+                  "celui au cours duquel ces personnes remplissent les conditions",
+                  "d'assujettissement au régime prévu à l'article premier de la",
+                  "loi précitée.",
+                  "Toutefois, l'immatriculation, pour les préposés religieux",
+                  "chargés exerçant leurs fonctions à la date de publication du",
+                  "présent décret au « Bulletin officiel », prend effet à compter",
+                  "du 1er janvier 2024."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - En application des dispositions de l'article 22",
+                "paragraphs": [
+                  "de la loi n° 98-15 et de l'article 14 de la loi n° 99-15 susvisées, le",
+                  "revenu forfaitaire pour la catégorie précitée est fixé à une fois",
+                  "(1) la valeur résultant de la multiplication du salaire minimum",
+                  "légal dans les activités non agricoles, fixé en application des",
+                  "dispositions de l'article 356 de la loi n° 65-99 susvisée, par",
+                  "la durée annuelle normale de travail dans les activités non",
+                  "agricoles prévue à l'article 184 de la même loi."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Les cotisations dues à la Caisse nationale de la",
+                "paragraphs": [
+                  "sécurité sociale par chaque personne parmi celles prévues à",
+                  "l'article premier ci-dessus, sont calculées sur la base du revenu",
+                  "forfaitaire fixé par l'article 4 ci-dessus."
+                ]
+              },
+              {
+                "article_number": "ART. 6. - En application des dispositions du 1er alinéa de",
+                "paragraphs": [
+                  "l'article 12 de la loi n° 98-15 et de l'article 14 de la loi n° 99-15",
+                  "précitées, les cotisations sont versées mensuellement à partir",
+                  "du 1er jour de chaque mois dont la cotisation est exigible.",
+                  "<<<BO_PAGE_18_DELIM>>>",
+                  "Nº 7376 - 7 chaabane 1446 (6-2-2025)",
+                  "A cet effet, la Caisse nationale de la sécurité sociale",
+                  "conclut avec le ministère des habous et des affaires islamiques",
+                  "une convention fixant les modalités de versement des",
+                  "cotisations pour la catégorie des préposés religieux chargés",
+                  "concernés."
+                ]
+              },
+              {
+                "article_number": "ART. 7. - En application des dispositions de l'article 13 de",
+                "paragraphs": [
+                  "la loi n° 98-15 susvisée, les préposés religieux chargés exerçant",
+                  "leurs fonctions à la date de publication du présent décret au",
+                  "«Bulletin officiel» sont exemptés de la période de stage prévue",
+                  "par ledit article."
+                ]
+              },
+              {
+                "article_number": "ART. 8. - En application des dispositions de l'article",
+                "paragraphs": [
+                  "11 de la loi n° 98-15 susvisée, le ministère des Habous et",
+                  "des affaires islamiques est considéré comme l'organisme de",
+                  "communication chargé de fournir à la Caisse nationale de",
+                  "sécurité sociale les informations dont il dispose, relatives à",
+                  "la catégorie des préposés religieux chargés prévus à l'article",
+                  "premier ci-dessus et nécessaires à leur immatriculation et ce,",
+                  "selon les modalités fixées en vertu des textes réglementaires",
+                  "en vigueur."
+                ]
+              },
+              {
+                "article_number": "ART. 9. - Le ministre des Habous et des affaires",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P18-10",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 17 joumada II 1446 (19 décembre 2024) portant approbation",
+      "reference": {
+        "type": "decret",
+        "number": "2-24-1090",
+        "date": ""
+      },
+      "pages": {
+        "start": 18,
+        "end": 18
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la Constitution, notamment son article 92 ;",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu les orientations stratégiques de la politique actionnariale de l'Etat approuvées par le Conseil des",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi-cadre n° 50-21 relative à la réforme des établissements et entreprises publics, promulguée par",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 82-20 portant création de l'Agence nationale de gestion stratégique des participations de l'Etat",
+            "reference_to": "Loi n° 82-20"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-22-796 du 4 rejeb 1444 (26 janvier 2023) relatif à la composition de l'Instance de",
+            "reference_to": "Decret n° 2-22-796"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni le 10 joumada II 1446 (12 décembre 2024),"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est approuvée la politique actionnariale de l'Etat, annexée au présent décret",
+                "paragraphs": [
+                  "ART 2. - Le présent décret est publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P26-11",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 26 rejeb 1446 (27 janvier 2025) modifiant",
+      "reference": {
+        "type": "decret",
+        "number": "2-24-1124",
+        "date": "2025-01-27"
+      },
+      "pages": {
+        "start": 26,
+        "end": 26
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-73-454 du 27 hija 1394 (10 janvier 1975)",
+            "reference_to": "Decret n° 2-73-454"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les dispositions de l'article 2 du",
+                "paragraphs": [
+                  "décret susvisé n° 2-73-454 du 27 hija 1394 (10 janvier 1975) sont",
+                  "modifiées et complétées comme suit :",
+                  "« Article 2. - Les fonctions de conservateur des",
+                  "« hypothèques maritimes des navires de pêche sont exercées",
+                  "« conformément à la législation en vigueur, par l'autorité",
+                  "« gouvernementale chargée de la pêche maritime ou la",
+                  "« personne déléguée par elle à cet effet.",
+                  "« En cas d'absence ou d'empêchement, lesdites fonctions",
+                  "« sont exercées par un conservateur adjoint.",
+                  "« Le conservateur adjoint est désigné par l'autorité",
+                  "« gouvernementale chargée de la pêche maritime parmi",
+                  "« ...................................... centraux du département de la pêche",
+                  "« maritime.",
+                  "« Les fonctions ..................................................................",
+                  "(La suite sans modification.)"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le ministre de l'agriculture, de la pêche maritime,",
+                "paragraphs": [
+                  "du développement rural et des eaux et forêts est chargé de",
+                  "l'exécution du présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P26-12",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "24 rejeb 1445 (5 février 2024) fixant les règles prudentielles",
+      "reference": {
+        "type": "arrete",
+        "number": "289-24",
+        "date": ""
+      },
+      "pages": {
+        "start": 26,
+        "end": 27
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 42-12 relative au marché à terme d'instruments",
+            "reference_to": "Loi n° 42-12"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de l'instance de coordination du marché à"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Au sens du présent arrêté, on",
+                "paragraphs": [
+                  "entend par :",
+                  "- position sur un instrument financier à terme : le montant",
+                  "d'une transaction sur l'instrument financier à terme ;",
+                  "- position nette sur un instrument financier à terme : le",
+                  "solde résultant de la différence entre les positions à",
+                  "l'achat et les positions à la vente prises sur l'instrument",
+                  "financier à terme.",
+                  "La position nette peut être une position nette à l'achat,",
+                  "lorsque les positions à l'achat sont supérieures aux",
+                  "positions à la vente, ou une position nette à la vente",
+                  "dans le cas contraire ;",
+                  "- position nette pour le compte des clients : total des",
+                  "positions nettes pour le compte des clients par",
+                  "instrument financier à terme ;",
+                  "- position nette pour compte propre : total des positions",
+                  "nettes pour compte propre d'un membre négociateur",
+                  "par instrument financier à terme ;",
+                  "- actifs liquides : des actifs qui peuvent être facilement",
+                  "convertis en espèces sans affecter de manière",
+                  "significative leur valeur. Ils comprennent notamment :",
+                  "• les fonds en espèces déposés auprès des établissements",
+                  "de crédit agréés ;",
+                  "• les titres de créances émis ou garantis par l'Etat ;",
+                  "• les obligations sécurisées ;",
+                  "• les obligations et billets de trésorerie ;",
+                  "• les titres émis par les organismes de placement",
+                  "collectif en valeurs mobilières monétaires.",
+                  "<<<BO_PAGE_27_DELIM>>>",
+                  "Nº 7376 - 7 chaabane 1446 (6-2-2025)"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Les membres négociateurs sont tenus de",
+                "paragraphs": [
+                  "calculer et de respecter en permanence les ratios suivants :",
+                  "- un ratio de couverture des risques : rapport entre le",
+                  "total des montants des risques encourus par le membre",
+                  "négociateur sur les positions nettes prises pour compte",
+                  "propre et pour le compte de ses clients en numérateur,",
+                  "et le montant des fonds propres nets du membre",
+                  "négociateur en dénominateur.",
+                  "Ledit ratio doit être en permanence inférieur ou égal",
+                  "à 100% ;",
+                  "- un ratio de couverture de position nette pour le",
+                  "compte propre sur le même instrument : rapport",
+                  "entre le montant de la position nette pour le compte",
+                  "propre sur instrument financier à terme sur action en",
+                  "numérateur, et le montant des fonds propres nets du",
+                  "membre négociateur en dénominateur.",
+                  "Ledit ratio doit être en permanence inférieur ou égal",
+                  "à 40% ;",
+                  "- un ratio de couverture de position nette client : rapport",
+                  "entre le montant de la position nette de chaque client",
+                  "en numérateur, et le montant des fonds propres nets du",
+                  "membre négociateur en dénominateur.",
+                  "Ledit ratio doit être en permanence inférieur ou égal",
+                  "à 25% ;",
+                  "- un ratio de liquidité des actifs : rapport entre le",
+                  "montant des actifs liquides détenus par le membre",
+                  "négociateur en numérateur, et le montant des dépenses",
+                  "de fonctionnement annuelles dudit membre en",
+                  "dénominateur.",
+                  "Ledit ratio doit être supérieur ou égal à 25% ;",
+                  "- un ratio minimum des fonds propres nets : rapport",
+                  "entre le montant des fonds propres nets du membre",
+                  "négociateur en numérateur, et le montant du capital",
+                  "minimal dudit membre en dénominateur.",
+                  "Ledit ratio doit être supérieur ou égale à 100%."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Les risques encourus par un membre",
+                "paragraphs": [
+                  "négociateur retenus dans le calcul du ratio de couverture des",
+                  "risques est égal au total :",
+                  "- de la position nette pour le compte des clients, multipliée",
+                  "par 0,3% ;",
+                  "- de la position nette pour le compte propre, multipliée",
+                  "par 3%."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - Les fonds propres nets pris en compte dans le",
+                "paragraphs": [
+                  "calcul du dénominateur des ratios prévus à l'article 2 ci-dessus",
+                  "comprennent :",
+                  "- le capital social ;",
+                  "- les primes d'émission, de fusion et d'apport ;",
+                  "- les écarts de réévaluation ;",
+                  "- les réserves ;",
+                  "- le report à nouveau créditeur ;",
+                  "- les provisions réglementées.",
+                  "Le total des éléments cités ci-dessus diminué le cas",
+                  "échéant, du total des éléments ci-après :",
+                  "- du montant du capital souscrit non encore appelé ;",
+                  "- du résultat provisoire de l'exercice en cours, s'il est",
+                  "déficitaire ;",
+                  "- du report à nouveau débiteur ;",
+                  "- du résultat net débiteur en instance d'affectation ;",
+                  "- des immobilisations en non valeurs nettes des",
+                  "amortissements ;",
+                  "- des immobilisations incorporelles nettes des",
+                  "amortissements et des provisions pour dépréciation ;",
+                  "- des titres de placement, de participation du membre",
+                  "négociateur et ceux de ses filiales détenus dans le",
+                  "capital des autres membres négociateurs, nets des",
+                  "provisions pour dépréciation ;",
+                  "- des titres de placement détenus par le membre",
+                  "négociateur dans le capital de ses sociétés actionnaires ;",
+                  "- des avances consenties aux actionnaires ;",
+                  "- des moins-values nettes éventuelles sur l'ensemble des",
+                  "opérations non encore intégrées au résultat provisoire."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Les membres négociateurs-compensateurs",
+                "paragraphs": [
+                  "sont tenus au respect de l'ensemble des règles prudentielles",
+                  "qui s'appliquent aux membres négociateurs et aux membres",
+                  "compensateurs."
+                ]
+              },
+              {
+                "article_number": "ART. 6. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P27-13",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "24 rejeb 1445 (5 février 2024) fixant les règles prudentielles",
+      "reference": {
+        "type": "arrete",
+        "number": "290-24",
+        "date": ""
+      },
+      "pages": {
+        "start": 27,
+        "end": 28
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n°42-12 relative au marché à terme d'instruments",
+            "reference_to": "Loi n° 42-12"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de l'instance de coordination du marché à"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Au sens du présent arrêté, on",
+                "paragraphs": [
+                  "entend par :",
+                  "- position sur un instrument financier à terme : le montant",
+                  "d'une transaction sur l'instrument financier à terme ;",
+                  "- position nette sur un instrument financier à terme : le",
+                  "solde résultant de la compensation entre les positions à",
+                  "l'achat et les positions à la vente prises sur l'instrument",
+                  "financier à terme ;",
+                  "<<<BO_PAGE_28_DELIM>>>",
+                  "Nº 7376 - 7 chaabane 1446 (6-2-2025)",
+                  "La position nette peut être une position nette à l'achat,",
+                  "lorsque les positions à l'achat sont supérieures aux positions à",
+                  "la vente, ou une position nette à la vente dans le cas contraire ;",
+                  "- position nette pour le compte des clients : total des",
+                  "positions nettes pour le compte des clients par",
+                  "instrument financier à terme ;",
+                  "- position nette pour compte propre : total des positions",
+                  "nettes pour compte propre d'un membre compensateur",
+                  "par instrument financier à terme ;",
+                  "- actifs liquides : des actifs qui peuvent être facilement",
+                  "convertis en espèces, sans affecter de manière",
+                  "significative leur valeur. Ils comprennent notamment :",
+                  "• les fonds en espèces déposés auprès des",
+                  "établissements de crédit agréés ;",
+                  "• les titres de créances émis ou garantis par l'Etat ;",
+                  "• les obligations sécurisées ;",
+                  "• les obligations et billets de trésorerie ;",
+                  "• les titres émis par les organismes de placement",
+                  "collectif en valeurs mobilières monétaires."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Les membres compensateurs, à l'exclusion",
+                "paragraphs": [
+                  "des banques agréées, sont tenus de calculer et de respecter en",
+                  "permanence les ratios suivants :",
+                  "- un ratio de couverture des risques : rapport entre",
+                  "le total des montants des risques encourus par le",
+                  "membre compensateur sur les positions nettes prises",
+                  "pour compte propre et pour le compte de ses clients",
+                  "en numérateur, et le montant des fonds propres",
+                  "nets du membre compensateur en dénominateur.",
+                  "Ledit ratio doit être en permanence inférieur ou égal",
+                  "à 100% ;",
+                  "- un ratio de couverture de position nette pour le",
+                  "compte propre sur le même instrument : rapport",
+                  "entre le montant de la position nette pour le compte",
+                  "propre sur instrument financier à terme sur action",
+                  "en numérateur, et le montant des fonds propres",
+                  "nets du membre compensateur en dénominateur.",
+                  "Ledit ratio doit être en permanence inférieur ou égal",
+                  "à 40% ;",
+                  "- un ratio de couverture de position nette client : rapport",
+                  "entre le montant de la position nette de chaque client",
+                  "en numérateur, et le montant des fonds propres",
+                  "nets du membre compensateur en dénominateur.",
+                  "Ledit ratio doit être en permanence inférieur ou égal",
+                  "à 25% ;",
+                  "- un ratio de liquidité des actifs : rapport entre le montant des",
+                  "actifs liquides du membre compensateur en numérateur,",
+                  "et le montant des dépenses de fonctionnement",
+                  "annuelles dudit membre en dénominateur.",
+                  "Ledit ratio doit être supérieur ou égal à 50% ;",
+                  "- un ratio minimum des fonds propres nets : rapport",
+                  "entre le montant des fonds propres nets du membre",
+                  "compensateur en numérateur, et le montant du capital",
+                  "minimal en dénominateur.",
+                  "Ledit ratio doit être supérieur ou égal à 100%."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Les risques encourus par un membre",
+                "paragraphs": [
+                  "compensateur retenus dans le calcul du ratio de couverture",
+                  "des risques est égal au total :",
+                  "- de la position nette pour le compte des clients, multipliée",
+                  "par 0,6% ;",
+                  "- de la position nette pour le compte propre, multipliée",
+                  "par 6 %."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - Les fonds propres nets pris en compte dans le",
+                "paragraphs": [
+                  "calcul du dénominateur des ratios prévus à l'article 2 ci-dessus",
+                  "comprennent :",
+                  "- le capital social ;",
+                  "- les primes d'émission, de fusion et d'apport ;",
+                  "- les écarts de réévaluation ;",
+                  "- les réserves ;",
+                  "- le report à nouveau créditeur ;",
+                  "- les provisions réglementées.",
+                  "Le total des éléments cités ci-dessus diminué, le cas",
+                  "échéant, du total des éléments ci-après :",
+                  "- du montant du capital souscrit non encore appelé ;",
+                  "- du résultat provisoire de l'exercice en cours, s'il est",
+                  "déficitaire ;",
+                  "- du report à nouveau débiteur ;",
+                  "- du résultat net débiteur en instance d'affectation ;",
+                  "- des immobilisations en non valeurs nettes des",
+                  "amortissements ;",
+                  "- des immobilisations incorporelles nettes des",
+                  "amortissements et des provisions pour dépréciation ;",
+                  "- des titres de placement, de participation du membre",
+                  "compensateur et ceux de ses filiales détenus dans le",
+                  "capital des autres membres compensateurs, nets des",
+                  "provisions pour dépréciation ;",
+                  "- des titres de placement détenus par le membre",
+                  "compensateur dans le capital de ses sociétés actionnaires ;",
+                  "- des avances consenties aux actionnaires ;",
+                  "- des moins-values nettes éventuelles sur l'ensemble des",
+                  "opérations non encore intégrées au résultat provisoire."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Les membres négociateurs-compensateurs",
+                "paragraphs": [
+                  "sont tenus au respect de l'ensemble des règles prudenrielles",
+                  "qui s'appliquent aux membres négociateurs et aux membres",
+                  "compensateurs."
+                ]
+              },
+              {
+                "article_number": "ART. 6. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P46-14",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 18 joumada II 1446 (20 décembre 2024) relatif aux",
+      "reference": {
+        "type": "arrete",
+        "number": "3201-24",
+        "date": ""
+      },
+      "pages": {
+        "start": 46,
+        "end": 46
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 17-99 portant code des assurances promulguée",
+            "reference_to": "Loi n° 17-99"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-20-372 du 10 rabii II 1442 (26 novembre",
+            "reference_to": "Decret n° 2-20-372"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Outre les exclusions prévues au",
+                "paragraphs": [
+                  "premier alinéa de l'article 157-2 de la loi n° 17-99 susvisée,",
+                  "le contrat d'assurance tous risques chantier peut stipuler",
+                  "pour « la garantie dommages à l'ouvrage » une ou plusieurs",
+                  "exclusions de garantie parmi celles mentionnées ci-après :",
+                  "1- les dommages et pertes provenant d'une faute",
+                  "intentionnelle ou dolosive de l'assuré ;",
+                  "2- les dommages et pertes résultant de l'inobservation",
+                  "des réserves d'ordre technique émises par le bureau de contrôle",
+                  "et dûment notifiées au maître de l'ouvrage, lorsque lesdites",
+                  "réserves n'ont pas été levées ;",
+                  "3- les dommages immatériels, les pertes ou les pénalités",
+                  "dues résultant d'un retard de réception de l'ouvrage ou du nonrespect des délais, consécutifs ou non à un événement garanti ;",
+                  "4- les dommages et pertes causés aux dossiers, plans,",
+                  "dessins et archives de toute nature, relatifs à l'ouvrage ainsi",
+                  "qu'aux moules et modèles ;",
+                  "5- les dommages et pertes causés aux biens se trouvant",
+                  "hors les périmètres du chantier ;",
+                  "6- les dommages causés aux bâtiments existants, à",
+                  "leur contenu et aux meubles qui s'y trouvent ainsi qu'aux",
+                  "parties de l'ouvrage réceptionnées. Cette exclusion s'applique",
+                  "également aux dommages causés aux parties de l'ouvrage",
+                  "après sa possession ou son occupation. Pour les installations",
+                  "industrielles, cette exclusion s'applique, en outre, aux",
+                  "dommages causés aux parties de l'ouvrage mises en service",
+                  "ou en exploitation ;",
+                  "7- les dommages causés aux dépôts destinés à préserver",
+                  "les matériels de construction ainsi que les dommages causés",
+                  "aux installations provisoires ne faisant pas partie de l'ouvrage",
+                  "ou non destinées à y être incorporées ;",
+                  "8- les dommages causés aux remblais non compactés ;",
+                  "9- les dommages causés à l'ouvrage résultant d'un arrêt",
+                  "des travaux supérieur à quarante-cinq (45) jours, à l'exception",
+                  "de celui dû à une force majeure ou à un cas fortuit ou aux",
+                  "intempéries entravant leur poursuite effective, des arrêts de",
+                  "nuit, des arrêts dus aux jours fériés, aux congés payés et ceux",
+                  "prévus au planning des travaux. Cette exclusion ne s'applique",
+                  "pas aussi lorsque l'assureur accepte par écrit ledit arrêt ;",
+                  "10- les frais, de toute nature, relatifs à l'injection dans",
+                  "les sols instables et les travaux de sécurité ou de renforcement",
+                  "du sol lorsque le souscripteur déclare, dans les conditions",
+                  "particulières, qu'ils ne font pas partie des travaux prévus pour",
+                  "la réalisation de l'ouvrage ;",
+                  "11- les frais relatifs aux installations supplémentaires",
+                  "nécessaires à l'évacuation des eaux de ruissellement ou",
+                  "résultant de la nappe phréatique;",
+                  "12- les frais de déblaiement suite à un glissement",
+                  "de terrain causé au talus d'excavation, à ses pentes, ou à",
+                  "d'autres zones aménagées, excédant les frais engagés pour les",
+                  "travaux de terrassement effectués initialement dans la partie",
+                  "endommagée par le glissement ainsi que les frais payés pour",
+                  "la réparation de pentes érodées ou d'autres zones aménagées ;",
+                  "13- les frais engagés pour remplacer des matériels et/ou",
+                  "des matériaux défectueux, et pour lever et/ou remédier aux",
+                  "malfaçons ou à toute erreur de conception. Toutefois, cette",
+                  "exclusion est limitée aux objets directement endommagés et",
+                  "ne s'applique pas aux pertes et dommages causés à des objets",
+                  "suite à un accident dû à ces matériaux défectueux et/ou à ces",
+                  "malfaçons et/ou à cette erreur de conception ;",
+                  "14- les pertes, les dommages, les destructions, l'altération",
+                  "et la suppression de données électroniques ou la perte de l'usage,",
+                  "la diminution des fonctionnalités des systèmes informatiques,",
+                  "matériels informatiques, programmes, logiciels, données,",
+                  "répertoires de données, puces, circuits intégrés ou dispositifs",
+                  "similaires. Toutefois, si l'une des situations précédentes",
+                  "entraine des dommages matériels à l'ouvrage ou aux matériaux",
+                  "de construction ou aux matériels destinés à être incorporés",
+                  "dans l'ouvrage, ces dommages sont couverts à condition qu'ils",
+                  "ne résultent pas d'un acte de cybercriminalité ;",
+                  "15- les dommages et pertes provenant d'un acte de",
+                  "cybercriminalité."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - En application des dispositions de l'article 157-3",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P48-15",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 18 joumada II 1446 (20 décembre 2024) fixant les",
+      "reference": {
+        "type": "arrete",
+        "number": "3202-24",
+        "date": ""
+      },
+      "pages": {
+        "start": 48,
+        "end": 48
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 17-99 portant code des assurances promulguée",
+            "reference_to": "Loi n° 17-99"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-1009 du 23 chaabane 1440 (29 avril",
+            "reference_to": "Decret n° 2-18-1009"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "article premier ;",
+                "paragraphs": [
+                  "Sur proposition de l'Autorité de contrôle des assurances",
+                  "et de la prévoyance sociale,",
+                  "ARRÊTE :"
+                ]
+              },
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions de",
+                "paragraphs": [
+                  "l'article 248 de la loi n° 17-99 susvisée, sont fixées :",
+                  "1- les conditions générales-type du contrat relatif à",
+                  "l'assurance obligatoire « tous risques chantier », prévue à",
+                  "l'article 157-1 de la loi n° 17-99 précitée, en annexe 1 du présent",
+                  "arrêté ;",
+                  "2- les conditions générales-type du contrat relatif à",
+                  "l'assurance obligatoire « responsabilité civile décennale »,",
+                  "prévue à l'article 157-10 de la loi n° 17-99 précitée, en annexe 2",
+                  "du présent arrêté."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté est publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P63-16",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "de la pêche maritime, du développement rural et des eaux",
+      "reference": {
+        "type": "arrete",
+        "number": "7-25",
+        "date": "2025-01-06"
+      },
+      "pages": {
+        "start": 63,
+        "end": 63
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le dahir portant loi n° 1-73-255 du 27 chaoual 1393",
+            "reference_to": "Loi n° 1-73-255"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture, de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de l'Institut national de recherche halieutique ;"
+          },
+          {
+            "type": "adoption",
+            "text": "Après consultation des chambres des pêches maritimes,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La pêche et le ramassage de",
+                "paragraphs": [
+                  "l'espèce appelée « concombre de mer » (Holothuria sp) dans",
+                  "les eaux maritimes marocaines sont interdits, à compter de la",
+                  "date de publication du présent arrêté au « Bulletin officiel »",
+                  "jusqu'au 31 décembre 2025."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Par dérogation aux dispositions de l'article",
+                "paragraphs": [
+                  "premier ci-dessus, l'Institut national de recherche halieutique",
+                  "(INRH) peut être autorisé durant la période d'interdiction susindiquée, à pratiquer la pêche et le ramassage du concombre",
+                  "de mer (Holothuria sp), dans les eaux maritimes marocaines,",
+                  "en vue de prélever des échantillons, conformément à son",
+                  "programme de recherche scientifique.",
+                  "L'autorisation visée ci-dessus fixe notamment sa durée",
+                  "de validité, les lieux de prélèvement autorisés, les engins de",
+                  "pêche et instruments de ramassage pouvant être utilisés ainsi",
+                  "que les quantités du concombre de mer (Holothuria sp) dont le",
+                  "prélèvement est permis. La référence de cette autorisation est",
+                  "portée sur la licence de pêche dont bénéficie l'INRH à cet effet."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P64-17",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 2269-24 du 2 rejeb 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "2269-24",
+        "date": "2025-01-03"
+      },
+      "pages": {
+        "start": 64,
+        "end": 64
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Fédération de Russie :",
+                  "« ..............................................................................................",
+                  "« - Qualification en médecine générale, délivrée par",
+                  "« l'Université d'Etat de médecine de Saint-Pétersbourg",
+                  "« I.P. Pavlova - Fédération de Russie.",
+                  "«يجب أن تقرن هذه الشهادة بتدريب مدته سنتين مع اجتياز",
+                  "«امتحان تقييمي بنجاح مسلم من طرف إحدى كليات الطب والصيدلة",
+                  "«باملغرب الذي تصادق عليه اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P64-18",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 21-25 du 2 rejeb 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "21-25",
+        "date": "2025-01-03"
+      },
+      "pages": {
+        "start": 64,
+        "end": 64
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'éducation nationale, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 753-06 du 27 rabii I 1427 (26 avril 2006), est complété comme",
+                  "suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en néphrologie,",
+                  "« est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Sénégal :",
+                  "« ..............................................................................................",
+                  "« - Diplôme d'études spécialisées (D.E.S) de néphrologie,",
+                  "« délivré par l'Université Cheikh-Anta-Diop de Dakar -",
+                  "« Sénégal.",
+                  "«يجب أن تقرن هذه الشهادة باجتياز امتحان تقييمي بنجاح مسلم",
+                  "«من طرف إحدى كليات الطب والصيدلة باملغرب الذي تصادق عليه",
+                  "«اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P65-19",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 22-25 du 2 rejeb 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "22-25",
+        "date": "2025-01-03"
+      },
+      "pages": {
+        "start": 65,
+        "end": 65
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Ukraine :",
+                  "« ..............................................................................................",
+                  "« - Qualification physician, specialist degree general",
+                  "« medicine, délivrée par Higher state educational",
+                  "« Establishment of Ukraine - Ukraine ;",
+                  "« - Qualification specialist general medicine, délivrée par",
+                  "« Uzhhorod national University - Ukraine ;",
+                  "« - Qualification specialist general medicine, délivrée par",
+                  "« Sumy state University - Ukraine ;",
+                  "« - Qualification physician, specialist's degree general",
+                  "« medicine, délivrée par Bogomolets national medical",
+                  "« University - Ukraine.",
+                  "«يجب أن تقرن هاته الشهادات بتدريب مدته سنتين مع اجتياز",
+                  "«امتحان تقييمي بنجاح مسلم من طرف إحدى كليات الطب والصيدلة",
+                  "«باملغرب الذي تصادق عليه اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P65-20",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 23-25 du 2 rejeb 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "23-25",
+        "date": "2025-01-03"
+      },
+      "pages": {
+        "start": 65,
+        "end": 65
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'éducation nationale, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2075-09 du 11 chaabane 1430 (3 août 2009), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en",
+                  "« endocrinologie et maladies métaboliques, est fixée ainsi qu'il",
+                  "« suit :",
+                  "« ............................................................................................",
+                  "« - Ukraine :",
+                  "« ..............................................................................................",
+                  "« - Certificate of specialized training in medicine (clinical",
+                  "« ordinatura), of specialization in endocrinology, délivré",
+                  "« par Sil Zaporizhia medical Academy of post-graduate",
+                  "« education ministry of health of Ukraine - Ukraine.",
+                  "«يجب أن تقرن هذه الشهادة بتدريب مدته سنتين مع اجتياز",
+                  "«امتحان تقييمي بنجاح مسلم من طرف إحدى كليات الطب والصيدلة",
+                  "«باملغرب الذي تصادق عليه اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P66-21",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 24-25 du 2 rejeb 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "24-25",
+        "date": "2025-01-03"
+      },
+      "pages": {
+        "start": 66,
+        "end": 66
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'éducation nationale, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 743-09 du 26 rabii I 1430 (24 mars 2009), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en biologie",
+                  "« médicale (ou analyses biologiques médicales), est fixée ainsi",
+                  "« qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Ukraine :",
+                  "« ..............................................................................................",
+                  "« - Certificat d'études spécialisées de médecine (ordinatura",
+                  "« clinique) dans la spécialité diagnostic clinique de",
+                  "« laboratoire, délivré par l'Académie d'enseignement",
+                  "« médical post-universitaire de Kharkiv - Ukraine.",
+                  "«يجب أن تقرن هذه الشهادة بتدريب مدته سنتين مع اجتياز",
+                  "«امتحان تقييمي بنجاح مسلم من طرف إحدى كليات الطب والصيدلة",
+                  "«باملغرب الذي تصادق عليه اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P66-22",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 25-25 du 2 rejeb 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "25-25",
+        "date": "2025-01-03"
+      },
+      "pages": {
+        "start": 66,
+        "end": 67
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Fédération de Russie :",
+                  "« ..............................................................................................",
+                  "« - Médecin en médecine générale, délivré par l'Université",
+                  "« d'Etat de Tambov du nom de G.R.Derzhavin -",
+                  "« Fédération de Russie ;",
+                  "« - Qualification de médecin généraliste, délivrée par",
+                  "« l'Université d'Etat de Tchouvachie I.N.Oulyanov -",
+                  "« Fédération de Russie ;",
+                  "« - Qualification de médecin généraliste, délivrée par",
+                  "« l'Université d'Etat de Novgorod Iaroslav le sage -",
+                  "« Fédération de Russie ;",
+                  "« - Qualification de médecin, délivrée par l'Université",
+                  "« d'Etat de Jaroslav-le sage de Novgorod - Fédération",
+                  "« de Russie.",
+                  "«يجب أن تقرن هاته الشهادات بتدريب مدته سنتين مع اجتياز",
+                  "«امتحان تقييمي بنجاح مسلم من طرف إحدى كليات الطب والصيدلة",
+                  "«باملغرب الذي تصادق عليه اللجنة القطاعية لعلوم الصحة.»",
+                  "<<<BO_PAGE_67_DELIM>>>",
+                  "Nº 7376 - 7 chaabane 1446 (6-2-2025)"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P67-23",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 26-25 du 2 rejeb 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "26-25",
+        "date": "2025-01-03"
+      },
+      "pages": {
+        "start": 67,
+        "end": 67
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'éducation nationale, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 346-04 du 4 moharrem 1425 (25 février 2004), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en oto-rhino-",
+                  "« laryngologie, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Roumanie :",
+                  "« ..............................................................................................",
+                  "« - Certificat de medic specialist otorinolaringologie,",
+                  "« délivré par ministerul sanatatii - Roumanie.",
+                  "«يجب أن تقرن هذه الشهادة باجتياز امتحان تقييمي بنجاج مسلم",
+                  "«من طرف إحدى كليات الطب والصيدلة باملغرب الذي تصادق عليه",
+                  "«اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P67-24",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 27-25 du 2 rejeb 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "27-25",
+        "date": "2025-01-03"
+      },
+      "pages": {
+        "start": 67,
+        "end": 67
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 282-04 du 25 hija 1424 (16 février 2004), est complété comme",
+                  "suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en pédiatrie,",
+                  "« est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Sénégal :",
+                  "« ..............................................................................................",
+                  "« - Diplôme d'études spécialisées (D.E.S) de pédiatrie,",
+                  "« délivré par l'Université Cheikh-Anta-Diop de Dakar -",
+                  "« Sénégal.",
+                  "«يجب أن تقرن هذه الشهادة باجتياز امتحان تقييمي بنجاح مسلم",
+                  "«من طرف إحدى كليات الطب والصيدلة باملغرب الذي تصادق عليه",
+                  "«اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P68-25",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 28-25 du 2 rejeb 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "28-25",
+        "date": "2025-01-03"
+      },
+      "pages": {
+        "start": 68,
+        "end": 68
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'éducation nationale, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 753-06 du 27 rabii I 1427 (26 avril 2006), est complété comme",
+                  "suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en néphrologie,",
+                  "« est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Belarus :",
+                  "« ..............................................................................................",
+                  "« - Certificate of specialised training in medicine",
+                  "« (clinical residency) in speciality nephrology, délivré",
+                  "« par Belarusian medical Academy of postgraduate",
+                  "« education - Belarus.",
+                  "«يجب أن تقرن هذه الشهادة بتدريب مدته سنتين مع اجتياز",
+                  "«امتحان تقييمي بنجاح مسلم من طرف إحدى كليات الطب والصيدلة",
+                  "«باملغرب الذي تصادق عليه اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P68-26",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 29-25 du 2 rejeb 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "29-25",
+        "date": "2025-01-03"
+      },
+      "pages": {
+        "start": 68,
+        "end": 68
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur, de la",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 950-04 du 6 rabii II 1425 (26 mai 2004), est complété comme",
+                  "suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en gynécologie-",
+                  "« obstétrique, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Sénégal :",
+                  "« ..............................................................................................",
+                  "« - Diplôme d'études spécialisées (D.E.S) de gynécologie",
+                  "« obstétrique, délivré par l'Université Cheikh-Anta-",
+                  "« Diop de Dakar - Sénégal.",
+                  "«يجب أن تقرن هذه الشهادة بتدريب مدته سنة مع اجتياز امتحان",
+                  "«تقييمي بنجاح مسلم من طرف إحدى كليات الطب والصيدلة باملغرب",
+                  "«الذي تصادق عليه اللجنة القطاعية لعلوم الصحة.»."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P69-27",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 30-25 du 2 rejeb 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "30-25",
+        "date": "2025-01-03"
+      },
+      "pages": {
+        "start": 69,
+        "end": 69
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'éducation nationale, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2188-04 du 14 kaada 1425 (27 décembre 2004), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en",
+                  "« ophtalmologie, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Ukraine :",
+                  "« ..............................................................................................",
+                  "« - Certificate of specialized training in medicine (clinical",
+                  "« ordinatura) specialization in ophthalmology, délivré",
+                  "« par Sil Zaporizhia medical Academy of post-graduate",
+                  "« education ministry of health of Ukraine - Ukraine.",
+                  "«يجب أن تقرن هذه الشهادة بتدريب مدته ثالث سنوات مع اجتياز",
+                  "«امتحان تقييمي بنجاح مسلم من طرف إحدى كليات الطب والصيدلة",
+                  "«باملغرب الذي تصادق عليه اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P69-28",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 31-25 du 2 rejeb 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "31-25",
+        "date": "2025-01-03"
+      },
+      "pages": {
+        "start": 69,
+        "end": 69
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Ukraine :",
+                  "« ..............................................................................................",
+                  "« - Qualification specialist general medicine, délivrée",
+                  "« par Kharkiv national medical University - Ukraine.",
+                  "«يجب أن تقرن هذه الشهادة بتدريب مدته سنتين وستة أشهر",
+                  "«مع اجتياز امتحان تقييمي بنجاح مسلم من طرف إحدى كليات",
+                  "«الطب والصيدلة باملغرب الذي تصادق عليه اللجنة القطاعية لعلوم",
+                  "«الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P70-29",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 32-25 du 2 rejeb 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "32-25",
+        "date": "2025-01-03"
+      },
+      "pages": {
+        "start": 70,
+        "end": 70
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'éducation nationale, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du ministre de la santé et du conseil national"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L' article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2194-04 du 14 kaada 1425 (27 décembre 2004), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en radiothérapie,",
+                  "« est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Roumanie :",
+                  "« ............................................................................................",
+                  "« - Certificat de medic specialist radioterapie, délivré par",
+                  "« ministerul sanatatii - Roumanie.",
+                  "«يجب أن تقرن هذه الشهادة باجتياز امتحان تقييمي بنجاج مسلم",
+                  "«من طرف إحدى كليات الطب والصيدلة باملغرب الذي تصادق عليه",
+                  "«اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P70-30",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 33-25 du 2 rejeb 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "33-25",
+        "date": "2025-01-03"
+      },
+      "pages": {
+        "start": 70,
+        "end": 70
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Roumanie :",
+                  "« ..............................................................................................",
+                  "« - Titlul de doctor medic, délivré par Universitatii de",
+                  "« medicina si farmacie «Victor Babes» din Timisoara -",
+                  "« Roumanie.",
+                  "«يجب أن تقرن هذه الشهادة باجتياز امتحان تقييمي بنجاح مسلم",
+                  "«من طرف إحدى كليات الطب والصيدلة باملغرب الذي تصادق عليه",
+                  "«اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P71-31",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 34-25 du 2 rejeb 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "34-25",
+        "date": "2025-01-03"
+      },
+      "pages": {
+        "start": 71,
+        "end": 71
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Chine :",
+                  "« ..............................................................................................",
+                  "« - Degree of bachelor of medicine and bachelor of",
+                  "« surgery, délivré par Shanghai Jiaotong University -",
+                  "« Chine.",
+                  "«يجب أن تقرن هذه الشهادة بتدريب مدته سنتين مع اجتياز",
+                  "«امتحان تقييمي بنجاح مسلم من طرف إحدى كليات الطب والصيدلة",
+                  "«باملغرب الذي تصادق عليه اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P71-32",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 35-25 du 2 rejeb 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "35-25",
+        "date": "2025-01-03"
+      },
+      "pages": {
+        "start": 71,
+        "end": 71
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur, de la",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 950-04 du 6 rabii II 1425 (26 mai 2004), est complété comme",
+                  "suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en gynécologie-",
+                  "« obstétrique, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Ukraine :",
+                  "« ..............................................................................................",
+                  "« - Certificat d'études spécialisées de médecine (ordinatura",
+                  "« clinique) dans la spécialité obstétrique et gynécologie,",
+                  "« délivré par l'Académie d'enseignement médical post-",
+                  "« universitaire de Kharkiv - Ukraine ;",
+                  "« - Certificate of specialized training in medicine (clinical",
+                  "« ordinatura), specialization in obstetrics and gynecology,",
+                  "« délivré par Zaporizhzhia state medical University -",
+                  "« Ukraine.",
+                  "«يجب أن تقرن هاتين الشهادتين بتدريب مدته سنتين مع اجتياز",
+                  "«امتحان تقييمي بنجاح مسلم من طرف إحدى كليات الطب والصيدلة",
+                  "«باملغرب الذي تصادق عليه اللجنة القطاعية لعلوم الصحة.»."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P72-33",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 36-25 du 2 rejeb 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "36-25",
+        "date": "2025-01-03"
+      },
+      "pages": {
+        "start": 72,
+        "end": 72
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 572-04 du 15 safar 1425 (6 avril 2004), est complété comme",
+                  "suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en radiologie,",
+                  "« est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Ukraine :",
+                  "« ..............................................................................................",
+                  "« - Certificate of specialized training in medicine (clinical",
+                  "« ordinatura) specialization in radiology, délivré par Sil",
+                  "« Zaporizhia medical Academy of post-graduate",
+                  "« education ministry of health of Ukraine - Ukraine.",
+                  "«يجب أن تقرن هذه الشهادة بتدريب مدته سنتين مع اجتياز",
+                  "«امتحان تقييمي بنجاح مسلم من طرف إحدى كليات الطب والصيدلة",
+                  "«باملغرب الذي تصادق عليه اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P72-34",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 37-25 du 2 rejeb 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "37-25",
+        "date": "2025-01-03"
+      },
+      "pages": {
+        "start": 72,
+        "end": 72
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur, de la",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté",
+                "paragraphs": [
+                  "susvisé n° 570-04 du 15 safar 1425 (6 avril 2004), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en dermatologie,",
+                  "« est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Ukraine :",
+                  "« ..............................................................................................",
+                  "« - Certificate of specialized training in medicine (clinical",
+                  "« ordinatura) specialization in dermatovenerology,",
+                  "« délivré par Sil Zaporizhia medical Academy of post-",
+                  "« graduate education ministry of health of Ukraine -",
+                  "« Ukraine.",
+                  "«يجب أن تقرن هذه الشهادة بتدريب مدته سنتين مع اجتياز",
+                  "«امتحان تقييمي بنجاح مسلم من طرف إحدى كليات الطب والصيدلة",
+                  "«باملغرب الذي تصادق عليه اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P73-35",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 38-25 du 2 rejeb 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "38-25",
+        "date": "2025-01-03"
+      },
+      "pages": {
+        "start": 73,
+        "end": 73
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - France :",
+                  "« ..............................................................................................",
+                  "« - Diplôme de docteur en médecine, délivré par",
+                  "« l'Université Reims Champagne - Ardenne - France. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P73-36",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 39-25 du 2 rejeb 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "39-25",
+        "date": "2025-01-03"
+      },
+      "pages": {
+        "start": 73,
+        "end": 73
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2963-97 du 2 chaabane 1418 (3 décembre 1997), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de docteur en médecine, assortis du",
+                  "« baccalauréat de l'enseignement secondaire - série sciences",
+                  "« expérimentales ou sciences mathématiques ou d'un diplôme",
+                  "« reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Ukraine :",
+                  "« ..............................................................................................",
+                  "« - Qualification de médecin, délivrée par l'Université",
+                  "« d'Etat de médecine de Zaporojie - Ukraine.",
+                  "«يجب أن تقرن هذه الشهادة بتدريب مدته ثالث سنوات مع اجتياز",
+                  "«امتحان تقييمي بنجاح مسلم من طرف إحدى كليات الطب والصيدلة",
+                  "«باملغرب الذي تصادق عليه اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P74-37",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n° 3236-24",
+      "reference": {
+        "type": "arrete",
+        "number": "3236-24",
+        "date": "2025-01-10"
+      },
+      "pages": {
+        "start": 74,
+        "end": 74
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la Commission nationale des signes"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les dispositions des articles 4 et 5",
+                "paragraphs": [
+                  "de l'arrêté susvisé n° 1351-13 du 11 hija 1434 (17 octobre 2013),",
+                  "sont modifiées et complétées comme suit :",
+                  "« Article 4. - Les caractéristiques des dattes ..................",
+                  "« suivantes :",
+                  "« 1. Les fruits :",
+                  "« - ......................................................................................",
+                  "« - présentent .................................................... la datte ;",
+                  "« - ont une humidité variant entre 8 et 22 g par 100 grammes",
+                  "« de matière fraîche ;",
+                  "« - ont une teneur en sucres totaux variant entre 60 et 84 g",
+                  "« par 100 grammes de matière sèche. »",
+                  "(La suite sans modification.)",
+                  "« Article 5. - Les principales conditions de production",
+                  "« ............................ suivantes :",
+                  "« 1. les opérations ............................................................. ;",
+                  "« ...........................................................................................",
+                  "« 7. la lutte ....................................................... la récolte ;",
+                  "« 8. la récolte doit être réalisée, au stade de maturité",
+                  "« complète « Tmar », à partir du mois de septembre et peut",
+                  "« s'étaler jusqu'à la fin du mois de novembre .................................",
+                  "« son périanthe.",
+                  "(La suite sans modification.)"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P75-38",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decision",
+      "title": "DU 28 JOUMADA II 1446 (30 DÉCEMBRE 2024)",
+      "reference": {
+        "type": "decision",
+        "number": "16/24",
+        "date": ""
+      },
+      "pages": {
+        "start": 75,
+        "end": 75
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "FIXANT LE RÉGIME D'AGRÉMENT DES EQUIPEMENTS TERMINAUX ET DES INSTALLATIONS",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n°24-96 relative à la poste et aux télécommunications, promulguée par le",
+            "reference_to": "Loi n° 24-96"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-97-813 du 27 chaoual 1418 (25 février 1998) portant application",
+            "reference_to": "Decret n° 2-97-813"
+          }
+        ],
+        "enacting_clause": "DECIDE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "Article premier :",
+                "paragraphs": [
+                  "La présente décision a pour objet de fixer les spécifications et les modalités",
+                  "administratives d'agrément des équipements terminaux et des installations",
+                  "radioélectriques."
+                ]
+              },
+              {
+                "article_number": "Article 2 :",
+                "paragraphs": [
+                  "Est soumis à l'agrément préalable de l'ANRT tout équipement terminal ayant pour",
+                  "objet, directement ou indirectement, la connexion à un point de terminaison d'un",
+                  "réseau public de télécommunications et qui émet, reçoit ou traite des signaux de",
+                  "télécommunications ou toute installation radioélectrique qu'elle soit destinée ou non, à",
+                  "être connectée à un ou plusieurs réseaux publics de télécommunications."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7376-P75-39",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decision",
+      "title": "télécommunications visées à l'article 21 de la loi n°24-96 susvisée",
+      "reference": {
+        "type": "decision",
+        "number": "",
+        "date": ""
+      },
+      "pages": {
+        "start": 75,
+        "end": 79
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "DÉCIDE :",
+        "preamble": [],
+        "enacting_clause": "DÉCIDE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "Article 4 :",
+                "paragraphs": [
+                  "L'examen de la demande d'agrément peut donner lieu à la délivrance de l'un des",
+                  "documents suivants :",
+                  ",",
+                  "DÉCIDE :",
+                  "<<<BO_PAGE_76_DELIM>>>",
+                  "Nº 7376 - 7 chaabane 1446 (6-2-2025)",
+                  "a) Un certificat d'agrément.",
+                  "b) Une autorisation d'admission précisant les quantités à importer et, le cas",
+                  "échéant, la durée d'importation et les conditions d'utilisation.",
+                  "c) Une dispense de l'agrément de l'ANRT si l'Equipement n'est doté d'aucune",
+                  "interface de télécommunications qui serait soumise à l'agrément préalable de",
+                  "l'ANRT.",
+                  "d) Un refus motivé de la demande s'il s'avère que l'Equipement en question n'est",
+                  "pas conforme à la réglementation en vigueur.",
+                  "La décision prononcée par l'ANRT concerne exclusivement les interfaces de",
+                  "télécommunications ou de radiocommunications dont l'Equipement serait dotées.",
+                  "Toutes les autres fonctionnalités de l'Equipement ne font l'objet d'aucun examen ou",
+                  "avis de l'ANRT.",
+                  "Les documents précités ne remplacent aucunement les autres licences, accords,",
+                  "autorisations ou agréments qui doivent être sollicités et obtenus, conformément à la",
+                  "réglementation en vigueur, auprès d'autres Autorités concernées. L'importateur, le",
+                  "demandeur ou l'utilisateur sont tenus d'en disposer à tout moment."
+                ]
+              },
+              {
+                "article_number": "Article 5 :",
+                "paragraphs": [
+                  "Les documents, délivrés par l'ANRT et visés aux points a) et b) de l'article 4 ci-dessus,",
+                  "doivent indiquer, notamment, :",
+                  "-",
+                  "Les principales caractéristiques techniques d'agrément sur la base",
+                  "desquelles l'Equipement a été agréé/autorisé ;",
+                  "-",
+                  "La date d'échéance de l'agrément/autorisation ;",
+                  "-",
+                  "Le cas échéant, les conditions d'importation, d'usage et/ou de",
+                  "commercialisation dudit Equipement et la durée d'importation.",
+                  "TITRE II : DE L'AGREMENT",
+                  "Chapitre I : Du certificat d'agrément"
+                ]
+              },
+              {
+                "article_number": "Article 6 :",
+                "paragraphs": [
+                  "La demande d'un certificat d'agrément d'un Equipement est constituée des éléments",
+                  "suivants :",
+                  "a) Les informations figurant en annexe n°1 permettant d'identifier le",
+                  "demandeur et l'Equipement, objet de la demande d'agrément ;",
+                  "b) Une documentation technique permettant de déterminer les interfaces de",
+                  "l'Equipement avec leurs caractéristiques techniques ainsi que la conformité",
+                  "desdites interfaces par rapport aux spécifications techniques applicables.",
+                  "c) Le justificatif de paiement des frais d'études fixés à 500 Dirhams hors taxes",
+                  "par Equipement.",
+                  "Avant de se prononcer sur la conformité de l'Equipement par rapport aux spécifications",
+                  "techniques applicables, l'ANRT peut, le cas échéant :",
+                  "a) Demander la production de documents complémentaires (certificats de",
+                  "tests, rapports de tests, certificats d'agrément ou toutes autres attestations",
+                  "jugées nécessaires) ;",
+                  "<<<BO_PAGE_77_DELIM>>>",
+                  "Nº 7376 - 7 chaabane 1446 (6-2-2025)",
+                  "b) Demander la mise à disposition d'un échantillon du matériel pour effectuer",
+                  "des tests ;",
+                  "c) Décider, à la charge du demandeur et après l'accord de ce dernier, d'une",
+                  "visite sur site de deux (02) représentants de l'ANRT pour effectuer les tests",
+                  "dans le cas où elle le jugerait nécessaire.",
+                  "Dans le cas où l'ANRT est amenée à effectuer des tests sur un échantillon, elle se",
+                  "réserve le droit de ne pas restituer ledit échantillon au demandeur."
+                ]
+              },
+              {
+                "article_number": "Article 7 :",
+                "paragraphs": [
+                  "La durée de validité de l'agrément d'un Equipement est fixée à dix (10) ans.",
+                  "A l'échéance de cette durée de validité, une nouvelle demande d'agrément est",
+                  "soumise à l'ANRT conformément aux dispositions de la présente décision.",
+                  "Chapitre II : De la dispense d'agrément"
+                ]
+              },
+              {
+                "article_number": "Article 8 :",
+                "paragraphs": [
+                  "L'ANRT peut accorder une dispense de son agrément à un Equipement, dans le cas",
+                  "où ce dernier ne dispose d'aucune interface de télécommunications ou de",
+                  "radiocommunications soumise à l'obligation d'agrément préalable de l'ANRT.",
+                  "La demande de dispense est constituée des informations figurant en annexe n°1",
+                  "accompagnée d'une documentation technique justifiant l'absence d'interfaces de",
+                  "télécommunications ou de radiocommunications soumises à l'agrément préalable de",
+                  "l'ANRT.",
+                  "Chapitre III : De l'admission des équipements"
+                ]
+              },
+              {
+                "article_number": "Article 9 :",
+                "paragraphs": [
+                  "Une autorisation d'admission d'un Equipement non agréé peut-être délivrée par",
+                  "l'ANRT, sans frais, à des fins de test ou de démonstration ou d'exposition ou",
+                  "d'utilisation permanente ou temporaire.",
+                  "La demande de cette autorisation est constituée des éléments suivants :",
+                  " Les informations figurant en annexe n°1 permettant d'identifier le demandeur,",
+                  "l'Equipement, objet de la demande, la quantité à importer et, le cas échéant, la",
+                  "durée souhaitée ;",
+                  " Une documentation technique permettant de déterminer les interfaces de",
+                  "l'Equipement avec leurs caractéristiques techniques ainsi que, le cas échéant,",
+                  "la conformité desdites interfaces par rapport aux spécifications techniques",
+                  "applicables."
+                ]
+              },
+              {
+                "article_number": "Article 10 :",
+                "paragraphs": [
+                  "Pour les demandes d'importation de certaines catégories d'Equipements, il peut",
+                  "s'avérer nécessaire de solliciter l'avis de certaines Autorités administratives",
+                  "compétentes.",
+                  "<<<BO_PAGE_78_DELIM>>>",
+                  "Nº 7376 - 7 chaabane 1446 (6-2-2025)",
+                  "Dans ce cas, l'ANRT peut solliciter le demandeur de fournir des informations",
+                  "complémentaires.",
+                  "Chapitre IV : Du traitement de la demande"
+                ]
+              },
+              {
+                "article_number": "Article 11 :",
+                "paragraphs": [
+                  "La demande d'agrément est déposée à l'ANRT :",
+                  " par voie électronique ;",
+                  " par courrier postal ; ou",
+                  " à l'ANRT.",
+                  "L'ANRT notifie sa décision dans un délai ne dépassant pas quinze (15) jours ouvrables",
+                  "à compter de la date de réception de la demande complète.",
+                  "Toutefois, si la demande est incomplète ou en cas de besoin d'informations",
+                  "complémentaires, I'ANRT dispose, d'un délai maximum de dix (10) jours à compter de",
+                  "la date de la réception de la demande, pour informer le demandeur des pièces ou",
+                  "informations additionnelles à fournir. Le délai de la notification de la décision de l'ANRT",
+                  "est suspendu jusqu'à la réception par cette dernière des pièces et informations",
+                  "requises."
+                ]
+              },
+              {
+                "article_number": "Article 12 :",
+                "paragraphs": [
+                  "Tout Equipement agréé, autorisé ou dispensé, ayant subi postérieurement à son",
+                  "agrément, autorisation ou dispense des modifications, notamment au niveau de ses",
+                  "caractéristiques techniques, doit être soumis à un nouvel examen et ce, conformément",
+                  "aux modalités prévues par les articles 6, 8 et 9 de la présente décision.",
+                  "TITRE III : DES OBLIGATIONS LIEES A LA MISE",
+                  "SUR LE MARCHE DES EQUIPEMENTS"
+                ]
+              },
+              {
+                "article_number": "Article 13 :",
+                "paragraphs": [
+                  "Le fabricant ou l'importateur ou le revendeur ou le distributeur d'un Equipement agréé,",
+                  "ou ayant fait l'objet d'une autorisation ou d'une dispense, sont tenus de s'assurer que",
+                  "les Equipements, fabriqués ou importés, mis sur le marché national sont et restent",
+                  "conformes au modèle agréé, autorisé ou dispensé."
+                ]
+              },
+              {
+                "article_number": "Article 14 :",
+                "paragraphs": [
+                  "Tout Equipement agréé ou autorisé doit faire l'objet, préalablement à sa",
+                  "commercialisation, d'un marquage conformément au modèle figurant en annexe n°2,",
+                  "à l'exception des Equipements dispensés de l'agrément préalable de l'ANRT.",
+                  "Le marquage est apposé de manière visible, lisible et indélébile sur l'Equipement luimême. En cas de difficultés d'un marquage sur l'Equipement lui-même, il peut être",
+                  "apposé sur les documents l'accompagnant, sur son emballage ou par étiquette",
+                  "électronique permettant de le visualiser, si celle-ci existe.",
+                  "<<<BO_PAGE_79_DELIM>>>",
+                  "Nº 7376 - 7 chaabane 1446 (6-2-2025)",
+                  "Le marquage de conformité ne doit pas être confondu avec d'autres signes."
+                ]
+              },
+              {
+                "article_number": "Article 15 :",
+                "paragraphs": [
+                  "Pour tout Equipement agréé ou autorisé, dont la puissance d'émission est supérieure",
+                  "à 20 mW et qui a vocation à être utilisé à 20 cm maximum de l'utilisateur, les",
+                  "informations sur le Débit d'Absorption Spécifique, désigné ci-après par le « DAS »,",
+                  "doivent être indiquées, en tant que caractéristique technique principale et de façon",
+                  "lisible et claire, sur l'Equipement ou dans les documents l'accompagnant (notice",
+                  "d'utilisation, manuel d'utilisation, …) ou sur son emballage ou dans le contenu de",
+                  "l'étiquette électronique à visualiser (quand elle existe). Cette obligation concerne",
+                  "également toute mise sur le marché, publicité ou vente en ligne portant sur ledit",
+                  "Equipement.",
+                  "La présente obligation entre en vigueur à partir du 1",
+                  "er mai 2025.",
+                  "Une liste non exhaustive des équipements concernés par cette obligation d'affichage",
+                  "figure en annexe n° 3 de la présente décision et est publiée, à titre indicatif, sur le site",
+                  "web de l'ANRT. Elle peut être complétée par l'ANRT sur son site web."
+                ]
+              },
+              {
+                "article_number": "Article 16 :",
+                "paragraphs": [
+                  "Si l'ANRT est informée ou constate la non-conformité d'un Equipement par rapport aux",
+                  "spécifications techniques ou aux conditions sur la base desquelles il a été agréé ou",
+                  "autorisé,",
+                  "notamment",
+                  "en",
+                  "termes",
+                  "d'exposition",
+                  "humaine",
+                  "aux",
+                  "rayonnements",
+                  "électromagnétiques non-ionisants, elle en informe l'acteur responsable (importateur,",
+                  "ou fabricant, ou revendeur, ou distributeur …) de la non-conformité constatée en lui",
+                  "demandant de :",
+                  "-",
+                  "Suspendre provisoirement la commercialisation de cet Equipement ;",
+                  "-",
+                  "Prendre toutes les mesures appropriées pour mettre fin à cette non-conformité",
+                  "sur les Equipements mis à disposition sur le marché et en informer l'ANRT.",
+                  "En l'absence de réponse dans un délai de huit (8) jours ouvrables à compter de la date",
+                  "de notification de la non-conformité, l'ANRT adresse au contrevenant une mise en",
+                  "demeure conformément à la réglementation en vigueur.",
+                  "Si l'intéressé ne se conforme pas à la mise en demeure qui lui a été adressée, il sera",
+                  "passible des sanctions prévues par la réglementation en vigueur.",
+                  "La non-conformité constatée peut également être publiée par l'ANRT sur son site web.",
+                  "TITRE IV : DISPOSITIONS FINALES"
+                ]
+              },
+              {
+                "article_number": "Article 17 :",
+                "paragraphs": [
+                  "Les infractions en matière d'agrément sont constatées et punies conformément aux",
+                  "dispositions de la loi n°24-96 susvisée."
+                ]
+              },
+              {
+                "article_number": "Article 18 :",
+                "paragraphs": [
+                  "La présente décision abroge et remplace la décision ANRT/DG/N°12/04 du 16 kaada",
+                  "1425 (29 décembre 2004), telle que modifiée et complétée."
+                ]
+              },
+              {
+                "article_number": "Article 19 :",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    }
+  ]
+}

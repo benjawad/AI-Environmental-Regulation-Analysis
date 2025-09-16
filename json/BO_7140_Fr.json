@@ -1,0 +1,1814 @@
+{
+  "bulletin_number": "7140",
+  "publication_date": {
+    "gregorian": "2022-10-24",
+    "hijri": "27 rabii I 1444"
+  },
+  "source_file": "BO_7140_Fr.pdf",
+  "content": [
+    {
+      "entry_id": "BO-7140-P15-1",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 29 hija 1442 (9 août 2021) relatif",
+      "reference": {
+        "type": "decret",
+        "number": "2-20-703",
+        "date": ""
+      },
+      "pages": {
+        "start": 15,
+        "end": 15
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la Constitution, notamment ses articles 89 et 92 ;",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 86-12 relative aux contrats de partenariat",
+            "reference_to": "Loi n° 86-12"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la Commission nationale de la commande"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions",
+                "paragraphs": [
+                  "de l'article 28-1 de la loi susvisée n° 86-12, la Commission",
+                  "nationale du partenariat public-privé se compose, sous la",
+                  "présidence du Chef du gouvernement, des membres ci-après :",
+                  "- l'autorité gouvernementale chargée de l'intérieur ;",
+                  "- l'autorité gouvernementale chargée des finances ;",
+                  "- l'autorité gouvernementale chargée de l'agriculture, de",
+                  "la pêche maritime et du développement rural ;",
+                  "-l'autorité gouvernementale chargée de l'éducation",
+                  "nationale, de la formation professionnelle, de",
+                  "l'enseignement supérieur et de la recherche scientifique ;",
+                  "- l'autorité gouvernementale chargée de la santé ;",
+                  "- l'autorité gouvernementale chargée de l'industrie, du",
+                  "commerce et de l'économie verte et numérique ;",
+                  "- l'autorité gouvernementale chargée de l'équipement, du",
+                  "transport, de la logistique et de l'eau ;",
+                  "- l'autorité gouvernementale chargée de l'aménagement",
+                  "du territoire national, de l'urbanisme, de l'habitat et de",
+                  "la politique de la ville ;",
+                  "- l'autorité gouvernementale chargée de l'énergie, des",
+                  "mines et de l'environnement ;",
+                  "- l'autorité gouvernementale chargée de la culture, de la",
+                  "jeunesse et des sports.",
+                  "En cas d'absence ou d'empêchement de l'un des membres",
+                  "cités ci-dessus, il est remplacé par le secrétaire général du",
+                  "département ministériel concerné.",
+                  "Le président peut inviter toute personne, dont il estime la",
+                  "présence utile, à participer, à titre consultatif, aux réunions de",
+                  "la Commission nationale du partenariat public-privé, désignée,",
+                  "dans la suite du présent décret, par «Commission nationale»."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La Commission nationale se réunit, chaque",
+                "paragraphs": [
+                  "fois que nécessaire, sur convocation de son président, soit à",
+                  "son initiative, soit à la demande de l'autorité gouvernementale",
+                  "chargée des finances.",
+                  "L'ordre du jour des réunions de la Commission nationale",
+                  "est fixé par le président."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La Commission nationale délibère valablement",
+                "paragraphs": [
+                  "lorsque la moitié au moins de ses membres sont présents.",
+                  "Les délibérations de la Commission nationale sont",
+                  "constatées par des procès-verbaux signés par le président et",
+                  "l'autorité gouvernementale chargée du Secrétariat permanent",
+                  "de la Commission nationale prévue à l'article 7 ci-dessous.",
+                  "Les procès-verbaux des réunions de la Commission",
+                  "nationale sont établis par le Secrétariat permanent."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - La Commission nationale prend ses décisions à",
+                "paragraphs": [
+                  "la majorité des voix des membres présents. En cas de partage",
+                  "égal des voix, celle du président est prépondérante."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Afin de permettre à la Commission nationale",
+                "paragraphs": [
+                  "de définir le projet de programme annuel et/ou pluriannuel",
+                  "des projets qui peuvent faire l'objet de contrats de partenariat",
+                  "public-privé, les personnes publiques visées aux a) et c) du",
+                  "premier paragraphe du deuxième alinéa de l'article premier",
+                  "de la loi précitée n° 86-12 soumettent, au titre de chaque",
+                  "année budgétaire, au secrétariat permanent de la Commission",
+                  "nationale la liste des projets qu'elles envisagent de réaliser dans",
+                  "le cadre du partenariat public-privé.",
+                  "Il est procédé, dans les mêmes formes, à l'actualisation",
+                  "du programme annuel et/ou pluriannuel des projets qui",
+                  "peuvent faire l'objet de contrats de partenariat public-privé."
+                ]
+              },
+              {
+                "article_number": "ART. 6. - Pour l'assister dans l'accomplissement des",
+                "paragraphs": [
+                  "missions qui lui sont dévolues, la Commission nationale peut",
+                  "instituer des comités techniques ou des groupes de travail pour",
+                  "l'examen de questions déterminées.",
+                  "La composition et les missions des comités techniques",
+                  "et des groupes de travail institués sont fixées par décision de",
+                  "la Commission nationale."
+                ]
+              },
+              {
+                "article_number": "ART. 7. - Le secrétariat permanent de la Commission",
+                "paragraphs": [
+                  "nationale est assuré par l'autorité gouvernementale chargée",
+                  "des finances.",
+                  "A cet effet, elle est chargée, en particulier, de :",
+                  "a) préparer et organiser les réunions de la Commission",
+                  "nationale et d'en établir les procès-verbaux ;",
+                  "b) établir le projet d'ordre du jour des réunions de la",
+                  "Commission nationale et le soumettre à l'approbation",
+                  "du président ;",
+                  "c) préparer, conformément aux dispositions de l'article 5"
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7140-P16-2",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 1er chaabane 1443 (4 mars 2022)",
+      "reference": {
+        "type": "decret",
+        "number": "2-21-1059",
+        "date": "2022-03-04"
+      },
+      "pages": {
+        "start": 16,
+        "end": 17
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 56-20 relative aux musées, promulguée par le",
+            "reference_to": "Loi n° 56-20"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 01-09 portant création de la « Fondation",
+            "reference_to": "Loi n° 01-09"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions de",
+                "paragraphs": [
+                  "l'article 4 de la loi susvisée n° 56-20 relative aux musées, toute",
+                  "personne physique ou morale qui souhaite créer un musée",
+                  "doit déposer, auprès de la Fondation nationale des musées,",
+                  "un dossier comprenant :",
+                  "- une demande de création du musée ;",
+                  "- une liste détaillée des objets d'art et des collections",
+                  "muséales accompagnée de leurs photographies en haute",
+                  "définition et de fiches indiquant la valeur de ces objets",
+                  "et collections, leur histoire et leur état de conservation ;",
+                  "- les documents prouvant la propriété ou l'origine des",
+                  "objets d'art et des collections muséales ;",
+                  "- le plan architectural du bâtiment du musée et les",
+                  "documents prouvant qu'il répond aux normes techniques",
+                  "visées à l'annexe n° 1 jointe au présent décret ;",
+                  "- le projet scientifique et culturel du musée ;",
+                  "- une liste des ressources humaines et des moyens",
+                  "financiers nécessaires à permettre au musée d'exercer",
+                  "ses activités, conformément à l'annexe n° 2 jointe au",
+                  "présent décret ;",
+                  "- les statuts particuliers ou le règlement intérieur du",
+                  "musée ;",
+                  "- un contrat d'assurance pour garantir les risques",
+                  "d'exploitation du musée."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Il est statué sur les demandes de création",
+                "paragraphs": [
+                  "de musées soumises à la Fondation nationale des musées",
+                  "conformément à la législation en vigueur, notamment la",
+                  "loi n° 55-19 relative à la simplification des procédures et des",
+                  "formalités administratives.",
+                  "<<<BO_PAGE_17_DELIM>>>",
+                  "Nº 7140 - 8 rabii II 1444 (3-11-2022)",
+                  "Chapitre II",
+                  "Modalités de déplacement d'un musée, des objets d'art",
+                  "et des collections muséales"
+                ]
+              },
+              {
+                "article_number": "ART. 3. - En application des dispositions de l'article 8",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7140-P20-3",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 16 chaoual 1443 (17 mai 2022) fixant",
+      "reference": {
+        "type": "decret",
+        "number": "2-21-1060",
+        "date": "2022-05-17"
+      },
+      "pages": {
+        "start": 20,
+        "end": 20
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 56-20 relative aux musées, promulguée par le",
+            "reference_to": "Loi n° 56-20"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 01-09 portant création de la « Fondation",
+            "reference_to": "Loi n° 01-09"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions de",
+                "paragraphs": [
+                  "l'article 19 de la loi susvisée n° 56-20 relative aux musées, le",
+                  "cahier des charges en vertu duquel le label « Musée du Maroc »",
+                  "est attribué, est fixé tel qu'annexé au présent décret."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Conformément aux dispositions de la loi",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7140-P23-4",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 30 chaoual 1443 (31 mai 2022) pris pour",
+      "reference": {
+        "type": "decret",
+        "number": "2-21-158",
+        "date": "2022-05-31"
+      },
+      "pages": {
+        "start": 23,
+        "end": 23
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n°15-18 relative au financement collaboratif",
+            "reference_to": "Loi n° 15-18"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions de",
+                "paragraphs": [
+                  "l'article 2 de la loi n°15-18 relative au financement collaboratif,",
+                  "un investisseur providentiel est une personne physique et",
+                  "membre d'un réseau d'investisseurs providentiels déclaré",
+                  "auprès de l'autorité gouvernementale chargée des finances,",
+                  "après avis de la commission créée en vertu de l'article 4 du",
+                  "présent décret."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Pour contribuer à l'une des opérations de",
+                "paragraphs": [
+                  "financement collaboratif prévues par la loi précitée n°15-18,",
+                  "les personnes physiques souhaitant bénéficier du statut",
+                  "d'investisseur providentiel doivent remplir au moins l'une des",
+                  "trois conditions suivantes :",
+                  "• la détention d'un portefeuille composé d'un ou plusieurs",
+                  "instruments financiers tels que définis par l'article 2",
+                  "de la loi n°44-12 relative à l'appel public à l'épargne",
+                  "et aux informations exigées des personnes morales et",
+                  "organismes faisant appel public à l'épargne, promulguée",
+                  "par le dahir n°1-12-55 du 14 safar 1434 (28 décembre",
+                  "2012), d'une valeur supérieure à 300.000 dirhams ;",
+                  "• la réalisation de plusieurs opérations financières sur des",
+                  "instruments financiers d'un montant supérieur à 100.000",
+                  "dirhams par opération, ou par prise de participation",
+                  "dans le capital des sociétés ne faisant pas appel public",
+                  "à l'épargne, et ce, à raison d'une opération en moyenne",
+                  "par année, sur les trois années précédant la demande",
+                  "d'adhésion au réseau d'investisseurs providentiels ;",
+                  "• l'occupation pendant une période d'au moins un an d'une",
+                  "position professionnelle exigeant une connaissance des",
+                  "formes d'investissements visées aux deux paragraphes",
+                  "ci-dessus, notamment dans le secteur financier, tel que"
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7140-P26-5",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 16 kaada 1443 (16 juin 2022) modifiant",
+      "reference": {
+        "type": "decret",
+        "number": "2-22-438",
+        "date": "2022-06-16"
+      },
+      "pages": {
+        "start": 26,
+        "end": 27
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le code des douanes ainsi que des impôts indirects",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-77-862 du 25 chaoual 1397 (9 octobre",
+            "reference_to": "Decret n° 2-77-862"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du ministre de l'industrie et du commerce ;"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les dispositions de l'article 190-e-2",
+                "paragraphs": [
+                  "du décret susvisé n° 2-77-862 du 25 chaoual 1397 (9 octobre",
+                  "1977), sont modifiées et complétées comme suit :",
+                  "« Article 190-e-2. - Sous réserve des engagements",
+                  "« internationaux du Maroc, les produits et objets, d'une",
+                  "« valeur n'excédant pas 1250 dirhams, envoyés aux personnes",
+                  "« physiques ou morales, ayant leur résidence habituelle au",
+                  "« Maroc à l'exclusion :",
+                  "« - des boissons alcoolisées et tabacs ;",
+                  "« - des produits et objets acquis à travers les transactions",
+                  "« réalisées par procédé électronique. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le ministre délégué auprès de la ministre de",
+                "paragraphs": [
+                  "l'économie et des finances, chargé du budget, est chargé de",
+                  "l'exécution du présent décret qui sera publié au Bulletin officiel",
+                  "et prendra effet à compter du 1er juillet 2022."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7140-P27-6",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 22 safar 1444 (19 septembre 2022) portant",
+      "reference": {
+        "type": "decret",
+        "number": "2-22-567",
+        "date": "2022-09-19"
+      },
+      "pages": {
+        "start": 27,
+        "end": 28
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 19-94 relative aux Zones d'accélération",
+            "reference_to": "Loi n° 19-94"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-95-562 du 19 rejeb 1416 (12 décembre 1995)",
+            "reference_to": "Decret n° 2-95-562"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil de gouvernement, réuni le"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - II est créé une Zone d'accélération",
+                "paragraphs": [
+                  "industrielle à la commune de Aïn Cheggag, province de Sefrou,",
+                  "dénommée « Zone d'accélération industrielle de Fès-Meknès »."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La Zone d'accélération industrielle de",
+                "paragraphs": [
+                  "Fès-Meknès sera réalisée sur une assiette foncière, sis à la",
+                  "Commune de Aïn Cheggag - province de Sefrou, région de",
+                  "Fès-Meknès, d'une superficie globale de 42 ha 10 a, délimitée",
+                  "au Nord et à l'Est par le collectif Sejaâ, à l'Ouest par la route",
+                  "provincial 5013, tel que figuré par un liseré rouge sur le plan",
+                  "annexé à l'original du présent décret et par les coordonnées",
+                  "Lambert indiquées ci-après.",
+                  "Liste des coordonnées de la parcelle constituant",
+                  "la Zone d'accélération industrielle de Fès-Meknès",
+                  "Borne n°",
+                  "X (m)",
+                  "Y (m)",
+                  "P.2",
+                  "531100.41",
+                  "367094.36",
+                  "P.3",
+                  "531095.21",
+                  "367104.22",
+                  "P.4",
+                  "531185.43",
+                  "367151.81",
+                  "P.5",
+                  "531179.60",
+                  "367162.86",
+                  "P.6",
+                  "531299.00",
+                  "367225.86",
+                  "P.7",
+                  "531292.23",
+                  "367238.68",
+                  "P.8",
+                  "531482.39",
+                  "367339.00",
+                  "P.9",
+                  "531483.33",
+                  "367337.23",
+                  "P.10",
+                  "531573.54",
+                  "367384.82",
+                  "P.11",
+                  "531762.52",
+                  "367026.61",
+                  "P.l2",
+                  "532001.89",
+                  "366572.87",
+                  "P.13",
+                  "531973.93",
+                  "366562.68",
+                  "P.20",
+                  "531097.32",
+                  "367092.73",
+                  "P.21",
+                  "531100.10",
+                  "367087.45",
+                  "P.22",
+                  "531034.91",
+                  "367053.06",
+                  "P.23",
+                  "531075.03",
+                  "366977.11",
+                  "P.24",
+                  "531063.32",
+                  "366970.94",
+                  "P.25",
+                  "531099.48",
+                  "366902.39",
+                  "P.26",
+                  "531175.45",
+                  "366942.47",
+                  "P.27",
+                  "531294.24",
+                  "366717.30",
+                  "P.28",
+                  "531439.06",
+                  "366793.71",
+                  "P.29",
+                  "531446.04",
+                  "366791.71",
+                  "P.30",
+                  "531594.38",
+                  "366510.54",
+                  "P.31",
+                  "531710.70",
+                  "366571.90",
+                  "P.32",
+                  "531722.86",
+                  "366568.14",
+                  "P.33",
+                  "531765.58",
+                  "366487.15",
+                  "<<<BO_PAGE_28_DELIM>>>",
+                  "Nº 7140 - 8 rabii II 1444 (3-11-2022)"
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Les activités des entreprises qui peuvent",
+                "paragraphs": [
+                  "s'installer dans la Zone d'accélération industrielle de FèsMeknès sont les suivantes :",
+                  "- l'industrie agro-alimentaire ;",
+                  "- les industries textiles et cuir ;",
+                  "- l'industrie chimique et para-chimique ;",
+                  "- l'industrie automobile ;",
+                  "- l'industrie aéronautique ;",
+                  "- l'industrie des énergies renouvelables ;",
+                  "- l'industrie des matériaux de construction ;",
+                  "- les industries métallurgiques, mécaniques, électriques",
+                  "et électroniques ;",
+                  "- les industries plastiques ;",
+                  "- les services liés aux activités visées ci-dessus."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - La liste des services liés aux activités autorisées",
+                "paragraphs": [
+                  "à s'implanter dans la Zone d'accélération industrielle précitée",
+                  "sera fixée par arrêté conjoint de l'autorité gouvernementale",
+                  "chargée de l'industrie et de l'autorité gouvernementale chargée",
+                  "des finances, sur proposition de la commission nationale des",
+                  "Zones d'accélération industrielle."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - L'autorisation visée à l'article 11 de la loi",
+                "paragraphs": [
+                  "n° 19-94 susvisée ne peut être délivrée que si les conditions",
+                  "particulières prévues à l'article 13 de ladite loi sont respectées,",
+                  "et ce pour prévenir les activités polluantes.",
+                  "En outre, et conformément à l'article 16 de la loi",
+                  "n° 19-94 susvisée, l'entrée en Zone d'accélération industrielle",
+                  "de Fès-Meknès est strictement interdite aux déchets classés",
+                  "dangereux conformément à la réglementation en vigueur,",
+                  "ainsi qu'à toute substance, déchet ou non, pouvant présenter",
+                  "une incommodité, une insalubrité ou tout autre inconvénient",
+                  "similaire pour la santé, la faune, la flore et les ressources en",
+                  "eau ainsi que d'une manière générale pour le voisinage et la",
+                  "qualité de vie.",
+                  "Le rejet direct ou indirect de déchets classés dangereux",
+                  "conformément à la réglementation en vigueur ou d'eaux usées",
+                  "ayant servi aux besoins des activités et services mentionnés",
+                  "aux articles 3 et 4 ci-dessus sont strictement interdits."
+                ]
+              },
+              {
+                "article_number": "ART. 6. - La ministre de l'économie et des finances et le",
+                "paragraphs": [
+                  "ministre de l'industrie et du commerce sont chargés, chacun",
+                  "en ce qui le concerne, de l'exécution du présent décret qui sera",
+                  "publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7140-P28-7",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 22 rabii I 1444 (19 octobre 2022)",
+      "reference": {
+        "type": "decret",
+        "number": "2-22-815",
+        "date": "2022-10-19"
+      },
+      "pages": {
+        "start": 28,
+        "end": 28
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi de finances n° 76-21 pour l'année budgétaire",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le paragraphe premier de l'article 41 de la loi de finances",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est approuvé, tel qu'il est annexé",
+                "paragraphs": [
+                  "à l'original du présent décret, l'accord de prêt n° 9417-MA",
+                  "d'un montant de deux cent trente-six millions sept cent mille",
+                  "euros (236.700.000,00 euros), conclu le 12 septembre 2022",
+                  "entre le Royaume du Maroc et la Banque internationale pour",
+                  "la reconstruction et le développement, concernant le projet",
+                  "« Développement économique du Nord-Est »."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La ministre de l'économie et des finances est",
+                "paragraphs": [
+                  "chargée, de l'exécution du présent décret qui sera publié au"
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7140-P29-8",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 26 joumada I 1443 (31 décembre 2021) modifiant",
+      "reference": {
+        "type": "arrete",
+        "number": "4039-21",
+        "date": ""
+      },
+      "pages": {
+        "start": 29,
+        "end": 29
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'économie et des finances n° 1000-09 du 14 rabii II 1430 (10 avril 2009) fixant",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Le tableau annexé à l'arrêté du ministre de l'économie et des finances susvisé",
+                "paragraphs": [
+                  "n° 1000-09 du 14 rabii II 1430 (10 avril 2009) , est modifié conformément aux indications portées sur le",
+                  "tableau annexé au présent arrêté."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le directeur général de l'administration des douanes et impôts indirects est chargé de",
+                "paragraphs": [
+                  "l'exécution du présent arrêté qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7140-P31-9",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 6 rabii I 1444 (3 octobre 2022) modifiant",
+      "reference": {
+        "type": "arrete",
+        "number": "2722-22",
+        "date": "2022-10-03"
+      },
+      "pages": {
+        "start": 31,
+        "end": 31
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE LA SANTÉ ET DE LA PROTECTION SOCIALE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-13-852 du 14 safar 1435 (18 décembre 2013) relatif aux conditions et aux modalités de",
+            "reference_to": "Decret n° 2-13-852"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté n° 787-14 du 7 joumada II 1435 (7 avril 2014) portant révision des prix publics de vente",
+            "reference_to": "Arrete n° 787-14"
+          },
+          {
+            "type": "visa",
+            "text": "Vu les demandes de fixation des prix publics de vente des médicaments princeps émanant des",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu les demandes d'homologation des prix publics de vente des médicaments génériques et bio-similaires",
+            "reference_to": null
+          },
+          {
+            "type": "recital",
+            "text": "Considérant les demandes de révision à la baisse des prix des médicaments formulés par les établissements"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission interministérielle des prix,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les prix des médicaments princeps objet des demandes visées ci-dessus sont fixés",
+                "paragraphs": [
+                  "à l'annexe n° 1 jointe au présent arrêté.",
+                  "Sont homologués les prix des médicaments génériques et biosimilaires, objet des demandes visées",
+                  "ci-dessus, figurant à l'annexe n° 2 jointe au présent arrêté.",
+                  "Les prix des médicaments figurant à l'annexe de l'arrêté visé ci-dessus n° 787-14, tel qu'il a été modifié et",
+                  "complété par les arrêtés subséquents, sont révisés à la baisse tel qu'indiqué à l'annexe n° 3 au présent arrêté."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7140-P36-10",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 17 rabii I 1444 (14 octobre 2022)",
+      "reference": {
+        "type": "arrete",
+        "number": "2751-22",
+        "date": "2022-10-14"
+      },
+      "pages": {
+        "start": 36,
+        "end": 36
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'INDUSTRIE ET DU COMMERCE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 12-06 relative à la normalisation, à la certification et à l'accréditation, promulguée par",
+            "reference_to": "Loi n° 12-06"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'industrie, du commerce et des nouvelles technologies n°344-11 du 29 safar 1432",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du ministre de l'industrie, du commerce et des nouvelles technologies",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du directeur de l'Institut marocain de normalisation n° 3007-20 du 17 rabii II 1442",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du directeur de l'Institut marocain de normalisation n° 2533-21 du 15 safar 1443",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du ministre de l'industrie, du commerce, de l'investissement et de l'économie numérique",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du directeur de l'Institut marocain de normalisation n° 1111-20 du 22 chaabane 1441",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du directeur de l'Institut marocain de normalisation n° 724-20 du 10 joumada I 1435",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du directeur de l'Institut marocain de normalisation n° 3030-19 du 2 safar 1441",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les normes marocaines dont les références sont mentionnées dans l'annexe 1 cijointe, sont rendues d'application obligatoire six (6) mois après la publication dudit arrêté au « Bulletin officiel »",
+                "paragraphs": []
+              },
+              {
+                "article_number": "ART. 2. - Les normes marocaines dont les références sont mentionnées dans l'annexe 2 ci-jointe, sont",
+                "paragraphs": [
+                  "rendues d'application obligatoire trois (3) mois après la publication dudit arrêté au « Bulletin officiel »."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Les normes visées à l'article premier et 2, ci-dessus, sont tenues à la disposition des intéressés",
+                "paragraphs": [
+                  "à l'Institut marocain de normalisation."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7140-P38-11",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement durable n° 2589-22 du 29 safar 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "2589-22",
+        "date": "2022-09-26"
+      },
+      "pages": {
+        "start": 38,
+        "end": 38
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE LA TRANSITION ÉNERGÉTIQUE ET DU",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le dahir du 18 joumada I 1332 (14 avril 1914) portant",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le dahir du 17 safar 1332 (14 janvier 1914) réglementant",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté viziriel du 24 joumada I 1373 (30 janvier 1954)",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du directeur de la production industrielle et",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la demande, du 17 mars 2022, présentée par la",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu les plans annexés à la demande du pétitionnaire,",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Une enquête de commodo et",
+                "paragraphs": [
+                  "incommodo, dans la commune rurale d'Aïn Tizgha, Caïdat",
+                  "de Ziaida, Province de Benslimane, d'une durée d'un mois, est",
+                  "ouverte du 1er au 30 novembre 2022, sur la demande présentée",
+                  "par la Compagnie Africaine Des Explosifs (CADEX), à l'effet",
+                  "d'être autorisée à établir une (1) fabrique d'explosifs, quatre",
+                  "(04) dépôts mixtes d'explosifs permanents, du type superficiel,",
+                  "entourés chacun d'eux d'un merlon et un (1) dépôt mixte de",
+                  "détonateurs permanent, du type superficiel et entouré d'un",
+                  "merlon.",
+                  "La capacité de production de la fabrique en Ammonix",
+                  "est de 60 tonnes par poste de travail.",
+                  "La capacité de stockage de chaque dépôt est fixée à :",
+                  "- 10000 kilogrammes d'explosifs de la classe V ou d'une",
+                  "quantité équivalente d'une autre classe d'explosifs pour",
+                  "chacun des dépôts DS1 et DS2 ;",
+                  "- 7500 kilogrammes d'explosifs de la classe V ou d'une",
+                  "quantité équivalente d'une autre classe d'explosifs pour",
+                  "le dépôt DS3 ;",
+                  "- 5000 kilogrammes d'explosifs de la classe V ou d'une",
+                  "quantité équivalente d'une autre classe d'explosifs pour",
+                  "le dépôt DS4 ;",
+                  "- 500000 unités de détonateurs pour le dépôt DD."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Cet arrêté reste affiché, pendant le délai d'un",
+                "paragraphs": [
+                  "mois à partir de la date fixée pour l'ouverture de l'enquête,",
+                  "au siège de la caïdat de Ziaida, chargée de l'enquête. Ladite",
+                  "Caïdat doit, en outre, en assurer sa publication à trois reprises",
+                  "et à huit jours d'intervalle dans les divers marchés situés dans",
+                  "un rayon de 5 kilomètres autour du lieu de la fabrique et des",
+                  "dépôts projetés.",
+                  "Les intéressés peuvent, pendant la durée de l'enquête,",
+                  "consulter les plans et déposer leurs réclamations sur le registre",
+                  "ouvert, à cet effet, au siège de la Caïdat de Ziaida."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": [
+                  "et notifié à la Compagnie Africaine Des Explosifs (CADEX)."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7140-P39-12",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement durable n° 2627-22 du 29 safar 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "2627-22",
+        "date": "2022-09-26"
+      },
+      "pages": {
+        "start": 39,
+        "end": 39
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "MOROCCO ».",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'énergie, des mines et de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté conjoint de la ministre de la transition",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article 3 de l'arrêté n° 670-20 du",
+                "paragraphs": [
+                  "7 joumada I 1441 (3 janvier 2020) susvisé, est modifié ainsi",
+                  "qu'il suit :",
+                  "« Article 3. - Le permis de recherche d'hydrocarbures",
+                  "« « MOGADOR OFFSHORE 1 » est délivré pour une période",
+                  "« initiale de quatre (4) années à compter du 3 janvier 2020. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera notifié aux intéressés et",
+                "paragraphs": [
+                  "publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7140-P39-13",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement durable n° 2628-22 du 29 safar 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "2628-22",
+        "date": "2022-09-26"
+      },
+      "pages": {
+        "start": 39,
+        "end": 39
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "MOROCCO ».",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'énergie, des mines et de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté conjoint de la ministre de la transition",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article 3 de l'arrêté n° 671-20 du",
+                "paragraphs": [
+                  "7 joumada I 1441 (3 janvier 2020) susvisé, est modifié ainsi",
+                  "qu'il suit :",
+                  "« Article 3. - Le permis de recherche d'hydrocarbures",
+                  "« « MOGADOR OFFSHORE 2 » est délivré pour une période",
+                  "« initiale de quatre (4) années à compter du 3 janvier 2020. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera notifié aux intéressés et",
+                "paragraphs": [
+                  "publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7140-P40-14",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement durable n° 2629-22 du 29 safar 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "2629-22",
+        "date": "2022-09-26"
+      },
+      "pages": {
+        "start": 40,
+        "end": 40
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "MOROCCO ».",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'énergie, des mines et de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté conjoint de la ministre de la transition",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article 3 de l'arrêté n° 672-20 du",
+                "paragraphs": [
+                  "7 joumada I 1441 (3 janvier 2020) susvisé, est modifié ainsi",
+                  "qu'il suit :",
+                  "« Article 3. - Le permis de recherche d'hydrocarbures",
+                  "« « MOGADOR OFFSHORE 3 » est délivré pour une période",
+                  "« initiale de quatre (4) années à compter du 3 janvier 2020. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera notifié aux intéressés et",
+                "paragraphs": [
+                  "publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7140-P40-15",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement durable n° 2630-22 du 29 safar 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "2630-22",
+        "date": "2022-09-26"
+      },
+      "pages": {
+        "start": 40,
+        "end": 40
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "MOROCCO ».",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'énergie, des mines et de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté conjoint de la ministre de la transition",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article 3 de l'arrêté n° 673-20 du",
+                "paragraphs": [
+                  "7 joumada I 1441 (3 janvier 2020) susvisé, est modifié ainsi",
+                  "qu'il suit :",
+                  "« Article 3. - Le permis de recherche d'hydrocarbures",
+                  "« « MOGADOR OFFSHORE 4 » est délivré pour une période",
+                  "« initiale de quatre (4) années à compter du 3 janvier 2020. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera notifié aux intéressés et",
+                "paragraphs": [
+                  "publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7140-P41-16",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement durable n° 2631-22 du 29 safar 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "2631-22",
+        "date": "2022-09-26"
+      },
+      "pages": {
+        "start": 41,
+        "end": 41
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "MOROCCO ».",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'énergie, des mines et de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté conjoint de la ministre de la transition",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article 3 de l'arrêté n° 674-20 du",
+                "paragraphs": [
+                  "7 joumada I 1441 (3 janvier 2020) susvisé, est modifié ainsi",
+                  "qu'il suit :",
+                  "« Article 3. - Le permis de recherche d'hydrocarbures",
+                  "« « MOGADOR OFFSHORE 5 » est délivré pour une période",
+                  "« initiale de quatre (4) années à compter du 3 janvier 2020. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera notifié aux intéressés et",
+                "paragraphs": [
+                  "publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7140-P41-17",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement durable n° 2632-22 du 29 safar 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "2632-22",
+        "date": "2022-09-26"
+      },
+      "pages": {
+        "start": 41,
+        "end": 41
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "MOROCCO ».",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'énergie, des mines et de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté conjoint de la ministre de la transition",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article 3 de l'arrêté n° 675-20 du",
+                "paragraphs": [
+                  "7 joumada I 1441 (3 janvier 2020) susvisé, est modifié ainsi",
+                  "qu'il suit :",
+                  "« Article 3. - Le permis de recherche d'hydrocarbures",
+                  "« « MOGADOR OFFSHORE 6 » est délivré pour une période",
+                  "« initiale de quatre (4) années à compter du 3 janvier 2020. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera notifié aux intéressés et",
+                "paragraphs": [
+                  "publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7140-P42-18",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement durable n° 2633-22 du 29 safar 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "2633-22",
+        "date": "2022-09-26"
+      },
+      "pages": {
+        "start": 42,
+        "end": 43
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE LA TRANSITION ÉNERGÉTIQUE ET DU",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 21-90 relative à la recherche et à l'exploitation",
+            "reference_to": "Loi n° 21-90"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 33-01 portant création de l'Office national",
+            "reference_to": "Loi n° 33-01"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-93-786 du 18 joumada I 1414",
+            "reference_to": "Decret n° 2-93-786"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-04-372 du 16 kaada 1425 (29 décembre",
+            "reference_to": "Decret n° 2-04-372"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté conjoint du ministre de l'énergie, des mines",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'énergie, des mines et du",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la demande de passage à la première période",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'avis publié par voie de presse relatif aux rendus de",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Il est permis conjointement à",
+                "paragraphs": [
+                  "l'Office national des hydrocarbures et des mines et à la",
+                  "société « SDX Energy Morocco (UK) Limited », le passage à",
+                  "la première période complémentaire du permis de recherche",
+                  "d'hydrocarbures dit « SEBOU CENTRAL »."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Les limites du permis visé à l'article premier",
+                "paragraphs": [
+                  "qui couvre une superficie de 126,2 km2, telles qu'elles figurent",
+                  "sur la carte annexée à l'original du présent arrêté, sont définies",
+                  "comme suit :",
+                  "a) Par les lignes droites, orientées du Nord au Sud et",
+                  "de l'Est à l'Ouest, joignant successivement les points 1 à 26",
+                  "à l'exclusion des superficies limitées par les lignes droites",
+                  "joignant successivement les points 27 à 30, 30 et 27, 31 à 34,",
+                  "34 et 31, 35 à 38, 38 et 35 de coordonnées Conique Conforme",
+                  "Lambert Nord Maroc suivantes :",
+                  "Points",
+                  "X CCL Z1",
+                  "Y CCL Z1",
+                  "443000,00",
+                  "442500,00",
+                  "452500,00",
+                  "442500,00",
+                  "452500,00",
+                  "438970,00",
+                  "449480,00",
+                  "438970,00",
+                  "449480,00",
+                  "434440,00",
+                  "449000,00",
+                  "434440,00",
+                  "449000,00",
+                  "433000,00",
+                  "439000,00",
+                  "433000,00",
+                  "439000,00",
+                  "429000,00",
+                  "440000,00",
+                  "429000,00",
+                  "440000,00",
+                  "425000,00",
+                  "435500,00",
+                  "425000,00",
+                  "435500,00",
+                  "429750,00",
+                  "434250,00",
+                  "429750,00",
+                  "434250,00",
+                  "430750,00",
+                  "433500,00",
+                  "430750,00",
+                  "433500,00",
+                  "432500,00",
+                  "435500,00",
+                  "432500,00",
+                  "435500,00",
+                  "434300,00",
+                  "435955,00",
+                  "434300,00",
+                  "435955,00",
+                  "435750,00",
+                  "440000,00",
+                  "435750,00",
+                  "440000,00",
+                  "438000,00",
+                  "441500,00",
+                  "438000,00",
+                  "441500,00",
+                  "439000,00",
+                  "443000,00",
+                  "439000,00",
+                  "442200,00",
+                  "438200,00",
+                  "444200,00",
+                  "438200,00",
+                  "444200,00",
+                  "434600,00",
+                  "442200,00",
+                  "434600,00",
+                  "435800,00",
+                  "430400,00",
+                  "436500,00",
+                  "430400,00",
+                  "436500,00",
+                  "428600,00",
+                  "435800,00",
+                  "428600,00",
+                  "436500,00",
+                  "426500,00",
+                  "438150,00",
+                  "426500,00",
+                  "438150,00",
+                  "425400,00",
+                  "436500,00",
+                  "425400,00",
+                  "b) Par la ligne droite joignant les points 26 et 1.",
+                  "<<<BO_PAGE_43_DELIM>>>",
+                  "Nº 7140 - 8 rabii II 1444 (3-11-2022)"
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le permis de recherche d'hydrocarbures dit",
+                "paragraphs": [
+                  "« SEBOU CENTRAL » est prorogé pour une première période",
+                  "complémentaire de deux années à compter du 8 septembre 2021."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - Les surfaces abandonnées deviennent libres à la",
+                "paragraphs": [
+                  "recherche suite au passage à la première période complémentaire."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Le présent arrêté sera notifié aux intéressés et publié",
+                "paragraphs": [
+                  "au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7140-P43-19",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "decision",
+      "title": "du 14 kaada 1443",
+      "reference": {
+        "type": "decision",
+        "number": "117",
+        "date": "2022-06-14"
+      },
+      "pages": {
+        "start": 43,
+        "end": 43
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE WALI DE BANK AL-MAGHRIB",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 103-12 relative aux établissements de crédit",
+            "reference_to": "Loi n° 103-12"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du Wali de Bank Al-Maghrib n°42 du",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du Wali de Bank Al-Maghrib n°55 du",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du Wali de Bank Al-Maghrib n°92 du",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu que le délai de liquidation de la Banque nationale",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la demande formulée par le liquidateur en date du",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCIDE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est prorogé pour une durée d'une",
+                "paragraphs": [
+                  "(1) année le délai de liquidation de la Banque nationale pour",
+                  "le développement économique prévu par la décision du Wali",
+                  "de Bank Al-Maghrib n° 92 susvisée."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La présente décision est publiée au Bulletin",
+                "paragraphs": [
+                  "officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    }
+  ]
+}

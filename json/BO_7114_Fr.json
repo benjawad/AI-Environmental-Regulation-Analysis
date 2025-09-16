@@ -1,0 +1,3032 @@
+{
+  "bulletin_number": "7114",
+  "publication_date": {
+    "gregorian": "2022-07-22",
+    "hijri": "22 hija 1443"
+  },
+  "source_file": "BO_7114_Fr.pdf",
+  "content": [
+    {
+      "entry_id": "BO-7114-P5-1",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 4 rabii I 1439 (23 novembre 2017) portant",
+      "reference": {
+        "type": "decret",
+        "number": "2-17-449",
+        "date": "2017-11-23"
+      },
+      "pages": {
+        "start": 5,
+        "end": 7
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi organique n° 111-14 relative aux régions,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 47-06 relative à la fiscalité des collectivités",
+            "reference_to": "Loi n° 47-06"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 39-07 édictant des dispositions transitoires",
+            "reference_to": "Loi n° 39-07"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 15-97 formant code de recouvrement des",
+            "reference_to": "Loi n° 15-97"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 61-99 relative à la responsabilité des",
+            "reference_to": "Loi n° 61-99"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 62-99 formant code des juridictions",
+            "reference_to": "Loi n° 62-99"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La comptabilité publique des",
+                "paragraphs": [
+                  "régions et de leurs groupements s'entend de l'ensemble",
+                  "des règles qui régissent l'exécution et le contrôle de leurs",
+                  "opérations financières et comptables ainsi que la tenue de leurs",
+                  "comptabilités et qui précisent, en outre, les obligations et les",
+                  "responsabilités des agents qui sont chargés de l'application",
+                  "desdites règles.",
+                  "Les opérations financières et comptables des régions et",
+                  "de leurs groupements comprennent les opérations budgétaires,",
+                  "de trésorerie et de patrimoine."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent décret a pour objet de fixer :",
+                "paragraphs": [
+                  "- en son titre premier, les principes fondamentaux",
+                  "de la comptabilité publique des régions et de leurs",
+                  "groupements ainsi que les dérogations à ces principes ;",
+                  "- en son titre II, les règles applicables à l'exécution des",
+                  "opérations de recettes et de dépenses ainsi que des",
+                  "opérations de trésorerie ;",
+                  "- en son titre III, les règles applicables à la comptabilité ;",
+                  "- en son titre IV, les règles applicables au règlement du",
+                  "budget, à la présentation des comptes et au contrôle ;",
+                  "- en son titre V, les dispositions diverses et transitoires.",
+                  "TITRE PREMIER",
+                  "PRINCIPES FONDAMENTAUX",
+                  "Chapitre premier",
+                  "Principes généraux"
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Les opérations financières et comptables",
+                "paragraphs": [
+                  "résultant de l'exécution des budgets des régions et de leurs",
+                  "groupements incombent aux ordonnateurs et aux comptables",
+                  "publics."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - Sauf dispositions contraires, la fonction",
+                "paragraphs": [
+                  "d'ordonnateur est incompatible avec celle de comptable public.",
+                  "Le conjoint d'un ordonnateur ne peut assurer la fonction",
+                  "de comptable public affecté à la région ou au groupement",
+                  "auprès duquel ledit ordonnateur exerce sa fonction. La même",
+                  "incompatibilité s'applique à leurs ascendants et descendants.",
+                  "Chapitre II",
+                  "Règles propres aux ordonnateurs",
+                  "Section première. - Règles générales"
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Au sens du présent décret, est ordonnateur de",
+                "paragraphs": [
+                  "recettes et de dépenses d'une région ou d'un groupement toute",
+                  "personne ayant qualité pour :",
+                  "- constater les créances, les liquider et ordonner leur",
+                  "recouvrement ;",
+                  "- engager, liquider et ordonnancer le paiement des dettes."
+                ]
+              },
+              {
+                "article_number": "ART. 6. - L'ordonnateur peut, sous sa responsabilité,",
+                "paragraphs": [
+                  "déléguer sa signature au directeur général des services par",
+                  "voie d'arrêté établi en deux originaux, dont l'un est notifié au",
+                  "comptable assignataire. Ces originaux doivent comporter le",
+                  "spécimen de signature de l'ordonnateur délégué.",
+                  "L'ordonnateur délégué agit sous la responsabilité et le",
+                  "contrôle de l'ordonnateur."
+                ]
+              },
+              {
+                "article_number": "ART. 7. - L'ordonnateur et son délégué, dénommés",
+                "paragraphs": [
+                  "dans la suite du présent décret par le terme « ordonnateur »,",
+                  "doivent se faire accréditer auprès du comptable assignataire",
+                  "des recettes et des dépenses et lui communiquer les spécimens",
+                  "de leur signature."
+                ]
+              },
+              {
+                "article_number": "ART. 8. - Les ordonnateurs encourent, à l'occasion de",
+                "paragraphs": [
+                  "l'exercice de leurs fonctions, les responsabilités prévues par la",
+                  "législation en vigueur.",
+                  "Section 2. - Principes d'organisation"
+                ]
+              },
+              {
+                "article_number": "ART. 9. - L'ordonnateur ne peut se faire ouvrir, en cette",
+                "paragraphs": [
+                  "qualité, un compte courant ou de dépôt destiné à recevoir des",
+                  "fonds appartenant ou confiés à la région ou au groupement.",
+                  "Il ne peut, non plus, disposer des fonds portés au",
+                  "crédit d'un compte ouvert au nom du comptable public d'une",
+                  "région ou d'un groupement que par voie d'ordres donnés à ce",
+                  "dernier, appuyés des pièces justificatives fixées par les textes",
+                  "réglementaires en vigueur.",
+                  "<<<BO_PAGE_6_DELIM>>>",
+                  "Nº 7114 - 6 moharrem 1444 (4-8-2022)"
+                ]
+              },
+              {
+                "article_number": "ART. 10. - Les ordres de recettes ou de paiement émis par",
+                "paragraphs": [
+                  "les ordonnateurs sont retracés dans les comptabilités tenues",
+                  "suivant les règles fixées par le présent décret, les arrêtés et",
+                  "instructions pris pour son application.",
+                  "Chapitre III",
+                  "Règles propres aux comptables publics",
+                  "Section première. - Règles générales"
+                ]
+              },
+              {
+                "article_number": "ART. 11. - Au sens du présent décret, est comptable",
+                "paragraphs": [
+                  "public d'une région ou d'un groupement, tout fonctionnaire",
+                  "ou agent habilité à exécuter, pour le compte desdits organismes,",
+                  "des opérations de recettes, de dépenses ou de maniement de",
+                  "titres, soit au moyen de fonds et valeurs dont il a la garde, soit",
+                  "par virements internes d'écritures, soit par l'entremise d'autres",
+                  "comptables publics ou de comptes externes de disponibilités",
+                  "dont il ordonne ou surveille les mouvements."
+                ]
+              },
+              {
+                "article_number": "ART. 12. - Sauf dispositions réglementaires contraires,",
+                "paragraphs": [
+                  "le comptable public est chargé à titre exclusif :",
+                  "- du contrôle d'engagement des dépenses des régions et de",
+                  "leurs groupements conformément aux dispositions de",
+                  "la section 2 du chapitre 2 du titre 2 du présent décret ;",
+                  "- du contrôle de validité des dépenses des régions et de",
+                  "leurs groupements et de leur paiement, soit sur ordre",
+                  "émanant de l'ordonnateur accrédité, soit au vu des titres",
+                  "présentés par les créanciers, soit de sa propre initiative,",
+                  "ainsi que de la suite à donner aux oppositions et autres",
+                  "empêchements au paiement ;",
+                  "- de l'encaissement des droits au comptant et des",
+                  "taxes déclaratives dans les conditions prévues par la",
+                  "législation et la réglementation en vigueur ;",
+                  "- de la prise en charge et du recouvrement des ordres de",
+                  "recettes individuels ou collectifs régulièrement émis",
+                  "par l'ordonnateur dans les conditions prévues par le",
+                  "présent décret ;",
+                  "- de la conservation des fonds et valeurs dont il a la garde ;",
+                  "- du maniement des fonds et des mouvements de comptes",
+                  "externes de disponibilités qu'il surveille ou dont il",
+                  "ordonne les mouvements ;",
+                  "- de la tenue de la comptabilité de la région ou du",
+                  "groupement et de la centralisation des opérations de",
+                  "recettes et de dépenses exécutées pour leur compte,",
+                  "conformément aux dispositions du présent décret ;",
+                  "- de la conservation des pièces justificatives des opérations",
+                  "dont il a assuré l'exécution ou la centralisation.",
+                  "Il est, en outre, chargé d'accomplir toutes les diligences",
+                  "nécessaires pour le recouvrement des recettes et de signaler",
+                  "à l'ordonnateur toute moins-value constatée dans les revenus",
+                  "du domaine privé de la région ou du groupement."
+                ]
+              },
+              {
+                "article_number": "ART. 13. - Les comptables des régions et de leurs",
+                "paragraphs": [
+                  "groupements sont des comptables principaux ou secondaires :",
+                  "- les comptables principaux sont ceux qui sont, en vertu",
+                  "de la législation et de la réglementation en vigueur ou",
+                  "d'une décision du ministre chargé des finances, tenus de",
+                  "produire, annuellement, à la cour régionale des comptes",
+                  "compétente, les comptes des régions ou de leurs",
+                  "groupements dont ils sont comptables assignataires.",
+                  "Lesdits comptes comprennent les opérations exécutées par",
+                  "leurs soins et celles dont ils ont centralisé les pièces justificatives",
+                  "ou auxquelles ils ont donné une imputation définitive.",
+                  "- les comptables secondaires sont ceux dont les",
+                  "opérations sont centralisées par un comptable principal",
+                  "qui en assure l'imputation définitive au vu des pièces",
+                  "justificatives produites. Toutefois, leur responsabilité",
+                  "demeure engagée au titre desdites opérations dans les",
+                  "conditions fixées par la législation en vigueur."
+                ]
+              },
+              {
+                "article_number": "ART. 14. - Les comptables publics des régions ou de leurs",
+                "paragraphs": [
+                  "groupements sont :",
+                  "- les trésoriers régionaux ;",
+                  "- les trésoriers préfectoraux ou provinciaux ;",
+                  "- les percepteurs.",
+                  "Section 2.- Règles d'organisation"
+                ]
+              },
+              {
+                "article_number": "ART. 15. - Les comptables publics visés à l'article 14",
+                "paragraphs": [
+                  "ci-dessus sont nommés par décision du ministre chargé des",
+                  "finances ou de la personne déléguée par lui à cet effet. Une",
+                  "copie de ladite décision est adressée à la Cour des comptes",
+                  "pour notification à la cour régionale des comptes compétente.",
+                  "Ils sont soumis, avant d'être installés dans leur premier",
+                  "poste comptable, à la formalité de prestation de serment dans",
+                  "les conditions prévues par la législation et la réglementation",
+                  "en vigueur.",
+                  "Une convention de partenariat sera conclue entre le",
+                  "ministère de l'intérieur et la trésorerie générale du Royaume",
+                  "aux fins d'arrêter la nature des prestations à réaliser pour le",
+                  "compte des régions et de leurs groupements, dans le domaine",
+                  "du conseil et d'assistance juridique et financier, notamment",
+                  "en matière de mobilisation du potentiel fiscal et d'exécution",
+                  "des dépenses."
+                ]
+              },
+              {
+                "article_number": "ART. 16. - Les comptables publics des régions ou de",
+                "paragraphs": [
+                  "leurs groupements sont tenus, dès leur prise de service, de",
+                  "souscrire, à titre individuel ou collectif, conformément aux",
+                  "dispositions législatives et réglementaires en vigueur, une",
+                  "police d'assurance auprès d'une entreprise d'assurances",
+                  "agréée, garantissant durant l'exercice de leurs fonctions, leur",
+                  "responsabilité personnelle et pécuniaire."
+                ]
+              },
+              {
+                "article_number": "ART. 17. - Les comptables publics des régions et de leurs",
+                "paragraphs": [
+                  "groupements assurent la gestion des postes comptables qui",
+                  "leur sont confiés.",
+                  "Ils peuvent être assistés d'un ou de plusieurs adjoints",
+                  "auxquels ils peuvent déléguer leurs signatures pour agir en",
+                  "leur nom et sous leur contrôle et leur responsabilité.",
+                  "Les comptables publics et leurs adjoints sont accrédités",
+                  "auprès des organismes teneurs des comptes externes de",
+                  "disponibilités dont ils ordonnent ou surveillent les mouvements.",
+                  "Chaque poste comptable dispose d'une seule caisse et,",
+                  "en cas de besoin, d'un seul compte courant postal et/ou d'un",
+                  "sous compte du compte courant du Trésor.",
+                  "En aucun cas, l'intitulé du compte d'un poste comptable",
+                  "ne peut être libellé au nom personnel du comptable public.",
+                  "<<<BO_PAGE_7_DELIM>>>",
+                  "Nº 7114 - 6 moharrem 1444 (4-8-2022)"
+                ]
+              },
+              {
+                "article_number": "ART. 18. - Les comptables publics encourent, à l'occasion",
+                "paragraphs": [
+                  "de l'exercice de leurs fonctions, les responsabilités prévues par",
+                  "la législation en vigueur."
+                ]
+              },
+              {
+                "article_number": "ART. 19. - Les régisseurs sont chargés d'opérations",
+                "paragraphs": [
+                  "d'encaissement ou de paiement dans les conditions fixées par",
+                  "instruction conjointe du ministre de l'intérieur et du ministre",
+                  "chargé des finances.",
+                  "Les régisseurs de dépenses peuvent se faire ouvrir, sur",
+                  "proposition de l'ordonnateur, un compte de dépôt à la Trésorerie",
+                  "Générale du Royaume destiné à recevoir exclusivement les",
+                  "avances de fonds reçues du comptable assignataire et destinées",
+                  "au paiement des dépenses en régie."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7114-P24-2",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 4 rabii I 1439 (23 novembre 2017) portant",
+      "reference": {
+        "type": "decret",
+        "number": "2-17-450",
+        "date": "2017-11-23"
+      },
+      "pages": {
+        "start": 24,
+        "end": 26
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi organique n° 112-14 relative aux préfectures et",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 47-06 relative à la fiscalité des collectivités",
+            "reference_to": "Loi n° 47-06"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 39-07 édictant des dispositions transitoires",
+            "reference_to": "Loi n° 39-07"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 15-97 formant code de recouvrement des",
+            "reference_to": "Loi n° 15-97"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 61-99 relative à la responsabilité des",
+            "reference_to": "Loi n° 61-99"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 62-99 formant code des juridictions financières,",
+            "reference_to": "Loi n° 62-99"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La comptabilité publique des",
+                "paragraphs": [
+                  "préfectures et provinces et leurs groupements s'entend de",
+                  "l'ensemble des règles qui régissent l'exécution et le contrôle de",
+                  "leurs opérations financières et comptables ainsi que la tenue de",
+                  "leurs comptabilités et qui précisent, en outre, les obligations et",
+                  "les responsabilités des agents qui sont chargés de l'application",
+                  "desdites règles.",
+                  "Les opérations financières et comptables des préfectures",
+                  "et provinces et de leurs groupements comprennent les",
+                  "opérations budgétaires, de trésorerie et de patrimoine."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent décret a pour objet de fixer :",
+                "paragraphs": [
+                  "- en son titre premier, les principes fondamentaux de",
+                  "la comptabilité publique des préfectures et provinces",
+                  "et leurs groupements ainsi que les dérogations à ces",
+                  "principes ;",
+                  "- en son titre II, les règles applicables à l'exécution des",
+                  "opérations de recettes et de dépenses ainsi que des",
+                  "opérations de trésorerie ;",
+                  "- en son titre III, les règles applicables à la comptabilité ;",
+                  "- en son titre IV, les règles applicables au règlement du",
+                  "budget, à la présentation des comptes et au contrôle ;",
+                  "- en son titre V, les dispositions diverses et transitoires.",
+                  "TITRE PREMIER",
+                  "PRINCIPES FONDAMENTAUX",
+                  "Chapitre premier",
+                  "Principes généraux"
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Les opérations financières et comptables",
+                "paragraphs": [
+                  "résultant de l'exécution des budgets des préfectures et",
+                  "provinces et leurs groupements incombent aux ordonnateurs",
+                  "et aux comptables publics."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - Sauf dispositions contraires, la fonction",
+                "paragraphs": [
+                  "d'ordonnateur est incompatible avec celle de comptable public.",
+                  "Le conjoint d'un ordonnateur ne peut assurer la fonction",
+                  "de comptable public affecté à la préfecture ou à la province",
+                  "ou au groupement auprès duquel ledit ordonnateur exerce",
+                  "sa fonction. La même incompatibilité s'applique à leurs",
+                  "ascendants et descendants.",
+                  "<<<BO_PAGE_25_DELIM>>>",
+                  "Nº 7114 - 6 moharrem 1444 (4-8-2022)",
+                  "Chapitre II",
+                  "Règles propres aux ordonnateurs",
+                  "Section première. - Règles générales"
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Au sens du présent décret, est ordonnateur de",
+                "paragraphs": [
+                  "recettes et de dépenses de la préfecture ou de la province ou",
+                  "du groupement toute personne ayant qualité pour :",
+                  "- constater les créances, les liquider et en ordonner leur",
+                  "recouvrement ;",
+                  "- engager, liquider et ordonnancer le paiement des dettes."
+                ]
+              },
+              {
+                "article_number": "ART. 6. - L'ordonnateur peut, sous sa responsabilité,",
+                "paragraphs": [
+                  "déléguer sa signature au directeur général des services par",
+                  "voie d'arrêté établi en deux originaux, dont l'un est notifié au",
+                  "comptable assignataire. Ces originaux doivent comporter le",
+                  "spécimen de signature de l'ordonnateur délégué.",
+                  "L'ordonnateur délégué agit sous la responsabilité et le",
+                  "contrôle de l'ordonnateur."
+                ]
+              },
+              {
+                "article_number": "ART. 7. - L'ordonnateur et son délégué, dénommés",
+                "paragraphs": [
+                  "dans la suite du présent décret par le terme «ordonnateur »,",
+                  "doivent se faire accréditer auprès du comptable assignataire",
+                  "des recettes et des dépenses et lui communiquer les spécimens",
+                  "de leur signature."
+                ]
+              },
+              {
+                "article_number": "ART. 8. - Les ordonnateurs encourent, à l'occasion",
+                "paragraphs": [
+                  "de l'exercice de leurs fonctions, les responsabilités prévues par",
+                  "la législation en vigueur.",
+                  "Section 2. - Principes d'organisation"
+                ]
+              },
+              {
+                "article_number": "ART. 9. - L'ordonnateur ne peut se faire ouvrir, en cette",
+                "paragraphs": [
+                  "qualité, un compte courant ou de dépôt destiné à recevoir des",
+                  "fonds appartenant ou confiés à la préfecture ou à la province",
+                  "ou au groupement.",
+                  "Il ne peut, non plus, disposer des fonds portés au",
+                  "crédit d'un compte ouvert au nom du comptable public de la",
+                  "préfecture ou de la province ou au du groupement que par voie",
+                  "d'ordres donnés à ce dernier, appuyés des pièces justificatives",
+                  "fixées par les textes réglementaires en vigueur."
+                ]
+              },
+              {
+                "article_number": "ART. 10. - Les ordres de recettes ou de paiement émis par",
+                "paragraphs": [
+                  "les ordonnateurs sont retracés dans les comptabilités tenues",
+                  "suivant les règles fixées par le présent décret, les arrêtés et",
+                  "instructions pris pour son application.",
+                  "Chapitre III",
+                  "Règles propres aux comptables publics",
+                  "Section première. - Règles générales"
+                ]
+              },
+              {
+                "article_number": "ART. 11. - Au sens du présent décret, est comptable public",
+                "paragraphs": [
+                  "de la préfecture ou de la province ou du groupement, tout",
+                  "fonctionnaire ou agent habilité pour exécuter, pour le compte",
+                  "desdits organismes, des opérations de recettes, de dépenses ou",
+                  "de maniement de titres, soit au moyen de fonds et valeurs dont",
+                  "il a la garde, soit par virements internes d'écritures, soit par",
+                  "l'entremise d'autres comptables publics ou de comptes externes",
+                  "de disponibilités dont il ordonne ou surveille les mouvements."
+                ]
+              },
+              {
+                "article_number": "ART. 12. - Sauf dispositions réglementaires contraires,",
+                "paragraphs": [
+                  "le comptable public est chargé à titre exclusif :",
+                  "- du contrôle d'engagement des dépenses de la préfecture",
+                  "ou de la province ou de leurs groupements conformément",
+                  "aux dispositions de la section 2 du chapitre 2 du titre 2",
+                  "du présent décret ;",
+                  "- du contrôle de validité des dépenses des préfectures et",
+                  "provinces et de leurs groupements et de leur paiement,",
+                  "soit sur ordres émanant de l'ordonnateur accrédité, soit",
+                  "au vu des titres présentés par les créanciers, soit de",
+                  "sa propre initiative, ainsi que de la suite à donner aux",
+                  "oppositions et autres empêchements au paiement ;",
+                  "- de l'encaissement des droits au comptant et des",
+                  "taxes déclaratives dans les conditions prévues par la",
+                  "législation et la réglementation en vigueur ;",
+                  "- de la prise en charge et du recouvrement des ordres de",
+                  "recettes individuels ou collectifs régulièrement émis",
+                  "par l'ordonnateur dans les conditions prévues par le",
+                  "présent décret ;",
+                  "- de la conservation des fonds et valeurs dont il a la garde ;",
+                  "- du maniement des fonds et des mouvements de comptes",
+                  "externes de disponibilités qu'il surveille ou dont il",
+                  "ordonne les mouvements ;",
+                  "- de la tenue de la comptabilité de la préfecture ou de la",
+                  "province ou du groupement et de la centralisation des",
+                  "opérations de recettes et de dépenses exécutées pour",
+                  "leur compte, conformément aux dispositions du présent",
+                  "décret ;",
+                  "- de la conservation des pièces justificatives des opérations",
+                  "dont ils ont assuré l'exécution ou la centralisation.",
+                  "Il est, en outre, chargé d'accomplir toutes les diligences",
+                  "nécessaires pour le recouvrement des recettes et de signaler",
+                  "à l'ordonnateur toute moins-value constatée dans les revenus",
+                  "du domaine privé de la préfecture ou de la province ou du",
+                  "groupement."
+                ]
+              },
+              {
+                "article_number": "ART. 13. - Les comptables des préfectures et provinces",
+                "paragraphs": [
+                  "et de leurs groupements sont des comptables principaux ou",
+                  "secondaires :",
+                  "- les comptables principaux sont ceux qui sont, en vertu",
+                  "de la législation et de la réglementation en vigueur ou",
+                  "d'une décision du ministre chargé des finances, tenus de",
+                  "produire, annuellement, à la cour régionale des comptes",
+                  "compétente, les comptes des préfectures et provinces",
+                  "ou de leurs groupements dont ils sont comptables",
+                  "assignataires. Lesdits comptes comprennent les",
+                  "opérations exécutées par leurs soins et celles dont ils",
+                  "ont centralisé les pièces justificatives ou auxquelles ils",
+                  "ont donné une imputation définitive ;",
+                  "- les comptables secondaires sont ceux dont les",
+                  "opérations sont centralisées par un comptable principal",
+                  "qui en assure l'imputation définitive au vu des pièces",
+                  "justificatives produites. Toutefois, leur responsabilité",
+                  "demeure engagée au titre desdites opérations dans les",
+                  "conditions fixées par la législation en vigueur.",
+                  "<<<BO_PAGE_26_DELIM>>>",
+                  "Nº 7114 - 6 moharrem 1444 (4-8-2022)"
+                ]
+              },
+              {
+                "article_number": "ART. 14. - Les comptables publics des préfectures et",
+                "paragraphs": [
+                  "provinces ou de leurs groupements sont :",
+                  "- les trésoriers régionaux ;",
+                  "- les trésoriers préfectoraux ou provinciaux ;",
+                  "- les percepteurs.",
+                  "Section 2. - Règles d'organisation"
+                ]
+              },
+              {
+                "article_number": "ART. 15. - Les comptables publics visés à l'article 14",
+                "paragraphs": [
+                  "ci-dessus sont nommés par décision du ministre chargé des",
+                  "finances ou de la personne déléguée par lui à cet effet. Une",
+                  "copie de ladite décision est adressée à la Cour des comptes",
+                  "pour notification à la cour régionale des comptes compétente.",
+                  "Ils sont soumis, avant d'être installés dans leur premier",
+                  "poste comptable, à la formalité de prestation de serment dans",
+                  "les conditions prévues par la législation et la réglementation",
+                  "en vigueur.",
+                  "Une convention de partenariat sera conclue entre le",
+                  "ministère de l'intérieur et la trésorerie générale du Royaume",
+                  "aux fins d'arrêter la nature des prestations à réaliser pour le",
+                  "compte des préfectures et provinces et de leurs groupements,",
+                  "dans le domaine du conseil et d'assistance juridique et financier,",
+                  "notamment en matière de mobilisation du potentiel fiscal et",
+                  "d'exécution des dépenses."
+                ]
+              },
+              {
+                "article_number": "ART. 16. - Les comptables publics des préfectures",
+                "paragraphs": [
+                  "et provinces ou de leurs groupements sont tenus, dès leur",
+                  "prise de service, de souscrire, à titre individuel ou collectif,",
+                  "conformément aux dispositions législatives et réglementaires",
+                  "en vigueur, une police d'assurance auprès d'une entreprise",
+                  "d'assurances agréée, garantissant durant l'exercice de leurs",
+                  "fonctions, leur responsabilité personnelle et pécuniaire."
+                ]
+              },
+              {
+                "article_number": "ART. 17. - Les comptables publics des préfectures et",
+                "paragraphs": [
+                  "provinces et de leurs groupements assurent la gestion des",
+                  "postes comptables qui leur sont confiés.",
+                  "Ils peuvent être assistés d'un ou de plusieurs adjoints",
+                  "auxquels ils peuvent déléguer leurs signatures pour agir en",
+                  "leur nom et sous leur contrôle et leur responsabilité.",
+                  "Les comptables publics et leurs adjoints sont accrédités",
+                  "auprès des organismes teneurs des comptes externes de",
+                  "disponibilités dont ils ordonnent ou surveillent les mouvements.",
+                  "Chaque poste comptable dispose d'une seule caisse et,",
+                  "en cas de besoin, d'un seul compte courant postal et/ou d'un",
+                  "sous compte du compte courant du Trésor.",
+                  "En aucun cas, l'intitulé du compte d'un poste comptable",
+                  "ne peut être libellé au nom personnel du comptable public."
+                ]
+              },
+              {
+                "article_number": "ART. 18. - Les comptables publics encourent, à raison",
+                "paragraphs": [
+                  "de l'exercice de leurs fonctions, les responsabilités prévues par",
+                  "la législation en vigueur."
+                ]
+              },
+              {
+                "article_number": "ART. 19. - Les régisseurs sont chargés d'opérations",
+                "paragraphs": [
+                  "d'encaissement ou de paiement dans les conditions fixées par",
+                  "instruction conjointe du ministre de l'intérieur et du ministre",
+                  "chargé des finances.",
+                  "Les régisseurs de dépenses peuvent se faire ouvrir, sur",
+                  "proposition de l'ordonnateur, un compte de dépôt à la Trésorerie",
+                  "Générale du Royaume destiné à recevoir exclusivement les",
+                  "avances de fonds reçues du comptable assignataire et destinées",
+                  "au paiement des dépenses en régie."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7114-P44-3",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 4 rabii I 1439 (23 novembre 2017)",
+      "reference": {
+        "type": "decret",
+        "number": "2-17-451",
+        "date": "2017-11-23"
+      },
+      "pages": {
+        "start": 44,
+        "end": 46
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi organique n° 113-14 relative aux communes,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 47-06 relative à la fiscalité des collectivités",
+            "reference_to": "Loi n° 47-06"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 39-07 édictant des dispositions transitoires",
+            "reference_to": "Loi n° 39-07"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 15-97 formant code de recouvrement des",
+            "reference_to": "Loi n° 15-97"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 61-99 relative à la responsabilité des",
+            "reference_to": "Loi n° 61-99"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 62-99 formant code des juridictions",
+            "reference_to": "Loi n° 62-99"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La comptabilité publique",
+                "paragraphs": [
+                  "des communes et des établissements de coopération",
+                  "intercommunale s'entend de l'ensemble des règles qui régissent",
+                  "l'exécution et le contrôle de leurs opérations financières et",
+                  "comptables ainsi que la tenue de leurs comptabilités et qui",
+                  "précisent, en outre, les obligations et les responsabilités des",
+                  "agents qui sont chargés de l'application desdites règles.",
+                  "Les opérations financières et comptables des communes",
+                  "et des établissements de coopération intercommunale",
+                  "comprennent les opérations budgétaires, de trésorerie et de",
+                  "patrimoine."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent décret a pour objet de fixer :",
+                "paragraphs": [
+                  "- en son titre premier, les principes fondamentaux",
+                  "de la comptabilité publique des communes et des",
+                  "établissements de coopération intercommunale ainsi",
+                  "que les dérogations à ces principes ;",
+                  "- en son titre II, les règles applicables à l'exécution des",
+                  "opérations de recettes et de dépenses ainsi que des",
+                  "opérations de trésorerie ;",
+                  "- en son titre III, les règles applicables à la comptabilité ;",
+                  "<<<BO_PAGE_45_DELIM>>>",
+                  "Nº 7114 - 6 moharrem 1444 (4-8-2022)",
+                  "- en son titre IV, les règles applicables au règlement du",
+                  "budget, à la présentation des comptes et au contrôle ;",
+                  "- en son titre V, les dispositions diverses et transitoires.",
+                  "TITRE PREMIER",
+                  "PRINCIPES FONDAMENTAUX",
+                  "Chapitre premier",
+                  "Principes généraux"
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Les opérations financières et comptables",
+                "paragraphs": [
+                  "résultant de l'exécution des budgets des communes et des",
+                  "établissements de coopération intercommunale incombent",
+                  "aux ordonnateurs et aux comptables publics."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - Sauf dispositions contraires, la fonction",
+                "paragraphs": [
+                  "d'ordonnateur est incompatible avec celle de comptable public.",
+                  "Le conjoint d'un ordonnateur ne peut assurer la",
+                  "fonction de comptable public affecté à la commune ou à",
+                  "l'établissement de coopération intercommunale auprès duquel",
+                  "ledit ordonnateur exerce sa fonction. La même incompatibilité",
+                  "s'applique à leurs ascendants et descendants.",
+                  "Chapitre II",
+                  "Règles propres aux ordonnateurs",
+                  "Section première. - Règles générales"
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Au sens du présent décret est ordonnateur de",
+                "paragraphs": [
+                  "recettes et de dépenses d'une commune ou d'un établissement",
+                  "de coopération intercommunale toute personne ayant qualité",
+                  "pour :",
+                  "- constater les créances, les liquider et en ordonner le",
+                  "recouvrement ;",
+                  "- engager, liquider et ordonnancer le paiement des dettes."
+                ]
+              },
+              {
+                "article_number": "ART. 6. - L'ordonnateur peut, sous sa responsabilité,",
+                "paragraphs": [
+                  "déléguer sa signature au directeur général des services ou",
+                  "au directeur des services, par voie d'arrêté établi en deux",
+                  "originaux dont l'un est notifié au comptable assignataire.",
+                  "Ces originaux doivent comporter le spécimen de signature",
+                  "de l'ordonnateur délégué.",
+                  "De même, il peut, selon les mêmes formes, désigner",
+                  "les présidents des conseils d'arrondissements des sousordonnateurs auxquels il délègue partie de ses pouvoirs, dans",
+                  "les limites fixées par l'ordonnance de délégation des crédits ou",
+                  "tout autre document en tenant lieu et ce, dans les conditions",
+                  "fixées par les dispositions de l'article 240 de la loi organique",
+                  "susvisée n° 113-14 relative aux communes.",
+                  "L'ordonnateur délégué et le sous-ordonnateur agissent",
+                  "sous la responsabilité et le contrôle de l'ordonnateur."
+                ]
+              },
+              {
+                "article_number": "ART. 7. - L'ordonnateur et son délégué, dénommés",
+                "paragraphs": [
+                  "dans la suite du présent décret par le terme «ordonnateur »,",
+                  "doivent se faire accréditer auprès du comptable assignataire",
+                  "des recettes et des dépenses et lui communiquer les spécimens",
+                  "de leur signature."
+                ]
+              },
+              {
+                "article_number": "ART. 8. - Les ordonnateurs encourent, à l'occasion de",
+                "paragraphs": [
+                  "l'exercice de leurs fonctions, les responsabilités prévues par la",
+                  "législation en vigueur.",
+                  "Section 2. - Principes d'organisation"
+                ]
+              },
+              {
+                "article_number": "ART. 9. - L'ordonnateur ne peut se faire ouvrir, en cette",
+                "paragraphs": [
+                  "qualité, un compte courant ou de dépôt destiné à recevoir des",
+                  "fonds appartenant ou confiés à la commune ou à l'établissement",
+                  "de coopération intercommunale.",
+                  "Il ne peut, non plus, disposer des fonds portés au crédit",
+                  "d'un compte ouvert au nom du comptable public d'une commune",
+                  "ou d'un établissement de coopération intercommunale que",
+                  "par voie d'ordres donnés à ce dernier, appuyés des pièces",
+                  "justificatives fixées par les textes réglementaires en vigueur."
+                ]
+              },
+              {
+                "article_number": "ART. 10. - Les ordres de recettes ou de paiement émis par",
+                "paragraphs": [
+                  "les ordonnateurs sont retracés dans les comptabilités tenues",
+                  "suivant les règles fixées par le présent décret, les arrêtés et",
+                  "instructions pris pour son application.",
+                  "Chapitre III",
+                  "Règles propres aux comptables publics",
+                  "Section première. - Règles générales"
+                ]
+              },
+              {
+                "article_number": "ART. 11. - Au sens du présent décret, est comptable",
+                "paragraphs": [
+                  "public d'une commune ou d'un établissement de coopération",
+                  "intercommunale, tout fonctionnaire ou agent habilité à",
+                  "exécuter, pour le compte desdits organismes, des opérations",
+                  "de recettes, de dépenses ou de maniement de titres, soit au",
+                  "moyen de fonds et valeurs dont il a la garde, soit par virements",
+                  "internes d'écritures, soit par l'entremise d'autres comptables",
+                  "publics ou de comptes externes de disponibilités dont il",
+                  "ordonne ou surveille les mouvements."
+                ]
+              },
+              {
+                "article_number": "ART. 12. - Sauf dispositions réglementaires contraires,",
+                "paragraphs": [
+                  "le comptable public est chargé à titre exclusif :",
+                  "- du contrôle d'engagement des dépenses de la commune",
+                  "et des établissements de coopération intercommunale",
+                  "conformément aux dispositions de la section 2, du",
+                  "chapitre 2, du titre 2 du présent décret ;",
+                  "- du contrôle de validité des dépenses de la commune et",
+                  "des établissements de coopération intercommunale et de",
+                  "leur paiement, soit sur ordre émanant de l'ordonnateur",
+                  "accrédité, soit au vu des titres présentés par les",
+                  "créanciers, soit de sa propre initiative, ainsi que de la",
+                  "suite à donner aux oppositions et autres empêchements",
+                  "au paiement ;",
+                  "- de l'encaissement des droits au comptant et des",
+                  "taxes déclaratives dans les conditions prévues par la",
+                  "législation et la réglementation en vigueur ;",
+                  "- de la prise en charge et du recouvrement des ordres de",
+                  "recettes individuels ou collectifs régulièrement émis",
+                  "par l'ordonnateur dans les conditions prévues par le",
+                  "présent décret ;",
+                  "- de la conservation des fonds et valeurs dont il a la garde ;",
+                  "- du maniement des fonds et des mouvements de comptes",
+                  "externes de disponibilités qu'il surveille ou dont il",
+                  "ordonne les mouvements ;",
+                  "<<<BO_PAGE_46_DELIM>>>",
+                  "Nº 7114 - 6 moharrem 1444 (4-8-2022)",
+                  "- de la tenue de la comptabilité de la commune ou de",
+                  "l'établissement de coopération intercommunale et",
+                  "de la centralisation des opérations de recettes et de",
+                  "dépenses exécutées pour leur compte, conformément",
+                  "aux dispositions du présent décret ;",
+                  "- de la conservation des pièces justificatives des opérations",
+                  "dont il a assuré l'exécution ou la centralisation.",
+                  "II est, en outre, chargé d'accomplir toutes les diligences",
+                  "nécessaires pour le recouvrement des recettes et de signaler",
+                  "à l'ordonnateur toute moins-value constatée dans les revenus",
+                  "du domaine privé de la commune et de l'établissement de",
+                  "coopération intercommunale."
+                ]
+              },
+              {
+                "article_number": "ART. 13. - Les comptables des communes et des",
+                "paragraphs": [
+                  "établissements de coopération intercommunale sont des",
+                  "comptables principaux ou secondaires :",
+                  "- les comptables principaux sont ceux qui sont, en vertu",
+                  "de la législation et de la réglementation en vigueur ou",
+                  "d'une décision du ministre chargé des finances, tenus",
+                  "de produire, annuellement, à la Cour régionale des",
+                  "comptes compétente, les comptes des communes et des",
+                  "établissements de coopération intercommunale dont ils",
+                  "sont comptables assignataires.",
+                  "Lesdits comptes comprennent les opérations exécutées",
+                  "par leurs soins et celles dont ils ont centralisé les pièces",
+                  "justificatives ou auxquelles ils ont donné une imputation",
+                  "définitive.",
+                  "- les comptables secondaires sont ceux dont les",
+                  "opérations sont centralisées par un comptable principal",
+                  "qui en assure l'imputation définitive au vu des pièces",
+                  "justificatives produites. Toutefois, leur responsabilité",
+                  "demeure engagée au titre desdites opérations dans les",
+                  "conditions fixées par la législation en vigueur."
+                ]
+              },
+              {
+                "article_number": "ART. 14. - Les comptables publics des communes et des",
+                "paragraphs": [
+                  "établissements de coopération intercommunale sont:",
+                  "- les trésoriers régionaux ;",
+                  "- les trésoriers préfectoraux ou provinciaux ;",
+                  "- les percepteurs.",
+                  "Section 2. - Règles d'organisation"
+                ]
+              },
+              {
+                "article_number": "ART. 15. - Les comptables publics cités à l'article 14",
+                "paragraphs": [
+                  "ci-dessus sont nommés par décision du ministre chargé des",
+                  "finances ou de la personne déléguée par lui à cet effet. Une",
+                  "copie de ladite décision est adressée à la Cour des comptes",
+                  "pour notification à la Cour régionale des comptes compétente.",
+                  "Ils sont soumis, avant d'être installés dans leur premier",
+                  "poste comptable, à la formalité de prestation de serment dans",
+                  "les conditions prévues par la législation et la réglementation",
+                  "en vigueur.",
+                  "Une convention de partenariat sera conclue entre le",
+                  "ministère de l'intérieur et la trésorerie générale du royaume",
+                  "aux fins d'arrêter la nature des prestations à réaliser pour le",
+                  "compte des communes et des établissements de coopération",
+                  "intercommunale, dans le domaine du conseil et d'assistance",
+                  "juridique et financier, notamment en matière de mobilisation",
+                  "du potentiel fiscal et d'exécution des dépenses."
+                ]
+              },
+              {
+                "article_number": "ART. 16. - Les comptables publics des communes et des",
+                "paragraphs": [
+                  "établissements de coopération intercommunale sont tenus, dès",
+                  "leur prise de service, de souscrire, à titre individuel ou collectif,",
+                  "conformément aux dispositions législatives et réglementaires",
+                  "en vigueur, une police d'assurance auprès d'une entreprise",
+                  "d'assurances agréée, garantissant durant l'exercice de leurs",
+                  "fonctions, leur responsabilité personnelle et pécuniaire."
+                ]
+              },
+              {
+                "article_number": "ART. 17. - Les comptables publics des communes et des",
+                "paragraphs": [
+                  "établissements de coopération intercommunale assurent la",
+                  "gestion des postes comptables qui leur sont confiés.",
+                  "Ils peuvent être assistés d'un ou de plusieurs adjoints",
+                  "auxquels ils peuvent déléguer leurs signatures pour agir en",
+                  "leur nom et sous leur contrôle et leur responsabilité.",
+                  "Les comptables publics et leurs adjoints sont accrédités",
+                  "auprès des organismes teneurs des comptes externes de",
+                  "disponibilités dont ils ordonnent ou surveillent les mouvements.",
+                  "Chaque poste comptable dispose d'une seule caisse et,",
+                  "en cas de besoin, d'un seul compte courant postal et/ou d'un",
+                  "sous compte du compte courant du Trésor.",
+                  "En aucun cas, l'intitulé du compte d'un poste comptable",
+                  "ne peut être libellé au nom personnel du comptable public."
+                ]
+              },
+              {
+                "article_number": "ART. 18. - Les comptables publics encourent, à raison",
+                "paragraphs": [
+                  "de l'exercice de leurs fonctions, les responsabilités prévues par",
+                  "la législation en vigueur."
+                ]
+              },
+              {
+                "article_number": "ART. 19. - Les régisseurs sont chargés d'opérations",
+                "paragraphs": [
+                  "d'encaissement ou de paiement dans les conditions fixées par",
+                  "instruction conjointe du ministre de l'intérieur et du ministre",
+                  "chargé des finances.",
+                  "Les régisseurs de dépenses peuvent se faire ouvrir, sur",
+                  "proposition de l'ordonnateur, un compte de dépôt à la Trésorerie",
+                  "Générale du Royaume destiné à recevoir exclusivement les",
+                  "avances de fonds reçues du comptable assignataire et destinées",
+                  "au paiement des dépenses en régie."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7114-P64-4",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 21 hija 1443 (21 juillet 2022) pris pour",
+      "reference": {
+        "type": "decret",
+        "number": "2-21-346",
+        "date": "2022-07-21"
+      },
+      "pages": {
+        "start": 64,
+        "end": 65
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 42-18 relative au contrôle de l'exportation",
+            "reference_to": "Loi n° 42-18"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement réuni"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil des ministres réuni le"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions de",
+                "paragraphs": [
+                  "l'article 5 de la loi susvisée n° 42-18, la Commission des biens",
+                  "à double usage et des services qui leur sont liés, dénommée",
+                  "ci-après « la Commission » est présidée par l'autorité",
+                  "gouvernementale chargée du commerce extérieur ou la",
+                  "personne déléguée par elle à cet effet.",
+                  "<<<BO_PAGE_65_DELIM>>>",
+                  "Nº 7114 - 6 moharrem 1444 (4-8-2022)",
+                  "La commission est composée, outre les représentants",
+                  "des établissements publics prévus audit article 5, des membres",
+                  "suivants :",
+                  "- l'autorité gouvernementale chargée de l'intérieur ou son",
+                  "représentant ;",
+                  "- l'autorité gouvernementale chargée des affaires",
+                  "étrangères ou son représentant ;",
+                  "- l'autorité gouvernementale chargée de la justice ou son",
+                  "représentant ;",
+                  "- l'autorité gouvernementale chargée de la santé ou son",
+                  "représentant ;",
+                  "- l'autorité gouvernementale chargée de l'industrie ou",
+                  "son représentant ;",
+                  "- l'autorité gouvernementale chargée de l'énergie et des",
+                  "mines ou son représentant ;",
+                  "- l'autorité gouvernementale chargée de l'administration",
+                  "de la défense nationale ou son représentant ;",
+                  "- un représentant de l'administration des douanes et",
+                  "impôts indirects ;",
+                  "- un représentant de la direction générale de la",
+                  "sûreté nationale ;",
+                  "- un représentant de la gendarmerie royale.",
+                  "Le président peut inviter à participer aux travaux de",
+                  "la Commission, à titre consultatif, toute personne dont la",
+                  "présence lui paraît utile."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La Commission se réunit sur convocation de",
+                "paragraphs": [
+                  "son président, autant de fois que nécessaire, ou à la demande",
+                  "de l'un de ses membres, selon les modalités fixées par son",
+                  "règlement intérieur."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La Commission adopte, lors de sa première",
+                "paragraphs": [
+                  "réunion, son règlement intérieur qui fixe notamment les",
+                  "modalités de déroulement de ses travaux, les modalités",
+                  "selon lesquelles les avis sont donnés, et les modalités de",
+                  "fonctionnement des comités créés en son sein, le cas échéant.",
+                  "Le Règlement intérieur de la Commission est approuvé",
+                  "par arrêté de l'autorité gouvernementale chargée du commerce",
+                  "extérieur."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - Le Secrétariat de la Commission est assuré par",
+                "paragraphs": [
+                  "le département chargé du commerce extérieur.",
+                  "Le secrétariat de la Commission est notamment chargé",
+                  "de :",
+                  "- recevoir et enregistrer les demandes d'avis et de réexamen",
+                  "et les autres questions soumises à la Commission",
+                  "conformément aux dispositions de l'article 4 de la loi",
+                  "précitée n° 42-18 ;",
+                  "- préparer l'ordre du jour des réunions de la Commission",
+                  "et le soumettre à son président ;",
+                  "- établir les procès-verbaux des réunions de la",
+                  "Commission ;",
+                  "- tenir les archives des travaux de la Commission ;",
+                  "- assurer toutes les tâches administratives que le président",
+                  "de la Commission lui confie.",
+                  "Chapitre II",
+                  "Exportation des biens à double usage",
+                  "et des services qui leur sont liés"
+                ]
+              },
+              {
+                "article_number": "ART. 5. - La liste des biens à double usage prévue à",
+                "paragraphs": [
+                  "l'article 8 de la loi précitée n° 42-18 est fixée par arrêté de",
+                  "l'autorité gouvernementale chargée du commerce extérieur."
+                ]
+              },
+              {
+                "article_number": "ART. 6. - En application des dispositions de l'article 9 de",
+                "paragraphs": [
+                  "la loi précitée n° 42-18, la demande de « la licence d'exportation",
+                  "individuelle » ou la demande de « la licence d'exportation",
+                  "globale » des biens à doubles usages ou des services qui leur",
+                  "sont liés est déposée, y compris par voie électronique, contre",
+                  "récépissé, par l'exportateur, auprès du département chargé du",
+                  "commerce extérieur, au niveau central ou au niveau territorial.",
+                  "La demande est accompagnée d'un dossier constitué",
+                  "des documents dont la liste est fixée par arrêté de l'autorité",
+                  "gouvernementale chargée du commerce extérieur."
+                ]
+              },
+              {
+                "article_number": "ART. 7. - En application des dispositions de l'article 8 de",
+                "paragraphs": [
+                  "la loi précitée n° 42-18, si le bien à double usage ou le service",
+                  "objet de la demande de la licence d'exportation nécessite, pour",
+                  "son exportation, la délivrance d'une autre licence ou autre",
+                  "document lié à la nature dudit bien ou dudit service, en vertu",
+                  "de toute autre législation ou règlementation en vigueur, cette",
+                  "licence ou document doit être fourni avec les documents du",
+                  "dossier accompagnant la demande de licence d'exportation."
+                ]
+              },
+              {
+                "article_number": "ART. 8. - Le service compétent du département chargé",
+                "paragraphs": [
+                  "du commerce extérieur procède à l'examen du dossier",
+                  "accompagnant la demande de licence. Si lors de cet examen,",
+                  "il est constaté qu'un ou plusieurs documents du dossier sont"
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7114-P68-5",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 21 hija 1443 (21 juillet 2022) pris pour",
+      "reference": {
+        "type": "decret",
+        "number": "2-21-624",
+        "date": "2022-07-21"
+      },
+      "pages": {
+        "start": 68,
+        "end": 68
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 40-13 portant code de l'aviation civile,",
+            "reference_to": "Loi n° 40-13"
+          },
+          {
+            "type": "recital",
+            "text": "Considérant la convention relative à l'Aviation civile"
+          },
+          {
+            "type": "recital",
+            "text": "Considérant la convention des Nations Unies contre"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission nationale de contrôle et"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions",
+                "paragraphs": [
+                  "de l'article 212 de la loi susvisée n° 40-13, le présent décret",
+                  "fixe les modalités de communication au « Centre National de",
+                  "Traitement des Informations », prévu à l'article 3 ci-dessous,",
+                  "des informations ci-après :",
+                  "- les informations préalables, transmises par les",
+                  "transporteurs aériens, relatives aux passagers et les",
+                  "informations relatives aux vols commerciaux nationaux",
+                  "ou internationaux et leurs membres d'équipage ;",
+                  "- les informations relatives aux vols de l'aviation générale",
+                  "transmises par les exploitants d'aéronefs de l'aviation",
+                  "générale.",
+                  "Il fixe également, les modalités de recueil, de traitement,",
+                  "d'analyse, d'échange et de conservation de ces informations.",
+                  "Les vols de l'Etat visés à l'article 212 de la loi précitée",
+                  "n° 40-13, exclus du champ d'application dudit article,",
+                  "s'entendent des vols réalisés par les aéronefs d'Etat et des",
+                  "vols réalisés par tout autre aéronef utilisé d'une manière",
+                  "permanente ou temporaire pour un service de l'Etat."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Les informations visées à l'article premier cidessus sont traitées selon des critères préétablis par le « Centre",
+                "paragraphs": [
+                  "National de Traitement des Informations », pour permettre",
+                  "d'identifier les personnes susceptibles de faire l'objet d'un",
+                  "examen approfondi des informations les concernant, par les",
+                  "autorités de contrôle et ce, avant leur arrivée ou leur départ du",
+                  "territoire national, aux fins de prévention et de lutte contre les",
+                  "actes de terrorisme et la criminalité transnationale.",
+                  "Ces critères doivent être établis sans préjudice des",
+                  "dispositions de la loi n° 09-08 relative à la protection des",
+                  "personnes physiques à l'égard du traitement des données",
+                  "à caractère personnel promulguée par dahir n° 1-09-15 du",
+                  "22 safar 1430 (18 février 2009).",
+                  "Chapitre II",
+                  "Du centre national de traitement des informations"
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Il est créé, auprès du directeur général de",
+                "paragraphs": [
+                  "la Sûreté nationale, un « Centre national de traitement des",
+                  "informations » relatives aux passagers et aux vols, dénommé",
+                  "ci-après « le Centre ».",
+                  "Le Centre est dirigé par un chef de centre nommé par le",
+                  "directeur général de la Sûreté nationale."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - Le Centre a pour mission de recueillir les",
+                "paragraphs": [
+                  "informations visées à l'article premier ci-dessus transmises",
+                  "par les transporteurs aériens et les exploitants d'aéronefs",
+                  "de l'aviation générale et d'en assurer le traitement, l'analyse,",
+                  "l'échange et la conservation."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7114-P70-6",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 21 hija 1443 (21 juillet 2022) pris pour",
+      "reference": {
+        "type": "decret",
+        "number": "2-22-243",
+        "date": "2022-07-21"
+      },
+      "pages": {
+        "start": 70,
+        "end": 70
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 76-17 relative à la protection des végétaux,",
+            "reference_to": "Loi n° 76-17"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 25-08 portant création de l'Office national de",
+            "reference_to": "Loi n° 25-08"
+          },
+          {
+            "type": "recital",
+            "text": "Considérant les dispositions de la Convention"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La déclaration prévue à l'article 26",
+                "paragraphs": [
+                  "de la loi susvisée n° 76-17 doit être faite selon le modèle",
+                  "disponible sur le site Web de l'Office national de sécurité",
+                  "sanitaire des produits alimentaires désigné ci-après « Office »",
+                  "ou par tout autre moyen mis à la disposition du public par",
+                  "ledit Office.",
+                  "Cette déclaration contient les mentions d'identification"
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7114-P73-7",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 25 hija 1443 (25 juillet 2022) portant",
+      "reference": {
+        "type": "decret",
+        "number": "2-22-433",
+        "date": "2022-07-25"
+      },
+      "pages": {
+        "start": 73,
+        "end": 75
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 19-94 relative aux zones d'accélération",
+            "reference_to": "Loi n° 19-94"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-95-562 du 19 rejeb 1416 (12 décembre 1995)",
+            "reference_to": "Decret n° 2-95-562"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil de gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - II est créé une zone d'accélération",
+                "paragraphs": [
+                  "industrielle à la Commune de Aïn Johra Sidi Boukhalkhal,",
+                  "province de Khémisset, dénommée « Zone d'accélération",
+                  "industrielle de Aïn Johra »."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La zone d'accélération industrielle de Aïn",
+                "paragraphs": [
+                  "Johra sera réalisée sur une assiette foncière, sis à la Commune",
+                  "de Aïn Johra Sidi Boukhalkhal - province de Khémisset, d'une",
+                  "superficie globale de 69 ha 98 a 16 ca, délimitée à l'Est par",
+                  "le parc industriel Aïn Johra, à l'Ouest et au Nord par des",
+                  "terrains agricoles et au sud par la RN6, tel que figuré par le",
+                  "plan annexé au présent décret et par les coordonnées Lambert",
+                  "indiquées ci-après.",
+                  "Liste des coordonnées de la parcelle constituant",
+                  "la zone d'accélération industrielle de Ain Johra",
+                  "MAT",
+                  "X",
+                  "Y",
+                  "P.l",
+                  "409064,63",
+                  "369063,79",
+                  "P.2",
+                  "409070,56",
+                  "369059,98",
+                  "P.3",
+                  "409157,27",
+                  "369125,52",
+                  "P.4",
+                  "409137,06",
+                  "369206,84",
+                  "P.5",
+                  "409047,62",
+                  "369356,59",
+                  "P.6",
+                  "409047,40",
+                  "369440,23",
+                  "P.7",
+                  "409030,21",
+                  "369465,82",
+                  "P.8",
+                  "409010,15",
+                  "369485,46",
+                  "P.9",
+                  "408955,29",
+                  "369510,26",
+                  "P.10",
+                  "408924,67",
+                  "369529,39",
+                  "P.ll",
+                  "408911,51",
+                  "369554,68",
+                  "P.12",
+                  "408906,14",
+                  "369573,92",
+                  "P.13",
+                  "408907,96",
+                  "369678,60",
+                  "P.14",
+                  "408922,51",
+                  "369686,82",
+                  "P.15",
+                  "409299,37",
+                  "369234,35",
+                  "P.16",
+                  "409307,15",
+                  "369222,44",
+                  "P.17",
+                  "409317,24",
+                  "369211,13",
+                  "P.18",
+                  "409328,44",
+                  "369201,87",
+                  "P.19",
+                  "409478,02",
+                  "369096,22",
+                  "P.20",
+                  "409676,36",
+                  "368939,07",
+                  "P.21",
+                  "409752,96",
+                  "368729,68",
+                  "P.22",
+                  "409718,65",
+                  "368727,00",
+                  "P.23",
+                  "409718,65",
+                  "368656,94",
+                  "P.24",
+                  "409750,59",
+                  "368656,94",
+                  "P.25",
+                  "409750,57",
+                  "368312,01",
+                  "P.26",
+                  "409574,17",
+                  "368312,01",
+                  "P.27",
+                  "409559,43",
+                  "368303,06",
+                  "P.28",
+                  "409553,76",
+                  "368286,94",
+                  "P.29",
+                  "409553,53",
+                  "367862,29",
+                  "P.30",
+                  "409423,75",
+                  "367862,61",
+                  "P.31",
+                  "409423,73",
+                  "367853,91",
+                  "P.32",
+                  "409373,70",
+                  "367853,70",
+                  "P.33",
+                  "409373,65",
+                  "367839,92",
+                  "P.34",
+                  "409421,75",
+                  "367798,93",
+                  "P.35",
+                  "409443,22",
+                  "367740,26",
+                  "P.36",
+                  "409119,39",
+                  "367740,85",
+                  "B.3T26722P1",
+                  "409079,41",
+                  "367762,09",
+                  "B.4T26722P1",
+                  "409110,20",
+                  "367887,91",
+                  "<<<BO_PAGE_74_DELIM>>>",
+                  "Nº 7114 - 6 moharrem 1444 (4-8-2022)",
+                  "B.18T26722P1",
+                  "409227,83",
+                  "368043,25",
+                  "B.5T26722P1",
+                  "409272,68",
+                  "368149,70",
+                  "B.7T27031",
+                  "409154,81",
+                  "368156,95",
+                  "P.37",
+                  "409082,32",
+                  "368137,50",
+                  "P.38",
+                  "409082,32",
+                  "368354,28",
+                  "B.10T27031",
+                  "409177,97",
+                  "368417,19",
+                  "B.11T27031",
+                  "409297,11",
+                  "368471,71",
+                  "B.12T27031",
+                  "409302,81",
+                  "368473,83",
+                  "B.13T27031",
+                  "409295,06",
+                  "368673,62",
+                  "B.P43",
+                  "409293,42",
+                  "368677,52",
+                  "B.P44",
+                  "409290,87",
+                  "368679,60",
+                  "B.P45",
+                  "409287,66",
+                  "368681,32",
+                  "B.P46",
+                  "409283,96",
+                  "368684,96",
+                  "B.P47",
+                  "409277,96",
+                  "368690,69",
+                  "B.P48",
+                  "409274,21",
+                  "368700,26",
+                  "B.P49",
+                  "409276,61",
+                  "368706,54",
+                  "B.P50",
+                  "409280,40",
+                  "368712,05",
+                  "B.P51",
+                  "409285,02",
+                  "368720,87",
+                  "B.P52",
+                  "409290,00",
+                  "368726,49",
+                  "B.P53",
+                  "409294,71",
+                  "368733,39",
+                  "B.P54",
+                  "409299,61",
+                  "368743,64",
+                  "B.P55",
+                  "409303,17",
+                  "368749,78",
+                  "B.P56",
+                  "409304,80",
+                  "368757,87",
+                  "B.P57",
+                  "409303,57",
+                  "368763,17",
+                  "B.P58",
+                  "409299,35",
+                  "368765,66",
+                  "B.P59",
+                  "409293,85",
+                  "368769,84",
+                  "B.P60",
+                  "409287,44",
+                  "368772,87",
+                  "B.P61",
+                  "409278,45",
+                  "368776,19",
+                  "B.P62",
+                  "409272,29",
+                  "368779,48",
+                  "B.P63",
+                  "409264,10",
+                  "368784,71",
+                  "B.P64",
+                  "409258,23",
+                  "368789,41",
+                  "B.65",
+                  "409250,96",
+                  "368797,09",
+                  "B.P66",
+                  "409243,44",
+                  "368805,15",
+                  "B.26T26722P2",
+                  "409240,68",
+                  "368811,24",
+                  "B.P1",
+                  "409240,44",
+                  "368815,85",
+                  "B.P2",
+                  "409239,68",
+                  "368818,29",
+                  "B.P3",
+                  "409238,40",
+                  "368821,48",
+                  "B.P4",
+                  "409236,37",
+                  "368825,82",
+                  "B.P5",
+                  "409233,31",
+                  "368830,68",
+                  "B.P6",
+                  "409227,93",
+                  "368836,19",
+                  "B.P7",
+                  "409221,41",
+                  "368842,45",
+                  "B.P8",
+                  "409211,55",
+                  "368850,88",
+                  "B.P9",
+                  "409202,35",
+                  "368860,09",
+                  "B.P10",
+                  "409195,18",
+                  "368866,48",
+                  "B.P11",
+                  "409184,69",
+                  "368874,41",
+                  "B.P12",
+                  "409174,84",
+                  "368883,09",
+                  "B.P13",
+                  "409165,11",
+                  "368890,76",
+                  "B.P14",
+                  "409150,64",
+                  "368902,01",
+                  "B.P15",
+                  "409143,47",
+                  "368908,40",
+                  "B.P16",
+                  "409137,98",
+                  "368915,18",
+                  "B.P17",
+                  "409125,55",
+                  "368920,80",
+                  "B.P18",
+                  "409118,76",
+                  "368924,89",
+                  "B.P19",
+                  "409104,69",
+                  "368936,38",
+                  "B.P20",
+                  "409094,20",
+                  "368947,00",
+                  "B.P21",
+                  "409084,99",
+                  "368955,82",
+                  "B.P22",
+                  "409083,86",
+                  "368961,07",
+                  "B.P23",
+                  "409084,51",
+                  "368964,65",
+                  "B.P24",
+                  "409085,93",
+                  "368967,46",
+                  "B.P25",
+                  "409089,28",
+                  "368972,71",
+                  "B.P26",
+                  "409092,91",
+                  "368980,27",
+                  "B.P27",
+                  "409095,24",
+                  "368988,33",
+                  "B.P28",
+                  "409093,98",
+                  "368992,17",
+                  "B.P29",
+                  "409091,71",
+                  "369001,90",
+                  "B.P30",
+                  "409087,12",
+                  "369010,72",
+                  "B.P31",
+                  "409079,95",
+                  "369017,11",
+                  "B.P32",
+                  "409074,32",
+                  "369022,47",
+                  "B.P33",
+                  "409069,98",
+                  "369028,36",
+                  "B.P34",
+                  "409067,30",
+                  "369032,83",
+                  "B.P35",
+                  "409067,20",
+                  "369038,85",
+                  "B.P36",
+                  "409068,88",
+                  "369045,37",
+                  "B.P37",
+                  "409068,78",
+                  "369050,88",
+                  "B.P38",
+                  "409067,13",
+                  "369057,40"
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Les activités des entreprises qui peuvent",
+                "paragraphs": [
+                  "s'installer dans la zone d'accélération industrielle de Aïn Johra",
+                  "sont les suivantes :",
+                  "- les industries textiles et cuir ;",
+                  "- l'industrie agro-alimentaire ;",
+                  "- l'industrie chimique et para-chimique ;",
+                  "- l'industrie automobile ;",
+                  "- l'industrie aéronautique ;",
+                  "- l'industrie des énergies renouvelables ;",
+                  "- l'industrie des matériaux de construction ;",
+                  "<<<BO_PAGE_75_DELIM>>>",
+                  "Nº 7114 - 6 moharrem 1444 (4-8-2022)",
+                  "- les industries métallurgiques, mécaniques, électriques",
+                  "et électroniques ;",
+                  "- l'industrie plastique ;",
+                  "- les services liés aux activités visées ci-dessus."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - La liste des services liés aux activités autorisées",
+                "paragraphs": [
+                  "à s'implanter dans la zone d'accélération précitée sera fixée",
+                  "par arrêté conjoint de l'autorité gouvernementale chargée",
+                  "de l'industrie et de l'autorité gouvernementale chargée des",
+                  "finances, sur proposition de la commission nationale des zones",
+                  "d'accélération industrielle."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - L'autorisation visée à l'article 11 de la loi",
+                "paragraphs": [
+                  "n° 19-94 susvisée ne peut être délivrée que si les conditions",
+                  "particulières prévues à l'article 13 de ladite loi, en vue de",
+                  "prévenir les activités polluantes, sont respectées.",
+                  "En outre, et en application de l'article 16 de la loi",
+                  "n° 19-94 précitée, l'entrée en zone d'accélération industrielle",
+                  "de Aïn Johra est strictement interdite aux déchets classés",
+                  "dangereux conformément à la réglementation en vigueur,",
+                  "ainsi qu'à toute substance, déchet ou non, pouvant présenter",
+                  "une incommodité, une insalubrité ou tout autre inconvénient",
+                  "similaire pour la santé, la faune, la flore et les ressources en",
+                  "eau ainsi que d'une manière générale pour le voisinage et la",
+                  "qualité de vie.",
+                  "Le rejet direct ou indirect de déchets classés dangereux",
+                  "conformément à la réglementation en vigueur ou d'eaux usées",
+                  "ayant servi aux besoins des activités et services mentionnés",
+                  "aux articles 3 et 4 ci-dessus sont strictement interdits."
+                ]
+              },
+              {
+                "article_number": "ART. 6. - La ministre de l'économie et des finances et le",
+                "paragraphs": [
+                  "ministre de l'industrie et du commerce sont chargés, chacun",
+                  "en ce qui le concerne, de l'exécution du présent décret qui sera",
+                  "publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7114-P77-10",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 21 hija 1443 (21 juillet 2022) approuvant",
+      "reference": {
+        "type": "decret",
+        "number": "2-22-522",
+        "date": "2022-07-21"
+      },
+      "pages": {
+        "start": 77,
+        "end": 78
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi de finances n° 76-21 pour l'année budgétaire",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi de finances pour l'année 1982, n° 26-81,",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est approuvé, tel qu'il est annexé",
+                "paragraphs": [
+                  "à l'original du présent décret, l'accord de prêt n° MR-C3",
+                  "conclu le 1er juillet 2022 entre le Royaume du Maroc et l'Agence",
+                  "japonaise de coopération internationale (JICA), portant sur",
+                  "un montant de vingt-deux milliards de yens japonais",
+                  "(22.000.000.000 JPY), pour le financement du Programme",
+                  "d'amélioration de l'environnement des apprentissages dans",
+                  "le secteur éducatif de base.",
+                  "<<<BO_PAGE_78_DELIM>>>",
+                  "Nº 7114 - 6 moharrem 1444 (4-8-2022)"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le ministre délégué auprès de la ministre de",
+                "paragraphs": [
+                  "l'économie et des finances, chargé du budget est chargé de",
+                  "l'exécution du présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7114-P77-8",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 21 hija 1443 (21 juillet 2022) approuvant",
+      "reference": {
+        "type": "decret",
+        "number": "2-22-518",
+        "date": "2022-07-21"
+      },
+      "pages": {
+        "start": 77,
+        "end": 77
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi de finances n° 76-21 pour l'année budgétaire",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le paragraphe premier de l'article 41 de la loi de finances",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est approuvé, tel qu'il est annexé à",
+                "paragraphs": [
+                  "l'original du présent décret, l'accord de prêt n° 9386-MA d'un",
+                  "montant de trois cent quinze millions cinq cent mille euros",
+                  "(315.500.000,00 euros), conclu le 9 juin 2022 entre le Royaume",
+                  "du Maroc et la Banque internationale pour la reconstruction et",
+                  "le développement, concernant le Programme d'économie bleue."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le ministre délégué auprès de la ministre de",
+                "paragraphs": [
+                  "l'économie et des finances, chargé du budget est chargé de",
+                  "l'exécution du présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7114-P77-9",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 21 hija 1443 (21 juillet 2022) approuvant",
+      "reference": {
+        "type": "decret",
+        "number": "2-22-519",
+        "date": "2022-07-21"
+      },
+      "pages": {
+        "start": 77,
+        "end": 77
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi de finances n° 76-21 pour l'année budgétaire",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le paragraphe premier de l'article 41 de la loi de finances",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est approuvé, tel qu'il est annexé à",
+                "paragraphs": [
+                  "l'original du présent décret, l'accord de prêt n° 9364-MA d'un",
+                  "montant de cent soixante et un millions quatre cent mille euros",
+                  "(161.400.000,00 euros), conclu le 9 juin 2022 entre le Royaume",
+                  "du Maroc et la Banque internationale pour la reconstruction et",
+                  "le développement, concernant le Projet résilience et durabilité",
+                  "de l'irrigation."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le ministre délégué auprès de la ministre de",
+                "paragraphs": [
+                  "l'économie et des finances, chargé du budget est chargé de",
+                  "l'exécution du présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7114-P78-11",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n° 895-22 du",
+      "reference": {
+        "type": "arrete",
+        "number": "895-22",
+        "date": "2022-04-12"
+      },
+      "pages": {
+        "start": 78,
+        "end": 78
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les dispositions des articles premier",
+                "paragraphs": [
+                  "et 2 de l'arrêté susvisé n° 966-93 sont modifiés et complétés",
+                  "ainsi qu'il suit :",
+                  "« Article premier. - L'importation................... suivantes :",
+                  "« - les établissements qui importent et commercialisent",
+                  "« les semences doivent être agréés conformément à la",
+                  "« législation et la réglementation en vigueur. Toutefois,",
+                  "« dans le cas des semences importés sous le régime de",
+                  "« l'admission temporaire, les importateurs concernés",
+                  "« sont dispensés de l'agrément précité. Lesdites semences",
+                  "« ne doivent, en aucun cas, être commercialisées sur le",
+                  "« marché national ou cédées à titre gratuit ;",
+                  "« - les variétés...................................... provisoires ;",
+                  "« - les semences obtenues selon le mode de production",
+                  "« biologique doivent être accompagnées d'un certificat",
+                  "« délivré par un organisme de contrôle et de certification",
+                  "« reconnu par le pays de production desdites semences",
+                  "« et être étiquetées conformément à la réglementation",
+                  "« de ce pays ;",
+                  "« - les semences autres que celles obtenues selon le mode",
+                  "« de production biologique et à l'exception des",
+                  "« semences de pomme de terre doivent être certifiées",
+                  "« selon le système de l'Organisation de coopération",
+                  "« et de développement économique (OCDE) ou de",
+                  "« l'Association des agences officielles de certification",
+                  "« des semences (AOSCA) ou, pour les semences de",
+                  "« légumes, appartenir à la catégorie « standard ».",
+                  "« Les semences de pomme de terre doivent être certifiées",
+                  "« selon la norme CEE-ONU en vigueur ;",
+                  "« - les semences, à l'exception des semences de pomme",
+                  "« de terre, doivent être accompagnées du bulletin",
+                  "« international orange de l'Association internationale",
+                  "« des essais de semences (ISTA) ou du bulletin d'analyse",
+                  "« de l'Association des analystes officiels de semences",
+                  "« (AOSA). »",
+                  "« Article 2. - Pour les nouvelles ......................... déposé au",
+                  "« service compétent de l'Office national de sécurité sanitaire",
+                  "« des produits alimentaires (ONSSA) et des essais ....................",
+                  "« représentant. Les résultats des essais doivent être transmis",
+                  "« audit service pour...................................provisoire. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Les dispositions de l'article 3 de l'arrêté précité",
+                "paragraphs": [
+                  "n° 966-93 sont abrogées et remplacées, ainsi qu'il suit :",
+                  "« Article 3. - L'importation des semences issues de",
+                  "« variétés non inscrites au catalogue officiel peut être autorisée",
+                  "« par le service compétent de l'ONSSA, en quantités limitées,",
+                  "« aux fins d'essais préliminaires, d'essais du catalogue ou",
+                  "« d'essais de recherche.",
+                  "« Les quantités desdites semences autorisées à",
+                  "« l'importation sont fixées par décision du directeur général",
+                  "« de l'ONSSA publiée sur le site web dudit Office.",
+                  "« Ces semences doivent être accompagnées d'une",
+                  "« attestation délivrée par l'obtenteur, justifiant que les variétés",
+                  "« dont elles sont issues ne sont pas transgéniques.",
+                  "« Les semences autorisées, à cet effet, ne doivent en",
+                  "« aucun cas être commercialisées sur le marché national ou",
+                  "« cédées à titre gratuit. »"
+                ]
+              },
+              {
+                "article_number": "ART. 3. - L'annexe à l'arrêté précité n° 966-93 est abrogée",
+                "paragraphs": []
+              },
+              {
+                "article_number": "ART. 4. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7114-P79-12",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "26 chaoual 1443 (27 mai 2022) modifiant et complétant l'arrêté du ministre de l'agriculture et de la pêche maritime",
+      "reference": {
+        "type": "arrete",
+        "number": "1441-22",
+        "date": "2022-05-27"
+      },
+      "pages": {
+        "start": 79,
+        "end": 79
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE MARITIME, DU DÉVELOPPEMENT RURAL ET DES EAUX ET FORÊTS",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la pêche maritime n° 1490-13 du 22 joumada II 1434 (3 mai 2013)",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les dispositions de l'article 3 de l'arrêté susvisé n° 1490-13 du 22 joumada II 1434",
+                "paragraphs": [
+                  "(3 mai 2013) sont abrogées et remplacées ainsi qu'il suit :",
+                  "« Article 3. - Conformément au 4) de l'article 54 du décret précité n° 2-10-473, les aliments pour animaux",
+                  "« ne doivent pas contenir d'additifs, de prémélanges, d'aliments composés et d'aliments complémentaires pour",
+                  "« animaux ne figurant pas sur la liste fixée par l'Office national de sécurité sanitaire des produits alimentaires ou",
+                  "« dépassant les limites mentionnées dans ladite liste.",
+                  "« La liste susindiquée est établie selon le modèle figurant à l'annexe II au présent arrêté et publiée sur le site",
+                  "« web dudit Office. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - L'annexe II à l'arrêté précité n° 1490-13, tel qu'il a été modifié et complété, est abrogée et remplacée",
+                "paragraphs": [
+                  "par l'annexe au présent arrêté."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Les dispositions de la liste fixée à l'annexe II de l'arrêté précité n° 1490-13 en vigueur à la date de",
+                "paragraphs": [
+                  "publication du présent arrêté continuent d'être appliquées jusqu'à la publication de la liste visée à l'article 3 dudit",
+                  "arrêté n° 1490-13 sur le site web de l'Office."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7114-P82-13",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n° 1576-22 du",
+      "reference": {
+        "type": "arrete",
+        "number": "1576-22",
+        "date": "2022-06-09"
+      },
+      "pages": {
+        "start": 82,
+        "end": 82
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture, de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de l'Institut National de Recherche"
+          },
+          {
+            "type": "adoption",
+            "text": "Après consultation des chambres des pêches maritimes,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les dispositions de l'article 3 de",
+                "paragraphs": [
+                  "l'arrêté susvisé n° 3049-19 du 9 safar 1441 (8 octobre 2019) sont",
+                  "modifiées comme suit :",
+                  "« Article 3. - Le ........................................................... fixé à",
+                  "« neuf cent quarante-cinq mille (945.000) tonnes annuelles.",
+                  "(Le reste sans modification.)"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7114-P82-14",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "24 kaada 1443 (24 juin 2022) relatif aux transformateurs",
+      "reference": {
+        "type": "arrete",
+        "number": "1685-22",
+        "date": "2022-06-24"
+      },
+      "pages": {
+        "start": 82,
+        "end": 83
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'INDUSTRIE ET DU COMMERCE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le titre premier de la loi n° 24-09 relative à la",
+            "reference_to": "Loi n° 24-09"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-12-502 du 2 rejeb 1434 (13 mai 2013) pris",
+            "reference_to": "Decret n° 2-12-502"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'industrie, du commerce, de",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Le présent arrêté fixe les",
+                "paragraphs": [
+                  "caractéristiques des transformateurs de puissance et des",
+                  "fluides pour applications électrotechniques, au plan de leur",
+                  "sécurité et relative à leur composition, ainsi que les mesures",
+                  "permettant d'assurer leur traçabilité et leur évaluation."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Au sens du présent arrêté, on entend par :",
+                "paragraphs": [
+                  "Les transformateurs de puissance : transformateurs",
+                  "triphasés et monophasés (y compris les autotransformateurs),",
+                  "à l'exception de certaines catégories de petits transformateurs",
+                  "et de transformateurs spéciaux, notamment :",
+                  "- les transformateurs de puissance assignée inférieure à",
+                  "1 kVA en monophasé et 5 kVA en triphasé ;",
+                  "- les transformateurs sans enroulements de tension",
+                  "assignée supérieure à 1000V ;",
+                  "- les transformateurs de mesure ;",
+                  "- les transformateurs de traction, montés sur du matériel",
+                  "roulant ;",
+                  "- les transformateurs de démarrage ;",
+                  "- les transformateurs d'essai ;",
+                  "- les transformateurs de soudure ;",
+                  "- les transformateurs antidéflagrants et de mines ;",
+                  "- les transformateurs pour applications en subaquatique",
+                  "(submergés).",
+                  "Les fluides pour applications électrotechniques : les",
+                  "huiles minérales isolantes destinées à l'utilisation dans",
+                  "les transformateurs, disjoncteurs et matériels électriques",
+                  "analogues, dans lesquels l'huile est nécessaire comme fluide",
+                  "isolant et caloporteur. Ces huiles sont obtenues par raffinage,",
+                  "modification et/ou mélange de produits pétroliers et d'autres",
+                  "hydrocarbures."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Tout transformateur de puissance et fluides",
+                "paragraphs": [
+                  "pour applications électrotechniques doit être exempt de",
+                  "polychlorobiphényles (PCB)."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - Le responsable de la mise sur le marché des",
+                "paragraphs": [
+                  "transformateurs de puissance et des fluides pour applications",
+                  "électroniques doit, avant cette mise sur le marché, disposer",
+                  "d'un certificat d'exemption des polychlorobiphényles (PCB)",
+                  "délivré par un organisme d'évaluation de la conformité",
+                  "agréé conformément aux dispositions du chapitre 3 de la loi",
+                  "n° 24-09 précitée.",
+                  "Les modalités de vérification d'exemption des",
+                  "polychlorobiphényles (PCB) sont précisées au niveau de la",
+                  "norme marocaine NM CEI 61619 intitulée -Isolants liquides -",
+                  "Contamination par les polychlorobiphényles (PCB) - Méthode",
+                  "de détermination par chromatographie en phase gazeuse sur",
+                  "colonne capillaire ; (IC 06.0.104) approuvée par la décision du",
+                  "directeur de l'Institut marocain de normalisation n° 1950-15",
+                  "du 14 chaabane 1436 (2 juin 2015) portant homologation de",
+                  "normes marocaines.",
+                  "<<<BO_PAGE_83_DELIM>>>",
+                  "Nº 7114 - 6 moharrem 1444 (4-8-2022)"
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Toute évaluation de la conformité des",
+                "paragraphs": [
+                  "transformateurs de puissance et des fluides pour applications",
+                  "électroniques fait l'objet d'un rapport établi par la personne",
+                  "ayant procédé à ladite évaluation qui contient notamment les",
+                  "mentions d'identification du produit, la méthode d'évaluation",
+                  "suivie et les conclusions de l'évaluation.",
+                  "Les rapports d'évaluation sont conservés par le",
+                  "responsable de la mise sur le marché des transformateurs",
+                  "de puissance et des fluides pour applications électroniques",
+                  "pendant une durée d'au moins dix (10) ans à compter de la",
+                  "dernière date de fabrication desdits transformateurs. Ces",
+                  "rapports sont tenus à la disposition des agents prévus à",
+                  "l'article 38 de la loi n° 24-09 susvisée."
+                ]
+              },
+              {
+                "article_number": "ART. 6. - Le présent arrêté, prendra effet six (6) mois",
+                "paragraphs": [
+                  "après la date de sa publication au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7114-P83-15",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 12 hija 1443 (12 juillet 2022) rendant d'application",
+      "reference": {
+        "type": "arrete",
+        "number": "1904-22",
+        "date": "2022-07-12"
+      },
+      "pages": {
+        "start": 83,
+        "end": 83
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'INDUSTRIE ET DU COMMERCE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 12-06 relative à la normalisation, à la",
+            "reference_to": "Loi n° 12-06"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du directeur de l'Institut marocain de",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "article 33 ;",
+                "paragraphs": [
+                  "Vu la décision du directeur de l'Institut marocain de",
+                  "normalisation n° 743-21 du 2 chaabane 1442 (16 mars 2021)",
+                  "portant homologation de normes marocaines,",
+                  "ARRÊTE :"
+                ]
+              },
+              {
+                "article_number": "ARTICLE PREMIER. - La norme marocaine de référence",
+                "paragraphs": [
+                  "NM 11.4.020 relative aux sacs non tissés en polypropylène",
+                  "réutilisables pour emporter les produits et articles de commerce :",
+                  "spécifications, exigences et essais est rendue d'application",
+                  "obligatoire."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La norme marocaine visée à l'article premier,",
+                "paragraphs": [
+                  "ci-dessus, est tenue à la disposition des intéressés à l'Institut",
+                  "marocain de normalisation."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le présent arrêté entrera en vigueur trois (3)",
+                "paragraphs": [
+                  "mois après sa publication au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7114-P83-16",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 12 hija 1443 (12 juillet 2022) complétant l'arrêté du",
+      "reference": {
+        "type": "arrete",
+        "number": "1908-22",
+        "date": "2022-07-12"
+      },
+      "pages": {
+        "start": 83,
+        "end": 83
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'INDUSTRIE ET DU COMMERCE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre du commerce extérieur, des",
+            "reference_to": null
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du ministre de l'agriculture, de la pêche"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La liste I des marchandises",
+                "paragraphs": [
+                  "soumises à licence d'importation annexée à l'arrêté du ministre",
+                  "du commerce extérieur, des investissements extérieurs et de",
+                  "l'artisanat susvisé n° 1308-94 du 7 kaada 1414 (19 avril 1994),",
+                  "est complétée par les capsules de protoxyde d'azote, relevant",
+                  "de la position tarifaire EX 2811.29.00.30."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté entrera en vigueur à compter",
+                "paragraphs": [
+                  "de la date de sa publication au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7114-P85-17",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 23 chaoual 1443 (24 mai 2022) modifiant et complétant l'arrêté du ministre de l'agriculture et de",
+      "reference": {
+        "type": "arrete",
+        "number": "1422-22",
+        "date": "2022-05-24"
+      },
+      "pages": {
+        "start": 85,
+        "end": 92
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE MARITIME, DU DÉVELOPPEMENT RURAL ET DES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la pêche maritime n° 2627-16 du 27 kaada 1437",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La liste des conseillers agricoles bénéficiant de l'agrément pour exercer la",
+                "paragraphs": [
+                  "profession de conseiller agricole fixée dans l'article premier de l'arrêté susvisé n° 2627-16 du 27 kaada",
+                  "1437 (31 août 2016), est modifiée et complétée comme suit :",
+                  "« Article premier. - Est fixée ................................................................. conseiller agricole :",
+                  "<<<BO_PAGE_86_DELIM>>>",
+                  "Nº 7114 - 6 moharrem 1444 (4-8-2022)",
+                  "«",
+                  "<<<BO_PAGE_87_DELIM>>>",
+                  "Nº 7114 - 6 moharrem 1444 (4-8-2022)",
+                  "<<<BO_PAGE_88_DELIM>>>",
+                  "Nº 7114 - 6 moharrem 1444 (4-8-2022)",
+                  "<<<BO_PAGE_89_DELIM>>>",
+                  "Nº 7114 - 6 moharrem 1444 (4-8-2022)",
+                  "<<<BO_PAGE_90_DELIM>>>",
+                  "Nº 7114 - 6 moharrem 1444 (4-8-2022)",
+                  "«",
+                  "<<<BO_PAGE_91_DELIM>>>",
+                  "Nº 7114 - 6 moharrem 1444 (4-8-2022)",
+                  "SOCIETE D'INGENIERIE",
+                  "DU CONSEIL ET ETUDES Ali Khoujane علي خوجان",
+                  "P43938",
+                  "105/2021",
+                  "AICONSULTING SARL",
+                  "Mounir El Bouamri منير البوعمري",
+                  "EE12524",
+                  "106/2021",
+                  "PRESTAVERT SARL",
+                  "SAMIR BELGHOL سمير بلغول",
+                  "G325564",
+                  "107/2021",
+                  "AGRI ISTICHARA",
+                  "Kaddour Baqadir قدور باقدير",
+                  "L92416",
+                  "108/2021",
+                  "IRRIAKAL SARL",
+                  "Abdessadek",
+                  "Harhouri",
+                  "عبد الصادق",
+                  "هرهوري",
+                  "I114376",
+                  "110/2021",
+                  "YAZIR SARL AU",
+                  "Slimane Sellami سليمان سالمي",
+                  "GN26493",
+                  "111/2021",
+                  "VISION CLAIRE AGRI",
+                  "S.V.C.A",
+                  "Mohamed Daif محمد ضعيف",
+                  "SJ25725",
+                  "112/2021",
+                  "OLIA MAROC SARL AU",
+                  "SARL",
+                  "Ahmed Taibi احماد طيبي",
+                  "CB152561",
+                  "113/2021",
+                  "VIVO CONSULT S.A.R.L",
+                  "Hassan Bouguiri حسن بوكيري",
+                  "BH15716",
+                  "114/2021",
+                  "SMART FARMING",
+                  "MOROCCO",
+                  "Hicham El Fanane هشام الفنان",
+                  "JD29071",
+                  "115/2021",
+                  "BETA GRANUM SARL",
+                  "Hamza Hammou",
+                  "Messaoud حمزة هم مسعودJ461581",
+                  "116/2021",
+                  "C.A.R.I TECH SARL",
+                  "Ahmed Mossadeq أحمد مصدق",
+                  "I8773",
+                  "117/2021",
+                  "GREEN INNOVATION",
+                  "&DEVELOPPEMENT",
+                  "Hamid Boulmane حميد بولمان",
+                  "E139162",
+                  "118/2021",
+                  "VETAGRO CONSULTING",
+                  "SARL",
+                  "Hassan Snader",
+                  "حسن اسنادر",
+                  "MA34147",
+                  "134/2021",
+                  "ANZAR CONSEIL SARL",
+                  "Ahmed OUAQILI أحمد وقيلي",
+                  "I11999",
+                  "135/2021",
+                  "ASC Company SARL AU",
+                  "Bouchra",
+                  "Boutallaka",
+                  "بشرى بوطالقة",
+                  "D821045",
+                  "136/2021",
+                  "<<<BO_PAGE_92_DELIM>>>",
+                  "Nº 7114 - 6 moharrem 1444 (4-8-2022)",
+                  "AGRI-ENVIRON",
+                  "ENGINEERING SARL AU",
+                  "Adel Zeggaf Tahiri",
+                  "عادل الزكاف",
+                  "الطاهري",
+                  "K160358",
+                  "137/2021",
+                  "BECA-OPTIMAL SARL",
+                  "Abdellah Hahou",
+                  "عبد هللا حاحو",
+                  "V51655",
+                  "138/2021",
+                  "GREEN LIFE SERVICES",
+                  "SARL",
+                  "Ilham Sahel إلهام ساهل",
+                  "AA15090",
+                  "139/2021",
+                  "'TIZNIT BUREAU",
+                  "D'ETUDE CONSULTING ''",
+                  "SARL",
+                  "Mohammed",
+                  "Belmessid محمد بلمسيد",
+                  "J42091",
+                  "140/2021",
+                  "IRRI-AZUR sarl AU",
+                  "Taha Charaf طه شرف",
+                  "AE 29825",
+                  "141/2021"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté est publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7114-P93-18",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 10 kaada 1443 (10 juin 2022) portant nouvel agrément",
+      "reference": {
+        "type": "arrete",
+        "number": "1604-22",
+        "date": "2022-06-10"
+      },
+      "pages": {
+        "start": 93,
+        "end": 93
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 41-05 relative aux organismes de placement",
+            "reference_to": "Loi n° 41-05"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-07-1300 du 3 joumada II 1430",
+            "reference_to": "Decret n° 2-07-1300"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'économie et des finances",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la demande de renouvellement d'agrément présentée",
+            "reference_to": null
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de l'autorité marocaine des marchés de"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Un nouvel agrément est octroyé à la",
+                "paragraphs": [
+                  "société « Valoris Capital » dont le siège social est à Casablanca,",
+                  "angle route d'EI Jadida et rue Abu Dabi, pour exercer l'activité",
+                  "de société de gestion d'organismes de placement collectif en",
+                  "capital."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté est publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7114-P93-19",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 10 kaada 1443 (10 juin 2022) portant nouvel agrément",
+      "reference": {
+        "type": "arrete",
+        "number": "1605-22",
+        "date": "2022-06-10"
+      },
+      "pages": {
+        "start": 93,
+        "end": 93
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 41-05 relative aux organismes de placement",
+            "reference_to": "Loi n° 41-05"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-07-1300 du 3 joumada II 1430",
+            "reference_to": "Decret n° 2-07-1300"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'économie et des finances",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la demande de renouvellement d'agrément présentée",
+            "reference_to": null
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de l'autorité marocaine des marchés de"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - un nouvel agrément est octroyé",
+                "paragraphs": [
+                  "à la société « CDG Invest Growth» dont le siège social est à",
+                  "Casablanca, 101 boulevard Al Massira Al Khadra 1er étage,",
+                  "pour exercer l'activité de société de gestion d'organismes de",
+                  "placement collectif en capital."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté est publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7114-P94-20",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 10 kaada 1443 (10 juin 2022) portant nouvel agrément",
+      "reference": {
+        "type": "arrete",
+        "number": "1606-22",
+        "date": "2022-06-10"
+      },
+      "pages": {
+        "start": 94,
+        "end": 94
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 41-05 relative aux organismes de placement",
+            "reference_to": "Loi n° 41-05"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-07-1300 du 3 joumada II 1430",
+            "reference_to": "Decret n° 2-07-1300"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'économie et des finances",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la demande de renouvellement d'agrément présentée",
+            "reference_to": null
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de l'autorité marocaine des marchés de"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Un nouvel agrément est octroyé à",
+                "paragraphs": [
+                  "la société « Private Equity Initiatives » dont le siège social est",
+                  "à Casablanca, Angle rue Ahmed Chardi et rue Ali abderrazak,",
+                  "2ème étage quartier Racine, pour exercer l'activité de société de",
+                  "gestion d'organismes de placement collectif en capital."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté est publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    }
+  ]
+}

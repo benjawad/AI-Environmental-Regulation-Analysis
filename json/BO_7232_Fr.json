@@ -1,0 +1,73 @@
+{
+  "bulletin_number": "7232",
+  "publication_date": {
+    "gregorian": "",
+    "hijri": "23 moharrem 1445"
+  },
+  "source_file": "BO_7232_Fr.pdf",
+  "content": [
+    {
+      "entry_id": "BO-7232-P155-1",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 14 safar 1445 (31 août 2023) accordant",
+      "reference": {
+        "type": "decret",
+        "number": "2-23-671",
+        "date": ""
+      },
+      "pages": {
+        "start": 155,
+        "end": 155
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "AL HARATI NORD ».",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 21-90 relative à la recherche et à l'exploitation",
+            "reference_to": "Loi n° 21-90"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 33-01 portant création de l'Office national",
+            "reference_to": "Loi n° 33-01"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-93-786 du 18 joumada I 1414 (3 novembre",
+            "reference_to": "Decret n° 2-93-786"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-04-372 du 16 kaada 1425 (29 décembre",
+            "reference_to": "Decret n° 2-04-372"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté conjoint du ministre de l'énergie, des mines",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": []
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    }
+  ]
+}

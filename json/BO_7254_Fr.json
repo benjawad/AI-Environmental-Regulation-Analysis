@@ -1,0 +1,990 @@
+{
+  "bulletin_number": "7254",
+  "publication_date": {
+    "gregorian": "2023-11-03",
+    "hijri": "18 rabii II 1445"
+  },
+  "source_file": "BO_7254_Fr.pdf",
+  "content": [
+    {
+      "entry_id": "BO-7254-P3-1",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 18 rabii II 1445 (3 novembre 2023)",
+      "reference": {
+        "type": "decret",
+        "number": "2-23-1014",
+        "date": "2023-11-03"
+      },
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu les articles 5, 25, 54, 55, 57 et 58 de la loi n° 40-17",
+            "reference_to": "Loi n° 40-17"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'article premier du décret n° 2-19-1095 du 3 chaoual 1441",
+            "reference_to": "Decret n° 2-19-1095"
+          },
+          {
+            "type": "visa",
+            "text": "Vu les délibérations du Conseil de Bank Al-Maghrib,",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est approuvée la décision du Conseil",
+                "paragraphs": [
+                  "de Bank Al-Maghrib relative à la mise en circulation d'une",
+                  "pièce de monnaie de 250 dirhams en argent commémorant le",
+                  "75ème anniversaire de la Déclaration universelle des droits de",
+                  "l'Homme."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La pièce de monnaie commémorative a cours",
+                "paragraphs": [
+                  "légal et présente les caractéristiques suivantes :",
+                  "- Alliage : Argent : 925 millièmes ;",
+                  "- Alliage : Cuivre : 75 millièmes ;",
+                  "- Poids : 28,28 grammes ;",
+                  "- Diamètre : 38,61 millimètres ;",
+                  "- Tranche : Cannelée ;",
+                  "- Frappe : Proof.",
+                  "* Avers :",
+                  "- Au centre : Effigie de Sa Majesté le Roi Mohammed VI",
+                  "avec de part et d'autre les inscriptions suivantes :",
+                  "« المملكة المغربية- محمد السادس »",
+                  "- En bas : les millésimes : 2023-1445",
+                  "* Revers :",
+                  "- En haut : l'inscription suivante :",
+                  "« الذكرى الخامسة والسبعون لإلعالن العالمي لحقوق اإلنسان »",
+                  "- Au centre :",
+                  "Les inscriptions suivantes :",
+                  "• le nombre 75 granulé et « years-عاما »",
+                  "• « HUMAN RIGHTS حقوق اإلنسان » ;",
+                  "• la valeur faciale en chiffres et en lettres arabes :",
+                  "مائتان وخمسون درهم",
+                  "- En bas : l'inscription suivante :",
+                  "« 75th ANNIVERSARY OF THE UNIVERSAL",
+                  "DECLARATION OF HUMAN RIGHTS »"
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La ministre de l'économie et des finances est",
+                "paragraphs": [
+                  "chargée de l'exécution du présent décret qui sera publié au"
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7254-P4-2",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 18 rabii II 1445 (3 novembre 2023)",
+      "reference": {
+        "type": "decret",
+        "number": "2-23-1015",
+        "date": "2023-11-03"
+      },
+      "pages": {
+        "start": 4,
+        "end": 5
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu les articles 5, 25, 54, 55, 57 et 58 de la loi n° 40-17",
+            "reference_to": "Loi n° 40-17"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'article premier du décret n° 2-19-1095 du 3 chaoual 1441",
+            "reference_to": "Decret n° 2-19-1095"
+          },
+          {
+            "type": "visa",
+            "text": "Vu les délibérations du Conseil de Bank Al-Maghrib,",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est approuvée la décision du",
+                "paragraphs": [
+                  "Conseil de Bank Al-Maghrib relative à la mise en circulation",
+                  "de nouveaux billets de banque de 20, 50, 100 et 200 dirhams."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La thématique générale des nouveaux billets",
+                "paragraphs": [
+                  "est la suivante :",
+                  "« L'Emergence du Royaume du Maroc sous l'Egide",
+                  "de Sa Majesté le Roi Mohammed VI »."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Les nouveaux billets de banque ont cours légal",
+                "paragraphs": [
+                  "et présentent les caractéristiques suivantes :",
+                  "Billet de 20 dirhams",
+                  "Caractéristiques techniques :",
+                  "- Format : 130 mm x 70 mm ;",
+                  "- Filigrane : Portrait de Sa Majesté le Roi Mohammed VI",
+                  "et le nombre « 20 » ;",
+                  "- Fil de sécurité à fenêtres : à changement de couleur avec",
+                  "effet dynamique de l'étoile à cinq branches sur fond",
+                  "arabesque ainsi que le nombre « 20 » démétallisé. Le fil",
+                  "comporte des propriétés UV et magnétiques.",
+                  "Caractéristiques artistiques :",
+                  "Billet mettant en valeur la richesse du patrimoine",
+                  "architectural et le développement socio-culturel du Royaume.",
+                  "- Thème : La culture, l'art, la jeunesse et le sport.",
+                  "- Couleur dominante : Violet.",
+                  "* Recto :",
+                  "- Portrait de Sa Majesté le Roi Mohammed VI et",
+                  "armoiries du Royaume.",
+                  "- Détail architectural inspiré des portes marocaines.",
+                  "- Vue stylisée de l'Université « Al Quaraouiyine » de Fès.",
+                  "* Verso :",
+                  "- Représentation du Grand Théâtre de Rabat et du Musée",
+                  "Mohammed VI d'Art Moderne et Contemporain sur",
+                  "fond d'infrastructure sportive.",
+                  "- Vues stylisées d'une fibule et de la Kasbah de",
+                  "« Aït-Ben-Haddou ».",
+                  "Billet de 50 dirhams",
+                  "Caractéristiques techniques :",
+                  "- Format : 137 mm x 70 mm ;",
+                  "- Filigrane : Portrait de Sa Majesté le Roi Mohammed VI",
+                  "et le nombre «50» ;",
+                  "- Fil de sécurité à fenêtres : à changement de couleur",
+                  "comportant l'étoile à cinq branches et le nombre « 50 »",
+                  "démétallisés. Le fil comporte des propriétés UV et",
+                  "magnétiques.",
+                  "Caractéristiques artistiques :",
+                  "Billet mettant en avant le développement durable du",
+                  "propres et la protection des ressources naturelles.",
+                  "- Thème : L'environnement et les énergies renouvelables.",
+                  "- Couleur dominante : Vert.",
+                  "* Recto :",
+                  "- Portrait de Sa Majesté le Roi Mohammed VI et",
+                  "armoiries du Royaume.",
+                  "- Détail architectural inspiré des portes marocaines.",
+                  "- Vue stylisée des cascades d'Ouzoud.",
+                  "* Verso :",
+                  "- Vues stylisées de la station solaire « NOOR » de",
+                  "Ouarzazate, des éoliennes et du barrage de Ouirgane.",
+                  "- Représentation de la fleur du Safran et de la station de",
+                  "dessalement de l'eau de mer d'Agadir.",
+                  "Billet de 100 dirhams",
+                  "Caractéristiques techniques :",
+                  "- Format : 144 mm x 70 mm ;",
+                  "- Filigrane : Portrait de Sa Majesté le Roi Mohammed VI",
+                  "et le nombre «100 » ;",
+                  "- Fil de sécurité à fenêtres : à changement de couleur",
+                  "avec effet dynamique des inscriptions « 100 » et « DH »",
+                  "en alternance et de l'étoile à cinq branches en plus",
+                  "du nombre « 100 » démétallisé. Le fil comporte des",
+                  "propriétés UV et magnétiques.",
+                  "Caractéristiques artistiques :",
+                  "Billet mettant en exergue le patrimoine culturel du",
+                  "Sahara Marocain, son développement socio-économique et",
+                  "son ouverture sur l'Afrique.",
+                  "- Thème : Le Sahara et l'ouverture sur l'Afrique.",
+                  "- Couleur dominante : Brun.",
+                  "<<<BO_PAGE_5_DELIM>>>",
+                  "Nº 7254- 23 joumada I 1445 (7-12-2023)",
+                  "* Recto :",
+                  "- Portrait de Sa Majesté le Roi Mohammed VI et",
+                  "armoiries du Royaume.",
+                  "- Détail architectural inspiré des portes marocaines.",
+                  "- Arcades stylisées de la Mosquée Hassan II de",
+                  "Casablanca.",
+                  "* Verso :",
+                  "- Vue stylisée de la place Mechouar de Laâyoune, ainsi",
+                  "que la voie express Tiznit-Dakhla symbolisant le",
+                  "développement des infrastructures du Sud du Maroc",
+                  "et l'ouverture sur l'Afrique.",
+                  "- Festivités traditionnelles du Moussem de TAN-TAN.",
+                  "Billet de 200 dirhams",
+                  "Caractéristiques techniques :",
+                  "- Format : 151 mm x 70 mm ;",
+                  "- Filigrane : Portrait de Sa Majesté le Roi Mohammed VI",
+                  "et le nombre «200» ;",
+                  "- Fil de sécurité à fenêtres : à effet dynamique",
+                  "tridimensionnel, avec les inscriptions « 200 », « DH » et",
+                  "l'étoile à cinq branches. Le fil comporte des propriétés",
+                  "UV.",
+                  "Caractéristiques artistiques :",
+                  "Billet mettant en avant le développement industriel et",
+                  "économique sous l'égide de Sa Majesté le Roi Mohammed VI.",
+                  "- Thème : L'infrastructure, l'industrie et le développement.",
+                  "- Couleur dominante : Bleu.",
+                  "* Recto :",
+                  "- Portrait de Sa Majesté le Roi Mohammed VI et",
+                  "armoiries du Royaume.",
+                  "- Détail architectural inspiré des portes marocaines.",
+                  "- Représentation du pont à haubans Mohammed VI.",
+                  "* Verso :",
+                  "- Vues stylisées de la Tour Mohammed VI et de l'Aéroport",
+                  "international Marrakech-Menara.",
+                  "- Motifs symbolisant le développement de l'industrie et",
+                  "du digital au Maroc."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - Les billets de banque en circulation à la date",
+                "paragraphs": [
+                  "de publication du présent décret continuent à avoir cours légal",
+                  "et conservent leur pouvoir libératoire."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - La ministre de l'économie et des finances est",
+                "paragraphs": [
+                  "chargée de l'exécution du présent décret qui sera publié au"
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7254-P5-3",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 18 rabii II 1445 (3 novembre 2023)",
+      "reference": {
+        "type": "decret",
+        "number": "2-23-1016",
+        "date": "2023-11-03"
+      },
+      "pages": {
+        "start": 5,
+        "end": 7
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu les articles 5, 25, 54, 55, 57 et 58 de la loi n° 40-17",
+            "reference_to": "Loi n° 40-17"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'article premier du décret n° 2-19-1095 du 3 chaoual 1441",
+            "reference_to": "Decret n° 2-19-1095"
+          },
+          {
+            "type": "visa",
+            "text": "Vu les délibérations du Conseil de Bank Al-Maghrib,",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est approuvée la décision du",
+                "paragraphs": [
+                  "Conseil de Bank Al-Maghrib relative à la mise en circulation",
+                  "de nouvelles pièces de monnaie de 10,5 et 1 dirhams, de",
+                  "1/2 dirham et de 20 et 10 centimes."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Les nouvelles pièces de monnaie ont cours légal",
+                "paragraphs": [
+                  "et présentent les caractéristiques suivantes :",
+                  "La pièce de monnaie de 10 dirhams :",
+                  "- Diamètre : 27 millimètres ;",
+                  "- Poids : 9 grammes ;",
+                  "- Tranche : Cannelée avec étoiles gravées ;",
+                  "- Alliage :",
+                  "- Noyau : Cupro - Nickel ;",
+                  "- Couronne : Or nordique.",
+                  "* Avers :",
+                  "- Effigie de Sa Majesté le Roi Mohammed VI",
+                  "- De part et d'autre, les inscriptions suivantes :",
+                  "« محمد السادس »",
+                  "« اململكة املغربية »",
+                  "* Revers :",
+                  "- Dessin stylisé du pont à haubans «Mohammed VI» et",
+                  "du Train à Grande Vitesse «AL BORAQ»",
+                  "- Arabesque marocaine.",
+                  "- La valeur faciale :",
+                  "عشرة دراهم",
+                  "La pièce de monnaie de 5 dirhams :",
+                  "<<<BO_PAGE_6_DELIM>>>",
+                  "Nº 7254- 23 joumada I 1445 (7-12-2023)",
+                  "- Diamètre : 25 millimètres ;",
+                  "- Poids : 7,5 grammes ;",
+                  "- Tranche : Cannelée fines et épaisses ;",
+                  "- Alliage :",
+                  "- Couronne : Cupro - Nickel ;",
+                  "- Noyau : Or nordique.",
+                  "* Avers :",
+                  "- Effigie de Sa Majesté le Roi Mohammed VI",
+                  "- De part et d'autre, les inscriptions suivantes :",
+                  "« محمد السادس »",
+                  "« اململكة املغربية »",
+                  "* Revers :",
+                  "- Dessin stylisé des monuments architecturaux",
+                  "surplombant la place MECHOUAR de Laâyoune",
+                  "ainsi que la porte d'entrée de la ville.",
+                  "- Arabesque marocaine.",
+                  "- La valeur faciale :",
+                  "خمسة دراهم",
+                  "La pièce de monnaie de 1 dirham :",
+                  "- Diamètre : 24 millimètres ;",
+                  "- Poids : 6 grammes ;",
+                  "- Tranche : Cannelée ;",
+                  "- Alliage : Acier plaqué Nickel.",
+                  "* Avers :",
+                  "- Effigie de Sa Majesté le Roi Mohammed VI",
+                  "avec de part et d'autre, les inscriptions suivantes :",
+                  "« محمد السادس »",
+                  "« اململكة املغربية »",
+                  "* Revers :",
+                  "- Armoiries du Royaume.",
+                  "- Arabesque marocaine.",
+                  "- La valeur faciale :",
+                  "درهم",
+                  "La pièce de monnaie de 1/2 dirham :",
+                  "- Diamètre : 21 millimètres ;",
+                  "- Poids : 4 grammes ;",
+                  "- Tranche : Cannelée ;",
+                  "- Alliage : Acier plaqué Nickel.",
+                  "* Avers :",
+                  "- Les Armoiries du Royaume.",
+                  "- L'inscription :",
+                  "« اململكة املغربية »",
+                  "* Revers :",
+                  "- Représentation artistique d'une fibule et d'un",
+                  "bracelet.",
+                  "- Arabesque marocaine.",
+                  "- La valeur faciale :",
+                  "1/2",
+                  "نصف درهم",
+                  "La pièce de monnaie de 20 centimes :",
+                  "- Diamètre : 23 millimètres ;",
+                  "- Poids : 4 grammes ;",
+                  "- Tranche : Cannelée ;",
+                  "- Alliage : Acier plaqué laiton.",
+                  "* Avers :",
+                  "- Les Armoiries du Royaume.",
+                  "- L'inscription :",
+                  "« اململكة املغربية »",
+                  "* Revers :",
+                  "- Une stylisation des panneaux solaires et d'éoliennes.",
+                  "- Arabesque marocaine.",
+                  "- La valeur faciale :",
+                  "عشرون سنتيما",
+                  "La pièce de monnaie de 10 centimes :",
+                  "- Diamètre : 20 millimètres ;",
+                  "- Poids : 3 grammes ;",
+                  "- Tranche : Cannelée ;",
+                  "- Alliage : Acier plaqué laiton.",
+                  "* Avers :",
+                  "- Les Armoiries du Royaume.",
+                  "- L'inscription :",
+                  "« اململكة املغربية »",
+                  "* Revers :",
+                  "- Une représentation artistique d'une branche",
+                  "d'olives et d'un moulin à huile.",
+                  "- Arabesque marocaine.",
+                  "- La valeur faciale :",
+                  "عشر سنتيمات",
+                  "<<<BO_PAGE_7_DELIM>>>",
+                  "Nº 7254- 23 joumada I 1445 (7-12-2023)"
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le millésime porté sur chaque pièce sera celui",
+                "paragraphs": [
+                  "de l'année de la frappe."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - Le pouvoir libératoire des nouvelles pièces de",
+                "paragraphs": [
+                  "monnaie est limité entre particuliers comme suit :",
+                  "- pièce de 10 dirhams : cinq cent dirhams ;",
+                  "- pièce de 5 dirhams : deux cents cinquante dirhams ;",
+                  "- pièce de 1 dirham : cinquante dirhams ;",
+                  "- pièce de 1/2 dirham : vingt-cinq dirhams ;",
+                  "- pièce de 20 centimes : dix dirhams ;",
+                  "- pièce de 10 centimes : cinq dirhams."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Toutes les pièces de monnaie en circulation",
+                "paragraphs": [
+                  "à la date de publication du présent décret continuent à avoir",
+                  "cours légal et conservent leur pouvoir libératoire."
+                ]
+              },
+              {
+                "article_number": "ART. 6. - La ministre de l'économie et des finances est",
+                "paragraphs": [
+                  "chargée de l'exécution du présent décret qui sera publié au"
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7254-P7-4",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 25 rabii II 1445 (10 novembre 2023) relatif",
+      "reference": {
+        "type": "decret",
+        "number": "2-23-919",
+        "date": "2023-11-10"
+      },
+      "pages": {
+        "start": 7,
+        "end": 7
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 40-13 portant code de l'aviation civile,",
+            "reference_to": "Loi n° 40-13"
+          },
+          {
+            "type": "recital",
+            "text": "Considérant la Convention relative à l'aviation civile"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni le"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - En application des dispositions de",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7254-P9-5",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 25 rabii II 1445 (10 novembre 2023)",
+      "reference": {
+        "type": "decret",
+        "number": "2-23-985",
+        "date": "2023-11-10"
+      },
+      "pages": {
+        "start": 9,
+        "end": 9
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi de finances n° 50-22 pour l'année budgétaire 2023,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi de finances pour l'année 1982, n° 26-81,",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est approuvé, tel qu'il est annexé à",
+                "paragraphs": [
+                  "l'original du présent décret, l'accord de financement comportant",
+                  "deux prêts n° 2000004719 et n° 2000004718, d'un montant de",
+                  "soixante-six millions deux cent dix mille euros (66.210.000",
+                  "euros), conclu le 12 octobre 2023 entre le Royaume du Maroc",
+                  "et le Fonds international de développement agricole (FIDA),",
+                  "pour le financement du Projet d'appui au développement rural",
+                  "intégré des zones de montagne de l'Oriental (PADERMO)."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le ministre délégué auprès de la ministre de",
+                "paragraphs": [
+                  "l'économie et des finances, chargé du budget, est chargé de",
+                  "l'exécution du présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7254-P9-6",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 25 rabii II 1445 (10 novembre 2023)",
+      "reference": {
+        "type": "decret",
+        "number": "2-23-986",
+        "date": "2023-11-10"
+      },
+      "pages": {
+        "start": 9,
+        "end": 9
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi de finances n° 50-22 pour l'année budgétaire 2023,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le paragraphe I de l'article 41 de la loi de finances",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est approuvé, tel qu'il est annexé",
+                "paragraphs": [
+                  "à l'original du présent décret, l'accord de prêt conclu le",
+                  "24 octobre 2023 entre le Royaume du Maroc et la Banque",
+                  "africaine de développement, portant sur un montant de cent",
+                  "quarante-neuf millions d'euros (149.000.000,00 d'euros), pour",
+                  "le financement du Programme d'appui à la généralisation de la",
+                  "couverture sociale pour une meilleure employabilité (PAGCS) -",
+                  "phase II."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le ministre délégué auprès de la ministre de",
+                "paragraphs": [
+                  "l'économie et des finances, chargé du budget, est chargé de",
+                  "l'exécution du présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7254-P10-7",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 25 rabii II 1445 (10 novembre 2023)",
+      "reference": {
+        "type": "decret",
+        "number": "2-23-987",
+        "date": "2023-11-10"
+      },
+      "pages": {
+        "start": 10,
+        "end": 10
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi de finances n° 50-22 pour l'année budgétaire 2023,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le paragraphe I de l'article 41 de la loi de finances",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est approuvé, tel qu'il est annexé",
+                "paragraphs": [
+                  "à l'original du présent décret, l'accord de prêt conclu le",
+                  "24 octobre 2023 entre le Royaume du Maroc et la Banque",
+                  "africaine de développement, portant sur un montant de",
+                  "cent vingt millions d'euros (120.000.000,00 d'euros), pour",
+                  "le financement du Programme d'appui à l'accès inclusif aux",
+                  "infrastructures de santé (PAAIIS)."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le ministre délégué auprès de la ministre de",
+                "paragraphs": [
+                  "l'économie et des finances, chargé du budget, est chargée de",
+                  "l'exécution du présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7254-P10-8",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 8 joumada I 1445 (22 novembre 2023)",
+      "reference": {
+        "type": "decret",
+        "number": "2-23-1027",
+        "date": "2023-11-22"
+      },
+      "pages": {
+        "start": 10,
+        "end": 10
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi de finances n° 50-22 pour l'année budgétaire 2023,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le paragraphe I de l'article 41 de la loi de finances",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est approuvée, telle qu'elle est",
+                "paragraphs": [
+                  "annexée à l'original du présent décret, la convention de crédit",
+                  "n° CMA 1331 01 D d'un montant de quatre-vingt millions",
+                  "d'euros (80.000.000,00 d'euros), conclue le 16 octobre 2023 entre",
+                  "le Royaume du Maroc et l'Agence française de développement,",
+                  "pour le financement du programme « Transition Budgétaire",
+                  "Verte »."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le ministre délégué auprès de la ministre de",
+                "paragraphs": [
+                  "l'économie et des finances, chargé du budget, est chargé de",
+                  "l'exécution du présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7254-P13-10",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decision",
+      "title": "du 1er rabii II",
+      "reference": {
+        "type": "decision",
+        "number": "133",
+        "date": "2023-10-17"
+      },
+      "pages": {
+        "start": 13,
+        "end": 13
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE WALI DE BANK AL-MAGHRIB",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 103-12 relative aux établissements de crédit et",
+            "reference_to": "Loi n° 103-12"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du Wali de Bank Al-Maghrib n° 95 du",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la demande de retrait d'agrément de la société",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCIDE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est retiré à la société « DIGIFI »,",
+                "paragraphs": [
+                  "dont le siège social est à Casablanca, lotissement Attawfik,",
+                  "rue 1, Californie, Sidi Maârouf, l'agrément en qualité",
+                  "d'établissement de paiement octroyé en vertu de la décision",
+                  "du Wali de Bank Al-Maghrib n° 95 susvisée."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La société « DIGIFI » cesse, de droit, d'exercer",
+                "paragraphs": [
+                  "ses opérations, en qualité d'établissement de paiement, à douze",
+                  "heures (12) du jour suivant la date de publication de la présente",
+                  "décision au « Bulletin officiel »."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La société « DIGIFI » est liquidée conformément",
+                "paragraphs": [
+                  "aux dispositions des articles 1065 à 1082 du dahir du",
+                  "9 ramadan 1331 (12 août 1913) formant code des obligations",
+                  "et des contrats et aux dispositions des articles 361 à 372 de la",
+                  "loi n° 17-95 relative aux sociétés anonymes promulguée par le",
+                  "dahir n° 1-96-124 du 14 rabii II 1417 (30 août 1996)."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - La présente décision est publiée au Bulletin",
+                "paragraphs": [
+                  "officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7254-P13-9",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decision",
+      "title": "du 6 rabii I 1445",
+      "reference": {
+        "type": "decision",
+        "number": "132",
+        "date": "2023-09-22"
+      },
+      "pages": {
+        "start": 13,
+        "end": 13
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE WALI DE BANK AL-MAGHRIB",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 103-12 relative aux établissements de crédit et",
+            "reference_to": "Loi n° 103-12"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du gouverneur de Bank Al-Maghrib",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la demande d'agrément formulée, en date du",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu les informations complémentaires communiquées",
+            "reference_to": null
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du comité des établissements de crédit du"
+          }
+        ],
+        "enacting_clause": "DÉCIDE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est octroyé un nouvel agrément à",
+                "paragraphs": [
+                  "Al Barid Bank en qualité de banque, sise à 798, angle boulevard",
+                  "Ghandi et boulevard Brahim Roudani - Casablanca, en vue",
+                  "d'étendre ses activités au financement des professionnels et",
+                  "des très petites entreprises (TPE)."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La présente décision est publiée au Bulletin",
+                "paragraphs": [
+                  "officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    }
+  ]
+}

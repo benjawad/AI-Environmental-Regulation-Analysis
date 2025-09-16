@@ -1,0 +1,252 @@
+{
+  "bulletin_number": "7370",
+  "publication_date": {
+    "gregorian": "2025-01-16",
+    "hijri": "15 rejeb 1446"
+  },
+  "source_file": "BO_7370_fr.pdf",
+  "content": [
+    {
+      "entry_id": "BO-7370-P3-1",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 4 joumada II 1446 (6 décembre 2024)",
+      "reference": {
+        "type": "arrete",
+        "number": "3175-24",
+        "date": ""
+      },
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE LA SANTÉ ET DE LA PROTECTION SOCIALE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-13-852 du 14 safar 1435 (18 décembre 2013) relatif aux conditions et aux modalités de",
+            "reference_to": "Decret n° 2-13-852"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté n° 787-14 du 7 joumada II 1435 (7 avril 2014) portant révision des prix publics de vente",
+            "reference_to": "Arrete n° 787-14"
+          },
+          {
+            "type": "visa",
+            "text": "Vu les demandes de fixation des prix publics de vente des médicaments princeps émanant des",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu les demandes d'homologation des prix publics de vente des médicaments génériques et bio-similaires",
+            "reference_to": null
+          },
+          {
+            "type": "recital",
+            "text": "Considérant les demandes de révision à la baisse des prix des médicaments émanant des établissements"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la Commission interministérielle des prix,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les prix des médicaments princeps objet des demandes visées ci-dessus sont fixés",
+                "paragraphs": [
+                  "à l'annexe n° 1 jointe au présent arrêté.",
+                  "Sont homologués les prix des médicaments génériques et bio-similaires, objet des demandes visées",
+                  "ci-dessus, figurant à l'annexe n° 2 jointe au présent arrêté.",
+                  "Les prix des médicaments figurant à l'annexe de l'arrêté visé ci-dessus n° 787-14, tel qu'il a été modifié et",
+                  "complété par les arrêtés subséquents, sont révisés à la baisse, tel qu'indiqué à l'annexe n°3 au présent arrêté."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7370-P7-2",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 18 joumada II 1446 (20 décembre 2024) relatif à",
+      "reference": {
+        "type": "arrete",
+        "number": "3192-24",
+        "date": ""
+      },
+      "pages": {
+        "start": 7,
+        "end": 7
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'INDUSTRIE ET DU COMMERCE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 24-09 relative à la sécurité des produits",
+            "reference_to": "Loi n° 24-09"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-12-502 du 2 rejeb 1434 (13 mai 2013) pris",
+            "reference_to": "Decret n° 2-12-502"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'industrie, du commerce,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'industrie, du commerce et",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'industrie et du commerce",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'industrie et du commerce",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'agrément de la société Analysis",
+                "paragraphs": [
+                  "and Control Laboratory (ACLAB), numéro de patente 31590749,",
+                  "n° du registre de commerce 24015, est étendu pour effectuer",
+                  "les évaluations de la conformité des « Jouets », « Peintures,",
+                  "vernis et enduits de peinture », « Eléments filtrants », « Joints",
+                  "non métalliques », « Robinetterie sanitaire », « Articles et",
+                  "ustensiles culinaires », « Quincaillerie de bâtiment », et ce pour",
+                  "la durée de validité restante de l'agrément initial."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Ledit agrément est octroyé pour les prestations",
+                "paragraphs": [
+                  "exercées dans le site « Analysis and Control Laboratory",
+                  "(ACLAB), » sis au « lot 182, zone industrielle, Mohammedia»."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le numéro d'identification de l'Organisme est :",
+                "paragraphs": [
+                  "« MA0016 »."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7370-P7-3",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n° 3237-24",
+      "reference": {
+        "type": "arrete",
+        "number": "3237-24",
+        "date": ""
+      },
+      "pages": {
+        "start": 7,
+        "end": 7
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-14-527 du 8 rabii II 1436 (29 janvier 2015)",
+            "reference_to": "Decret n° 2-14-527"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Sont désignés comme membres de",
+                "paragraphs": [
+                  "la commission nationale du conseil agricole, pour une durée",
+                  "de trois (3) ans, les représentants des professionnels des filières",
+                  "de production agricole suivants :",
+                  "- le président de la Fédération Interprofessionnelle",
+                  "Marocaine de l'Apiculture (FIMAP) ou son représentant ;",
+                  "- le président de la Fédération Nationale",
+                  "Interprofessionnelle des Semences (FNIS) ou son",
+                  "représentant ;",
+                  "- le président de la Fédération Interprofessionnelle des",
+                  "Oléagineux (FOLEA) ou son représentant."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    }
+  ]
+}

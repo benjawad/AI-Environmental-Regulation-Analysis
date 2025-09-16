@@ -1,0 +1,1870 @@
+{
+  "bulletin_number": "7300",
+  "publication_date": {
+    "gregorian": "2024-05-16",
+    "hijri": "7 kaada 1445"
+  },
+  "source_file": "BO_7300_fr.pdf",
+  "content": [
+    {
+      "entry_id": "BO-7300-P7-1",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 17 chaoual 1445 (26 avril 2024) approuvant",
+      "reference": {
+        "type": "decret",
+        "number": "2-24-348",
+        "date": "2024-04-26"
+      },
+      "pages": {
+        "start": 7,
+        "end": 7
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi de finances n° 55-23 pour l'année budgétaire 2024,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le paragraphe premier de l'article 41 de la loi de finances",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est approuvé, tel qu'il est annexé",
+                "paragraphs": [
+                  "à l'original du présent décret, l'accord de prêt n° 9627-MA",
+                  "d'un montant de deux cent quatre-vingt et un millions quatre",
+                  "cent mille euros (281.400.000,00 euros), conclu le 25 mars 2024",
+                  "entre le Royaume du Maroc et la Banque internationale pour",
+                  "la reconstruction et le développement, concernant l'opération",
+                  "d'accélération de la transformation de l'enseignement supérieur",
+                  "et de la recherche scientifique au Maroc."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le ministre délégué auprès de la ministre de",
+                "paragraphs": [
+                  "l'économie et des finances, chargé du budget est chargé de",
+                  "l'exécution du présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7300-P7-2",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 13 chaoual 1445 (22 avril 2024)",
+      "reference": {
+        "type": "decret",
+        "number": "2-24-295",
+        "date": "2024-04-22"
+      },
+      "pages": {
+        "start": 7,
+        "end": 7
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le code des douanes ainsi que des impôts indirects",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-77-862 du 25 chaoual 1397 (9 octobre",
+            "reference_to": "Decret n° 2-77-862"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est abrogé le deuxième alinéa de",
+                "paragraphs": [
+                  "l'article 83 du décret susvisé n° 2-77-862 du 25 chaoual 1397",
+                  "(9 octobre 1977)."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le ministre délégué auprès de la ministre de",
+                "paragraphs": [
+                  "l'économie et des finances, chargé du budget est chargé de",
+                  "l'exécution du présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7300-P8-3",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 10 chaabane 1445 (20 février 2024) fixant la liste des bureaux et postes de douane et leurs compétences",
+      "reference": {
+        "type": "arrete",
+        "number": "459-24",
+        "date": ""
+      },
+      "pages": {
+        "start": 8,
+        "end": 8
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DÉLÉGUÉ AUPRÈS DE LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES, CHARGÉ DU BUDGET",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le Code des douanes et des impôts indirects relevant de l'Administration des douanes et impôts indirects,",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La liste des bureaux de douane prévue à l'article 28 du Code des douanes et impôts",
+                "paragraphs": [
+                  "indirects visé ci-dessus ainsi que leurs compétences est fixée à l'annexe n° 1 du présent arrêté."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La liste des postes de douane prévue à l'article 28 du Code des douanes et impôts indirects précité",
+                "paragraphs": [
+                  "ainsi que leurs compétences est fixée à l'annexe n° 2 du présent arrêté."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Est abrogé l'arrêté du ministre de l'économie, des finances et de la réforme de l'administration",
+                "paragraphs": [
+                  "n° 2984-20 du 10 rabii II 1442 (26 novembre 2020) fixant les bureaux et postes de douane et leurs compétences."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - Le directeur général de l'Administration des douanes et impôts indirects est chargé de l'exécution",
+                "paragraphs": [
+                  "du présent arrêté qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7300-P12-4",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du développement rural et des eaux et forêts",
+      "reference": {
+        "type": "arrete",
+        "number": "543-24",
+        "date": "2023-10-20"
+      },
+      "pages": {
+        "start": 12,
+        "end": 12
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-722 du 1er safar 1441",
+            "reference_to": "Decret n° 2-18-722"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre des pêches maritimes, des",
+            "reference_to": null
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de l'Institut national de recherche halieutique ;"
+          },
+          {
+            "type": "adoption",
+            "text": "Après consultation des chambres des pêches maritimes,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Conformément aux dispositions de",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7300-P12-5",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "Nº 7300- 7 kaada 1445 (16-5-2024)",
+      "reference": {
+        "type": "arrete",
+        "number": "",
+        "date": ""
+      },
+      "pages": {
+        "start": 12,
+        "end": 13
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "BULLETIN OFFICIEL",
+        "preamble": [],
+        "enacting_clause": "",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ART.5.- Seuls les navires de pêche mentionnés ci-dessous",
+                "paragraphs": [
+                  "peuvent être autorisés à pêcher la courbine :",
+                  "- Pour l'unité d'aménagement I : les palangriers, les",
+                  "senneurs côtiers, les chalutiers congélateurs, les",
+                  "chalutiers et les barques de pêche artisanale ;",
+                  "- Pour l'unité d'aménagement II et III : les palangriers, les",
+                  "senneurs côtiers, les chalutiers et les barques de pêche",
+                  "artisanale."
+                ]
+              },
+              {
+                "article_number": "ART.6.- Conformément aux dispositions de l'arrêté",
+                "paragraphs": [
+                  "n°l154-88 du 20 safar 1409 (3 octobre 1988) fixant la taille",
+                  "marchande minimale des espèces pêchées dans les eaux",
+                  "maritimes marocaines, la taille marchande minimale de la",
+                  "courbine est fixée à 70 cm calculée en longueur totale."
+                ]
+              },
+              {
+                "article_number": "ART.7.- La pêche de la courbine est interdite, quelle",
+                "paragraphs": [
+                  "que soit l'unité d'aménagement, du 1er au 30 juin et du 1er au",
+                  "31 décembre inclus de chaque année.",
+                  "En outre, cette pêche est interdite, en permanence, quelle",
+                  "que soit l'unité d'aménagement, pour les senneurs type RSW",
+                  "et les chalutiers pélagiques type RSW."
+                ]
+              },
+              {
+                "article_number": "ART.8.- Par dérogation aux dispositions de l'article 7",
+                "paragraphs": [
+                  "ci-dessus, l'INRH peut être autorisé durant la période",
+                  "d'interdiction sus-indiquée, à pratiquer la pêche de la courbine,",
+                  "dans les eaux maritimes marocaines, en vue de prélever des",
+                  "échantillons, conformément à son programme de recherche",
+                  "scientifique.",
+                  "L'autorisation prévue ci-dessus fixe notamment sa durée",
+                  "de validité, les lieux de prélèvement autorisés, les engins de",
+                  "pêche utilisés ainsi que le nombre de pièces dont le prélèvement",
+                  "est permis.",
+                  "La référence de cette autorisation est portée sur la",
+                  "licence de pêche dont bénéficie l'INRH à cet effet."
+                ]
+              },
+              {
+                "article_number": "ART.9.- La licence de pêche délivrée aux navires",
+                "paragraphs": [
+                  "autorisés à pêcher la courbine dans les unités d'aménagement",
+                  "visées à l'article 3 ci-dessus porte la mention « courbine » dans",
+                  "la rubrique espèces autorisées.",
+                  "Les capitaines et patrons des navires de pêche autorisés",
+                  "à pêcher la courbine doivent débarquer la totalité de leurs",
+                  "captures de courbine dans le ou les ports indiqués sur leur",
+                  "licence de pêche."
+                ]
+              },
+              {
+                "article_number": "ART.10.- Le plan d'aménagement et de gestion de la",
+                "paragraphs": [
+                  "pêcherie de la courbine est établi pour une durée de 5 ans à",
+                  "partir de sa date de publication au «Bulletin officiel».",
+                  "Il peut être révisé conformément aux dispositions de",
+                  "l'alinéa 2 de l'article 12 du décret précité n° 2-18-722 chaque",
+                  "fois que les circonstances l'exigent."
+                ]
+              },
+              {
+                "article_number": "ART.11.- Le présent arrêté est publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7300-P15-6",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n° 542-24",
+      "reference": {
+        "type": "arrete",
+        "number": "542-24",
+        "date": ""
+      },
+      "pages": {
+        "start": 15,
+        "end": 15
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-722 du 1er safar 1441 (30 septembre",
+            "reference_to": "Decret n° 2-18-722"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre des pêches maritimes, des",
+            "reference_to": null
+          },
+          {
+            "type": "recital",
+            "text": "Considérant la nécessité de conservation des espèces"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de l'Institut national de recherche halieutique ;"
+          },
+          {
+            "type": "adoption",
+            "text": "Après consultation des chambres des pêches maritimes,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Conformément aux dispositions de",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7300-P15-7",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "ART. 5. - Seuls les palangriers et les barques de pêche",
+      "reference": {
+        "type": "arrete",
+        "number": "",
+        "date": ""
+      },
+      "pages": {
+        "start": 15,
+        "end": 16
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "",
+        "preamble": [],
+        "enacting_clause": "",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ART. 5. - Seuls les palangriers et les barques de pêche",
+                "paragraphs": [
+                  "artisanale inscrits annuellement sur le registre CGPM peuvent",
+                  "être autorisés à pêcher la dorade rose."
+                ]
+              },
+              {
+                "article_number": "ART. 6. - La taille marchande minimale de la « dorade",
+                "paragraphs": [
+                  "rose » est fixée conformément aux dispositions de l'arrêté",
+                  "n° 1154-88 du 20 safar 1409 (3 octobre 1988) fixant la taille",
+                  "marchande minimale des espèces pêchées dans les eaux",
+                  "maritimes marocaines."
+                ]
+              },
+              {
+                "article_number": "ART. 7. - Seule la palangre dérivante de surface et la",
+                "paragraphs": [
+                  "ligne, sont autorisées pour la pêche de la dorade rose.",
+                  "Le nombre d'hameçons par segment de la flotte est fixé",
+                  "par la décision mentionnée ci-dessus avec un nombre maximum",
+                  "d'hameçons de taille minimale, à savoir L (longueur/largeur)",
+                  "≥ 3,95 cm et S (diamètre) ≥ 1,65 cm, est de 70 hameçons par",
+                  "ligne, 30 lignes par jour et 2 600 hameçons par navire."
+                ]
+              },
+              {
+                "article_number": "ART. 8. - La capacité de pêche de la flotte capturant la",
+                "paragraphs": [
+                  "dorade rose en Méditerranée comme espèce cible et de manière",
+                  "accidentelle est comme suit :",
+                  "- 75 palangriers ;",
+                  "- 250 barques artisanales."
+                ]
+              },
+              {
+                "article_number": "ART. 9. - La pêche de la « dorade rose » est interdite, en",
+                "paragraphs": [
+                  "permanence, dans l'unité d'aménagement, sur une distance",
+                  "d'un (1) mille marins calculés à partir des lignes de base, pour",
+                  "les palangriers et les barques de pêche artisanale.",
+                  "En outre, cette pêche est interdite du 15 janvier au",
+                  "15 mars de chaque année dans l'unité d'aménagement.",
+                  "<<<BO_PAGE_16_DELIM>>>",
+                  "Nº 7300- 7 kaada 1445 (16-5-2024)"
+                ]
+              },
+              {
+                "article_number": "ART. 10. - Par dérogation aux dispositions de l'article 7",
+                "paragraphs": [
+                  "et 9 ci-dessus, l'INRH peut être autorisé durant la période",
+                  "d'interdiction sus-indiquée, à pratiquer la pêche de la « dorade",
+                  "rose », en Méditerranée, en vue de prélever des échantillons,",
+                  "conformément à son programme de recherche scientifique.",
+                  "L'autorisation prévue ci-dessus fixe notamment sa durée",
+                  "de validité, les lieux de prélèvement autorisés, les engins de",
+                  "pêche utilisés ainsi que le nombre de pièces dont le prélèvement",
+                  "est permis.",
+                  "La référence de cette autorisation est portée sur la",
+                  "licence de pêche dont bénéficie l'INRH à cet effet."
+                ]
+              },
+              {
+                "article_number": "ART. 11. - Le plan d'aménagement et de gestion de la",
+                "paragraphs": [
+                  "pêcherie de la « dorade rose » est établi pour une durée de",
+                  "3 ans à partir de sa date de publication au « Bulletin officiel ».",
+                  "Il peut être révisé conformément aux dispositions de l'alinéa 2",
+                  "de l'article 12 du décret précité n° 2-18-722, chaque fois que les",
+                  "circonstances l'exigent."
+                ]
+              },
+              {
+                "article_number": "ART. 12. - Le présent arrêté est publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7300-P18-8",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n° 735-24",
+      "reference": {
+        "type": "arrete",
+        "number": "735-24",
+        "date": "2024-03-15"
+      },
+      "pages": {
+        "start": 18,
+        "end": 18
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-18-722 du 1er safar 1441 (30 septembre",
+            "reference_to": "Decret n° 2-18-722"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de l'Institut national de recherche halieutique ;"
+          },
+          {
+            "type": "adoption",
+            "text": "Après consultation des chambres des pêches maritimes ;"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Conformément aux dispositions",
+                "paragraphs": [
+                  "de l'article 3 du décret susvisé n° 2-18-722, le présent arrêté a",
+                  "pour objet de réglementer et d'adopter un plan d'aménagement",
+                  "et de gestion de la pêcherie des grands crustacés dans les",
+                  "eaux marocaines à travers la prise de mesures particulières",
+                  "garantissant la conservation du stock de certaines espèces",
+                  "de grands crustacés et leur adaptation aux spécificités",
+                  "bioécologiques de ces espèces."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Au sens du présent arrêté on entend par :",
+                "paragraphs": [
+                  "1. Palangrier : le navire de pêche utilisant la palangre et",
+                  "la ligne et/ou d'autres engins de pêche à l'exclusion du chalut",
+                  "et de la senne pour la capture des espèces halieutiques ;",
+                  "2. Barque de pêche artisanale : le navire de pêche d'un",
+                  "tonnage brut inférieur ou égal à trois (3) unités de jauge ;",
+                  "3. Chalutier : le navire de pêche d'une jauge brute",
+                  "supérieure à trois (3) unités de jauge et inférieure ou égale",
+                  "à 150 unités de jauge brut ne disposant pas d'un système",
+                  "de congélation à bord et utilisant un chalut de fond pour la",
+                  "capture des espèces halieutiques ;",
+                  "4. Marée : telle que définie à l'article 2 du décret n° 2-18-722",
+                  "du 1er safar 1441 (30 septembre 2019) relatif aux plans",
+                  "d'aménagement et de gestion des pêcheries."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Pour l'application des dispositions du présent",
+                "paragraphs": [
+                  "arrêté, les eaux maritimes marocaines sont divisées en deux",
+                  "(2) unités d'aménagement et de gestion délimitées comme suit :",
+                  "1. L'unité d'aménagement I : comprend les eaux maritimes",
+                  "de la Méditerranée et de l'Atlantique délimitée par le Méridien",
+                  "02°12'42''W (Saidia) et le parallèle 26°24'N (Aghti Lghazi).",
+                  "2. L'unité d'aménagement II : comprend les eaux",
+                  "maritimes de l'Atlantique située entre les parallèles 26°24'N",
+                  "(Aghti Lghazi) et 20°46'21''N (Cap blanc)."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - Conformément aux dispositions de l'article 4",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7300-P18-9",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 4 rejeb 1413 (29 décembre 1992) fixant les",
+      "reference": {
+        "type": "decret",
+        "number": "2-92-1026",
+        "date": ""
+      },
+      "pages": {
+        "start": 18,
+        "end": 19
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "",
+        "preamble": [
+          {
+            "type": "adoption",
+            "text": "Après l'installation des viviers, un rapport d'expertise"
+          }
+        ],
+        "enacting_clause": "",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ART. 9. - La pêche des grands crustacés, dans les unités",
+                "paragraphs": [
+                  "d'aménagement I et II, fixées à l'article 3 ci-dessus est interdite",
+                  "comme suit :",
+                  "1. durant toute l'année, quelque soit le navire de pêche,",
+                  "pour les femelles grainées de toutes les espèces visées à",
+                  "l'article 4 ci-dessus, et quels que soient leurs âges et leurs",
+                  "dimensions.",
+                  "<<<BO_PAGE_19_DELIM>>>",
+                  "Nº 7300- 7 kaada 1445 (16-5-2024)",
+                  "En cas de pêche accidentelle, les femelles grainées",
+                  "doivent être immédiatement rejetées à la mer. Mention de la",
+                  "pêche accidentelle doit être faite sur le journal de pêche du",
+                  "navire ou le document en tenant lieu.",
+                  "2. du 1er octobre au 31 janvier de l'année suivante pour",
+                  "toutes les espèces des grands crustacés visées à l'article 4 à",
+                  "l'exception de la langouste verte (Palinurus regius).",
+                  "3. du 1er juin au 31 août de chaque année, pour la",
+                  "langouste verte (Palinurus regius)."
+                ]
+              },
+              {
+                "article_number": "ART. 10. - Par dérogation aux dispositions de l'article 9",
+                "paragraphs": [
+                  "ci-dessus, l'Institut national de recherche halieutique (INRH)",
+                  "peut être autorisé durant la période d'interdiction sus-indiquée,",
+                  "à pratiquer la pêche des espèces des grands crustacés dans",
+                  "les zones maritimes marocaines, en vue de prélever des",
+                  "échantillons, conformément à son programme de recherche",
+                  "scientifique.",
+                  "L'autorisation prévue ci-dessus fixe notamment sa durée",
+                  "de validité, les lieux de prélèvement autorisés, les engins de",
+                  "pêche utilisés ainsi que le nombre de pièces dont le prélèvement",
+                  "est permis. La référence de cette autorisation est portée sur la",
+                  "licence de pêche dont bénéficie l'INRH à cet effet."
+                ]
+              },
+              {
+                "article_number": "ART. 11. - L'installation des viviers à bord des palangriers",
+                "paragraphs": [
+                  "autorisés à pêcher les espèces des grands crustacés dans",
+                  "l'unité d'aménagement II en tant que moyen de conservation",
+                  "de ces espèces à bord, doit être soumise, au préalabale, à une",
+                  "autorisation délivrée à cet effet par l'administration des pêches",
+                  "maritimes après avis de l'INRH.",
+                  "La demande d'installation des viviers à bord doit être",
+                  "accompagnée d'une étude faisant ressortir leurs dimensions",
+                  "(L, l, H, volume), leurs emplacements à bord, leurs systèmes",
+                  "de remplissage et de vidange, les pompes d'alimentation et",
+                  "de recyclage de l'eau, ainsi que toute autre information utile.",
+                  "Après l'installation des viviers, un rapport d'expertise",
+                  "de stabilité et de sécurité du navire, validé par la délégation",
+                  "des pêches maritimes concernée, doit-être transmis à",
+                  "l'administration des pêches maritimes."
+                ]
+              },
+              {
+                "article_number": "ART. 12. - L'utilisation à terre ou à bord des navires",
+                "paragraphs": [
+                  "de tout dispositif non agréé sur le plan sanitaire pour la",
+                  "conservation ou le stockage de grands crustacés à l'état vivant",
+                  "est strictement interdite."
+                ]
+              },
+              {
+                "article_number": "ART. 13. - En application des dispositions du 11 de",
+                "paragraphs": [
+                  "l'article 5 du décret précité n° 2-18-722, les navires mentionnés",
+                  "à l'article 7 ci-dessus, doivent embarquer à leur bord un ou",
+                  "plusieurs observateurs et/ou un chercheur scientifique de",
+                  "l'INRH."
+                ]
+              },
+              {
+                "article_number": "ART. 14. - La taille marchande minimale des espèces",
+                "paragraphs": [
+                  "visées à l'article 4 ci-dessus est fixée conformément à l'arrêté",
+                  "n° 2191-20 du 20 hija 1441 (10 août 2020) modifiant et complétant",
+                  "l'arrêté n° 1154-88 du 20 safar 1409 (3 octobre 1988) fixant la",
+                  "taille marchande minimale des espèces pêchées dans les eaux",
+                  "maritimes marocaines."
+                ]
+              },
+              {
+                "article_number": "ART. 15. - Le plan d'aménagement et de gestion de",
+                "paragraphs": [
+                  "la pêcherie des grands crustacés est établi pour une durée",
+                  "minimale de deux (2) ans à partir de sa publication au",
+                  "«Bulletin officiel». Il peut être révisé conformément aux",
+                  "dispositions de l'alinéa 2 de l'article 12 du décret précité",
+                  "n° 2-18-722, en cas de changements importants des paramètres",
+                  "ayant permis son établissement."
+                ]
+              },
+              {
+                "article_number": "ART. 16. - L'arrêté du ministre de l'agriculture et de la",
+                "paragraphs": [
+                  "pêche maritime n° 4201-14 du 2 safar 1436 (25 novembre 2014)",
+                  "réglementant la pêche des grands crustacés est abrogé."
+                ]
+              },
+              {
+                "article_number": "ART. 17. - Le présent arrêté est publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7300-P23-10",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n° 687-24 du",
+      "reference": {
+        "type": "arrete",
+        "number": "687-24",
+        "date": "2024-03-11"
+      },
+      "pages": {
+        "start": 23,
+        "end": 23
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le dahir n° 1-69-169 du 10 joumada I 1389 (25 juillet 1969)",
+            "reference_to": "Dahir n° 1-69-169"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 25-08 portant création de l'Office national de",
+            "reference_to": "Loi n° 25-08"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture, de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture, de la pêche",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La société « ATLAS GREEN",
+                "paragraphs": [
+                  "ROOTS » dont le siège social sis appartement 52, 4ème étage,",
+                  "résidence Zouhour 2, Aïn Itti, Marrakech, est agréée pour",
+                  "commercialiser des plants certifiés de caroubier et des plants",
+                  "certifiés des espèces à fruits rouges."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La durée de validité de cet agrément est de cinq",
+                "paragraphs": [
+                  "(5) ans, à compter de la date de publication du présent arrêté",
+                  "au « Bulletin officiel ».",
+                  "Il peut être renouvelé pour la même durée à condition",
+                  "que la demande de renouvellement soit formulée six (6) mois,",
+                  "au moins, avant l'expiration de sa validité."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La déclaration prévue à l'article 2 de chacun",
+                "paragraphs": [
+                  "des arrêtés susvisés nos 2109-17 et 640-23 doit être faite par la",
+                  "société « ATLAS GREEN ROOTS » à l'Office national de",
+                  "sécurité sanitaire des produits alimentaires, comme suit :",
+                  "• en novembre et mai de chaque année pour la situation",
+                  "des stocks des plants des espèces à fruits rouges ;",
+                  "• au moins une fois par an au plus tard le 31 décembre, la",
+                  "situation de leurs stocks de plants certifiés de caroubier."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - L'agrément objet du présent arrêté peut être",
+                "paragraphs": [
+                  "retiré en cas d'infraction dûment constatée aux dispositions",
+                  "du dahir n° 1-69-169 susvisé ou des textes pris pour son",
+                  "application."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7300-P23-11",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n° 688-24 du",
+      "reference": {
+        "type": "arrete",
+        "number": "688-24",
+        "date": "2024-03-11"
+      },
+      "pages": {
+        "start": 23,
+        "end": 24
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le dahir n° 1-69-169 du 10 joumada I 1389 (25 juillet 1969)",
+            "reference_to": "Dahir n° 1-69-169"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 25-08 portant création de l'Office national de",
+            "reference_to": "Loi n° 25-08"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et du",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture, du développement",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture, de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture, de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture, de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La société « MANTOUJ DAYAAT",
+                "paragraphs": [
+                  "SAD ALWAHDA » dont le siège social sis Asjen centre,",
+                  "province de Chefchaouen, est agréée pour commercialiser",
+                  "des plants certifiés d'olivier, de vigne, de figuier, de figuier de",
+                  "barbarie, de grenadier, de caroubier, des rosacées à pépins et",
+                  "des semences et plants certifiés des rosacées à noyau."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La durée de validité de cet agrément est de cinq",
+                "paragraphs": [
+                  "(5) ans, à compter de la date de publication du présent arrêté",
+                  "au « Bulletin officiel ».",
+                  "Il peut être renouvelé pour la même durée à condition",
+                  "que la demande de renouvellement soit formulée six (6) mois,",
+                  "au moins, avant l'expiration de sa validité."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La déclaration prévue à l'article 2 de chacun",
+                "paragraphs": [
+                  "des arrêtés susvisés nos 2100-03, 2110-05, 2157-11, 3548-13,",
+                  "784-16, 986-19, 1437-22 et 640-23 doit être faite par la société",
+                  "« MANTOUJ DAYAAT SAD ALWAHDA » à l'Office national",
+                  "de sécurité sanitaire des produits alimentaires, comme suit :",
+                  "• en avril et septembre de chaque année :",
+                  "- pour les achats et les ventes des plants d'olivier ;",
+                  "- pour les achats, les ventes et les stocks des plants de",
+                  "vigne et des rosacées à pépins ;",
+                  "- pour la production, les ventes et les stocks des plants",
+                  "de figuier ;",
+                  "• annuellement pour la situation des stocks des plants de",
+                  "figuier de barbarie ;",
+                  "• en novembre et mai de chaque année pour la situation",
+                  "des stocks des plants de grenadier ;",
+                  "• au moins une fois par an au plus tard le 31 décembre,",
+                  "la situation de leurs stocks de semences et plants",
+                  "certifiés des rosacées à noyau ;",
+                  "• au moins une fois par an au plus tard le 31 décembre, la",
+                  "situation de leurs stocks de plants certifiés de caroubier."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - L'agrément objet du présent arrêté peut être",
+                "paragraphs": [
+                  "retiré en cas d'infraction dûment constatée aux dispositions",
+                  "du dahir n° 1-69-169 susvisé ou des textes pris pour son",
+                  "application."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7300-P24-12",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n° 689-24 du",
+      "reference": {
+        "type": "arrete",
+        "number": "689-24",
+        "date": "2024-03-11"
+      },
+      "pages": {
+        "start": 24,
+        "end": 25
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le dahir n° 1-69-169 du 10 joumada I 1389 (25 juillet 1969)",
+            "reference_to": "Dahir n° 1-69-169"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 25-08 portant création de l'Office national de",
+            "reference_to": "Loi n° 25-08"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La société « BADRA» dont le siège",
+                "paragraphs": [
+                  "social sis 106, boulevard Abdellah Ben Yassine, Casablanca,",
+                  "est agréée pour commercialiser des semences certifiées des",
+                  "céréales à pailles, du maïs, des légumineuses alimentaires,",
+                  "des légumineuses fourragères, des oléagineuses, de betteraves",
+                  "industrielles et fourragères, des semences standard de légumes",
+                  "et des plants certifiés de pomme de terre."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La durée de validité de cet agrément est de cinq",
+                "paragraphs": [
+                  "(5) ans, à compter de la date de publication du présent arrêté",
+                  "au « Bulletin officiel ».",
+                  "Il peut être renouvelé pour la même durée à condition",
+                  "que la demande de renouvellement soit formulée six (6) mois,",
+                  "au moins, avant l'expiration de sa validité."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La déclaration prévue à l'article 2 de chacun",
+                "paragraphs": [
+                  "des arrêtés susvisés nos 431-77, 857-75, 858-75, 859-75, 862-75,",
+                  "971-75, 622-11 et 2197-13 doit être faite par la société",
+                  "« BADRA » à l'Office national de sécurité sanitaire des",
+                  "produits alimentaires comme suit :",
+                  "- semestrielle pour les achats, les ventes et les stocks des",
+                  "plants de pomme de terre ;",
+                  "- à la fin du mois de décembre de chaque année pour les",
+                  "achats, les ventes et les stocks de semences des céréales",
+                  "à pailles ;",
+                  "- mensuelle pour les achats et les ventes de semences des",
+                  "autres espèces mentionnées à l'article premier ci-dessus."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - L'agrément objet du présent arrêté peut être",
+                "paragraphs": [
+                  "retiré en cas d'infraction dûment constatée aux dispositions",
+                  "du dahir n° 1-69-169 susvisé ou des textes pris pour son",
+                  "application."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7300-P25-13",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n° 690-24 du",
+      "reference": {
+        "type": "arrete",
+        "number": "690-24",
+        "date": "2024-03-11"
+      },
+      "pages": {
+        "start": 25,
+        "end": 26
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le dahir n° 1-69-169 du 10 joumada I 1389 (25 juillet 1969)",
+            "reference_to": "Dahir n° 1-69-169"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 25-08 portant création de l'Office national de",
+            "reference_to": "Loi n° 25-08"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La société «PROMAGRI» dont le",
+                "paragraphs": [
+                  "siège social sis route de Bouskoura, Sidi Maarouf, Casablanca,",
+                  "est agréée pour commercialiser des semences certifiées du maïs,",
+                  "des légumineuses alimentaires, des légumineuses fourragères,",
+                  "des oléagineuses, de betteraves industrielles et fourragères et",
+                  "des semences standard de légumes."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La durée de validité de cet agrément est de cinq",
+                "paragraphs": [
+                  "(5) ans, à compter de la date de publication du présent arrêté",
+                  "au « Bulletin officiel ».",
+                  "Il peut être renouvelé pour la même durée à condition",
+                  "que la demande de renouvellement soit formulée six (6) mois,",
+                  "au moins, avant l'expiration de sa validité."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La déclaration prévue à l'article 2 de chacun",
+                "paragraphs": [
+                  "des arrêtés susvisés nos 431-77, 857-75, 858-75, 859-75, 862-75",
+                  "et 971-75 des achats et des ventes des semences mentionnées",
+                  "à l'article premier ci-dessus doit être faite mensuellement",
+                  "par la société « PROMAGRI » à l'Office national de sécurité",
+                  "sanitaire des produits alimentaires."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - L'agrément objet du présent arrêté peut être",
+                "paragraphs": [
+                  "retiré en cas d'infraction dûment constatée aux dispositions",
+                  "du dahir n° 1-69-169 susvisé ou des textes pris pour son",
+                  "application."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7300-P26-14",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n° 691-24 du",
+      "reference": {
+        "type": "arrete",
+        "number": "691-24",
+        "date": "2024-03-11"
+      },
+      "pages": {
+        "start": 26,
+        "end": 27
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le dahir n° 1-69-169 du 10 joumada I 1389 (25 juillet 1969)",
+            "reference_to": "Dahir n° 1-69-169"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 25-08 portant création de l'Office national de",
+            "reference_to": "Loi n° 25-08"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La société « ADITRAV » dont le",
+                "paragraphs": [
+                  "siège social sis lotissement Kouhen, boulevard Bir Anzarane,",
+                  "immeuble K, 2ème étage, appartement n° 09, El Jadida, est",
+                  "agréée pour commercialiser des semences certifiées du maïs,",
+                  "des légumineuses fourragères et des semences standard de",
+                  "légumes."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La durée de validité de cet agrément est de cinq",
+                "paragraphs": [
+                  "(5) ans, à compter de la date de publication du présent arrêté",
+                  "au « Bulletin officiel ».",
+                  "Il peut être renouvelé pour la même durée à condition",
+                  "que la demande de renouvellement soit formulée six (6) mois,",
+                  "au moins, avant l'expiration de sa validité."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La déclaration prévue à l'article 2 de chacun",
+                "paragraphs": [
+                  "des arrêtés susvisés nos 857-75, 859-75 et 971-75 des achats et des",
+                  "ventes des semences mentionnées à l'article premier ci-dessus",
+                  "doit être faite mensuellement par la société « ADITRAV » à",
+                  "l'Office national de sécurité sanitaire des produits alimentaires.",
+                  "<<<BO_PAGE_27_DELIM>>>",
+                  "Nº 7300- 7 kaada 1445 (16-5-2024)"
+                ]
+              },
+              {
+                "article_number": "ART. 4. - L'agrément objet du présent arrêté peut être",
+                "paragraphs": [
+                  "retiré en cas d'infraction dûment constatée aux dispositions",
+                  "du dahir n° 1-69-169 susvisé ou des textes pris pour son",
+                  "application."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7300-P27-15",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n° 692-24 du",
+      "reference": {
+        "type": "arrete",
+        "number": "692-24",
+        "date": "2024-03-11"
+      },
+      "pages": {
+        "start": 27,
+        "end": 27
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le dahir n° 1-69-169 du 10 joumada I 1389 (25 juillet 1969)",
+            "reference_to": "Dahir n° 1-69-169"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 25-08 portant création de l'Office national de",
+            "reference_to": "Loi n° 25-08"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La société « PHYTO ZENATA »",
+                "paragraphs": [
+                  "dont le siège social sis centre Aïn Harrouda, route Rabat 1,",
+                  "Km 17, Aïn Harrouda, Mohammedia, est agréée pour",
+                  "commercialiser des semences certifiées des céréales à pailles,",
+                  "du maïs, des légumineuses alimentaires, des légumineuses",
+                  "fourragères, des oléagineuses, de betteraves industrielles et",
+                  "fourragères, des semences standard de légumes et des plants",
+                  "certifiés de pomme de terre."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La durée de validité de cet agrément est de cinq",
+                "paragraphs": [
+                  "(5) ans, à compter de la date de publication du présent arrêté",
+                  "au « Bulletin officiel ».",
+                  "Il peut être renouvelé pour la même durée à condition",
+                  "que la demande de renouvellement soit formulée six (6) mois,",
+                  "au moins, avant l'expiration de sa validité."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La déclaration prévue à l'article 2 de chacun",
+                "paragraphs": [
+                  "des arrêtés susvisés nos 431-77, 857-75, 858-75, 859-75, 862-75,",
+                  "971-75, 622-11 et 2197-13 doit être faite par la société « PHYTO",
+                  "ZENATA » à l'Office national de sécurité sanitaire des produits",
+                  "alimentaires comme suit :",
+                  "- semestrielle pour les achats, les ventes et les stocks des",
+                  "plants de pomme de terre ;",
+                  "- à la fin du mois de décembre de chaque année pour les",
+                  "achats, les ventes et les stocks de semences des céréales",
+                  "à pailles ;",
+                  "- mensuelle pour les achats et les ventes de semences des",
+                  "autres espèces mentionnées à l'article premier ci-dessus."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - L'agrément objet du présent arrêté peut être",
+                "paragraphs": [
+                  "retiré en cas d'infraction dûment constatée aux dispositions",
+                  "du dahir n° 1-69-169 susvisé ou des textes pris pour son",
+                  "application."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7300-P28-16",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n° 693-24 du",
+      "reference": {
+        "type": "arrete",
+        "number": "693-24",
+        "date": "2024-03-11"
+      },
+      "pages": {
+        "start": 28,
+        "end": 28
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le dahir n° 1-69-169 du 10 joumada I 1389 (25 juillet 1969)",
+            "reference_to": "Dahir n° 1-69-169"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 25-08 portant création de l'Office national de",
+            "reference_to": "Loi n° 25-08"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La société « GREEN CARE » dont",
+                "paragraphs": [
+                  "le siège social sis n° 71, rue Al Atlas, Hay Saada, Berkane, est",
+                  "agréée pour commercialiser des semences certifiées du maïs,",
+                  "des légumineuses alimentaires, des légumineuses fourragères,",
+                  "des oléagineuses, de betteraves industrielles et fourragères,",
+                  "des semences standard de légumes et des plants certifiés de",
+                  "pomme de terre."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La durée de validité de cet agrément est de cinq",
+                "paragraphs": [
+                  "(5) ans, à compter de la date de publication du présent arrêté",
+                  "au « Bulletin officiel ».",
+                  "Il peut être renouvelé pour la même durée à condition",
+                  "que la demande de renouvellement soit formulée six (6) mois,",
+                  "au moins, avant l'expiration de sa validité."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La déclaration prévue à l'article 2 de chacun",
+                "paragraphs": [
+                  "des arrêtés susvisés nos 431-77, 857-75, 858-75, 859-75,",
+                  "862-75, 971-75 et 622-11 doit être faite par la société « GREEN",
+                  "CARE » à l'Office national de sécurité sanitaire des produits",
+                  "alimentaires comme suit :",
+                  "- semestrielle pour les achats, les ventes et les stocks des",
+                  "plants de pomme de terre ;",
+                  "- mensuelle pour les achats et les ventes de semences des",
+                  "autres espèces mentionnées à l'article premier ci-dessus."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - L'agrément objet du présent arrêté peut être",
+                "paragraphs": [
+                  "retiré en cas d'infraction dûment constatée aux dispositions",
+                  "du dahir n° 1-69-169 susvisé ou des textes pris pour son",
+                  "application."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7300-P29-17",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n° 694-24 du",
+      "reference": {
+        "type": "arrete",
+        "number": "694-24",
+        "date": "2024-03-11"
+      },
+      "pages": {
+        "start": 29,
+        "end": 29
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le dahir n° 1-69-169 du 10 joumada I 1389 (25 juillet 1969)",
+            "reference_to": "Dahir n° 1-69-169"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 25-08 portant création de l'Office national de",
+            "reference_to": "Loi n° 25-08"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture, du développement",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture, de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture, de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture, de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La pépinière « JNANE » dont le",
+                "paragraphs": [
+                  "siège social sis route Fquih Ben Saleh, Km 8, Sidi Jaber, Beni",
+                  "Mellal, est agréée pour commercialiser des plants certifiés",
+                  "d'olivier, de figuier, de figuier de barbarie, de grenadier,",
+                  "d'arganier, des rosacées à pépins et des semences et plants",
+                  "certifiés des rosacées à noyau."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La durée de validité de cet agrément est de cinq",
+                "paragraphs": [
+                  "(5) ans, à compter de la date de publication du présent arrêté",
+                  "au « Bulletin officiel ».",
+                  "Il peut être renouvelé pour la même durée à condition",
+                  "que la demande de renouvellement soit formulée six (6) mois,",
+                  "au moins, avant l'expiration de sa validité."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La déclaration prévue à l'article 2 de chacun",
+                "paragraphs": [
+                  "des arrêtés susvisés nos 2110-05, 2157-11, 3548-13, 784-16, 986-19,",
+                  "1437-22 et 2140-22 doit être faite par la pépinière «JNANE» à",
+                  "l'Office national de sécurité sanitaire des produits alimentaires,",
+                  "comme suit :",
+                  "• en avril et septembre de chaque année :",
+                  "- pour les achats et les ventes des plants d'olivier ;",
+                  "- pour les achats, les ventes et les stocks des plants des",
+                  "rosacées à pépins ;",
+                  "- pour la production, les ventes et les stocks des plants",
+                  "de figuier ;",
+                  "• annuellement pour la situation des stocks des plants de",
+                  "figuier de barbarie ;",
+                  "• en novembre et mai de chaque année pour la situation",
+                  "des stocks des plants de grenadier ;",
+                  "• au moins une fois par an au plus tard le 31 décembre,",
+                  "la situation de leurs stocks de semences et plants",
+                  "certifiés des rosacées à noyau ;",
+                  "• au moins une fois par an au plus tard le 31 décembre, la",
+                  "situation de leurs stocks de plants certifiés d'arganier."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - L'agrément objet du présent arrêté peut être",
+                "paragraphs": [
+                  "retiré en cas d'infraction dûment constatée aux dispositions",
+                  "du dahir n° 1-69-169 susvisé ou des textes pris pour son",
+                  "application."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    }
+  ]
+}

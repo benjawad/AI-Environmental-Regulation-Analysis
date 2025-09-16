@@ -1,0 +1,432 @@
+{
+  "bulletin_number": "3091",
+  "publication_date": {
+    "gregorian": "2022-11-16",
+    "hijri": "21 rabii II 1444"
+  },
+  "source_file": "BO_7162_fr.pdf",
+  "content": [
+    {
+      "entry_id": "BO-3091-P3-1",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 21 rabii II 1444 (16 novembre 2022) pris",
+      "reference": {
+        "type": "decret",
+        "number": "2-22-687",
+        "date": "2022-11-16"
+      },
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le dahir n° 1-21-112 du 4 rabii I 1443 (11 octobre 2021)",
+            "reference_to": "Dahir n° 1-21-112"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 43-20 relative aux services de confiance",
+            "reference_to": "Loi n° 43-20"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-82-673 du 28 rabii I 1403 (13 janvier 1983)",
+            "reference_to": "Decret n° 2-82-673"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement en date"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil des ministres en date"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - On entend par autorité nationale",
+                "paragraphs": [
+                  "des services de confiance pour les transactions électroniques",
+                  "au sens de la loi n° 43-20 susvisée, la direction générale",
+                  "de la sécurité des systèmes d'information relevant de",
+                  "l'Administration de la défense nationale et désignée dans le",
+                  "présent décret par « autorité nationale ».",
+                  "Chapitre premier",
+                  "Des services de confiance qualifiés et des modalités de",
+                  "délivrance des certificats de conformité",
+                  "Section première. - Des services de confiance qualifiés"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - En application de l'article 9 de la loi n° 43-20",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-3091-P11-2",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 19 rabii II 1444 (14 novembre 2022) portant protection de variétés par certificat d'obtention végétale",
+      "reference": {
+        "type": "arrete",
+        "number": "3091-22",
+        "date": "2022-11-14"
+      },
+      "pages": {
+        "start": 11,
+        "end": 11
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE MARITIME, DU DÉVELOPPEMENT RURAL ET DES EAUX",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 9-94 sur la protection des obtentions végétales, promulguée par le dahir n° l-96-255",
+            "reference_to": "Loi n° 9-94"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 25-08 portant création de l'Office national de sécurité sanitaire des produits alimentaires,",
+            "reference_to": "Loi n° 25-08"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-01-2324 du 27 hija 1422 (12 mars 2002) pris pour l'application de la loi n° 9-94 sur la",
+            "reference_to": "Decret n° 2-01-2324"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du Comité consultatif de la protection des obtentions végétales,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Conformément aux dispositions de l'article 2 du décret susvisé n° 2-01-2324",
+                "paragraphs": [
+                  "du 27 hija 1422 (12 mars 2002), les variétés désignées dans le tableau annexé au présent arrêté bénéficient de",
+                  "la protection des obtentions végétales."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Sont désignés dans le tableau annexé au présent arrêté, l'espèce, le numéro du dépôt, la",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-3091-P17-3",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decision",
+      "title": "du 6 joumada II 1444",
+      "reference": {
+        "type": "decision",
+        "number": "13-23",
+        "date": ""
+      },
+      "pages": {
+        "start": 17,
+        "end": 17
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE DIRECTEUR DE L'INSTITUT MAROCAIN DE NORMALISATION",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 12-06 relative à la normalisation, à la certification et à l'accréditation, promulguée par le",
+            "reference_to": "Loi n° 12-06"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la résolution du Conseil d'administration de l'Institut marocain de normalisation (IMANOR) n° 10,",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCIDE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Sont homologuées comme normes marocaines, les normes dont les références",
+                "paragraphs": [
+                  "sont présentées en annexe de la présente décision."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Les normes visées à l'article premier ci-dessus, sont tenues à la disposition des intéressés à",
+                "paragraphs": [
+                  "l'Institut marocain de normalisation (IMANOR)."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La présente décision sera publiée au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-3091-P25-4",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3271-22 du 30 rabii II",
+      "reference": {
+        "type": "arrete",
+        "number": "3271-22",
+        "date": "2022-11-25"
+      },
+      "pages": {
+        "start": 25,
+        "end": 25
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi susvisée n° 016-89,",
+                  "« assortis du baccalauréat, série scientifique ou technique ou",
+                  "« d'un diplôme reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Grade académique de master en architecture, à finalité",
+                  "« spécialisée, délivré en l'année académique 2017/2018",
+                  "« par la Faculté d'architecture, Université Libre de",
+                  "« Bruxelles - Belgique, assorti du grade académique de",
+                  "« bachelier en architecture, délivré en l'année",
+                  "« académique 2015/2016 par la même université et d'une",
+                  "« attestation de validation du complément de formation,",
+                  "« délivrée par l'Ecole nationale d'architecture de Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-3091-P25-5",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 3272-22 du 30 rabii II",
+      "reference": {
+        "type": "arrete",
+        "number": "3272-22",
+        "date": "2022-11-25"
+      },
+      "pages": {
+        "start": 25,
+        "end": 25
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-21-838 du 14 rabii I 1443 (21 octobre 2021)",
+            "reference_to": "Decret n° 2-21-838"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi susvisée n° 016-89,",
+                  "« assortis du baccalauréat, série scientifique ou technique ou",
+                  "« d'un diplôme reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Diplôme d'architecte DESA (HMONP), délivré en",
+                  "« date du 8 juin 2021 par l'Ecole spéciale d'architecture -",
+                  "« France, assorti du diplôme de l'ESA grade 1, délivré en",
+                  "« date du 17 mai 2018 par la même école. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-3091-P26-6",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement durable n°3414-22 du 17 joumada I 1444",
+      "reference": {
+        "type": "arrete",
+        "number": "3414-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 26,
+        "end": 26
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LIMITED ».",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'énergie, des mines et du",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté conjoint de la ministre de la transition énergétique",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": []
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    }
+  ]
+}

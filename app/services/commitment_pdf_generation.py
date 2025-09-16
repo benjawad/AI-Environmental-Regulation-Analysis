@@ -801,8 +801,30 @@ def generate_commitment_register(request: Any):
     pdf_path = build_full_pdf(df_final)
 
     if pdf_path and os.path.exists(pdf_path):
+        # Persist metadata + PDF bytes to DB (best-effort)
         try:
-            return FileResponse(open(pdf_path, 'rb'), as_attachment=True, filename='commitment_register.pdf')
+            from app.models import GeneratedRegister
+            rows_count = int(getattr(df_final, 'shape', [0])[0] or 0)
+            size = os.path.getsize(pdf_path)
+            with open(pdf_path, 'rb') as fh:
+                pdf_bytes = fh.read()
+            GeneratedRegister.objects.create(
+                kind="commitment",
+                file_path=pdf_path,  # kept for legacy; optional
+                file_size=size,
+                rows_count=rows_count,
+                filename="commitment_register.pdf",
+                pdf_data=pdf_bytes,
+            )
+        except Exception as e:
+            logger.warning("Could not persist GeneratedRegister(commitment): %s", e)
+        try:
+            # Stream from memory to avoid re-reading file
+            buf = io.BytesIO()
+            with open(pdf_path, 'rb') as fh:
+                buf.write(fh.read())
+            buf.seek(0)
+            return FileResponse(buf, as_attachment=True, filename='commitment_register.pdf')
         except Exception as e:
             logger.exception("Failed to return FileResponse: %s", e)
             return HttpResponse("Erreur lors de l'ouverture du fichier PDF", status=500)

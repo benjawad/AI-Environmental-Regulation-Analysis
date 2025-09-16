@@ -280,7 +280,7 @@
             </div>
             <nav class="header-right">
                 <a href="{% url 'home' %}" class="nav-link active"><i class="fas fa-home"></i> Accueil</a>
-                <a href="{% url 'dashboard' %}" class="nav-link"><i class="fas fa-gavel"></i> Registre Juridique</a>
+                <a href="{% url 'legal_register' %}" class="nav-link"><i class="fas fa-gavel"></i> Registre Juridique</a>
                 <a href="{% url 'commitment' %}" class="nav-link"><i class="fas fa-clipboard-check"></i> Engagements</a>
                 <button class="icon-btn" id="theme-toggle" aria-label="Basculer le thème">
                     <i class="fas fa-moon"></i>
@@ -335,13 +335,13 @@
         </section>
         
         <section class="modules-grid">
-            <a href="legal.html" class="module-card">
+            <a href="{% url 'legal_register' %}" class="module-card">
                 <div class="module-icon primary"><i class="fas fa-gavel"></i></div>
                 <h3 class="module-title">Registre Juridique</h3>
                 <p class="module-description">Automatisez la collecte et l'analyse des textes de loi pour générer un registre fiable et toujours à jour.</p>
                 <span class="module-link">Accéder au module <i class="fas fa-arrow-right"></i></span>
             </a>
-            <a href="home.html" class="module-card">
+            <a href="{% url 'commitment' %}" class="module-card">
                 <div class="module-icon accent"><i class="fas fa-clipboard-check"></i></div>
                 <h3 class="module-title">Registre des Engagements</h3>
                 <p class="module-description">Extrayez, suivez et gérez tous les engagements de vos EIE, de la planification à la clôture.</p>

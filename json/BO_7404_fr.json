@@ -1,83 +1,556 @@
 {
-  "bulletin_metadata": {
-    "issue_number": "7404",
-    "publication_year_description": "Cent-quatorzième année",
-    "date_hijri": "17 kaada 1446",
-    "date_gregorian": "2025-05-15",
-    "issn": "0851-1217"
+  "bulletin_number": "7404",
+  "publication_date": {
+    "gregorian": "2025-05-15",
+    "hijri": "17 kaada 1446"
   },
-  "table_of_contents": [],
-  "legal_texts": [
+  "source_file": "BO_7404_fr.pdf",
+  "content": [
     {
-      "type": "Décret",
-      "number": "2-25-341",
-      "title": "du 1er kaada 1446 (29 avril 2025)",
-      "publication_date_hijri": "12 ramadan 1446",
-      "publication_date_gregorian": "2025-04-29",
-      "page_start": 592,
-      "description": "Décret n° 2-25-341 du 12 ramadan 1446 (29 avril 2025) du 1er kaada 1446 (29 avril 2025)",
-      "signatories": []
+      "entry_id": "BO-7404-P2-1",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 10 chaoual 1446 (9 avril 2025) rendant d'application",
+      "reference": {
+        "type": "arrete",
+        "number": "923-25",
+        "date": "2025-04-09"
+      },
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'INDUSTRIE ET DU COMMERCE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 12-06 relative à la normalisation, à la",
+            "reference_to": "Loi n° 12-06"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'industrie et du commerce",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'industrie, du commerce et",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'industrie, du commerce et de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'industrie, du commerce et",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'industrie, du commerce, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'industrie, du commerce et",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'industrie, du commerce et des",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'industrie, du commerce et",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'industrie, du commerce et",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'industrie, du commerce et",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du directeur de l'Institut marocain de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du directeur de l'Institut marocain de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du directeur de l'Institut marocain de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du directeur de l'Institut marocain de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du directeur de l'Institut marocain de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du directeur de l'Institut marocain de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du directeur de l'Institut marocain de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du directeur de l'Institut marocain de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du directeur de l'Institut marocain de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du directeur de l'Institut marocain de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du directeur de l'Institut marocain de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du directeur de l'Institut marocain de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du directeur de l'Institut marocain de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du directeur de l'Institut marocain de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du directeur de l'Institut marocain de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du ministre de l'industrie, du commerce",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "article 33 ;",
+                "paragraphs": [
+                  "Vu l'arrêté du ministre de l'industrie et du commerce",
+                  "n° 2751-22 du 17 rabii I 1444 (14 octobre 2022), rendant",
+                  "d'application obligatoire des normes marocaines ;",
+                  "Vu l'arrêté du ministre de l'industrie, du commerce et",
+                  "de l'économie verte et numérique n° 2254-21 du 26 hija 1442",
+                  "(6 août 2021), rendant d'application obligatoire des normes",
+                  "marocaines ;",
+                  "Vu l'arrêté du ministre de l'industrie, du commerce et de",
+                  "l'économie verte et numérique n° 959-21 du 23 chaabane 1442",
+                  "(6 avril 2021), rendant d'application obligatoire des normes",
+                  "marocaines ;",
+                  "Vu l'arrêté du ministre de l'industrie, du commerce et",
+                  "de l'économie verte et numérique n° 2911-20 du 3 rabii II 1442",
+                  "(19 novembre 2020), rendant d'application obligatoire des",
+                  "normes marocaines ;",
+                  "Vu l'arrêté du ministre de l'industrie, du commerce, de",
+                  "l'investissement et de l'économie numérique n° 4027-14 du 17",
+                  "moharrem 1436 (11 novembre 2014), rendant d'application",
+                  "obligatoire des normes marocaines ;",
+                  "Vu l'arrêté du ministre de l'industrie, du commerce et",
+                  "des nouvelles technologies n° 1332-13 du 11 joumada II 1434",
+                  "(22 avril 2013), rendant d'application obligatoire des normes",
+                  "marocaines ;",
+                  "Vu l'arrêté du ministre de l'industrie, du commerce et des",
+                  "nouvelles technologies n° 1701-11 du 3 rejeb 1432 (6 juin 2011),",
+                  "rendant d'application obligatoire des normes marocaines ;",
+                  "Vu l'arrêté du ministre de l'industrie, du commerce et",
+                  "des nouvelles technologies n° 1963-11 du 2 chaabane 1432",
+                  "(4 juillet 2011), rendant d'application obligatoire des normes",
+                  "marocaines ;",
+                  "Vu l'arrêté du ministre de l'industrie, du commerce et",
+                  "de la mise à niveau de l'économie n° 1440-07 du 2 rejeb 1428",
+                  "(18 juillet 2007), rendant d'application obligatoire une norme",
+                  "marocaine ;",
+                  "Vu l'arrêté du ministre de l'industrie, du commerce et",
+                  "de la mise à niveau de l'économie n° 2109-04 du 27 chaoual",
+                  "1425 (10 décembre 2004), portant homologation et rendant",
+                  "d'application obligatoire des normes marocaines ;",
+                  "Vu la décision du directeur de l'Institut marocain de",
+                  "normalisation n° 918-24 du 22 ramadan 1445 (2 avril 2024),",
+                  "portant homologation de normes marocaines ;",
+                  "Vu la décision du directeur de l'Institut marocain de",
+                  "normalisation n° 2956-23 du 13 joumada I 1445 (27 novembre",
+                  "2023), portant homologation de normes marocaines ;",
+                  "Vu la décision du directeur de l'Institut marocain de",
+                  "normalisation n° 868-23 du 29 chaabane 1444 (22 mars 2023),",
+                  "portant homologation de normes marocaines ;",
+                  "Vu la décision du directeur de l'Institut marocain de",
+                  "normalisation n° 2619-22 du 30 safar 1444 (27 septembre 2022),",
+                  "portant homologation de normes marocaines ;",
+                  "Vu la décision du directeur de l'Institut marocain de",
+                  "normalisation n° 1860-22 du 6 hija 1443 (6 juillet 2022), portant",
+                  "homologation de normes marocaines ;",
+                  "Vu la décision du directeur de l'Institut marocain de",
+                  "normalisation n° 1508-22 du 25 chaoual 1443 (26 mai 2022),",
+                  "portant homologation de normes marocaines ;",
+                  "Vu la décision du directeur de l'Institut marocain de",
+                  "normalisation n° 1309-22 du 11 chaoual 1443 (12 mai 2022),",
+                  "portant homologation de normes marocaines ;",
+                  "Vu la décision du directeur de l'Institut marocain de",
+                  "normalisation n° 656-22 du 21 rejeb 1443 (23 février 2022),",
+                  "portant homologation de normes marocaines ;",
+                  "Vu la décision du directeur de l'Institut marocain de",
+                  "normalisation n° 2533-21 du 15 safar 1443 (23 septembre 2021),",
+                  "portant homologation de normes matocaines ;",
+                  "Vu la décision du directeur de l'Institut marocain de",
+                  "normalisation n° 1466-21 du 13 choual 1442 (25 mai 2021)",
+                  "portant homologation de normes marocaines ;",
+                  "Vu la décision du directeur de l'Institut marocain de",
+                  "normalisation n° 1173-21 du 20 ramadan 1442 (3 mai 2021),",
+                  "portant homologation de normes marocaines ;",
+                  "Vu la décision du directeur de l'Institut marocain de",
+                  "normalisation n° 2344-20 du 22 moharrem 1442 (11 septembre",
+                  "2020), portant homologation de normes marocaines ;",
+                  "Vu la décision du directeur de l'Institut marocain de",
+                  "normalisation n° 3500-19 du 14 rabii I 1441 (12 novembre 2019),",
+                  "portant homologation de normes marocaines ;",
+                  "Vu la décision du directeur de l'Institut marocain de",
+                  "normalisation n° 1642-19 du 14 ramadan 1440 (20 mai 2019),",
+                  "portant homologation de normes marocaines ;",
+                  "Vu la décision du directeur de l'Institut marocain de",
+                  "normalisation n° 3946-18 du 18 rabii II 1440 (26 décembre",
+                  "2018), portant homologation de normes marocaines ;",
+                  "Vu la décision du ministre de l'industrie, du commerce",
+                  "et des nouvelles technologies n° 2585-13 du 27 chaoual 1434",
+                  "(4 septembre 2013), portant homologation de normes",
+                  "marocaines,"
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
     },
     {
-      "type": "Loi",
-      "number": "12-06",
-      "title": "relative à la normalisation, à la",
-      "publication_date_hijri": "26 safar 1431",
-      "publication_date_gregorian": "2010-02-11",
-      "page_start": 584,
-      "description": "Loi n° 12-06 du 26 safar 1431 (11 février 2010) relative à la normalisation, à la",
-      "signatories": [
-        {
-          "name": "RYAD MEZZOUR",
-          "title": ""
-        }
-      ]
+      "entry_id": "BO-7404-P6-2",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decision",
+      "title": "du 17 ramadan 1446",
+      "reference": {
+        "type": "decision",
+        "number": "791-25",
+        "date": "2025-03-18"
+      },
+      "pages": {
+        "start": 6,
+        "end": 6
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE DIRECTEUR DE L'INSTITUT MAROCAIN DE NORMALISATION",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 12-06 relative à la normalisation, à la certification et à l'accréditation promulguée par le",
+            "reference_to": "Loi n° 12-06"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la résolution du Conseil d'administration de l'Institut marocain de normalisation (IMANOR) n° 10,",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCIDE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Sont homologuées comme normes marocaines, les normes dont les références",
+                "paragraphs": [
+                  "sont présentées en annexe de la présente décision."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Les normes visées à l'article premier ci-dessus, sont tenues à la disposition des intéressés à",
+                "paragraphs": [
+                  "l'Institut marocain de normalisation (IMANOR)."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La présente décision sera publiée au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
     },
     {
-      "type": "Loi",
-      "number": "12-02",
-      "title": "relative à la responsabilité civile en",
-      "publication_date_hijri": "25 kaada 1425",
-      "publication_date_gregorian": "2005-01-07",
-      "page_start": 592,
-      "description": "Loi n° 12-02 du 25 kaada 1425 (7 janvier 2005) relative à la responsabilité civile en",
-      "signatories": []
+      "entry_id": "BO-7404-P7-3",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decision",
+      "title": "du 11 chaoual 1446",
+      "reference": {
+        "type": "decision",
+        "number": "1011-25",
+        "date": "2025-04-10"
+      },
+      "pages": {
+        "start": 7,
+        "end": 7
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE DIRECTEUR DE L'INSTITUT MAROCAIN DE NORMALISATION",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 12-06 relative à la normalisation, à la certification et à l'accréditation promulguée par le",
+            "reference_to": "Loi n° 12-06"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la résolution du Conseil d'administration de l'Institut marocain de normalisation (IMANOR) n° 10,",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCIDE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Sont homologuées comme normes marocaines, les normes dont les références",
+                "paragraphs": [
+                  "sont présentées en annexe de la présente décision."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Les normes visées à l'article premier ci-dessus, sont tenues à la disposition des intéressés à",
+                "paragraphs": [
+                  "l'Institut marocain de normalisation (IMANOR)."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La présente décision sera publiée au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
     },
     {
-      "type": "Décret",
-      "number": "2-05-1560",
-      "title": "du 22 rabii I 1427 (21 avril 2006),",
-      "publication_date_hijri": "22 rabii I 1427",
-      "publication_date_gregorian": "2006-04-21",
-      "page_start": 592,
-      "description": "Décret n° 2-05-1560 du 22 rabii I 1427 (21 avril 2006) du 22 rabii I 1427 (21 avril 2006),",
-      "signatories": []
+      "entry_id": "BO-7404-P11-4",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 1er kaada 1446 (29 avril 2025) reconduisant",
+      "reference": {
+        "type": "decret",
+        "number": "2-25-341",
+        "date": "2025-04-29"
+      },
+      "pages": {
+        "start": 11,
+        "end": 11
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "(CNESTEN).",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 12-02 relative à la responsabilité civile en",
+            "reference_to": "Loi n° 12-02"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-05-1560 du 22 rabii I 1427 (21 avril 2006),",
+            "reference_to": "Decret n° 2-05-1560"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-490 du 19 hija 1445 (26 juin 2024)",
+            "reference_to": "Decret n° 2-24-490"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'Etat reconduit l'octroi de la",
+                "paragraphs": [
+                  "garantie consentie en vertu du décret susvisé n° 2-05-1560 du",
+                  "22 rabii I 1427 (21 avril 2006) au Centre national de l'énergie,",
+                  "des sciences et des techniques nucléaires pour la couverture de",
+                  "la responsabilité civile de ce dernier à concurrence du montant",
+                  "de cinq millions de DTS, prévu à l'article 22 de la loi précitée",
+                  "n° 12-02.",
+                  "La reconduction de l'octroi de la garantie de l'Etat prend",
+                  "effet à partir du 1er janvier 2025 jusqu'au 31 décembre 2025."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La ministre de l'économie et des finances et",
+                "paragraphs": [
+                  "la ministre de la transition énergétique et du développement",
+                  "durable sont chargées, chacune en ce qui la concerne, de",
+                  "l'exécution du présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
     },
     {
-      "type": "Décret",
-      "number": "2-24-490",
-      "title": "du 19 hija 1445 (26 juin 2024)",
-      "publication_date_hijri": "19 hija 1445",
-      "publication_date_gregorian": "2024-06-26",
-      "page_start": 592,
-      "description": "Décret n° 2-24-490 du 19 hija 1445 (26 juin 2024) du 19 hija 1445 (26 juin 2024)",
-      "signatories": []
-    },
-    {
-      "type": "Loi",
-      "number": "103-12",
-      "title": "relative aux établissements de crédit",
-      "publication_date_hijri": "10 kaada 1446",
-      "publication_date_gregorian": "2014-12-24",
-      "page_start": 592,
-      "description": "Loi n° 103-12 du 10 kaada 1446 (24 décembre 2014) relative aux établissements de crédit, d'un montant de 12.000,00 dirhams",
-      "signatories": [],
-      "content_details": {
-        "loan_guarantee": {
-          "amount": 12000.0,
-          "currency": "MAD",
-          "beneficiary": "Ministère de l"
-        }
+      "entry_id": "BO-7404-P11-5",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "decision",
+      "title": "du 12 ramadan",
+      "reference": {
+        "type": "decision",
+        "number": "146",
+        "date": "2025-03-13"
+      },
+      "pages": {
+        "start": 11,
+        "end": 11
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE WALI DE BANK AL-MAGHRIB",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 103-12 relative aux établissements de crédit",
+            "reference_to": "Loi n° 103-12"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la demande d'agrément formulée par la société",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu les informations complémentaires communiquées",
+            "reference_to": null
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du Comité des établissements de crédit du"
+          }
+        ],
+        "enacting_clause": "DÉCIDE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est octroyé un agrément à la société",
+                "paragraphs": [
+                  "« Attijari Payment Processing », sise au 2, boulevard Moulay",
+                  "Youssef, Casablanca, en qualité d'établissement de paiement",
+                  "pour exécuter les opérations de paiement par tout moyen de",
+                  "communication à distance, en tant qu'intermédiaire entre le",
+                  "payeur et le fournisseur de biens et services conformément",
+                  "au toisième paragraphe du 1) de l'article 16 de la loi susvisée",
+                  "n° 103-12."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La présente décision est publiée au Bulletin",
+                "paragraphs": [
+                  "officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
       }
     }
   ]

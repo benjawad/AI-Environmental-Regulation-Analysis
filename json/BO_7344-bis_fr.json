@@ -1,0 +1,326 @@
+{
+  "bulletin_number": "7344",
+  "publication_date": {
+    "gregorian": "2024-10-19",
+    "hijri": "15 rabii II 1446"
+  },
+  "source_file": "BO_7344-bis_fr.pdf",
+  "content": [
+    {
+      "entry_id": "BO-7344-P2-1",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 14 rabii II 1446 (18 octobre 2024)",
+      "reference": {
+        "type": "decret",
+        "number": "2-24-960",
+        "date": "2024-10-18"
+      },
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'article 4 paragraphe I de la loi de finances n° 25-00",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le code des douanes et des impôts indirects relevant de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi de finances n° 55-23 pour l'année budgétaire",
+            "reference_to": null
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Par dérogation aux dispositions",
+                "paragraphs": [
+                  "du paragraphe I de l'article 4 de la loi de finances n° 25-00",
+                  "pour la période du 1er juillet au 31 décembre 2000 susvisé,",
+                  "la perception du droit d'importation applicable à l'huile",
+                  "d'olive de qualité vierge et extra vierge relevant des positions",
+                  "tarifaires nos 1509.20.00.00 et 1509.30.00.00 du tarif du droit",
+                  "d'importation, est suspendue jusqu'au 31 décembre 2024."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La suspension de la perception du droit",
+                "paragraphs": [
+                  "d'importation, prévue à l'article premier ci-dessus, est",
+                  "appliquée dans la limite d'un contingent de dix mille (10.000)",
+                  "tonnes."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le ministre délégué auprès de la ministre de",
+                "paragraphs": [
+                  "l'économie et des finances, chargé du budget est chargé de",
+                  "l'exécution du présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7344-P2-2",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 14 rabii II 1446 (18 octobre 2024)",
+      "reference": {
+        "type": "decret",
+        "number": "2-24-961",
+        "date": "2024-10-18"
+      },
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-064 du 13 rejeb 1445 (25 janvier 2024)",
+            "reference_to": "Decret n° 2-24-064"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les dispositions de l'article 2 du",
+                "paragraphs": [
+                  "décret n° 2-24-064 du 13 rejeb 1445 (25 janvier 2024) susvisé,",
+                  "sont modifiées comme suit :",
+                  "« Article 2. - La suspension ……………… dans la limite",
+                  "« d'un contingent de cent vingt mille (120.000) têtes de bovins",
+                  "« domestiques. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le ministre délégué auprès de la ministre de",
+                "paragraphs": [
+                  "l'économie et des finances, chargé du budget est chargé de",
+                  "l'exécution du présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7344-P3-3",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 14 rabii II 1446 (18 octobre 2024)",
+      "reference": {
+        "type": "decret",
+        "number": "2-24-962",
+        "date": "2024-10-18"
+      },
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'article 4 paragraphe I de la loi de finances n° 25-00",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le code des douanes et des impôts indirects relevant",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi de finances n° 55-23 pour l'année budgétaire",
+            "reference_to": null
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Par dérogation aux dispositions du",
+                "paragraphs": [
+                  "paragraphe I de l'article 4 de la loi de finances n° 25-00 pour la",
+                  "période du 1er juillet au 31 décembre 2000 susvisé, la perception",
+                  "du droit d'importation applicable aux ovins domestiques",
+                  "relevant de la position tarifaire n° 0104.10.90.10 du tarif des",
+                  "droits d'importation, est suspendue jusqu'au 31 décembre 2024."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La suspension de la perception du droit",
+                "paragraphs": [
+                  "d'importation, prévue à l'article premier ci-dessus, est",
+                  "appliquée dans la limite d'un contingent de cent mille (100.000)",
+                  "têtes d'ovins domestiques."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le ministre délégué auprès de la ministre de",
+                "paragraphs": [
+                  "l'économie et des finances, chargé du budget, est chargé de",
+                  "l'exécution du présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7344-P3-4",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 14 rabii II 1446 (18 octobre 2024)",
+      "reference": {
+        "type": "decret",
+        "number": "2-24-963",
+        "date": "2024-10-18"
+      },
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'article 4 paragraphe I de la loi de finances n° 25-00",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le code des douanes et des impôts indirects relevant",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi de finances n° 55-23 pour l'année budgétaire",
+            "reference_to": null
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Par dérogation aux dispositions",
+                "paragraphs": [
+                  "du paragraphe I de l'article 4 de la loi de finances n° 25-00",
+                  "pour la période du 1er juillet au 31 décembre 2000 susvisé,",
+                  "la perception du droit d'importation applicable aux viandes",
+                  "des animaux de l'espèce bovine, ovine, caprine et caméline",
+                  "relevant des positions tarifaires 02.01, 02.02, 02.04, Ex 02.06",
+                  "et 0208.60, est suspendue jusqu'au 31 décembre 2024."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La suspension de la perception du droit",
+                "paragraphs": [
+                  "d'importation, prévue à l'article premier ci-dessus, est",
+                  "appliquée dans la limite d'un contingent de vingt mille (20.000)",
+                  "tonnes."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le ministre délégué auprès de la ministre de",
+                "paragraphs": [
+                  "l'économie et des finances, chargé du budget, est chargé de",
+                  "l'exécution du présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    }
+  ]
+}

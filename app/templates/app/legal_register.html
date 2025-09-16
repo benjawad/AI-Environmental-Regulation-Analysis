@@ -1,0 +1,1141 @@
+<!DOCTYPE html>
+<html lang="fr" data-theme="light">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>JESA – Registre Juridique</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --jesa-blue: #0056b3;
+      --jesa-orange: #ff6b35;
+
+      --bg: #f7f8fa;
+      --surface: #ffffff;
+      --border: #e4e7eb;
+      --text-primary: #1e293b;
+      --text-secondary: #475569;
+      --text-muted: #64748b;
+
+      --primary: var(--jesa-blue);
+      --primary-light: #e6f0ff;
+      --accent: var(--jesa-orange);
+      --accent-light: #fff0e9;
+
+      --success: #10b981;
+      --success-light: #e7f8f3;
+      --warning: #f59e0b;
+      --warning-light: #fff8e1;
+
+      --shadow-sm: 0 1px 2px rgb(0 0 0 / 0.04);
+      --shadow-md: 0 4px 8px -2px rgb(20 20 43 / 0.07), 0 2px 4px -2px rgb(20 20 43 / 0.04);
+      --shadow-lg: 0 12px 16px -4px rgb(20 20 43 / 0.08), 0 4px 6px -2px rgb(20 20 43 / 0.04);
+    }
+    [data-theme="dark"] {
+      --bg: #111827;
+      --surface: #1f2937;
+      --border: #374151;
+      --text-primary: #f3f4f6;
+      --text-secondary: #d1d5db;
+      --text-muted: #9ca3af;
+
+      --primary: #4d9eff;
+      --primary-light: rgba(77, 158, 255, 0.1);
+      --accent: #ff8c66;
+      --accent-light: rgba(255, 140, 102, 0.1);
+
+      --success: #34d399;
+      --success-light: rgba(52, 211, 153, 0.1);
+      --warning: #fbbf24;
+      --warning-light: rgba(251, 191, 36, 0.1);
+    }
+
+    * { margin:0; padding:0; box-sizing:border-box; }
+    body {
+      font-family: 'Inter', system-ui, -apple-system, sans-serif;
+      background: var(--bg);
+      color: var(--text-primary);
+      line-height: 1.6;
+      min-height: 100vh;
+      display: flex; flex-direction: column;
+    }
+
+    /* Header */
+    .header { background: var(--surface); border-bottom: 1px solid var(--border); position: sticky; top: 0; z-index: 100; }
+    .header-content { max-width: 1600px; margin: 0 auto; padding: 0 2rem; height: 64px; display: flex; align-items: center; justify-content: space-between; }
+    .header-left, .header-right { display: flex; align-items: center; gap: 1rem; }
+    .logo { height: 32px; object-fit: contain; }
+    .app-title { font-weight: 600; font-size: 1.1rem; color: var(--text-primary); }
+    .nav-link {
+      padding: 0.5rem 1rem; border-radius: 0.5rem; color: var(--text-secondary);
+      text-decoration: none; font-weight: 500; font-size: 0.9rem; display: flex; align-items: center; gap: 0.5rem;
+      transition: all .2s ease;
+    }
+    .nav-link:hover { background: var(--bg); color: var(--text-primary); }
+    .nav-link.active { color: var(--primary); background: var(--primary-light); }
+    .icon-btn {
+      width: 38px; height: 38px; border-radius: 0.5rem; border: none; background: transparent; color: var(--text-muted);
+      display: grid; place-items: center; cursor: pointer; transition: all .2s ease;
+    }
+    .icon-btn:hover { background: var(--bg); color: var(--text-primary); }
+
+    /* Main layout */
+    .main { flex:1; max-width:1600px; margin:0 auto; padding:2rem; width:100%; }
+    .page-header { margin-bottom: 1.5rem; }
+    .page-title { font-size: 1.875rem; font-weight: 700; letter-spacing: -0.02em; }
+    .page-sub { color: var(--text-secondary); font-size: 1.05rem; margin-top: .25rem; }
+
+    /* Workflow */
+    .workflow { display:flex; justify-content:space-between; align-items:center; position:relative; padding: 1.25rem 0; margin-bottom: 1.5rem; }
+    .workflow::before { content:''; position:absolute; top: 1.4rem; left: 10%; right: 10%; height: 2px; background: var(--border); }
+    .step { display:flex; flex-direction:column; align-items:center; gap:.5rem; z-index:1; text-align:center; }
+    .step-icon { width: 36px; height:36px; border-radius: 50%; background: var(--surface); border:2px solid var(--border); display:grid; place-items:center; color: var(--text-muted); transition: .2s; }
+    .step.active .step-icon { border-color: var(--primary); color: var(--primary); box-shadow: 0 0 0 4px var(--primary-light); }
+    .step.completed .step-icon { background: var(--success); border-color: var(--success); color: #fff; }
+    .step-label { font-size: .9rem; color: var(--text-secondary); font-weight: 600; }
+
+    /* Grid & Cards */
+    .grid { display:grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
+    @media (max-width: 1024px) { .grid { grid-template-columns: 1fr; } }
+
+    .card { background: var(--surface); border:1px solid var(--border); border-radius: .75rem; box-shadow: var(--shadow-sm); }
+    .card-header { padding: 1rem 1.5rem; border-bottom:1px solid var(--border); display:flex; align-items:center; justify-content:space-between; }
+    .card-title { font-size: 1.125rem; font-weight: 600; display:flex; align-items:center; gap:.6rem; }
+    .card-title i { color: var(--primary); }
+    .card-badge { padding:.25rem .65rem; border-radius: 999px; background: var(--primary-light); color: var(--primary); font-weight:700; font-size:.75rem; }
+    .card-body { padding:1.5rem; }
+
+    /* Forms */
+    .form-row { display:grid; grid-template-columns: 1fr 1fr; gap: 1rem; }
+    @media (max-width:640px) { .form-row { grid-template-columns: 1fr; } }
+    .label { display:block; margin-bottom:.35rem; font-weight:600; color:var(--text-primary); font-size:.9rem; }
+    .input, .select, .textarea {
+      width:100%; padding:.7rem .9rem; border:1px solid var(--border); background:var(--bg);
+      border-radius:.5rem; color:var(--text-primary); font-size:.95rem; transition:.2s;
+    }
+    .input:focus, .select:focus, .textarea:focus { outline:none; border-color:var(--primary); box-shadow:0 0 0 3px var(--primary-light); }
+    .textarea { min-height: 120px; resize: vertical; }
+
+    /* Buttons */
+    .btn-group { display:flex; gap:.75rem; flex-wrap: wrap; }
+    .btn { display:inline-flex; align-items:center; gap:.5rem; padding:.7rem 1.2rem; border-radius:.5rem; font-weight:700; font-size:.9rem; border:none; cursor:pointer; transition:.2s; }
+    .btn:disabled { opacity:.6; cursor:not-allowed; }
+    .btn-primary { background: var(--primary); color:#fff; }
+    .btn-primary:hover:not(:disabled) { background:#004494; transform: translateY(-1px); box-shadow: var(--shadow-md); }
+    .btn-secondary { background: var(--surface); color: var(--text-secondary); border:1px solid var(--border); }
+    .btn-secondary:hover { background: var(--bg); border-color: var(--border); }
+    .btn-success { background: var(--success); color:#fff; }
+    .btn-success:hover { background:#0f9b6c; transform: translateY(-1px); box-shadow: var(--shadow-md); }
+
+    /* Progress */
+    .progress-wrapper { margin: 1rem 0 0; display:none; }
+    .progress-label { display:flex; justify-content:space-between; color: var(--text-secondary); font-size:.85rem; margin-bottom:.4rem; }
+    .progress-bar { height:8px; background: var(--border); border-radius:999px; overflow:hidden; }
+    .progress-fill { height:100%; width:0%; background: var(--primary); border-radius:999px; transition: width .35s ease; }
+
+    /* KPIs / Stats */
+    .stats { display:grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 1rem; margin-top: 1rem; }
+    .stat { padding: 1rem; background: var(--bg); border:1px solid var(--border); border-radius:.5rem; text-align:center; }
+    .stat-value { font-size: 1.4rem; font-weight: 700; color: var(--primary); }
+    .stat-label { font-size:.85rem; color: var(--text-muted); }
+
+    /* Alerts */
+    .alert { padding: 1rem; border:1px solid transparent; border-radius:.5rem; display:flex; gap:.6rem; align-items:flex-start; margin-top: 1rem; }
+    .alert.info { background: var(--primary-light); border-color: rgba(0,86,179,.2); color: var(--primary); }
+    .alert.success { background: var(--success-light); border-color: rgba(16,185,129,.2); color: var(--success); }
+
+    /* Table preview */
+    .table-wrap { border:1px solid var(--border); border-radius:.5rem; overflow:auto; background: var(--surface); margin-top: 1rem; max-height: 420px; }
+    table { width:100%; border-collapse:collapse; }
+    th, td { padding:.7rem .9rem; border-bottom:1px solid var(--border); text-align:left; font-size:.95rem; }
+    thead th { position: sticky; top:0; background: var(--surface); z-index: 1; color: var(--text-secondary); font-weight: 600; }
+    tbody tr:hover { background: var(--bg); }
+
+    /* Activity log */
+    .log { max-height: 220px; overflow: auto; background: var(--bg); border: 1px dashed var(--border); border-radius: .5rem; padding: .6rem; }
+    .log ul { margin: 0; padding: 0; }
+    .log li { list-style: none; font-size: .9rem; padding: .35rem 0; border-bottom: 1px dashed var(--border); color: var(--text-muted); }
+    .log li:last-child { border-bottom: none; }
+    .log .t { color: var(--text-primary); font-weight: 600; margin-right: 6px; font-variant-numeric: tabular-nums; }
+
+    /* Toast */
+    .toast {
+      position: fixed; bottom: 2rem; right: 2rem; padding: 1rem 1.25rem; background: var(--surface);
+      border:1px solid var(--border); border-radius:.5rem; box-shadow: var(--shadow-lg);
+      display:flex; gap:.75rem; align-items:center; min-width:320px; transform: translateX(calc(100% + 2rem));
+      transition: transform .35s ease; z-index:1000;
+    }
+    .toast.show { transform: translateX(0); }
+
+    /* Footer */
+    footer { margin-top:auto; padding: 2rem; text-align:center; color: var(--text-muted); border-top:1px solid var(--border); font-size:.9rem; }
+  </style>
+</head>
+<body>
+  <!-- Header -->
+  <header class="header">
+    <div class="header-content">
+      <div class="header-left">
+        <a href="{% url 'home' %}" style="text-decoration:none; display:flex; align-items:center; gap:.75rem;">
+          <img src="https://afrimag.net/wp-content/uploads/2022/03/JESA-Logo-2048x480.png" alt="JESA Logo" class="logo">
+          <span class="app-title">Portail EIE</span>
+        </a>
+      </div>
+      <nav class="header-right">
+        <a class="nav-link" href="{% url 'home' %}"><i class="fas fa-home"></i> Accueil</a>
+        <a class="nav-link active" href="{% url 'legal_register' %}"><i class="fas fa-gavel"></i> Registre Juridique</a>
+        <a class="nav-link" href="{% url 'commitment' %}"><i class="fas fa-clipboard-check"></i> Engagements</a>
+        <button class="icon-btn" id="theme-toggle" aria-label="Basculer le thème"><i class="fas fa-moon"></i></button>
+      </nav>
+    </div>
+  </header>
+
+  <main class="main">
+    <div class="page-header">
+      <h1 class="page-title">Registre Juridique</h1>
+      <p class="page-sub">Collecter, indexer et analyser les textes pour générer un registre exportable.</p>
+    </div>
+
+    <!-- Workflow -->
+    <div class="workflow">
+      <div class="step" id="wf-1">
+        <div class="step-icon"><i class="fas fa-spider"></i></div>
+        <div class="step-label">Collecte</div>
+      </div>
+      <div class="step" id="wf-2">
+        <div class="step-icon"><i class="fas fa-file-pdf"></i></div>
+        <div class="step-label">Traitement</div>
+      </div>
+      <div class="step" id="wf-3">
+        <div class="step-icon"><i class="fas fa-brain"></i></div>
+        <div class="step-label">Analyse</div>
+      </div>
+      <div class="step" id="wf-4">
+        <div class="step-icon"><i class="fas fa-file-export"></i></div>
+        <div class="step-label">Résultats</div>
+      </div>
+    </div>
+
+    <div class="grid">
+      <!-- Left Column -->
+      <div>
+        <!-- Scraping -->
+        <div class="card">
+          <div class="card-header">
+            <h2 class="card-title"><i class="fas fa-spider"></i> Web Scraping — Collecte de PDFs</h2>
+            <span class="card-badge">Étape 1</span>
+          </div>
+          <div class="card-body">
+            <div class="form-row">
+              <div>
+                <label class="label" for="source_select">Choisir un site</label>
+                <select id="source_select" class="select">
+                  <option value="">-- Sélectionner --</option>
+                </select>
+              </div>
+              <div>
+                <label class="label" for="max_pages">Pages max</label>
+                <input id="max_pages" class="input" type="number" min="1" value="10" />
+              </div>
+            </div>
+
+            <div class="form-row" style="margin-top:.75rem;">
+              <div>
+                <label class="label" for="download">Télécharger les PDFs</label>
+                <select id="download" class="select">
+                  <option value="true" selected>Oui</option>
+                  <option value="false">Non (lister seulement)</option>
+                </select>
+              </div>
+              <div>
+                <label class="label" for="headless">Mode headless</label>
+                <select id="headless" class="select">
+                  <option value="true" selected>Oui</option>
+                  <option value="false">Non</option>
+                </select>
+              </div>
+            </div>
+
+            <div class="form-row" style="margin-top:.75rem;">
+              <div>
+                <label class="label" for="base_url">URL personnalisée (optionnel)</label>
+                <input id="base_url" class="input" type="url" placeholder="https://..." />
+              </div>
+              <div>
+                <span class="label">Astuce</span>
+                <div class="page-sub" style="font-size:.9rem;">Si une URL personnalisée est fournie, elle remplace le site sélectionné.</div>
+              </div>
+            </div>
+
+            <div class="btn-group" style="margin-top: .9rem;">
+              <button id="btn-scrape" class="btn btn-primary"><i class="fas fa-play"></i> Lancer</button>
+              <button id="btn-status" class="btn btn-secondary"><i class="fas fa-info-circle"></i> Statut</button>
+            </div>
+
+            <div class="progress-wrapper" id="scrape-progress" style="display:block;">
+              <div class="progress-label"><span id="scrape-status">Inactif</span><span id="scrape-percent"></span></div>
+              <div class="progress-bar"><div class="progress-fill" id="pb-scrape"></div></div>
+            </div>
+
+            <div id="scrape-results" style="display:block;">
+              <div class="stats">
+                <div class="stat"><div class="stat-value" id="kpi-found">0</div><div class="stat-label">PDFs trouvés</div></div>
+                <div class="stat"><div class="stat-value" id="kpi-down">0</div><div class="stat-label">PDFs téléchargés</div></div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Processing -->
+        <div class="card">
+          <div class="card-header">
+            <h2 class="card-title"><i class="fas fa-file-pdf"></i> Traitement des PDFs</h2>
+            <span class="card-badge">Étape 2</span>
+          </div>
+          <div class="card-body">
+            <p class="page-sub" style="margin-bottom:1rem;">Extraction du contenu et création de la base de connaissances.</p>
+            <div class="btn-group">
+              <button id="btn-process" class="btn btn-primary"><i class="fas fa-microchip"></i> Traiter</button>
+              <button id="btn-kb" class="btn btn-secondary" disabled><i class="fas fa-download"></i> Télécharger KB (JSON)</button>
+            </div>
+
+            <div class="progress-wrapper" id="process-progress">
+              <div class="progress-label"><span id="proc-status">Inactif</span><span id="process-percent"></span></div>
+              <div class="progress-bar"><div class="progress-fill" id="pb-process"></div></div>
+            </div>
+
+            <div id="process-results" style="display:none;">
+              <div class="alert success"><i class="fas fa-check-circle"></i> Base de connaissances générée</div>
+              <div class="stats">
+                <div class="stat"><div class="stat-value" id="kpi-proc">0</div><div class="stat-label">Documents traités</div></div>
+                <div class="stat"><div class="stat-value" id="kpi-kb">0 KB</div><div class="stat-label">Taille de la base</div></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Right Column -->
+      <div>
+        <!-- Existing Registers (DB / Upload) -->
+       <!-- Registres existants (DB / Upload) -->
+<div class="card">
+  <div class="card-header" style="border-bottom:none; padding-bottom:.75rem;">
+    <div style="display:flex;align-items:center;gap:.75rem;">
+      <div style="width:36px;height:36px;border-radius:50%;display:grid;place-items:center;background:var(--primary-light);color:var(--primary);">
+        <i class="fas fa-database"></i>
+      </div>
+      <div>
+        <h2 class="card-title" style="margin:0;">Registres existants (DB / Upload)</h2>
+        <div style="color:var(--text-secondary);font-size:.9rem;margin-top:.15rem;">
+          Chargez d’anciens registres (PDF) ou consultez ceux déjà parsés en base.
+        </div>
+      </div>
+    </div>
+    <span class="card-badge">Optionnel</span>
+  </div>
+
+  <div class="card-body" style="padding-top:.5rem;">
+    <!-- From DB -->
+    <div style="margin-bottom:1rem;">
+      <div style="display:flex;align-items:center;justify-content:space-between;gap:.75rem;margin-bottom:.5rem;">
+        <label class="label" style="margin:0;">Depuis la base (déjà parsés)</label>
+        <button id="oldreg-refresh-db" class="btn btn-secondary" type="button">
+          <i class="fas fa-rotate"></i> Rafraîchir
+        </button>
+      </div>
+      <div class="table-wrap" style="max-height:220px;">
+        <table>
+          <thead>
+            <tr>
+              <th style="width:40%;">Fichier</th>
+              <th style="width:20%;">Type</th>
+              <th style="width:10%;">Pages</th>
+              <th style="width:15%;">Confiance</th>
+              <th style="width:15%;">Ajouté</th>
+            </tr>
+          </thead>
+          <tbody id="oldreg-db-tbody"></tbody>
+        </table>
+      </div>
+      <div class="muted" id="oldreg-db-status" style="margin-top:.5rem;">Liste chargée.</div>
+    </div>
+
+    <hr style="border:none;border-top:1px solid var(--border);margin:1rem 0;" />
+
+    <!-- Upload multiple -->
+    <div>
+      <label class="label" for="oldreg-files">Téléverser des registres (PDF) — multiple</label>
+      <input id="oldreg-files" class="input" type="file" accept=".pdf" multiple />
+      <div class="btn-group" style="margin-top:.75rem;">
+        <button id="oldreg-upload-btn" class="btn btn-primary" type="button">
+          <i class="fas fa-upload"></i> Uploader
+        </button>
+        <button id="oldreg-parse-btn" class="btn btn-success" type="button" disabled>
+          <i class="fas fa-microchip"></i> Lancer le parsing
+        </button>
+      </div>
+
+      <!-- Progress: upload -->
+      <div class="progress-wrapper" id="oldreg-upload-progress" style="display:none; margin-top:.9rem;">
+        <div class="progress-label">
+          <span id="oldreg-upload-status">Upload…</span>
+          <span id="oldreg-upload-percent">0%</span>
+        </div>
+        <div class="progress-bar"><div class="progress-fill" id="oldreg-upload-fill"></div></div>
+      </div>
+
+      <!-- Progress: parsing -->
+      <div class="progress-wrapper" id="oldreg-parse-progress" style="display:none; margin-top:.75rem;">
+        <div class="progress-label">
+          <span id="oldreg-parse-status">Parsing…</span>
+          <span id="oldreg-parse-percent">0%</span>
+        </div>
+        <div class="progress-bar"><div class="progress-fill" id="oldreg-parse-fill"></div></div>
+      </div>
+
+      <!-- Result alert -->
+      <div id="oldreg-done" class="alert success" style="display:none; margin-top:.9rem;">
+        <i class="fas fa-check-circle"></i>
+        <div>
+          <div style="font-weight:700;">Parsing terminé ✅</div>
+          <div class="muted" id="oldreg-done-sub">Vos registres ont été parsés et ajoutés à la base.</div>
+        </div>
+      </div>
+
+      <!-- Small stats -->
+      <div class="stats" style="margin-top:.9rem;">
+        <div class="stat">
+          <div class="stat-value" id="oldreg-up-count">0</div>
+          <div class="stat-label">Registres téléversés</div>
+        </div>
+        <div class="stat">
+          <div class="stat-value" id="oldreg-json-count">0</div>
+          <div class="stat-label">JSONs générés</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+        <!-- Analysis -->
+        <div class="card">
+          <div class="card-header">
+            <h2 class="card-title"><i class="fas fa-brain"></i> Analyse (IA)</h2>
+            <span class="card-badge">Étape 3</span>
+          </div>
+          <div class="card-body">
+            <label class="label" for="desc">Contexte du projet</label>
+            <textarea id="desc" class="textarea" placeholder="Décrivez le projet : secteur, localisation, activités, principaux impacts, etc."></textarea>
+            <div class="btn-group" style="margin-top:.75rem;">
+              <button id="btn-analyze" class="btn btn-success"><i class="fas fa-microscope"></i> Indexer & Analyser</button>
+              <button id="btn-clear" class="btn btn-secondary"><i class="fas fa-eraser"></i> Effacer</button>
+            </div>
+
+            <div class="progress-wrapper" id="analysis-progress">
+              <div class="progress-label"><span id="an-status">Inactif</span><span id="analysis-percent"></span></div>
+              <div class="progress-bar"><div class="progress-fill" id="pb-analyze"></div></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Activity Log -->
+        <div class="card">
+          <div class="card-header">
+            <h2 class="card-title"><i class="fas fa-clipboard-list"></i> Journal d'activité</h2>
+            <span class="card-badge">Live</span>
+          </div>
+          <div class="card-body">
+            <div id="log" class="log" aria-live="polite" aria-atomic="false"><ul id="loglist"></ul></div>
+          </div>
+        </div>
+
+        <!-- Results -->
+        <div class="card">
+          <div class="card-header">
+            <h2 class="card-title"><i class="fas fa-file-export"></i> Résultats & Export</h2>
+            <span class="card-badge">Étape 4</span>
+          </div>
+          <div class="card-body">
+            <div id="nores" class="alert info"><i class="fas fa-info-circle"></i> Aucune analyse effectuée. Lancez l’analyse.</div>
+
+            <div id="hasres" class="hidden">
+              <div class="alert success"><i class="fas fa-check-circle"></i> Analyse terminée — Résultats disponibles</div>
+              <div class="btn-group" style="margin-bottom:.75rem;">
+                <button id="btn-edit" class="btn btn-secondary"><i class="fas fa-pen"></i> Éditer le tableau</button>
+                <button id="btn-save" class="btn btn-secondary"><i class="fas fa-save"></i> Enregistrer</button>
+                <button id="btn-save-pdf" class="btn btn-success" disabled><i class="fas fa-file-export"></i> Enregistrer & PDF</button>
+                <button id="btn-pdf" class="btn btn-primary" disabled><i class="fas fa-file-pdf"></i> Registre PDF</button>
+                <button id="btn-json" class="btn btn-secondary"><i class="fas fa-file-code"></i> Télécharger JSON</button>
+                <button id="btn-toggle" class="btn btn-secondary"><i class="fas fa-eye"></i> Afficher/Masquer</button>
+              </div>
+
+              <div class="table-wrap hidden" id="preview">
+                <table>
+                  <thead id="thead"></thead>
+                  <tbody id="tbody"></tbody>
+                </table>
+              </div>
+            </div>
+
+          </div>
+        </div>
+      </div>
+      <!-- /Right Column -->
+    </div>
+
+    <p class="page-sub" style="margin-top: 1rem;">
+      Astuce : Les étapes longues (scraping, traitement, analyse) peuvent durer. Le journal d’activité garde la trace.
+    </p>
+  </main>
+
+  <footer>© 2025 JESA — Développé par Benali Jawad & Nouar Amine</footer>
+
+  <div id="toast" class="toast"></div>
+
+  <script>
+    /* ====================== Utilities / Globals ====================== */
+    const headers = ['Phase','Activity/Aspect','Impacts','Jurisdiction','Type','Legal Requirement','Date','Description','Task','Responsibility','Comments'];
+    let currentStructured = [];
+    let editMode = false;
+
+    // New globals for old register sources
+    let selectedDbJsonFiles = [];   // filenames returned by /bo_parse/list_db_docs/ (json_file basenames)
+    let inlineParsedDocs = [];      // array of { rows: [...] } from /old_registers/upload/
+
+    function getCookie(name){
+      let cookieValue = null;
+      if(document.cookie && document.cookie !== ''){
+        const cookies = document.cookie.split(';');
+        for(let i=0;i<cookies.length;i++){
+          const cookie = cookies[i].trim();
+          if(cookie.substring(0, name.length + 1) === (name + '=')){
+            cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+            break;
+          }
+        }
+      }
+      return cookieValue;
+    }
+
+    const setStep = (n, status) => {
+      const ids = ['wf-1','wf-2','wf-3','wf-4'];
+      ids.forEach((id, idx) => {
+        const el = document.getElementById(id);
+        if(!el) return;
+        el.classList.remove('active','completed');
+        if(idx + 1 < n) el.classList.add('completed');
+        if(idx + 1 === n) el.classList.add(status === 'done' ? 'completed' : 'active');
+      });
+    };
+
+    const setPB = (id, pct) => {
+      const el = document.getElementById(id);
+      if (!el) return;
+      el.style.width = Math.max(0, Math.min(100, pct)) + '%';
+      el.setAttribute('aria-valuenow', String(pct));
+    };
+
+    const toast = (msg, ms = 2500) => {
+      const t = document.getElementById('toast');
+      t.textContent = msg;
+      t.classList.add('show');
+      setTimeout(()=>t.classList.remove('show'), ms);
+      log(msg);
+    };
+
+    function log(msg){
+      try {
+        const list = document.getElementById('loglist');
+        const li = document.createElement('li');
+        const now = new Date();
+        const hh = String(now.getHours()).padStart(2,'0');
+        const mm = String(now.getMinutes()).padStart(2,'0');
+        const ss = String(now.getSeconds()).padStart(2,'0');
+        const spanT = document.createElement('span');
+        spanT.className = 't'; spanT.textContent = `${hh}:${mm}:${ss}`;
+        li.appendChild(spanT);
+        li.appendChild(document.createTextNode(' ' + msg));
+        list.appendChild(li);
+        const wrap = document.getElementById('log');
+        wrap.scrollTop = wrap.scrollHeight;
+      } catch {}
+    }
+
+    const fetchJSON = async (url, options={}, timeoutMs=600000) => {
+      const ctrl = new AbortController();
+      const to = setTimeout(()=>ctrl.abort(), timeoutMs);
+      try {
+        const resp = await fetch(url, { ...options, signal: ctrl.signal });
+        const txt = await resp.text();
+        let data = null;
+        try { data = txt ? JSON.parse(txt) : null; } catch { data = txt; }
+        if (!resp.ok) throw new Error(`${resp.status}: ${txt?.slice?.(0, 200) || 'error'}`);
+        return data;
+      } finally {
+        clearTimeout(to);
+      }
+    };
+
+    const timers = { 'scrape-status': null, 'proc-status': null, 'an-status': null };
+    const startTimer = (elId) => {
+      const el = document.getElementById(elId);
+      const t0 = Date.now();
+      if (timers[elId]) clearInterval(timers[elId]);
+      timers[elId] = setInterval(()=>{
+        const s = Math.round((Date.now()-t0)/1000);
+        if (el) el.textContent = `En cours… ${s}s écoulées`;
+      }, 1000);
+    };
+    const stopTimer = (elId, finalText) => {
+      if (timers[elId]) { clearInterval(timers[elId]); timers[elId] = null; }
+      const el = document.getElementById(elId);
+      if (el) el.textContent = finalText || 'Terminé';
+    };
+
+    // Theme toggle
+    (function(){
+      const btn = document.getElementById('theme-toggle');
+      if (!btn) return;
+      btn.addEventListener('click', () => {
+        const html = document.documentElement;
+        const next = html.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+        html.setAttribute('data-theme', next);
+      });
+    })();
+
+    // Heartbeat (optional; safe no-op if /status/ not present)
+    async function heartbeat(){
+      try { await fetchJSON('/status/', { method: 'GET' }, 10000); }
+      catch {}
+    }
+    heartbeat(); setInterval(heartbeat, 15000);
+
+    /* ====================== Load sources for scraping ====================== */
+    async function loadSources(){
+      try {
+        const data = await fetchJSON('/bo_scrape/sources/', { method: 'GET' }, 15000);
+        const sel = document.getElementById('source_select');
+        sel.innerHTML = '<option value="">-- Sélectionner --</option>';
+        (data?.sources || []).forEach(s => {
+          const opt = document.createElement('option');
+          opt.value = s.url; opt.textContent = s.name; sel.appendChild(opt);
+        });
+      } catch {
+        // keep default
+      }
+    }
+    loadSources();
+
+    /* ====================== Step 1: Scrape ====================== */
+    document.getElementById('btn-scrape').addEventListener('click', async function () {
+      setStep(1, 'active');
+      const custom = (document.getElementById('base_url').value || '').trim();
+      const selected = (document.getElementById('source_select').value || '').trim();
+      const base_url = custom || selected;
+      const max_pages = parseInt(document.getElementById('max_pages').value || '10', 10);
+      const download = document.getElementById('download').value === 'true';
+      const headless = document.getElementById('headless').value === 'true';
+      if (!base_url) { toast('Sélectionnez un site ou saisissez une URL.'); return; }
+      const statusEl = document.getElementById('scrape-status');
+      statusEl.textContent = 'Démarrage…';
+      startTimer('scrape-status');
+      this.disabled = true; setPB('pb-scrape', 15);
+      try {
+        log(`Démarrage du scraping…`);
+        const data = await fetchJSON('/bo_scrape/start/', {
+          method: 'POST', headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ base_url, max_pages, download, headless, extract_preview: true })
+        }, 600000);
+        setPB('pb-scrape', 100);
+        const found = Array.isArray(data?.links) ? data.links.length : (data?.pdf_links_count ?? 0);
+        const down = data?.downloaded_count ?? data?.pdf_texts_count ?? 0;
+        document.getElementById('kpi-found').textContent = String(found || 0);
+        document.getElementById('kpi-down').textContent = String(down || 0);
+        toast('Scraping terminé.');
+        setStep(1, 'done');
+        stopTimer('scrape-status', 'Terminé');
+      } catch (e) {
+        toast('Échec du scraping: ' + (e?.message || e));
+        stopTimer('scrape-status', 'Échec');
+      } finally {
+        this.disabled = false;
+      }
+    });
+
+    document.getElementById('btn-status').addEventListener('click', async () => {
+      try {
+        const [pdfResp, jsonResp] = await Promise.all([
+          fetchJSON('/bo_parse/list_pdfs/'), fetchJSON('/bo_parse/list_jsons/')
+        ]);
+        const pdfCount = (pdfResp?.files?.length ?? 0);
+        const jsonCount = (jsonResp?.files?.length ?? 0);
+        toast(`Statut: PDFs ${pdfCount} | JSONs ${jsonCount}`);
+      } catch {
+        toast('Échec du statut.');
+      }
+    });
+
+    /* ====================== Step 2: Process PDFs ====================== */
+    document.getElementById('btn-process').addEventListener('click', async function () {
+      setStep(2, 'active'); setPB('pb-process', 20);
+      const statusEl = document.getElementById('proc-status');
+      statusEl.textContent = 'Démarrage…';
+      startTimer('proc-status');
+      this.disabled = true;
+      try {
+        log('Traitement des PDFs…');
+        const data = await fetchJSON('/bo_parse/parse_dir/', { method: 'POST' }, 600000);
+        const count = data?.count ?? 0;
+        document.getElementById('kpi-proc').textContent = String(count);
+        const sizeKB = Math.round((JSON.stringify(data).length / 1024));
+        document.getElementById('kpi-kb').textContent = `${sizeKB} KB`;
+        setPB('pb-process', 100);
+        const kbBtn = document.getElementById('btn-kb');
+        kbBtn.disabled = false;
+        kbBtn.onclick = () => {
+          const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+          const url = URL.createObjectURL(blob);
+          const a = document.createElement('a'); a.href = url; a.download = 'kb.json';
+          document.body.appendChild(a); a.click(); a.remove(); URL.revokeObjectURL(url);
+        };
+        toast('Traitement terminé.');
+        setStep(2, 'done');
+        stopTimer('proc-status', 'Terminé');
+      } catch (e) {
+        toast('Échec du traitement: ' + (e?.message || e));
+        stopTimer('proc-status', 'Échec');
+      } finally {
+        this.disabled = false;
+      }
+    });
+
+    /* ====================== Existing Registers (DB / Upload) ====================== */
+      function _getCookie(name){
+    let v=null; if(!document.cookie) return v;
+    for(const c of document.cookie.split(';')){
+      const cc=c.trim(); if(cc.startsWith(name+'=')){ v=decodeURIComponent(cc.split('=')[1]); break; }
+    }
+    return v;
+  }
+  async function _fetchJSON(url, options={}, timeoutMs=600000){
+    const ctrl = new AbortController(); const to = setTimeout(()=>ctrl.abort(), timeoutMs);
+    try{
+      const resp = await fetch(url, { ...options, signal: ctrl.signal });
+      const txt = await resp.text(); let data=null; try{ data = txt?JSON.parse(txt):null; }catch{ data = txt; }
+      if(!resp.ok) throw new Error(`${resp.status}: ${txt?.slice?.(0,160) || 'error'}`);
+      return data;
+    } finally { clearTimeout(to); }
+  }
+  function _setProgress(idFill, idPct, pct){
+    const el = document.getElementById(idFill);
+    if (el) el.style.width = Math.max(0, Math.min(100, pct)) + '%';
+    const p = document.getElementById(idPct);
+    if (p) p.textContent = Math.round(Math.max(0, Math.min(100, pct))) + '%';
+  }
+
+  // ---------- Load DB list ----------
+  async function oldregLoadDb(){
+    const tbody = document.getElementById('oldreg-db-tbody');
+    const status = document.getElementById('oldreg-db-status');
+    if (tbody) tbody.innerHTML = '<tr><td colspan="5" class="muted">Chargement…</td></tr>';
+    try{
+      // uses your existing view: list_db_docs
+      const data = await _fetchJSON('/bo_parse/list_db_docs/', { method:'GET' }, 20000);
+      const docs = Array.isArray(data?.docs) ? data.docs : [];
+      if (!docs.length) {
+        if (tbody) tbody.innerHTML = '<tr><td colspan="5" class="muted">Aucun registre en base.</td></tr>';
+        if (status) status.textContent = 'Aucun registre trouvé.';
+        return;
+      }
+      if (tbody) tbody.innerHTML = '';
+      for (const d of docs){
+        const tr = document.createElement('tr');
+        tr.innerHTML = `
+          <td>${d.filename || '—'}</td>
+          <td>${d.doc_type || '—'}</td>
+          <td>${d.pages_count ?? '—'}</td>
+          <td>${(d.avg_confidence ?? 0).toFixed ? (d.avg_confidence*100).toFixed(0)+'%' : '—'}</td>
+          <td>${(d.created_at || '—').toString().slice(0,19).replace('T',' ')}</td>
+        `;
+        tbody.appendChild(tr);
+      }
+      if (status) status.textContent = `Total: ${docs.length}`;
+    }catch(e){
+      if (tbody) tbody.innerHTML = '<tr><td colspan="5" class="muted">Erreur chargement.</td></tr>';
+      if (status) status.textContent = 'Erreur de connexion.';
+    }
+  }
+  document.getElementById('oldreg-refresh-db')?.addEventListener('click', oldregLoadDb);
+  oldregLoadDb();
+
+  // ---------- Upload multiple ----------
+  document.getElementById('oldreg-upload-btn')?.addEventListener('click', async ()=>{
+    const filesInput = document.getElementById('oldreg-files');
+    const files = Array.from(filesInput?.files || []);
+    if (!files.length){ (window.toast||console.log)('Sélectionnez au moins un PDF.'); return; }
+
+    // UI: reset
+    document.getElementById('oldreg-done').style.display = 'none';
+    document.getElementById('oldreg-parse-btn').disabled = true;
+    document.getElementById('oldreg-up-count').textContent = '0';
+    document.getElementById('oldreg-upload-progress').style.display = 'block';
+    _setProgress('oldreg-upload-fill','oldreg-upload-percent', 5);
+    const status = document.getElementById('oldreg-upload-status');
+    if (status) status.textContent = 'Upload…';
+
+    // try multi-endpoint first
+    let uploaded = 0;
+    const csrf = _getCookie('csrftoken');
+    try{
+      const fd = new FormData();
+      for (const f of files) fd.append('files', f, f.name);
+      const resp = await fetch('/oldreg/upload/', {
+        method: 'POST',
+        headers: csrf ? { 'X-CSRFToken': csrf } : {},
+        body: fd
+      });
+      if (!resp.ok) throw new Error('multi-endpoint not available');
+      const data = await resp.json();
+      uploaded = data?.uploaded ?? files.length;
+    }catch(_e){
+      // fallback: single file endpoint, one by one
+      for (let i=0;i<files.length;i++){
+        const fd = new FormData(); fd.append('file', files[i], files[i].name);
+        await fetch('/bo_parse/parse_upload/', {
+          method:'POST',
+          headers: csrf ? { 'X-CSRFToken': csrf } : {},
+          body: fd
+        }).then(r=>{ if(!r.ok) throw new Error('upload failed'); return r.text(); })
+          .catch(()=>{ /* ignore individual fail to continue */ });
+        uploaded = i+1;
+        const pct = 5 + (uploaded/files.length)*80;
+        _setProgress('oldreg-upload-fill','oldreg-upload-percent', pct);
+      }
+    }
+
+    document.getElementById('oldreg-up-count').textContent = String(uploaded);
+    _setProgress('oldreg-upload-fill','oldreg-upload-percent', 100);
+    if (status) status.textContent = 'Upload terminé';
+    // enable parsing step
+    document.getElementById('oldreg-parse-btn').disabled = uploaded === 0;
+  });
+
+  // ---------- Parse uploaded ----------
+  document.getElementById('oldreg-parse-btn')?.addEventListener('click', async ()=>{
+    const pwrap = document.getElementById('oldreg-parse-progress');
+    const pf = document.getElementById('oldreg-parse-fill');
+    const ps = document.getElementById('oldreg-parse-status');
+    const pp = document.getElementById('oldreg-parse-percent');
+    pwrap.style.display = 'block';
+    if (ps) ps.textContent = 'Parsing…';
+    _setProgress('oldreg-parse-fill','oldreg-parse-percent', 10);
+
+    try{
+      // prefer the dedicated oldreg parse dir if present; otherwise parse_dir of BO
+      let data;
+      try{
+        data = await _fetchJSON('/oldreg/parse_dir/', { method:'POST', headers: { 'Content-Type':'application/json','X-CSRFToken': _getCookie('csrftoken')||'' }, body: JSON.stringify({ write_json:true, recursive:true }) }, 600000);
+      }catch{
+        data = await _fetchJSON('/bo_parse/parse_dir/', { method:'POST', headers: { 'Content-Type':'application/json','X-CSRFToken': _getCookie('csrftoken')||'' }, body: JSON.stringify({ write_json:true, recursive:true }) }, 600000);
+      }
+      _setProgress('oldreg-parse-fill','oldreg-parse-percent', 80);
+
+      // count JSONs (either from response, or query list_jsons)
+      let jsonCount = 0;
+      if (typeof data?.count === 'number') jsonCount = data.count;
+      else{
+        try{
+          const lj = await _fetchJSON('/oldreg/list_jsons/', { method:'GET' }, 20000);
+          jsonCount = Array.isArray(lj?.files) ? lj.files.length : 0;
+        }catch{
+          const lj = await _fetchJSON('/bo_parse/list_jsons/', { method:'GET' }, 20000);
+          jsonCount = Array.isArray(lj?.files) ? lj.files.length : 0;
+        }
+      }
+      document.getElementById('oldreg-json-count').textContent = String(jsonCount);
+
+      _setProgress('oldreg-parse-fill','oldreg-parse-percent', 100);
+      if (ps) ps.textContent = 'Terminé';
+      // show green confirmation
+      const done = document.getElementById('oldreg-done');
+      const sub = document.getElementById('oldreg-done-sub');
+      if (sub) sub.textContent = `Parsing terminé — ${jsonCount} JSON(s) généré(s).`;
+      if (done) done.style.display = 'flex';
+
+      // refresh DB table so user sees the newly parsed registers
+      oldregLoadDb();
+    }catch(e){
+      if (ps) ps.textContent = 'Échec';
+      (window.toast||console.error)('Parsing échoué: ' + (e?.message || e));
+    }
+  });
+
+    async function refreshDbDocs() {
+      try {
+        const data = await fetchJSON('/bo_parse/list_db_docs/', { method: 'GET' }, 30000);
+        const sel = document.getElementById('db-docs-select');
+        sel.innerHTML = '';
+        (data?.docs || []).forEach(d => {
+          // store json_file basename to request later
+          const opt = document.createElement('option');
+          opt.value = d.json_file || '';
+          opt.textContent = `${d.filename} ${d.doc_type ? '('+d.doc_type+')' : ''}`;
+          sel.appendChild(opt);
+        });
+      } catch (e) {
+        toast('Impossible de charger les documents DB.');
+      }
+    }
+    document.getElementById('btn-refresh-db').addEventListener('click', async () => {
+      await refreshDbDocs();
+      toast('Liste DB actualisée.');
+    });
+    // initial load
+    refreshDbDocs();
+
+    document.getElementById('db-docs-select').addEventListener('change', () => {
+      const sel = document.getElementById('db-docs-select');
+      selectedDbJsonFiles = Array.from(sel.selectedOptions).map(o => o.value).filter(Boolean);
+      log(`DB sélectionnés: ${selectedDbJsonFiles.join(', ') || '—'}`);
+    });
+
+    document.getElementById('old-reg-upload-btn').addEventListener('click', async () => {
+      const f = document.getElementById('old-reg-file').files[0];
+      if (!f) { toast('Sélectionnez un fichier .pdf ou .json'); return; }
+      const fd = new FormData();
+      fd.append('file', f);
+      try {
+        log('Upload du registre existant…');
+        const resp = await fetch('/old_registers/upload/', {
+          method: 'POST',
+          headers: { 'X-CSRFToken': getCookie('csrftoken') },
+          body: fd
+        });
+        const txt = await resp.text();
+        let data; try { data = JSON.parse(txt); } catch { throw new Error(txt?.slice?.(0,200) || 'Réponse invalide'); }
+        if (!resp.ok || data.error) throw new Error(data.error || `Erreur serveur (${resp.status})`);
+        // Save both the uploaded JSON filename and inline rows (if any)
+        if (data.saved_json_file) {
+          selectedDbJsonFiles.push(data.saved_json_file);
+        }
+        if (data.parsed && Array.isArray(data.parsed.rows)) {
+          inlineParsedDocs.push({ rows: data.parsed.rows });
+        }
+        document.getElementById('old-reg-status').textContent =
+          `Importé: ${f.name} — ${data.rows_count ?? (data.parsed?.rows?.length || 0)} lignes`;
+        toast('Registre importé.');
+      } catch (e) {
+        toast('Échec import: ' + (e?.message || e));
+      }
+    });
+
+    /* ====================== Step 3: Analyze ====================== */
+    document.getElementById('btn-analyze').addEventListener('click', async function () {
+      setStep(3, 'active'); setPB('pb-analyze', 15);
+      const description = (document.getElementById('desc').value || '').trim();
+      if (!description) { toast('Décrivez le projet.'); return; }
+      const statusEl = document.getElementById('an-status');
+      statusEl.textContent = 'Démarrage…';
+      startTimer('an-status');
+      try {
+        log('Analyse en cours (contexte + KB + registres existants)…');
+        const payload = {
+          description,
+          use_gemini: true,
+          // include selected DB JSON files and inline parsed docs (if any)
+          json_files: selectedDbJsonFiles,
+          parsed_list: inlineParsedDocs
+        };
+        const data = await fetchJSON('/llm/analyze/', {
+          method: 'POST', headers: { 'Content-Type': 'application/json', 'X-CSRFToken': getCookie('csrftoken') },
+          body: JSON.stringify(payload)
+        }, 600000);
+        setPB('pb-analyze', 70);
+        let structured = [];
+        if (Array.isArray(data)) structured = data;
+        else if (Array.isArray(data?.structured_data)) structured = data.structured_data;
+        else if (Array.isArray(data?.table_structured)) structured = data.table_structured;
+
+        renderPreview(structured);
+        document.getElementById('nores').classList.add('hidden');
+        document.getElementById('hasres').classList.remove('hidden');
+        document.getElementById('btn-pdf').disabled = false;
+        const btnSavePdf = document.getElementById('btn-save-pdf'); if (btnSavePdf) btnSavePdf.disabled = false;
+        document.getElementById('btn-json').onclick = () => {
+          const toSave = (Array.isArray(currentStructured) && currentStructured.length) ? currentStructured : structured;
+          const blob = new Blob([JSON.stringify(toSave, null, 2)], { type: 'application/json' });
+          const url = URL.createObjectURL(blob);
+          const a = document.createElement('a'); a.href = url; a.download = 'legal_register_structured.json';
+          document.body.appendChild(a); a.click(); a.remove(); URL.revokeObjectURL(url);
+        };
+        setPB('pb-analyze', 100);
+        toast('Analyse terminée.');
+        setStep(3, 'done');
+        stopTimer('an-status', 'Terminé');
+      } catch (e) {
+        toast('Échec de l’analyse: ' + (e?.message || e));
+        stopTimer('an-status', 'Échec');
+      }
+    });
+
+    function renderPreview(structured) {
+      const thead = document.getElementById('thead');
+      const tbody = document.getElementById('tbody');
+      const wrap = document.getElementById('preview');
+      thead.innerHTML = ''; tbody.innerHTML = '';
+      const trh = document.createElement('tr');
+      headers.forEach(h => { const th = document.createElement('th'); th.textContent = h; trh.appendChild(th); });
+      thead.appendChild(trh);
+      if (!Array.isArray(structured) || structured.length === 0) {
+        const tr = document.createElement('tr'); const td = document.createElement('td');
+        td.colSpan = headers.length; td.textContent = 'Aucune donnée.'; tr.appendChild(td); tbody.appendChild(tr);
+        wrap.classList.remove('hidden'); return;
+      }
+      currentStructured = Array.isArray(structured) ? structured : [];
+      structured.forEach((cat, catIdx) => {
+        const title = cat?.category_title || 'Uncategorized';
+        const trCat = document.createElement('tr');
+        const tdCat = document.createElement('td');
+        tdCat.colSpan = headers.length; tdCat.textContent = title;
+        tdCat.style.background = 'var(--accent-light)'; tdCat.style.fontWeight = '700';
+        tdCat.classList.add('cat-cell');
+        trCat.appendChild(tdCat); tbody.appendChild(trCat);
+        (cat?.rows || []).forEach((row, rowIdx) => {
+          const tr = document.createElement('tr');
+          const cells = Array.isArray(row) ? row.slice(0, headers.length) : [];
+          while (cells.length < headers.length) cells.push('');
+          cells.forEach((c, idx) => {
+            const td = document.createElement('td'); td.textContent = c ?? '';
+            if (idx === 0) td.style.fontWeight = '600';
+            tr.appendChild(td);
+          });
+          tbody.appendChild(tr);
+        });
+      });
+      wrap.classList.remove('hidden');
+    }
+
+    // Edit / Save
+    function setEditMode(on) {
+      editMode = !!on;
+      const tbody = document.getElementById('tbody');
+      const rows = Array.from(tbody.querySelectorAll('tr'));
+      rows.forEach(tr => {
+        const isCat = tr.querySelector('.cat-cell') !== null;
+        if (isCat) {
+          const cell = tr.querySelector('.cat-cell');
+          if (cell) cell.contentEditable = editMode ? 'true' : 'false';
+        } else {
+          tr.querySelectorAll('td').forEach(td => {
+            td.contentEditable = editMode ? 'true' : 'false';
+          });
+        }
+      });
+      document.getElementById('btn-edit').innerHTML = editMode ? '<i class="fas fa-lock"></i> Fin édition' : '<i class="fas fa-pen"></i> Éditer le tableau';
+      toast(editMode ? 'Mode édition activé' : 'Mode édition désactivé');
+    }
+
+    function collectStructuredFromTable() {
+      const tbody = document.getElementById('tbody');
+      const rows = Array.from(tbody.querySelectorAll('tr'));
+      const result = [];
+      let current = null;
+      rows.forEach(tr => {
+        const catCell = tr.querySelector('.cat-cell');
+        if (catCell) {
+          current = { category_title: (catCell.textContent || '').trim(), rows: [] };
+          result.push(current);
+        } else {
+          const cells = Array.from(tr.querySelectorAll('td')).map(td => (td.textContent || '').trim());
+          if (current) current.rows.push(cells);
+        }
+      });
+      return result;
+    }
+
+    async function saveStructured(structured) {
+      const payload = Array.isArray(structured) ? structured : currentStructured;
+      const resp = await fetch('/llm/save_structured/', {
+        method: 'POST', headers: { 'Content-Type': 'application/json', 'X-CSRFToken': getCookie('csrftoken') },
+        body: JSON.stringify(payload)
+      });
+      if (!resp.ok) throw new Error(await resp.text());
+      return resp.json();
+    }
+
+    document.getElementById('btn-toggle').addEventListener('click', () => {
+      const wrap = document.getElementById('preview');
+      wrap.classList.toggle('hidden');
+    });
+
+    document.getElementById('btn-edit').addEventListener('click', () => {
+      const wrap = document.getElementById('preview');
+      if (wrap.classList.contains('hidden')) {
+        wrap.classList.remove('hidden');
+      }
+      setEditMode(!editMode);
+    });
+
+    document.getElementById('btn-save').addEventListener('click', async () => {
+      try {
+        const structured = collectStructuredFromTable();
+        await saveStructured(structured);
+        currentStructured = structured;
+        toast('Corrections enregistrées.');
+      } catch (e) {
+        toast('Échec de l’enregistrement: ' + (e?.message || e));
+      }
+    });
+
+    // Step 4: Generate PDF
+    document.getElementById('btn-save-pdf').addEventListener('click', async () => {
+      try {
+        const structured = collectStructuredFromTable();
+        await saveStructured(structured);
+        currentStructured = structured;
+        const resp = await fetch('/llm/download_pdf/', { method: 'GET' });
+        if (!resp.ok) throw new Error('Erreur serveur ' + resp.status);
+        const blob = await resp.blob();
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a'); a.href = url; a.download = 'legal_register.pdf';
+        document.body.appendChild(a); a.click(); a.remove(); URL.revokeObjectURL(url);
+        toast('Enregistré et PDF téléchargé.');
+      } catch (e) {
+        toast('Échec Save/PDF: ' + (e?.message || e));
+      }
+    });
+
+    document.getElementById('btn-pdf').addEventListener('click', async function () {
+      setStep(4, 'active');
+      if (editMode) {
+        const structured = collectStructuredFromTable();
+        await saveStructured(structured);
+        currentStructured = structured;
+        toast('Modifications enregistrées. Génération du PDF…');
+      }
+      try {
+        const resp = await fetch('/llm/download_pdf/', { method: 'GET' });
+        if (!resp.ok) throw new Error('Erreur serveur ' + resp.status);
+        const blob = await resp.blob();
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a'); a.href = url; a.download = 'legal_register.pdf';
+        document.body.appendChild(a); a.click(); a.remove(); URL.revokeObjectURL(url);
+        toast('PDF téléchargé.');
+        setStep(4, 'done');
+      } catch (e) {
+        toast('Échec PDF: ' + (e?.message || e));
+      }
+    });
+
+    // Clear
+    document.getElementById('btn-clear').addEventListener('click', () => {
+      document.getElementById('desc').value = '';
+      toast('Description effacée.');
+    });
+  </script>
+</body>
+</html>

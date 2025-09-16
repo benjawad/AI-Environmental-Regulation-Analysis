@@ -1,354 +1,840 @@
 {
-  "bulletin_metadata": {
-    "issue_number": "7400",
-    "publication_year_description": "Cent-quatorzième année",
-    "date_hijri": "3 kaada 1446",
-    "date_gregorian": "2025-05-01",
-    "issn": "0851-1217"
+  "bulletin_number": "7400",
+  "publication_date": {
+    "gregorian": "2025-05-01",
+    "hijri": "3 kaada 1446"
   },
-  "table_of_contents": [],
-  "legal_texts": [
+  "source_file": "BO_7400_Fr.pdf",
+  "content": [
     {
-      "type": "Loi",
-      "number": "82-21",
-      "title": "relative à l'autoproduction de l'énergie électrique",
-      "publication_date_hijri": "14 rabii I 1383",
-      "publication_date_gregorian": "1963-08-05",
-      "page_start": 550,
-      "description": "Loi n° 82-21 du 14 rabii I 1383 (5 août 1963) relative à l'autoproduction de l'énergie électrique, au profit de Office national de l",
-      "signatories": []
-    },
-    {
-      "type": "Décret",
-      "number": "2-25-101",
-      "title": "portant délégation de pouvoir en matière d'ordonnancement des dépenses du compte d'affectation spéciale n° 3.1.00.03 intitulé « Fonds de soutien aux services de la concurrence, du contrôle, de la protection du consommateur, de la régulation du marché et des stocks de sécurité »",
-      "publication_date_hijri": "12 chaoual 1446",
-      "publication_date_gregorian": "2025-04-11",
-      "page_start": 554,
-      "description": "Décret n° 2-25-101 du 12 chaoual 1446 (11 avril 2025) portant délégation de pouvoir en matière d'ordonnancement des dépenses du compte d'affectation spéciale n° 3.1.00.03 intitulé « Fonds de soutien aux services de la concurrence, du contrôle, de la protection du consommateur, de la régulation du marché et des stocks de sécurité »",
-      "signatories": []
-    },
-    {
-      "type": "Décret",
-      "number": "2-25-368",
-      "title": "du 29 chaoual 1446 (28 avril 2025)",
-      "publication_date_hijri": "29 chaoual 1446",
-      "publication_date_gregorian": "2025-04-28",
-      "page_start": 556,
-      "description": "Décret n° 2-25-368 du 29 chaoual 1446 (28 avril 2025) du 29 chaoual 1446 (28 avril 2025)",
-      "signatories": [
-        {
-          "name": "AVIS ET COMMUNICATIONS",
-          "title": ""
-        }
-      ]
-    },
-    {
-      "type": "Loi",
-      "number": "",
-      "title": "n° 13-09 relative aux énergies renouvelables promulguée par le dahir n° 1-10-16 du 26 safar 1431 (11 février 2010), tel qu'il a été modifié et complété",
-      "publication_date_hijri": "26 safar 1431",
-      "publication_date_gregorian": "2010-02-11",
-      "page_start": 550,
-      "description": "Loi du 26 safar 1431 (11 février 2010) n° 13-09 relative aux énergies renouvelables promulguée par le dahir n° 1-10-16 du 26 safar 1431 (11 février 2010), tel qu'il a été modifié et complété, au profit de Office national de l",
-      "signatories": []
-    },
-    {
-      "type": "Loi",
-      "number": "48-15",
-      "title": "relative à la régulation du secteur de l'électricité et à la création de l'Autorité nationale de régulation de l'électricité promulguée par le dahir n° 1-16-60 du 17 chaabane 1437 (24 mai 2016), la contribution précitée est fixée par l'Autorité nationale de régulation de l'électricité après avis du gestionnaire du réseau électrique national concerné",
-      "publication_date_hijri": "17 chaabane 1437",
-      "publication_date_gregorian": "2016-05-24",
-      "page_start": 552,
-      "description": "Loi n° 48-15 du 17 chaabane 1437 (24 mai 2016) relative à la régulation du secteur de l'électricité et à la création de l'Autorité nationale de régulation de l'électricité promulguée par le dahir n° 1-16-60 du 17 chaabane 1437 (24 mai 2016), la contribution précitée est fixée par l'Autorité nationale de régulation de l'électricité après avis du gestionnaire du réseau électrique national concerné, au profit de Office national de l",
-      "signatories": []
-    },
-    {
-      "type": "Loi",
-      "number": "40-09",
-      "title": "relative à l'Office national",
-      "publication_date_hijri": "14 rabii I 1383",
-      "publication_date_gregorian": "2011-09-29",
-      "page_start": 554,
-      "description": "Loi n° 40-09 du 14 rabii I 1383 (29 septembre 2011) relative à l'Office national, au profit de Office national \nde l",
-      "signatories": []
-    },
-    {
-      "type": "Loi",
-      "number": "77-15",
-      "title": "portant interdiction de la fabrication, de l'importation, de l'exportation, de la commercialisation et de l'utilisation de sacs en matières plastiques, promulguée par le dahir n° 1-15-148 du 25 safar 1437 (7 décembre 2015), telle que modifiée et complétée ;",
-      "publication_date_hijri": "25 safar 1437",
-      "publication_date_gregorian": "2015-12-07",
-      "page_start": 554,
-      "description": "Loi n° 77-15 du 25 safar 1437 (7 décembre 2015) portant interdiction de la fabrication, de l'importation, de l'exportation, de la commercialisation et de l'utilisation de sacs en matières plastiques, promulguée par le dahir n° 1-15-148 du 25 safar 1437 (7 décembre 2015), telle que modifiée et complétée ;",
-      "signatories": []
-    },
-    {
-      "type": "Loi",
-      "number": "104-12",
-      "title": "relative à la liberté des prix et de",
-      "publication_date_hijri": "2 ramadan 1435",
-      "publication_date_gregorian": "2014-06-30",
-      "page_start": 554,
-      "description": "Loi n° 104-12 du 2 ramadan 1435 (30 juin 2014) relative à la liberté des prix et de",
-      "signatories": []
-    },
-    {
-      "type": "Loi",
-      "number": "31-08",
-      "title": "édictant des mesures de protection du",
-      "publication_date_hijri": "14 rabii I\n1432",
-      "publication_date_gregorian": "2011-02-18",
-      "page_start": 554,
-      "description": "Loi n° 31-08 du 14 rabii I\n1432 (18 février 2011) édictant des mesures de protection du",
-      "signatories": []
-    },
-    {
-      "type": "Loi",
-      "number": "02-82",
-      "title": "relative aux attributions du mohtassib",
-      "publication_date_hijri": "28 chaabane 1402",
-      "publication_date_gregorian": "1982-06-21",
-      "page_start": 554,
-      "description": "Loi n° 02-82 du 28 chaabane 1402 (21 juin 1982) relative aux attributions du mohtassib",
-      "signatories": []
-    },
-    {
-      "type": "Loi",
-      "number": "009-71",
-      "title": "relative aux stocks de sécurité du",
-      "publication_date_hijri": "21 chaabane 1391",
-      "publication_date_gregorian": "1971-10-12",
-      "page_start": 554,
-      "description": "Loi n° 009-71 du 21 chaabane 1391 (12 octobre 1971) relative aux stocks de sécurité du",
-      "signatories": []
-    },
-    {
-      "type": "Décret",
-      "number": "2-87-608",
-      "title": "du 10 rabii II",
-      "publication_date_hijri": "10 rabii II\n1408",
-      "publication_date_gregorian": "1987-12-02",
-      "page_start": 554,
-      "description": "Décret n° 2-87-608 du 10 rabii II\n1408 (2 décembre 1987) du 10 rabii II",
-      "signatories": [
-        {
-          "name": "NADIA FETTAH",
-          "title": ""
-        }
-      ]
-    },
-    {
-      "type": "Décret",
-      "number": "2-15-426",
-      "title": "du 28 ramadan 1436",
-      "publication_date_hijri": "28 ramadan 1436",
-      "publication_date_gregorian": "2015-07-15",
-      "page_start": 556,
-      "description": "Décret n° 2-15-426 du 28 ramadan 1436 (15 juillet 2015) du 28 ramadan 1436, d'un montant de treize milliards de dirhams (13.000.000.000,00 dirhams), pour le financement du Projet « 10 : participations et concours divers »",
-      "signatories": [
-        {
-          "name": "FOUZI LEKJAA",
-          "title": ""
-        }
-      ],
-      "content_details": {
-        "loan_guarantee": {
-          "amount": 13000000000.0,
-          "currency": "MAD",
-          "beneficiary": "Ministère de l",
-          "project": "10 : participations et concours divers"
-        }
+      "entry_id": "BO-7400-P9-1",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 12 chaoual 1446 (11 avril 2025) portant",
+      "reference": {
+        "type": "decret",
+        "number": "2-25-101",
+        "date": "2025-04-11"
+      },
+      "pages": {
+        "start": 9,
+        "end": 10
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la Constitution notamment son article 90 ;",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi de finances n° 4-84 pour l'année budgétaire",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 77-15 portant interdiction de la fabrication,",
+            "reference_to": "Loi n° 77-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 104-12 relative à la liberté des prix et de",
+            "reference_to": "Loi n° 104-12"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 31-08 édictant des mesures de protection du",
+            "reference_to": "Loi n° 31-08"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 02-82 relative aux attributions du mohtassib",
+            "reference_to": "Loi n° 02-82"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 009-71 relative aux stocks de sécurité du",
+            "reference_to": "Loi n° 009-71"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Délégation de pouvoir est donnée",
+                "paragraphs": [
+                  "à l'autorité gouvernementale chargée de l'économie et des",
+                  "finances à l'effet d'ordonnancer les dépenses afférentes aux",
+                  "primes et aux dépenses de matériel, prévues au débit du",
+                  "compte d'affectation spéciale n° 3.1.00.03, intitulé « Fonds",
+                  "de soutien aux services de la concurrence, du contrôle, de",
+                  "la protection du consommateur, de la régulation du marché",
+                  "et des stocks de sécurité » institué par l'article 46 de la loi de",
+                  "finances susvisée n° 4-84 pour l'année budgétaire 1985."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Est abrogé le décret n° 2-87-608 du 10 rabii II",
+                "paragraphs": [
+                  "1408 (2 décembre 1987) portant délégation de pouvoir en matière",
+                  "d'ordonnancement des dépenses du compte spécial n° 35-51",
+                  "intitulé « Fonds de soutien aux services de la réglementation",
+                  "et du contrôle des prix et des stocks de sécurité ».",
+                  "<<<BO_PAGE_10_DELIM>>>",
+                  "Nº 7400 - 3 kaada 1446 (1er-5-2025)"
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La ministre de l'économie et des finances est",
+                "paragraphs": [
+                  "chargée de l'exécution du présent décret qui sera publié au"
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
       }
     },
     {
-      "type": "Loi",
-      "number": "15-09",
-      "title": "relative aux mesures de défense commerciale, notamment ses articles 9 et 29 ;",
-      "publication_date_hijri": "26 kaada 1445",
-      "publication_date_gregorian": "2024-06-04",
-      "page_start": 558,
-      "description": "Loi n° 15-09 du 26 kaada 1445 (4 juin 2024) relative aux mesures de défense commerciale, notamment ses articles 9 et 29 ;",
-      "signatories": []
-    },
-    {
-      "type": "Décret",
-      "number": "2-12-645",
-      "title": "La valeur normale a été établie à partir des prix « sortie usine » calculés sur la base des prix affichés dans des dépliants des grandes surfaces opérantes sur le marché égyptien",
-      "publication_date_hijri": "21 joumada II 1446",
-      "publication_date_gregorian": "2024-12-23",
-      "page_start": 556,
-      "description": "Décret n° 2-12-645 du 21 joumada II 1446 (23 décembre 2024) La valeur normale a été établie à partir des prix « sortie usine » calculés sur la base des prix affichés dans des dépliants des grandes surfaces opérantes sur le marché égyptien",
-      "signatories": []
-    },
-    {
-      "type": "Loi",
-      "number": "",
-      "title": "n° 15-09 précitée",
-      "publication_date_hijri": "",
-      "publication_date_gregorian": "",
-      "page_start": 558,
-      "description": "Loi n° 15-09 précitée",
-      "signatories": []
-    },
-    {
-      "type": "Décret",
-      "number": "2-10-015",
-      "title": "du 30 rabii I 1431 (17 mars 2010)",
-      "publication_date_hijri": "30 rabii I 1431",
-      "publication_date_gregorian": "2010-03-17",
-      "page_start": 558,
-      "description": "Décret n° 2-10-015 du 30 rabii I 1431 (17 mars 2010) du 30 rabii I 1431 (17 mars 2010)",
-      "signatories": []
-    },
-    {
-      "type": "Décret",
-      "number": "2-85-891",
-      "title": "du 18 rabii II 1406 (31 décembre",
-      "publication_date_hijri": "18 rabii II 1406",
-      "publication_date_gregorian": "1985-12-31",
-      "page_start": 558,
-      "description": "Décret n° 2-85-891 du 18 rabii II 1406 (31 décembre 1985) du 18 rabii II 1406 (31 décembre",
-      "signatories": []
-    },
-    {
-      "type": "Arrêté",
-      "number": "3284-17",
-      "title": "du 16 rabii I 1439 (5 décembre 2017) fixant les modalités d'octroi de l'aide financière de l'Etat à la promotion et à la diversification des exportations des produits agricoles, tel qu'il a été modifié et complété par l'",
-      "publication_date_hijri": "16 rabii I 1439",
-      "publication_date_gregorian": "2017-12-05",
-      "page_start": 560,
-      "description": "Arrêté n° 3284-17 du 16 rabii I 1439 (5 décembre 2017) du 16 rabii I 1439 (5 décembre 2017) fixant les modalités d'octroi de l'aide financière de l'Etat à la promotion et à la diversification des exportations des produits agricoles, tel qu'il a été modifié et complété par l'",
-      "signatories": []
-    },
-    {
-      "type": "Arrêté",
-      "number": "382-20",
-      "title": "1er joumada II 1441 (27 janvier 2020)",
-      "publication_date_hijri": "18 rabii II 1406",
-      "publication_date_gregorian": "2020-01-27",
-      "page_start": 560,
-      "description": "Arrêté n° 382-20 du 18 rabii II 1406 (27 janvier 2020) 1er joumada II 1441 (27 janvier 2020)",
-      "signatories": []
-    },
-    {
-      "type": "Décret",
-      "number": "2-70-646",
-      "title": "relatif aux droits de chancellerie, tel qu'il a été modifié et complété, notamment par le",
-      "publication_date_hijri": "23 kaada 1392",
-      "publication_date_gregorian": "1972-12-30",
-      "page_start": 562,
-      "description": "Décret n° 2-70-646 du 23 kaada 1392 (30 décembre 1972) relatif aux droits de chancellerie, tel qu'il a été modifié et complété, notamment par le",
-      "signatories": []
-    },
-    {
-      "type": "Décret",
-      "number": "2-00-362",
-      "title": "du 25 rabii I 1421 (28 juin 2000) ;",
-      "publication_date_hijri": "25 rabii I 1421",
-      "publication_date_gregorian": "2000-06-28",
-      "page_start": 562,
-      "description": "Décret n° 2-00-362 du 25 rabii I 1421 (28 juin 2000) du 25 rabii I 1421 (28 juin 2000) ;, d'un montant de 150,00 dirhams",
-      "signatories": [],
-      "content_details": {
-        "loan_guarantee": {
-          "amount": 150.0,
-          "currency": "D",
-          "beneficiary": "Ministère des Affaires"
-        }
+      "entry_id": "BO-7400-P10-2",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 29 chaoual 1446 (28 avril 2025) portant",
+      "reference": {
+        "type": "decret",
+        "number": "2-25-368",
+        "date": "2025-04-28"
+      },
+      "pages": {
+        "start": 10,
+        "end": 10
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la Constitution, notamment ses articles 70 et 92 ;",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'article 60 de la loi organique n° 130-13 relative",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'article 21 de la loi de finances n° 60-24 pour l'année",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'article 18 du décret n° 2-15-426 du 28 ramadan 1436",
+            "reference_to": "Decret n° 2-15-426"
+          },
+          {
+            "type": "recital",
+            "text": "Considérant la nécessité impérieuse d'intérêt national ;"
+          },
+          {
+            "type": "adoption",
+            "text": "Après information des commissions parlementaires"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER.- Des crédits supplémentaires d'un",
+                "paragraphs": [
+                  "montant de treize milliards de dirhams (13.000.000.000 DH)",
+                  "sont ouverts au titre du budget général pour l'année budgétaire",
+                  "2025."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le montant des crédits prévus à l'article premier",
+                "paragraphs": [
+                  "est réparti comme suit :",
+                  "• Chapitre 1.2.2.3.0.13.000 - Ministère de l'économie et",
+                  "des finances - charges communes - budget d'investissement",
+                  "- Programme 197 : appui aux politiques sociales, aux",
+                  "stratégies sectorielles et aux projets structurants",
+                  "- Région 00 : services communs",
+                  "- Projet 10 : participations et concours divers",
+                  "- Ligne 12 : transferts au titre des dotations en capital",
+                  "au profit des établissements et entreprises publics ......................",
+                  "9.500.000.000 DH",
+                  "- Ligne 14 : autres transferts ................. 500.000.000 DH",
+                  "• Chapitre 1.2.1.4.0.36.000 - dépenses imprévues et",
+                  "dotations provisionnelles",
+                  "- Programme 199 : dépenses imprévues et dotations",
+                  "provisionnelles",
+                  "- Région 00 : services communs",
+                  "- Projet 10 : prélèvements au profit d'autres chapitres",
+                  "- Ligne 10 : prélèvements au profit des chapitres de",
+                  "personnel ...................... 3.000.000.000 DH."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le présent décret sera soumis au Parlement",
+                "paragraphs": [
+                  "pour ratification dans la prochaine loi de finances."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - Le ministre délégué auprès de la ministre de",
+                "paragraphs": [
+                  "l'économie et des finances, chargé du budget, est chargé de",
+                  "l'exécution du présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
       }
     },
     {
-      "type": "Décret",
-      "number": "2-04-790",
-      "title": "instituant une rémunération des services rendus",
-      "publication_date_hijri": "11 kaada 1425",
-      "publication_date_gregorian": "2004-12-24",
-      "page_start": 568,
-      "description": "Décret n° 2-04-790 du 11 kaada 1425 (24 décembre 2004) instituant une rémunération des services rendus, d'un montant de 300,00 dirhams",
-      "signatories": [
-        {
-          "name": "RYAD MEZZOUR",
-          "title": ""
-        }
-      ],
-      "content_details": {
-        "loan_guarantee": {
-          "amount": 300.0,
-          "currency": "MAD",
-          "beneficiary": "ministère des affaires"
-        }
+      "entry_id": "BO-7400-P25-3",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "12 ramadan 1446 (13 mars 2025) complétant l'arrêté du",
+      "reference": {
+        "type": "arrete",
+        "number": "693-25",
+        "date": "2025-03-13"
+      },
+      "pages": {
+        "start": 25,
+        "end": 25
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'INDUSTRIE ET DU COMMERCE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre du commerce extérieur, des",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La liste II des marchandises soumises",
+                "paragraphs": [
+                  "à la licence d'exportation, annexée à l'arrêté du ministre du",
+                  "commerce extérieur, des investissements extérieurs et de",
+                  "l'artisanat susvisé n° 1308-94 du 7 kaada 1414 (19 avril",
+                  "1994), est complétée par les lingots de cuivre relevant des",
+                  "positions tarifaires EX 7403.19.00.00, EX 7403.22.00.00 et",
+                  "EX 7403.29.00.00 et les lingots d'aluminium relevant des",
+                  "positions tarifaires EX 7601.10.00.00 et EX 7601.20.00.00."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté s'applique pour une durée",
+                "paragraphs": [
+                  "de vingt-quatre (24) mois, à compter de sa date de publication",
+                  "au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
       }
     },
     {
-      "type": "Loi",
-      "number": "13-09",
-      "title": "et fournie pour alimenter des consommateurs situés dans la zone de compétence de ce gestionnaire, sont soumises au paiement du TURD",
-      "publication_date_hijri": "",
-      "publication_date_gregorian": "",
-      "page_start": 574,
-      "description": "Loi n° 13-09 et fournie pour alimenter des consommateurs situés dans la zone de compétence de ce gestionnaire, sont soumises au paiement du TURD",
-      "signatories": []
+      "entry_id": "BO-7400-P25-4",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decision",
+      "title": "n° 02/25 du 20 chaabane 1446 (19 février 2025) fixant",
+      "reference": {
+        "type": "decision",
+        "number": "02/25",
+        "date": ""
+      },
+      "pages": {
+        "start": 25,
+        "end": 27
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "AUTORITÉ NATIONALE DE RÉGULATION DE L'ÉLECTRICITÉ",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 48-15 relative à la régulation du secteur de",
+            "reference_to": "Loi n° 48-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 13-09 relative aux énergies renouvelables,",
+            "reference_to": "Loi n° 13-09"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 82-21 relative à l'autoproduction de l'énergie",
+            "reference_to": "Loi n° 82-21"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 83-21 relative aux sociétés régionales multiservice, promulguée par le dahir n°1-23-53 du 23 hija 1444",
+            "reference_to": "Loi n° 83-21"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision n°02/24 de l'Autorité nationale de régulation",
+            "reference_to": "Decision n° 02/24"
+          },
+          {
+            "type": "visa",
+            "text": "Vu les conclusions des concertations menées avec toutes",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu les résultats de la consultation publique sur le projet",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu les données transmises par les GRDs pour les besoins",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'avis de l'Office national de l'électricité et de l'eau",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'avis du ministère de l'intérieur du 24 janvier 2025,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu les lettres de l'ANRE en date du 12 février 2025",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'avis du ministère de l'intérieur du 13 février 2025,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'avis de l'ONEE du 17 février 2025 portant sur le projet",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCIDE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les définitions de l'article premier",
+                "paragraphs": [
+                  "de la loi n°48-15 relative à la régulation du secteur de",
+                  "l'électricité et à la création de l'Autorité nationale de régulation",
+                  "de l'électricité, telle que modifiée et complétée et celles de la",
+                  "méthodologie tarifaire d'utilisation des réseaux électriques",
+                  "de moyenne tension de la distribution adoptée et publiée par",
+                  "l'ANRE sur son site Internet s'appliquent à la présente décision."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - En outre, les définitions suivantes s'appliquent :",
+                "paragraphs": [
+                  "« Modèle de régulation tarifaire » : définition et",
+                  "application de règles et principes de tarification raisonnable",
+                  "selon des critères de transparence, de non-discrimination, de",
+                  "proportionnalité et de causalité ;",
+                  "« IPCn » : désigne l'indice des prix à la consommation",
+                  "(IPC) est l'instrument de mesure de l'inflation de l'année N ;",
+                  "« Tn » : tarif de l'année 2026 commençant le 1er mars 2026",
+                  "et se terminant le 28 février 2027 ;",
+                  "« TURD » : tarif d'utilisation des réseaux électriques de",
+                  "moyenne tension de la distribution ;",
+                  "« TURT » : tarif d'utilisation du réseau électrique",
+                  "national de transport, tel que prévu par la décision de l'ANRE",
+                  "n° 02/24 du 5 février 2024 fixant le tarif d'utilisation du réseau",
+                  "éléctrique national de transport ;",
+                  "« TSS » : rémunération des services système, tel que",
+                  "prévu par la décision de l'ANRE n°02/24 du 5 février 2024",
+                  "fixant le tarif d'utilisation du réseau électrique national de",
+                  "transport ;",
+                  "« Energie Livrée » : est la quantité d'énergie soutirée par",
+                  "les utilisateurs du réseau de moyenne tension de la distribution ;",
+                  "« Energie Injectée » : est, en un point de raccordement",
+                  "donné, l'intégrale de la puissance injectée en ce point sur la",
+                  "période de comptage considérée ;",
+                  "« Energie Pertes » : est le résultat obtenu en appliquant",
+                  "le taux de pertes des réseaux électriques de moyenne tension",
+                  "de la distribution à l'énergie injectée ;",
+                  "Période de régulation et principe de tarification"
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La période de régulation est fixée du 1er mars",
+                "paragraphs": [
+                  "2025 au 28 février 2027. Durant cette période, le TURD sera",
+                  "ajusté selon les modalités prévues dans l'article 7 de la présente",
+                  "décision."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - Pour cette première période de régulation,",
+                "paragraphs": [
+                  "l'ANRE adopte le principe d'un tarif unique sur l'ensemble",
+                  "du territoire national.",
+                  "Modèle de régulation"
+                ]
+              },
+              {
+                "article_number": "ART. 5. - 1) Dans le cadre de la méthodologie adoptée,",
+                "paragraphs": [
+                  "l'ANRE détermine le revenu annuel requis pour un GRD durant",
+                  "la période de régulation. Ce revenu sera ensuite utilisé pour fixer",
+                  "le tarif de la période.",
+                  "2) Le revenu global requis (RGR) se compose des charges",
+                  "nettes d'exploitation (CNE), des charges du capital autorisées",
+                  "(CPA), de la contribution versée à l'ANRE (CVA), auxquelles on",
+                  "soustrait les revenus non tarifaires (RNF) :",
+                  "RNF désigne, entre autres, les services rendus aux tiers",
+                  "par l'activité de distribution de moyenne tension, tels que les",
+                  "éventuelles prestations directement facturées aux usagers,",
+                  "exclusives (raccordements, changements de compteurs,",
+                  "interventions techniques…) ou non exclusives (maintenance",
+                  "d'installations privées…).",
+                  "3) Les charges du capital autorisées (CPA) se composent",
+                  "d'une part, d'une dotation aux amortissements calculée selon le",
+                  "mode linéaire sur la durée de vie économique des ouvrages, et",
+                  "d'autre part, d'une rémunération financière ayant comme base",
+                  "la valeur historique des ouvrages diminuée des amortissements.",
+                  "Le taux de rémunération appliqué est le Coût Moyen Pondéré du",
+                  "Capital (CMPC, ou WACC en anglais) fixé par l'ANRE.",
+                  "4) Les charges nettes d'exploitation (CNE) sont",
+                  "principalement composées des achats externes, des dépenses",
+                  "de personnel et des impôts et taxes. Les charges correspondant",
+                  "aux activités générant des revenus non tarifaires (RNF), tels que",
+                  "définis plus haut, sont exclues du périmètre des charges retenues.",
+                  "5) En application de la méthodologie tarifaire adoptée, et",
+                  "en conformité avec la réglementation en vigueur, l'ensemble des",
+                  "frais de renforcement du réseau électrique de moyenne tension",
+                  "de la distribution est inclus dans les coûts de raccordement pris",
+                  "en charge par l'exploitant. En conséquence, les coûts liés au",
+                  "raccordement des installations au réseau de la moyenne tension",
+                  "(MT) ne sont pas couverts par le TURD.",
+                  "Grille tarifaire pour la période 2025-2027"
+                ]
+              },
+              {
+                "article_number": "ART. 6. - Le tarif ci-dessous est exprimé hors toutes",
+                "paragraphs": [
+                  "taxes applicables. Pour chaque installation, le paiement du tarif",
+                  "s'effectue selon les modalités prévues dans la présente décision.",
+                  "Le TURD est fixé à 5,92 cDH/kWh. Il est applicable à",
+                  "partir du 1er mars 2025.",
+                  "La rémunération des services système (TSS) pour la",
+                  "moyenne tension, quant à elle, est identique à celle appliquée",
+                  "aux installations de production d'électricité de sources d'énergies",
+                  "renouvelables raccordées au réseau électrique national de",
+                  "transport et ce, conformément à la décision de l'ANRE n°02/24",
+                  "du 5 février 2024 fixant le tarif d'utilisation du réseau électrique",
+                  "national de transport.",
+                  "L'évaluation de l'énergie acheminée, prise en compte dans",
+                  "le calcul du TURD, est faite selon la formule suivante :",
+                  "<<<BO_PAGE_27_DELIM>>>",
+                  "Nº 7400 - 3 kaada 1446 (1er-5-2025)",
+                  "Les pertes, compensées en nature, sont à la charge des",
+                  "producteurs et des autoproducteurs pour la quote-part de",
+                  "l'énergie transitée par le réseau, à hauteur d'un plafond à fixer par",
+                  "l'ANRE et exprimé en pourcentage du volume de l'énergie livrée.",
+                  "Pour cette première période de régulation, objet de la"
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
     },
     {
-      "type": "Loi",
-      "number": "83-21",
-      "title": "relative aux sociétés régionales multiservice, promulguée par le dahir n°1-23-53 du 23 hija 1444",
-      "publication_date_hijri": "23 hija 1444",
-      "publication_date_gregorian": "2023-07-12",
-      "page_start": 570,
-      "description": "Loi n° 83-21 du 23 hija 1444 (12 juillet 2023) relative aux sociétés régionales multiservice, promulguée par le dahir n°1-23-53 du 23 hija 1444",
-      "signatories": []
+      "entry_id": "BO-7400-P28-5",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decision",
+      "title": "n° 03/25 du 20 chaabane 1446 (19 février 2025) portant",
+      "reference": {
+        "type": "decision",
+        "number": "03/25",
+        "date": ""
+      },
+      "pages": {
+        "start": 28,
+        "end": 30
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "AUTORITÉ NATIONALE DE RÉGULATION DE L'ÉLECTRICITÉ",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 48-15 relative à la régulation du secteur de",
+            "reference_to": "Loi n° 48-15"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision n°02/24 de l'Autorité Nationale de Régulation",
+            "reference_to": "Decision n° 02/24"
+          },
+          {
+            "type": "visa",
+            "text": "Vu les lettres de l'ANRE en date du 27 janvier 2025",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la lettre de l'ONEE du 3 février 2025 relative aux valeurs",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la lettre du HCP du 3 février 2025 relative aux valeurs",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCIDE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'ajustement de la grille tarifaire pour",
+                "paragraphs": [
+                  "l'année 2025 se présente comme suit :",
+                  "• le tarif d'utilisation du réseau électrique national de",
+                  "transport (TURT) est fixé à 6,68 cDH/kWh au 1er mars",
+                  "2025 ;",
+                  "• la rémunération des services système (TSS), quant à elle,",
+                  "est fixée à 6,64 cDH/kWh au 1er mars 2025.",
+                  "Les formules d'ajustement et de révision appliquées",
+                  "au TURT, prévues au niveau des articles 5 et 6 de la décision",
+                  "de l'ANRE n°02/24, du 24 rejeb 1445 (5 février 2024) fixant le",
+                  "tarif d'utilisation du réseau électrique national de transport,",
+                  "s'appliquent également à la rémunération des services système."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La présente décision sera publiée sur le site",
+                "paragraphs": [
+                  "Internet de l'ANRE et publiée au Bulletin officiel.",
+                  "PRÉSIDENT DE L'AUTORITÉ NATIONALE",
+                  "DE RÉGULATION DE L'ÉLECTRICITÉ,",
+                  "ZOUHAIR CHORFI.",
+                  "Le texte en langue arabe a été publié dans l'édition générale du",
+                  "« Bulletin officiel » n° 7398 du 25 chaoual 1446 (24 avril 2025).",
+                  "<<<BO_PAGE_29_DELIM>>>",
+                  "Nº 7400 - 3 kaada 1446 (1er-5-2025)",
+                  "Rectificatifs au « Bulletin officiel » n° 7388 du 19 ramadan 1446",
+                  "(20 mars 2025) pages 412 et 413",
+                  "Arrêté de la ministre de l'économie et des finances n°02-25",
+                  "du 5 rejeb 1446 (6 janvier 2025) relatif à l'émission des",
+                  "bons du Trésor.",
+                  "Au lieu de :"
+                ]
+              },
+              {
+                "article_number": "ART. 10. - Les soumissions par ",
+                "paragraphs": [
+                  ".......................... à travers le système d'envoi électronique des",
+                  "offres géré par Bank Al-Maghrib.",
+                  "La direction du Trésor ..........................................................",
+                  "......................................................... sous forme anonyme.",
+                  "En cas de panne de ce système .............................................",
+                  "................................................................................................................"
+                ]
+              },
+              {
+                "article_number": "ART. 13. - La direction du Trésor ",
+                "paragraphs": [
+                  "................................................... d'échéances, à l'instar des autres",
+                  "émissions des bons du Trésor. Dans ce cas, l'émission ..........",
+                  "............................................................................................................",
+                  "Lire :"
+                ]
+              },
+              {
+                "article_number": "ART. 10. - Les soumissions par ",
+                "paragraphs": [
+                  ".......................................................................... à travers le système",
+                  "de télé-adjudication des offres géré par Bank Al-Maghrib.",
+                  "......................................... En cas de panne de ce système",
+                  "..........................................................................................................."
+                ]
+              },
+              {
+                "article_number": "ART. 13. - La direction du Trésor ",
+                "paragraphs": [
+                  ".................................................................................... d'échéances,",
+                  "que d'autres émissions des bons du Trésor auxquelles sont",
+                  "rattachés. Dans ce cas, l'émission ................................................",
+                  "......................................................................................................",
+                  "Arrêté de la ministre de l'économie et des finances n° 03-25",
+                  "du 5 rejeb 1446 (6 janvier 2025) relatif aux opérations de",
+                  "rachat et d'échange des bons du Trésor.",
+                  "Au lieu de :"
+                ]
+              },
+              {
+                "article_number": "ART. 6. - Pour les opérations ",
+                "paragraphs": [
+                  "......................................................... à travers le système d'envoi",
+                  "électronique d'adjudication géré par Bank Al-Maghrib.",
+                  "En cas de panne de ce système ...............................................",
+                  "................................................................................................................",
+                  "Lire :"
+                ]
+              },
+              {
+                "article_number": "ART. 6. - Pour les opérations ",
+                "paragraphs": [
+                  ".................................................................. à travers le système de",
+                  "télé-adjudication géré par Bank Al-Maghrib.",
+                  "En cas de panne de ce système ...........................................",
+                  "..............................................................................................................",
+                  "<<<BO_PAGE_30_DELIM>>>",
+                  "Nº 7400 - 3 kaada 1446 (1er-5-2025)"
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
     },
     {
-      "type": "Décision",
-      "number": "02",
-      "title": "/24 de l'Autorité Nationale de Régulation",
-      "publication_date_hijri": "24 rejeb 1445",
-      "publication_date_gregorian": "2024-02-05",
-      "page_start": 574,
-      "description": "Décision n° 02 du 24 rejeb 1445 (5 février 2024) /24 de l'Autorité Nationale de Régulation, au profit de Office National de l",
-      "signatories": []
+      "entry_id": "BO-7400-P30-6",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 735-25 du 13 ramadan",
+      "reference": {
+        "type": "arrete",
+        "number": "735-25",
+        "date": "2025-03-14"
+      },
+      "pages": {
+        "start": 30,
+        "end": 30
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi n° 016-89, assortis",
+                  "« du baccalauréat, série scientifique ou technique ou d'un",
+                  "« diplôme reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Diplôme national d'architecte, délivré en date du",
+                  "« 8 novembre 2021 par l'Ecole nationale d'architecture",
+                  "« et d'urbanisme, Université de Carthage - Tunisie, assorti",
+                  "« d'une attestation de validation du complément de",
+                  "« formation délivrée par l'Ecole nationale d'architecture",
+                  "« de Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
     },
     {
-      "type": "Loi",
-      "number": "40-19",
-      "title": ", modifiant et complétant la",
-      "publication_date_hijri": "",
-      "publication_date_gregorian": "",
-      "page_start": 574,
-      "description": "Loi n° 40-19 , modifiant et complétant la",
-      "signatories": []
-    },
-    {
-      "type": "Décret",
-      "number": "2-24-991",
-      "title": "du 24 rabii II 1446 (28 octobre 2024)",
-      "publication_date_hijri": "24 rabii II 1446",
-      "publication_date_gregorian": "2024-10-28",
-      "page_start": 576,
-      "description": "Décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024) du 24 rabii II 1446 (28 octobre 2024)",
-      "signatories": []
-    },
-    {
-      "type": "Loi",
-      "number": "016-89",
-      "title": ", assortis « du baccalauréat, série scientifique ou technique ou d'un « diplôme reconnu équivalent, est fixée ainsi qu'il suit : «",
-      "publication_date_hijri": "29 chaoual 1446",
-      "publication_date_gregorian": "2025-04-28",
-      "page_start": 576,
-      "description": "Loi n° 016-89 du 29 chaoual 1446 (28 avril 2025) , assortis « du baccalauréat, série scientifique ou technique ou d'un « diplôme reconnu équivalent, est fixée ainsi qu'il suit : «, d'un montant de 30.000,00 dirhams",
-      "signatories": [
-        {
-          "name": "LA LIVRAISON",
-          "title": ""
-        }
-      ],
-      "content_details": {
-        "loan_guarantee": {
-          "amount": 30000.0,
-          "currency": "MAD"
-        }
+      "entry_id": "BO-7400-P30-7",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 838-25 du 23 ramadan",
+      "reference": {
+        "type": "arrete",
+        "number": "838-25",
+        "date": "2025-03-24"
+      },
+      "pages": {
+        "start": 30,
+        "end": 30
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre 2024)",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du conseil national de l'Ordre national des"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 2797-95 du 20 joumada II 1416 (14 novembre 1995), est",
+                  "complété comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme d'architecte de l'Ecole nationale",
+                  "« d'architecture visé à l'article 4 de la loi n° 016-89, assortis",
+                  "« du baccalauréat, série scientifique ou technique ou d'un",
+                  "« diplôme reconnu équivalent, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Diplôme national d'architecte, délivré en date du",
+                  "« 21 décembre 2023 par l'Ecole polytechnique privée",
+                  "« Ibn Khaldoun - Université Ibn Khaldoun Tunis,",
+                  "« assorti d'une attestation de validation du complément de",
+                  "« formation, délivrée par l'Ecole nationale d'architecture",
+                  "« de Rabat. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
       }
     }
   ]

@@ -1,0 +1,86 @@
+{
+  "bulletin_number": "7230",
+  "publication_date": {
+    "gregorian": "2023-09-14",
+    "hijri": "28 safar 1445"
+  },
+  "source_file": "BO_7230-bis_fr.pdf",
+  "content": [
+    {
+      "entry_id": "BO-7230-P2-1",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decision",
+      "title": "du 26 safar 1445",
+      "reference": {
+        "type": "decision",
+        "number": "2300-23",
+        "date": "2023-09-12"
+      },
+      "pages": {
+        "start": 2,
+        "end": 2
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'INTÉRIEUR",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le dahir n° 1-22-64 du 27 rabii I 1444 (24 octobre 2022)",
+            "reference_to": "Dahir n° 1-22-64"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du ministre de l'intérieur n° 2271-23 du",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du ministre de l'intérieur n° 2272-23 du",
+            "reference_to": null
+          },
+          {
+            "type": "recital",
+            "text": "Considérant le séisme survenu dans la soirée du vendredi"
+          }
+        ],
+        "enacting_clause": "DÉCIDE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les dates et délais relatifs à",
+                "paragraphs": [
+                  "l'établissement de la liste des électeurs de la communauté",
+                  "juive marocaine ainsi que la date du scrutin pour l'élection",
+                  "des membres du conseil national de la communauté juive",
+                  "marocaine et des comités régionaux qui en relèvent sont",
+                  "reportés à une date ultérieure, qui sera fixée par décision du",
+                  "ministre de l'intérieur avant l'expiration d'un délai de trois",
+                  "(3) mois à compter du 29 octobre 2023."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La présente décision sera publiée au Bulletin",
+                "paragraphs": [
+                  "officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    }
+  ]
+}

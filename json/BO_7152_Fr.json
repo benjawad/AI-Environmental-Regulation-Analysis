@@ -1,0 +1,1268 @@
+{
+  "bulletin_number": "127",
+  "publication_date": {
+    "gregorian": "",
+    "hijri": "14 joumada I 1444"
+  },
+  "source_file": "BO_7152_Fr.pdf",
+  "content": [
+    {
+      "entry_id": "BO-127-P10-1",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 21 rabii II 1444 (16 novembre 2022)",
+      "reference": {
+        "type": "decret",
+        "number": "2-22-535",
+        "date": "2022-11-16"
+      },
+      "pages": {
+        "start": 10,
+        "end": 11
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le code des douanes ainsi que des impôts indirects",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-77-862 du 25 chaoual 1397 (9 octobre 1977)",
+            "reference_to": "Decret n° 2-77-862"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibération en Conseil du gouvernement, réuni"
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les dispositions de l'article 21 du",
+                "paragraphs": [
+                  "décret susvisé n° 2-77-862 du 25 chaoual 1397 (9 octobre 1977),",
+                  "sont modifiées comme suit :",
+                  "« Article 21. - En cas de renonciation, ..........................,",
+                  "« des opérations douanières en cours.",
+                  "« Toutefois, en cas de décès ou de départ de la personne",
+                  "« habile, l'administration peut autoriser la continuité de",
+                  "« l'activité de la personne morale agréée en douane par son",
+                  "« représentant légal, pour une durée maximum de quatre (4)",
+                  "« mois renouvelable deux foix, à compter de la date du décès",
+                  "« ou du départ de la personne habile.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - L'article 17 et l'article 22 du décret précité",
+                "paragraphs": [
+                  "n° 2-77-862 sont abrogés.",
+                  "<<<BO_PAGE_11_DELIM>>>",
+                  "Nº 7152 - 20 joumada I 1444 (15-12-2022)"
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le ministre délégué auprès de la ministre de",
+                "paragraphs": [
+                  "l'économie et des finances, chargé du budget, est chargé de",
+                  "l'exécution du présent décret qui sera publié au Bulletin officiel",
+                  "et prend effet à compter du 1er janvier 2023."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-127-P11-2",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 7 joumada I 1444 (2 décembre 2022)",
+      "reference": {
+        "type": "decret",
+        "number": "2-22-959",
+        "date": ""
+      },
+      "pages": {
+        "start": 11,
+        "end": 11
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi de finances n° 76-21 pour l'année budgétaire 2022,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi de finances pour l'année 1982 n° 26-81 promulguée",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est approuvé, tel qu'il est annexé à",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-127-P11-3",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 19 chaabane 1443 (22 mars 2022) fixant les conditions",
+      "reference": {
+        "type": "arrete",
+        "number": "897-22",
+        "date": "2022-03-22"
+      },
+      "pages": {
+        "start": 11,
+        "end": 11
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 33-06 relative à la titrisation des actifs,",
+            "reference_to": "Loi n° 33-06"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 43-12 relative à l'Autorité marocaine du",
+            "reference_to": "Loi n° 43-12"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-08-530 du 17 rejeb 1431 (30 juin 2010) pris",
+            "reference_to": "Decret n° 2-08-530"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Le présent arrêté fixe les conditions",
+                "paragraphs": [
+                  "en matière de règles prudentielles et de contrôle et les modalités",
+                  "de réalisation des opérations d'octroi de financement par",
+                  "un fonds de placement collectif en titrisation ou l'un de ses",
+                  "compartiments.",
+                  "Chapitre II",
+                  "Règles prudentielles et de contrôle applicables",
+                  "aux financements octroyés par un fonds de placement collectif",
+                  "en titrisation (FPCT) ou l'un de ses compartiments"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Pour l'application des dispositions de",
+                "paragraphs": [
+                  "l'article premier de la loi n° 33-06 susvisée, est considéré",
+                  "comme financement octroyé par un FPCT ou l'un de ses",
+                  "compartiments, les opérations de crédit telles que définies",
+                  "au premier alinéa de l'article 3 de la loi n° 103-12 relative aux",
+                  "établissements de crédit et organismes assimilés, promulguée",
+                  "par le dahir n° 1-14-193 du 1er rabii I 1436 (24 décembre 2014)."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Le montant global des déblocages effectués",
+                "paragraphs": [
+                  "par le FPCT, ou l'un de ses compartiments, et des",
+                  "engagements de financement pris par un FPCT, ou l'un de",
+                  "ses compartiments, ne peut excéder, à tout moment de la durée"
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-127-P13-4",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "25 chaoual 1443 (26 mai 2022) portant homologation du règlement technique relatif à la production, au contrôle,",
+      "reference": {
+        "type": "arrete",
+        "number": "1437-22",
+        "date": "2022-05-26"
+      },
+      "pages": {
+        "start": 13,
+        "end": 13
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE MARITIME, DU DÉVELOPPEMENT RURAL ET DES EAUX ET",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le dahir n° 1-69-169 du 10 joumada I 1389 (25 juillet 1969) réglementant la production et la commercialisation de",
+            "reference_to": "Dahir n° 1-69-169"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 25-08 portant création de l'Office national de sécurité sanitaire des produits alimentaires, promulguée",
+            "reference_to": "Loi n° 25-08"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme agraire n°863-75 du 8 chaoual 1397 (22 septembre 1977)",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est homologué, tel qu'il est annexé au présent arrêté, le règlement technique relatif à",
+                "paragraphs": [
+                  "la production, au contrôle, au conditionnement et à la certification des semences et plants des rosacées à noyau",
+                  "(abricotier, amandier, cerisier, pêcher-néctarinier, prunier et leurs porte-greffes).",
+                  "Ce règlement peut être consulté auprès des services de l'Office national de sécurité sanitaire des produits",
+                  "alimentaires (ONSSA) et sur le site web dudit office."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Conformément à l'article 5 du dahir susvisé n°1-69-169, les semences et plants mentionnés à l'article",
+                "paragraphs": [
+                  "premier ci-dessus ne peuvent être commercialisés que par des organismes agréés par arrêté du ministre chargé de",
+                  "l'agriculture.",
+                  "Ceux-ci sont tenus de déclarer, à la demande de l'ONSSA et au moins une fois par an au plus tard le 31 décembre,",
+                  "la situation de leurs stocks de semences et plants certifiés."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - A compter de la date de publication du présent arrêté au « Bulletin officiel », l'arrêté du ministre de",
+                "paragraphs": [
+                  "l'agriculture et du développement rural n° 2099-03 du 8 chaoual 1424 (3 décembre 2003) portant homologation du",
+                  "règlement technique relatif à la production, au contrôle, au conditionnement et à la certification des semences et",
+                  "des plants des rosacées à noyau (abricotier, amandier, cerisier, pêcher-néctarinier, prunier et leurs porte-greffes) est",
+                  "abrogé. Les pépiniéristes qui à cette date bénéficient de l'agrément prévu au dahir susvisé n°1-69-169 disposent d'un",
+                  "délai de deux (2) ans pour se conformer au règlement technique visé à l'article premier ci-dessus."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-127-P27-5",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decision",
+      "title": "du 20 rabii II 1444",
+      "reference": {
+        "type": "decision",
+        "number": "3195-22",
+        "date": "2022-11-15"
+      },
+      "pages": {
+        "start": 27,
+        "end": 27
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE DIRECTEUR DE L'INSTITUT MAROCAIN DE NORMALISATION",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 12-06 relative à la normalisation, à la certification et à l'accréditation promulguée par le",
+            "reference_to": "Loi n° 12-06"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la résolution du Conseil d'administration de l'Institut marocain de normalisation (IMANOR) n° 10,",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCIDE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Sont homologuées comme normes marocaines, les normes dont les références",
+                "paragraphs": [
+                  "sont présentées en annexe de la présente décision."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Les normes visées à l'article premier ci-dessus, sont tenues à la disposition des intéressés à",
+                "paragraphs": [
+                  "l'Institut marocain de normalisation (IMANOR)."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La présente décision sera publiée au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-127-P35-6",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n° 2280-22 du",
+      "reference": {
+        "type": "arrete",
+        "number": "2280-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 35,
+        "end": 35
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le dahir n°1-69-169 du 10 joumada I 1389",
+            "reference_to": "Dahir n° 1-69-169"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 25-08 portant création de l'Office national de",
+            "reference_to": "Loi n° 25-08"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et du",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La société « COMPTOIR AIT",
+                "paragraphs": [
+                  "OMAR » dont le siège social sis n° 15, avenue Alfarah, Boumia,",
+                  "Midelt, est agréée pour commercialiser des plants certifiés",
+                  "des rosacées à pépins et des semences et plants certifiés des",
+                  "rosacées à noyau."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La durée de validité de cet agrément est de cinq",
+                "paragraphs": [
+                  "(5) ans, à compter de la date de publication du présent arrêté",
+                  "au « Bulletin officiel ».",
+                  "Il peut être renouvelé pour la même durée à condition",
+                  "que la demande de renouvellement soit formulée six (6) mois,",
+                  "au moins, avant l'expiration de sa validité."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La déclaration prévue à l'article 2 de chacun",
+                "paragraphs": [
+                  "des arrêtés susvisés nos 2099-03 et 2157-11 doit être faite par",
+                  "la société « COMPTOIR AIT OMAR » à l'Office national",
+                  "de sécurité sanitaire des produits alimentaires, en avril et",
+                  "septembre de chaque année, comme suit :",
+                  "- pour les achats, les ventes et les stocks des plants des",
+                  "rosacées à pépins ;",
+                  "- pour les achats, les ventes et les stocks des semences",
+                  "et plants des rosacées à noyau."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - L'agrément objet du présent arrêté peut-être",
+                "paragraphs": [
+                  "retiré en cas d'infraction dûment constatée aux dispositions du",
+                  "dahir n°1-69-169 susvisé ou des textes pris pour son application."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-127-P35-7",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n°2281-22 du",
+      "reference": {
+        "type": "arrete",
+        "number": "2281-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 35,
+        "end": 36
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le dahir n°1-69-169 du 10 joumada I 1389 (25 juillet 1969)",
+            "reference_to": "Dahir n° 1-69-169"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 25-08 portant création de l'Office national de",
+            "reference_to": "Loi n° 25-08"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et du développement",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et du développement",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture, du développement",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture, de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La société «PEPINIERE",
+                "paragraphs": [
+                  "EL BERKANI» dont le siège social sis Douar Aït Ali Ou",
+                  "Saïd, route Boufekrane, Mejjat, Meknès, est agréée pour",
+                  "commercialiser des plants certifiés d'olivier, de vigne, de",
+                  "grenadier, de figuier, de figuier de barbarie, des rosacées à",
+                  "pépins, des semences et plants certifiés des rosacées à noyau",
+                  "et des plants standard d'arganier."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La durée de validité de cet agrément est de cinq",
+                "paragraphs": [
+                  "(5) ans, à compter de la date de publication du présent arrêté",
+                  "au « Bulletin officiel ».",
+                  "Il peut être renouvelé pour la même durée à condition",
+                  "que la demande de renouvellement soit formulée six (6) mois,",
+                  "au moins, avant l'expiration de sa validité."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La déclaration prévue à l'article 2 de chacun",
+                "paragraphs": [
+                  "des arrêtés susvisés nos 2099-03, 2100-03, 2110-05, 2157-11,",
+                  "2940-13, 3548-13, 784-16 et 986-19 doit être faite par la société",
+                  "«PEPINIERE EL BERKANI» à l'Office national de sécurité",
+                  "sanitaire des produits alimentaires, comme suit :",
+                  "• en avril et septembre de chaque année :",
+                  "- pour les achats et les ventes des plants d'olivier ;",
+                  "- pour les achats, les ventes et les stocks des plants",
+                  "de vigne et des rosacées à pépins ;",
+                  "- pour les achats, les ventes et les stocks des semences",
+                  "et plants des rosacées à noyau ;",
+                  "- pour la production, les ventes et les stocks des plants",
+                  "de figuier ;",
+                  "• en novembre et mai de chaque année pour la situation",
+                  "des stocks des plants de grenadier ;",
+                  "• en septembre de chaque année la production, les ventes",
+                  "et les stocks de plants standards d'arganier ;",
+                  "• annuellement pour les stocks des plants de figuier de",
+                  "barbarie."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - L'agrément objet du présent arrêté peut être",
+                "paragraphs": [
+                  "retiré en cas d'infraction dûment constatée aux dispositions du",
+                  "dahir n°1-69-169 susvisé ou des textes pris pour son application."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-127-P36-8",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n°2282-22 du",
+      "reference": {
+        "type": "arrete",
+        "number": "2282-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 36,
+        "end": 37
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le dahir n°1-69-169 du 10 joumada I 1389 (25 juillet 1969)",
+            "reference_to": "Dahir n° 1-69-169"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 25-08 portant création de l'Office national",
+            "reference_to": "Loi n° 25-08"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et du développement",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et du",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La société «OUAT ELEC» dont",
+                "paragraphs": [
+                  "le siège social sis Hay Habri, Aïn Jerrah, Imouzzer, Kandar,",
+                  "Sefrou, est agréée pour commercialiser des plants certifiés de",
+                  "vigne, des rosacées à pépins et des semences et plants certifiés",
+                  "des rosacées à noyau."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La durée de validité de cet agrément est de cinq",
+                "paragraphs": [
+                  "(5) ans, à compter de la date de publication du présent arrêté",
+                  "au « Bulletin officiel ».",
+                  "Il peut être renouvelé pour la même durée à condition",
+                  "que la demande de renouvellement soit formulée six (6) mois,",
+                  "au moins, avant l'expiration de sa validité."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La déclaration prévue à l'article 2 de chacun des",
+                "paragraphs": [
+                  "arrêtés susvisés nos 2099-03, 2100-03 et 2157-11, doit être faite",
+                  "par la société «OUAT ELEC» à l'Office national de sécurité",
+                  "sanitaire des produits alimentaires, en avril et septembre de",
+                  "chaque année, comme suit :",
+                  "- pour les achats, les ventes et les stocks des plants de",
+                  "vigne et des rosacées à pépins ;",
+                  "- pour les achats, les ventes et les stocks des semences et",
+                  "plants des rosacées à noyau."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - L'agrément objet du présent arrêté peut être",
+                "paragraphs": [
+                  "retiré en cas d'infraction dûment constatée aux dispositions du",
+                  "dahir n°1-69-169 susvisé ou des textes pris pour son application."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-127-P37-9",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n° 2295-22",
+      "reference": {
+        "type": "arrete",
+        "number": "2295-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 37,
+        "end": 37
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le dahir n°1-69-169 du 10 joumada I 1389 (25 juillet 1969)",
+            "reference_to": "Dahir n° 1-69-169"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 25-08 portant création de l'Office national de",
+            "reference_to": "Loi n° 25-08"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et du",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et du",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La société « ZAHEM PRODUCTS »",
+                "paragraphs": [
+                  "dont le siège social sis résidence Mimosa 2, avenue Mohamed V",
+                  "et rue New Work, n° 150, bureau n° 22, 90.000 Tanger, est",
+                  "agréée pour commercialiser des plants certifiés de vigne,",
+                  "des rosacées à pépins et des semences et plants certifiés des",
+                  "rosacées à noyau."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La durée de validité de cet agrément est de cinq",
+                "paragraphs": [
+                  "(5) ans, à compter de la date de publication du présent arrêté",
+                  "au « Bulletin officiel ».",
+                  "Il peut être renouvelé pour la même durée à condition",
+                  "que la demande de renouvellement soit formulée six (6) mois,",
+                  "au moins, avant l'expiration de sa validité."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La déclaration prévue à l'article 2 de chacun",
+                "paragraphs": [
+                  "des arrêtés susvisés nos 2099-03, 2100-03 et 2157-11, doit",
+                  "être faite par la société « ZAHEM PRODUCTS » à l'Office",
+                  "national de sécurité sanitaire des produits alimentaires, en",
+                  "avril et septembre de chaque année, comme suit :",
+                  "- pour les achats, les ventes et les stocks des plants de",
+                  "vigne et des rosacées à pépins ;",
+                  "- pour les achats, les ventes et les stocks des semences",
+                  "et plants des rosacées à noyau."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - L'agrément objet du présent arrêté peut-être",
+                "paragraphs": [
+                  "retiré en cas d'infraction dûment constatée aux dispositions du",
+                  "dahir n°1-69-169 susvisé ou des textes pris pour son application."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-127-P38-10",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n° 2296-22 du",
+      "reference": {
+        "type": "arrete",
+        "number": "2296-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 38,
+        "end": 38
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le dahir n°1-69-169 du 10 joumada I 1389 (25 juillet 1969)",
+            "reference_to": "Dahir n° 1-69-169"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 25-08 portant création de l'Office national de",
+            "reference_to": "Loi n° 25-08"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture, de la pêche",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La société « SURBERRY",
+                "paragraphs": [
+                  "MAROC » dont le siège social sis 183, avenue Prince Héritier,",
+                  "local n°15, RDC et à l'étage, centre NREA, Tanger, est agréée",
+                  "pour commercialiser des plants certifiés des espèces à fruits",
+                  "rouges."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La durée de validité de cet agrément est de cinq",
+                "paragraphs": [
+                  "(5) ans, à compter de la date de publication du présent arrêté",
+                  "au « Bulletin officiel ».",
+                  "Il peut être renouvelé pour la même durée à condition",
+                  "que la demande de renouvellement soit formulée six (6) mois,",
+                  "au moins, avant l'expiration de sa validité."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La déclaration prévue à l'article 2",
+                "paragraphs": [
+                  "de l'arrêté susvisé n° 2109-17 des stocks des plants mentionnés",
+                  "à l'article premier ci-dessus doit être faite en novembre et mai",
+                  "de chaque année par la société « SURBERRY MAROC » à",
+                  "l'Office national de sécurité sanitaire des produits alimentaires."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - L'agrément objet du présent arrêté peut-être",
+                "paragraphs": [
+                  "retiré en cas d'infraction dûment constatée aux dispositions du",
+                  "dahir n°1-69-169 susvisé ou des textes pris pour son application."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-127-P38-11",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n° 2297-22 du",
+      "reference": {
+        "type": "arrete",
+        "number": "2297-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 38,
+        "end": 39
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le dahir n°1-69-169 du 10 joumada I 1389 (25 juillet 1969)",
+            "reference_to": "Dahir n° 1-69-169"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 25-08 portant création de l'Office national de",
+            "reference_to": "Loi n° 25-08"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et du",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La société « AIT OMAR » dont",
+                "paragraphs": [
+                  "le siège social sis n° 15, avenue Alfarah, Boumia, Midelt, est",
+                  "agréée pour commercialiser des plants certifiés des rosacées à",
+                  "pépins et des semences et plants certifiés des rosacées à noyau."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La durée de validité de cet agrément est de cinq",
+                "paragraphs": [
+                  "(5) ans, à compter de la date de publication du présent arrêté",
+                  "au « Bulletin officiel ».",
+                  "Il peut être renouvelé pour la même durée à condition",
+                  "que la demande de renouvellement soit formulée six (6) mois,",
+                  "au moins, avant l'expiration de sa validité."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La déclaration prévue à l'article 2 de chacun",
+                "paragraphs": [
+                  "des arrêtés susvisés nos 2099-03 et 2157-11, doit être faite par la",
+                  "société « AIT OMAR » à l'Office national de sécurité sanitaire",
+                  "des produits alimentaires, en avril et septembre de chaque",
+                  "année, comme suit :",
+                  "- pour les achats, les ventes et les stocks des plants des",
+                  "rosacées à pépins ;",
+                  "- pour les achats, les ventes et les stocks des semences",
+                  "et plants des rosacées à noyau.",
+                  "<<<BO_PAGE_39_DELIM>>>",
+                  "Nº 7152 - 20 joumada I 1444 (15-12-2022)"
+                ]
+              },
+              {
+                "article_number": "ART. 4. - L'agrément objet du présent arrêté peut-être",
+                "paragraphs": [
+                  "retiré en cas d'infraction dûment constatée aux dispositions du",
+                  "dahir n°1-69-169 susvisé ou des textes pris pour son application."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-127-P39-12",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "développement rural et des eaux et forêts n° 2298-22 du",
+      "reference": {
+        "type": "arrete",
+        "number": "2298-22",
+        "date": ""
+      },
+      "pages": {
+        "start": 39,
+        "end": 39
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'AGRICULTURE, DE LA PÊCHE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le dahir n°1-69-169 du 10 joumada I 1389 (25 juillet 1969)",
+            "reference_to": "Dahir n° 1-69-169"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 25-08 portant création de l'Office national de",
+            "reference_to": "Loi n° 25-08"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la réforme",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - La société « MLAH MECHICHE",
+                "paragraphs": [
+                  "ALAMI » dont le siège social sis rue 183, quartier industriel,",
+                  "Kénitra, est agréée pour commercialiser des semences",
+                  "certifiées du riz."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - La durée de validité de cet agrément est de cinq",
+                "paragraphs": [
+                  "(5) ans, à compter de la date de publication du présent arrêté",
+                  "au « Bulletin officiel ».",
+                  "Il peut être renouvelé pour la même durée à condition",
+                  "que la demande de renouvellement soit formulée six (6) mois,",
+                  "au moins, avant l'expiration de sa validité."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La déclaration prévue à l'article 2 de l'arrêté",
+                "paragraphs": [
+                  "susvisé n° 2197-13 des achats, des ventes et des stocks des",
+                  "semences mentionnées à l'article premier ci-dessus doit être",
+                  "faite à la fin du mois de décembre de chaque année par la",
+                  "société « MLAH MECHICHE ALAMI » à l'Office national",
+                  "de sécurité sanitaire des produits alimentaires."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - L'agrément objet du présent arrêté peut être",
+                "paragraphs": [
+                  "retiré en cas d'infraction dûment constatée aux dispositions du",
+                  "dahir n° 1-69-169 susvisé ou des textes pris pour son application."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-127-P39-13",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "decision",
+      "title": "la prévoyance sociale n° P/EA/05.22 du 6 joumada I 1444",
+      "reference": {
+        "type": "decision",
+        "number": "",
+        "date": ""
+      },
+      "pages": {
+        "start": 39,
+        "end": 40
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CONSEIL DE L'AUTORITÉ DE CONTRÔLE DES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 17-99 portant code des assurances promulguée",
+            "reference_to": "Loi n° 17-99"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 64-12 portant création de l'Autorité de",
+            "reference_to": "Loi n° 64-12"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la circulaire du président de l'Autorité de contrôle des",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la décision du Conseil de l'Autorité de contrôle",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la demande d'octroi d'agrément présentée en date du",
+            "reference_to": null
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission de régulation, réunie le"
+          },
+          {
+            "type": "adoption",
+            "text": "Après délibérations du Conseil de l'Autorité de contrôle"
+          }
+        ],
+        "enacting_clause": "DÉCIDE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'entreprise d'assurances et de",
+                "paragraphs": [
+                  "réassurance «Axa assistance Maroc », dont le siège social est",
+                  "situé à Casablanca, 128, boulevard Lahcen Ou Idder - Mers",
+                  "Sultan, est agréée pour pratiquer les catégories d'opérations",
+                  "d'assurances et de réassurance ci-après, prévues aux 23°) et 29°)",
+                  "de l'article 6 de la circulaire du président de l'Autorité de",
+                  "contrôle des assurances et de la prévoyance sociale n° 01/AS/19",
+                  "susvisée :",
+                  "23°) Opérations d'assistance : toute opération",
+                  "d'assistance aux personnes en difficulté, notamment au cours",
+                  "de déplacements ;",
+                  "29°) Opérations de réassurance relatives aux opérations",
+                  "d'assistance."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Est abrogée la décision du Conseil de l'Autorité",
+                "paragraphs": [
+                  "de contrôle des assurances et de la prévoyance sociale",
+                  "n° P/EA/21.20 du 18 rabii I 1442 (4 novembre 2020) portant",
+                  "octroi d'agrément à l'entreprise d'assurances «Axa assistance",
+                  "Maroc»."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La présente décision est publiée au Bulletin",
+                "paragraphs": [
+                  "officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    }
+  ]
+}

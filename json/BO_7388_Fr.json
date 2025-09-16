@@ -1,0 +1,1792 @@
+{
+  "bulletin_number": "7388",
+  "publication_date": {
+    "gregorian": "2025-03-20",
+    "hijri": "19 ramadan 1446"
+  },
+  "source_file": "BO_7388_Fr.pdf",
+  "content": [
+    {
+      "entry_id": "BO-7388-P3-1",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decret",
+      "title": "du 10 ramadan 1446 (11 mars 2025)",
+      "reference": {
+        "type": "decret",
+        "number": "2-24-1141",
+        "date": "2025-03-11"
+      },
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE CHEF DU GOUVERNEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi de finances n° 55-23 pour l'année budgétaire 2024,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le paragraphe premier de l'article 41 de la loi de finances",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCRÈTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Est approuvé, tel qu'il est annexé",
+                "paragraphs": [
+                  "à l'original du présent décret, le contrat de prêt d'un montant",
+                  "de cent millions d'euros (100.000.000,00 d'euros), conclu le",
+                  "19 décembre 2024 entre le Royaume du Maroc et la KfW,",
+                  "pour le financement du programme « Appui aux politiques",
+                  "climatiques »."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le ministre délégué auprès de la ministre de",
+                "paragraphs": [
+                  "l'économie et des finances, chargé du budget est chargé de",
+                  "l'exécution du présent décret qui sera publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7388-P3-2",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 5 rejeb 1446 (6 janvier 2025) relatif à l'émission des",
+      "reference": {
+        "type": "arrete",
+        "number": "02-25",
+        "date": "2025-01-06"
+      },
+      "pages": {
+        "start": 3,
+        "end": 3
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi de finances n° 60-24 pour l'année budgétaire",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 35-96 relative à la création d'un dépositaire",
+            "reference_to": "Loi n° 35-96"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-950 du 15 joumada II 1446",
+            "reference_to": "Decret n° 2-24-950"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Sur l'autorisation d'emprunter",
+                "paragraphs": [
+                  "prévue par les articles 43 et 44 de la loi de finances susvisée",
+                  "n° 60-24, des émissions des bons du Trésor par voie",
+                  "d'adjudication ou de syndication sont ouvertes durant l'année",
+                  "budgétaire 2025."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Toute personne physique résidente ou non",
+                "paragraphs": [
+                  "résidente ou personne morale, ayant son siège social au Maroc",
+                  "ou à l'étranger peut soumissionner aux émissions des bons du",
+                  "Trésor par voie d'adjudication ou de syndication."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Les bons de Trésor d'une valeur nominale",
+                "paragraphs": [
+                  "unitaire de cent-mille (100.000) dirhams sont émis pour :",
+                  "• des termes très courts (entre 7 jours et 10 semaines) ;",
+                  "• des termes courts (13, 26, 52 semaines et 2 ans) ; et",
+                  "• des termes moyens et longs (5, 10, 15, 20 et 30 ans et plus)."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - Le Trésor peut émettre des bons à maturité",
+                "paragraphs": [
+                  "de 52 semaines à coupon d'une durée égale ou supérieure à",
+                  "une année, n'excédant pas deux ans et des bons à maturité de",
+                  "2 ans et plus avec un premier coupon d'une durée inférieure",
+                  "ou égale ou supérieure à une année, n'excédant pas deux ans."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Les bons du Trésor sont émis à taux fixe ou à",
+                "paragraphs": [
+                  "taux révisable ou à taux indexé sur l'inflation."
+                ]
+              },
+              {
+                "article_number": "ART. 6. - Les bons du Trésor sont des instruments",
+                "paragraphs": [
+                  "financiers négociables sur le marché secondaire de gré à gré",
+                  "ou à travers la plateforme de négociation électronique dédiée",
+                  "à cet effet par la direction du Trésor et des finances extérieures."
+                ]
+              },
+              {
+                "article_number": "ART. 7. - Les dates d'émission et de règlement des bons",
+                "paragraphs": [
+                  "du Trésor ainsi que leurs caractéristiques y compris la date",
+                  "de règlement du premier coupon sont portées, en temps utile,",
+                  "à la connaissance des investisseurs."
+                ]
+              },
+              {
+                "article_number": "ART. 8. - A l'exception des bons du Trésor à très court",
+                "paragraphs": [
+                  "terme ou ceux émis par voie de syndication et qui peuvent être",
+                  "émis hors calendrier, les opérations d'adjudications ont lieu",
+                  "selon le calendrier suivant :",
+                  "- le premier et le troisième mardi de chaque mois et l'avant",
+                  "dernier mardi dans le cas où le mois comporte 5 mardis,",
+                  "pour les bons de Trésor à maturité de 13 semaines,",
+                  "52 semaines et 2 ans ;",
+                  "- le deuxième mardi de chaque mois, pour les bons du",
+                  "Trésor à maturité de 26 semaines, 52 semaines, 5 ans",
+                  "et 15 ans ;"
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7388-P5-3",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 5 rejeb 1446 (6 janvier 2025) relatif aux opérations de",
+      "reference": {
+        "type": "arrete",
+        "number": "03-25",
+        "date": "2025-01-06"
+      },
+      "pages": {
+        "start": 5,
+        "end": 6
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi de finances n° 60-24 pour l'année budgétaire",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-950 du 15 joumada II 1446",
+            "reference_to": "Decret n° 2-24-950"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Sur l'autorisation d'effectuer des",
+                "paragraphs": [
+                  "opérations de gestion active de la dette intérieure prévue",
+                  "par l'article 44 de la loi de finances susvisée n° 60-24 pour",
+                  "l'année budgétaire 2025, la direction du Trésor et des finances",
+                  "extérieures peut procéder à des rachats et des échanges des",
+                  "bons du Trésor émis par voie d'adjudication ou de syndication."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Les opérations de rachat consistent à acheter,",
+                "paragraphs": [
+                  "sur le marché secondaire, des bons du Trésor émis à une date",
+                  "antérieure à l'opération de rachat."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Les opérations d'échange consistent en la",
+                "paragraphs": [
+                  "réalisation, simultanément, des deux opérations suivantes :",
+                  "- rachat, sur le marché secondaire, de bons du Trésor",
+                  "émis antérieurement à la date de l'opération d'échange ;",
+                  "- et émission au profit des détenteurs des bons rachetés,",
+                  "dénommés ci-après « les autres parties », de nouveaux",
+                  "bons du Trésor en remplacement des bons du Trésor",
+                  "rachetés."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - Les opérations de rachat et d'échange des bons",
+                "paragraphs": [
+                  "du Trésor sont effectuées de gré à gré ou par voie d'appel",
+                  "d'offres."
+                ]
+              },
+              {
+                "article_number": "ART. 5. - Pour les opérations de rachat et d'échange",
+                "paragraphs": [
+                  "effectuées par voie d'appel d'offres, les dates de réalisation et",
+                  "de règlement de ces opérations ainsi que les caractéristiques",
+                  "des bons du Trésor à racheter ou à échanger sont portées, en",
+                  "temps utile, à la connaissance des investisseurs."
+                ]
+              },
+              {
+                "article_number": "ART. 6. - Pour les opérations de rachat et d'échange",
+                "paragraphs": [
+                  "effectuées par voie d'appel d'offres, les soumissions exprimées",
+                  "en prix, sont reçues sous forme anonyme par la direction du",
+                  "Trésor et des finances extérieures à travers le système d'envoi",
+                  "électronique d'adjudication géré par Bank Al-Maghrib.",
+                  "En cas de panne de ce système, Bank Al-Maghrib établit",
+                  "un tableau anonyme des offres et le transmet par fax ou par",
+                  "voie électronique à la direction du Trésor et des finances",
+                  "extérieures."
+                ]
+              },
+              {
+                "article_number": "ART. 7. - Pour les opérations de rachat visées à l'article 6",
+                "paragraphs": [
+                  "ci-dessus, la direction du Trésor et des finances extérieures",
+                  "fixe le prix limite de rachat. Seules les soumissions faites à un",
+                  "prix inférieur ou égal au prix limite de rachat sont retenues.",
+                  "Les soumissions retenues sont servies aux prix proposés",
+                  "par les soumissionnaires."
+                ]
+              },
+              {
+                "article_number": "ART. 8. - Pour les opérations d'échange prévues par",
+                "paragraphs": [
+                  "l'article 6 ci-dessus, la direction du Trésor et des finances",
+                  "extérieures peut fixer soit le prix des bons du Trésor à racheter,",
+                  "soit le prix des bons du Trésor à émettre. Ces prix sont",
+                  "déterminés sur la base des conditions de marché.",
+                  "<<<BO_PAGE_6_DELIM>>>",
+                  "Nº 7388 - 19 ramadan 1446 (20-3-2025)"
+                ]
+              },
+              {
+                "article_number": "ART. 9. - Lorsque le prix des bons du Trésor à racheter",
+                "paragraphs": [
+                  "est fixé, la direction du Trésor et des finances extérieures arrête",
+                  "le prix limite des bons du Trésor à émettre.",
+                  "Seules les soumissions faites à un prix supérieur ou égal",
+                  "au prix limite des bons du Trésor à émettre sont retenues.",
+                  "Lorsque le prix des bons du Trésor à émettre est fixé, la",
+                  "direction du Trésor et des finances extérieures arrête le prix",
+                  "limite des bons du Trésor à racheter.",
+                  "Seules les soumissions faites à un prix inférieur ou égal",
+                  "au prix limite des bons du Trésor à racheter sont retenues.",
+                  "Les soumissions retenues, dans les deux cas précités,",
+                  "sont servies aux prix proposés par les soumissionnaires."
+                ]
+              },
+              {
+                "article_number": "ART. 10. - Les résultats des opérations de rachat et",
+                "paragraphs": [
+                  "d'échange effectuées par voie d'appel d'offres sont portés à la",
+                  "connaissance du public."
+                ]
+              },
+              {
+                "article_number": "ART. 11. - Pour les opérations de rachat et d'échange",
+                "paragraphs": [
+                  "effectuées de gré à gré, les dates de réalisation et de règlement",
+                  "de ces opérations ainsi que les caractéristiques des bons du",
+                  "Trésor objet de ces opérations sont convenues avec les autres",
+                  "parties. Les prix des bons du Trésor à racheter et ceux à",
+                  "émettre sont négociés avec les autres parties sur la base des",
+                  "conditions de marché."
+                ]
+              },
+              {
+                "article_number": "ART. 12. - Dans le cas d'une opération de rachat, les",
+                "paragraphs": [
+                  "autres parties reçoivent le prix desdits bons, augmenté du",
+                  "montant du coupon courus calculé entre la date de paiement",
+                  "du coupon précédent et la date de règlement des bons rachetés."
+                ]
+              },
+              {
+                "article_number": "ART. 13. - Dans le cas d'une opération d'échange, la",
+                "paragraphs": [
+                  "valeur globale des bons du Trésor rachetés est remplacée par",
+                  "la valeur globale des bons du Trésor émis.",
+                  "La valeur globale des bons du Trésor rachetés est égale",
+                  "au prix de ces bons augmenté de la valeur des coupons courus",
+                  "calculés entre la date de paiement du coupon précédent et la",
+                  "date de règlement desdits bons.",
+                  "La valeur globale des bons du Trésor émis est égale",
+                  "au prix de ces bons augmenté, dans le cas où ces bons sont",
+                  "rattachés à des émissions des bons du Trésor antérieurs, de la",
+                  "valeur des coupons courus calculés entre la date d'émission",
+                  "ou la date de paiement du coupon précédent et la date de",
+                  "règlement desdits bons.",
+                  "Lorsque la différence entre la valeur globale des bons",
+                  "du Trésor rachetés et la valeur globale des bons du Trésor",
+                  "émis est positive, les autres parties reçoivent le montant de",
+                  "différence constatée.",
+                  "Lorsque la différence entre les deux valeurs précitées est",
+                  "négative, les autres parties règlent le montant de la différence",
+                  "constaté.",
+                  "Toutefois, lorsque cette différence est nulle, l'opération",
+                  "d'échange ne donne lieu à aucun règlement."
+                ]
+              },
+              {
+                "article_number": "ART. 14. - Les bons de Trésor rachetés dans le cadre des",
+                "paragraphs": [
+                  "opérations de rachat et d'échange ne génèrent pas d'intérêts",
+                  "à partir de la date du jour du règlement desdites opérations."
+                ]
+              },
+              {
+                "article_number": "ART. 15. - La direction du Trésor et des finances",
+                "paragraphs": [
+                  "extérieures et Bank Al-Maghrib sont chargées, chacune en",
+                  "ce qui la concerne, de l'exécution du présent arrêté qui est",
+                  "publié au Bulletin officiel."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7388-P6-4",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 5 rejeb 1446 (6 janvier 2025) relatif aux emprunts à",
+      "reference": {
+        "type": "arrete",
+        "number": "04-25",
+        "date": "2025-01-06"
+      },
+      "pages": {
+        "start": 6,
+        "end": 6
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi de finances n° 60-24 pour l'année budgétaire",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-950 du 15 joumada II 1446",
+            "reference_to": "Decret n° 2-24-950"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Sur l'autorisation d'emprunter",
+                "paragraphs": [
+                  "prévue par l'article 43 de la loi de finances susvisée n° 60-24,",
+                  "la direction du Trésor et des finances extérieures peut procéder",
+                  "à des emprunts à très court terme auprès des banques durant",
+                  "l'année budgétaire 2025."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - L'emprunt s'effectue par voie d'appel d'offres",
+                "paragraphs": [
+                  "ou de gré à gré pour une durée allant d'un jour à sept (7) jours",
+                  "ouvrables."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Dans le cas d'un emprunt par voie d'appel",
+                "paragraphs": [
+                  "d'offres, les dates de l'emprunt et ses conditions sont portées",
+                  "en temps utile à la connaissance des soumissionnaires."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - Si l'emprunt se fait par voie d'appel d'offres,",
+                "paragraphs": [
+                  "la direction du Trésor et des finances extérieures fixe un taux",
+                  "limite pour l'emprunt.",
+                  "Seules les soumissions faites à un taux inférieur ou égal",
+                  "au taux limite sont retenues.",
+                  "Les soumissions retenues sont servies aux taux proposés",
+                  "par les soumissionnaires."
+                ]
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7388-P7-5",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 5 rejeb 1446 (6 janvier 2025) relatif aux opérations de",
+      "reference": {
+        "type": "arrete",
+        "number": "05-25",
+        "date": "2025-01-06"
+      },
+      "pages": {
+        "start": 7,
+        "end": 7
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi de finances n° 60-24 pour l'année budgétaire",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 24-01 relative aux opérations de pension",
+            "reference_to": "Loi n° 24-01"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-950 du 15 joumada II 1446",
+            "reference_to": "Decret n° 2-24-950"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Sur l'autorisation d'effectuer des",
+                "paragraphs": [
+                  "opérations de gestion active de la dette intérieure prévue",
+                  "par l'article 44 de la loi de finances susvisée n°60-24 pour",
+                  "l'année budgétaire 2025, la direction du Trésor et des finances",
+                  "extérieures peut émettre des bons du Trésor pour les mettre",
+                  "en pension auprès de certaines banques avec lesquelles elle a",
+                  "conclu des conventions portant engagement desdites banques",
+                  "à l'animation du marché primaire et du marché secondaire",
+                  "des bons du Trésor."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Les opérations de mise en pension des bons",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7388-P8-6",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 5 rejeb 1446 (6 janvier 2025) relatif à l'émission des",
+      "reference": {
+        "type": "arrete",
+        "number": "06-25",
+        "date": "2025-01-06"
+      },
+      "pages": {
+        "start": 8,
+        "end": 8
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi de finances n° 60-24 pour l'année budgétaire",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 33-06 relative à la titrisation des actifs,",
+            "reference_to": "Loi n° 33-06"
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-950 du 15 joumada II 1446",
+            "reference_to": "Decret n° 2-24-950"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Sur l'autorisation de recourir à tout",
+                "paragraphs": [
+                  "autre instrument financier prévue par l'article 43 de la loi de",
+                  "finances susvisée n°60-24 pour l'année budgétaire 2025, des",
+                  "opérations d'émission des certificats de Sukuk sont ouvertes,",
+                  "durant l'année budgétaire 2025 conformément à la loi susvisée",
+                  "n° 33-06 relative à la titrisation des actifs."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Les modalités de chaque opération d'émission",
+                "paragraphs": [
+                  "des certificats de Sukuk ainsi que les caractéristiques des actifs",
+                  "y afférentes sont déterminées dans le règlement de gestion du",
+                  "fonds de titrisation."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - Les dates des opérations visées à l'article",
+                "paragraphs": [
+                  "premier ci-dessus, sont portées, par la direction du Trésor et",
+                  "des finances extérieures, à la connaissance des investisseurs",
+                  "en temps utile."
+                ]
+              },
+              {
+                "article_number": "ART. 4. - Le présent arrêté est publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7388-P8-7",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "8 chaabane 1446 (7 février 2025) fixant, pour l'année 2025,",
+      "reference": {
+        "type": "arrete",
+        "number": "95-25",
+        "date": ""
+      },
+      "pages": {
+        "start": 8,
+        "end": 8
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu les articles 10 (II-A-2°) et 35 du Code général des",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu les taux d'intérêts des bons du Trésor à six mois de",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Le taux maximum des intérêts",
+                "paragraphs": [
+                  "déductibles servis aux associés, en raison des sommes avancées",
+                  "par eux à la société pour les besoins de l'exploitation, est fixé",
+                  "à 2,74 % pour l'année 2025."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7388-P8-8",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "14 chaabane 1446 (13 février 2025) fixant, pour l'année",
+      "reference": {
+        "type": "arrete",
+        "number": "377-25",
+        "date": ""
+      },
+      "pages": {
+        "start": 8,
+        "end": 10
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA MINISTRE DE L'ÉCONOMIE ET DES FINANCES",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu les dispositions des articles 65-II du Code général des",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les coefficients de réévaluation",
+                "paragraphs": [
+                  "en matière d'impôt sur le revenu au titre des profits fonciers,",
+                  "prévus par les dispositions de l'article 65-II du code précité,",
+                  "sont fixés pour l'année 2025 comme suit :",
+                  "<<<BO_PAGE_9_DELIM>>>",
+                  "Nº 7388 - 19 ramadan 1446 (20-3-2025)",
+                  "Années",
+                  "Coefficients",
+                  "Année 1945 et années",
+                  "antérieures",
+                  "3%",
+                  "57,315",
+                  "44,634",
+                  "31,466",
+                  "25,277",
+                  "24,688",
+                  "21,930",
+                  "18,713",
+                  "18,118",
+                  "19,758",
+                  "18,713",
+                  "15,891",
+                  "16,747",
+                  "13,694",
+                  "13,694",
+                  "13,175",
+                  "12,571",
+                  "12,361",
+                  "11,373",
+                  "10,945",
+                  "10,576",
+                  "10,621",
+                  "10,812",
+                  "10,737",
+                  "10,371",
+                  "10,266",
+                  "9,792",
+                  "9,292",
+                  "9,174",
+                  "8,199",
+                  "7,104",
+                  "6,485",
+                  "5,969",
+                  "5,365",
+                  "4,981",
+                  "4,610",
+                  "4,111",
+                  "3,693",
+                  "3,548",
+                  "3,061",
+                  "2,898",
+                  "2,634",
+                  "2,589",
+                  "2,530",
+                  "2,441",
+                  "2,282",
+                  "2,085",
+                  "1,984",
+                  "1,881",
+                  "1,805",
+                  "1,719",
+                  "1,673",
+                  "1,660",
+                  "1,616",
+                  "1,602",
+                  "1,573",
+                  "1,557",
+                  "1,524",
+                  "1,511",
+                  "1,481",
+                  "1,467",
+                  "1,421",
+                  "1,391",
+                  "1,341",
+                  "1,299",
+                  "1,286",
+                  "<<<BO_PAGE_10_DELIM>>>",
+                  "Nº 7388 - 19 ramadan 1446 (20-3-2025)",
+                  "1,275",
+                  "1,260",
+                  "1,239",
+                  "1,234",
+                  "1,214",
+                  "1,196",
+                  "1,187",
+                  "1,166",
+                  "1,164",
+                  "1,155",
+                  "1,141",
+                  "1,070",
+                  "1,009"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7388-P10-9",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "de la pêche maritime, du développement rural et des eaux et",
+      "reference": {
+        "type": "arrete",
+        "number": "181-25",
+        "date": "2025-01-22"
+      },
+      "pages": {
+        "start": 10,
+        "end": 10
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-990 du 24 rabii II 1446 (28 octobre",
+            "reference_to": "Decret n° 2-24-990"
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture, de la pêche",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'agriculture et de la pêche",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les dispositions de l'article 2 du",
+                "paragraphs": [
+                  "règlement intérieur du comité consultatif de l'interprofession",
+                  "agricole et halieutique annexé à l'arrêté n° 2288-14 du",
+                  "21 chaabane 1435 (19 juin 2014) susvisé sont modifiées comme",
+                  "suit :",
+                  "« Annexe",
+                  "« à l'arrêté du ministre de l'agriculture",
+                  "« et de la pêche maritime n° 2288-14",
+                  "« du 21 chaabane 1435 (19 juin 2014) fixant",
+                  "« le règlement intérieur du comité consultatif",
+                  "« de l'interprofession agricole et halieutique",
+                  "« Règlement intérieur du comité consultatif",
+                  "« de l'interprofession agricole et halieutique",
+                  "« .................................................................",
+                  "« Article 2. - Secrétariat du comité",
+                  "« Le secrétariat du comité est assuré par :",
+                  "« - la direction ................................ de l'agriculture ;",
+                  "« - la direction de la stratégie et de la coopération",
+                  "« relevant de l'autorité gouvernementale chargée de la",
+                  "« pêche maritime - Département de la pêche maritime -",
+                  "« pour les demandes d'avis relatives aux interprofessions",
+                  "« halieutiques et toute autre question concernant le",
+                  "« domaine halieutique.",
+                  "« - le secrétariat assiste ............................................",
+                  "(Le reste sans modification.)"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7388-P11-10",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "eaux et forêts, chargée de la pêche maritime n° 361-25 du 13 chaabane 1446 (12 février 2025) complétant l'annexe",
+      "reference": {
+        "type": "arrete",
+        "number": "361-25",
+        "date": ""
+      },
+      "pages": {
+        "start": 11,
+        "end": 11
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LA SECRÉTAIRE D'ETAT AUPRÈS DU MINISTRE DE L'AGRICULTURE, DE LA PÊCHE MARITIME, DU DÉVELOPPEMENT",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre des pêches maritimes et de la marine marchande n° 1154-88 du 20 safar 1409 (3 octobre",
+            "reference_to": null
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de l'Institut national de recherche halieutique ;"
+          },
+          {
+            "type": "adoption",
+            "text": "Après consultation des chambres des pêches maritimes,"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les dispositions du tableau annexé à l'arrêté n° 1154-88 du 20 safar 1409 (3 octobre 1988)",
+                "paragraphs": [
+                  "susvisé sont modifiées comme suit :",
+                  "« Tableau annexé à l'arrêté du ministre des pêches maritimes et de la marine marchande n° 1154-88",
+                  "« du 20 safar 1409 (3 octobre 1988) fixant la taille marchande minimale des espèces pêchées",
+                  "« dans les eaux maritimes marocaines",
+                  "« Les dispositions du présent tableau doivent être comprises et appliquées comme suit :",
+                  "« ………………………………………..dix (10) kilogrammes.",
+                  "Nom français",
+                  "Nom",
+                  "scientifique",
+                  "Taille minimale",
+                  "réglementaire",
+                  "Normes de",
+                  "mensuration",
+                  "Seuils ou marges de",
+                  "tolérance admis",
+                  "I-Poissons",
+                  "............................................................................",
+                  "Dorade rose",
+                  ".................",
+                  ".................",
+                  ".................",
+                  ".................",
+                  "Dorade grise",
+                  "ou griset",
+                  "Spondyliosoma",
+                  "cantharus",
+                  "25 cm",
+                  "Longueur à la",
+                  "fourche",
+                  "Tassergual",
+                  "Pomatomeus",
+                  "Saltatrix",
+                  "65 cm",
+                  "Longueur totale",
+                  "Sar commun",
+                  "…………",
+                  "………….",
+                  "…………...",
+                  "…………...",
+                  "II-Crustacés",
+                  "…………………………………………………………………………………………",
+                  "III-Coquillages",
+                  "………………………………………………………………………………………",
+                  "IV-Céphalopodes",
+                  "………………………………………………………………………………………",
+                  "V-Echinodermes",
+                  "………………………………………………………………………………………",
+                  "VI-Cnidaires",
+                  "………………………………………………………………………………………",
+                  "(La suite sans modification.)"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7388-P12-11",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "decision",
+      "title": "du 14 chaabane 1446",
+      "reference": {
+        "type": "decision",
+        "number": "433-25",
+        "date": ""
+      },
+      "pages": {
+        "start": 12,
+        "end": 12
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE DIRECTEUR DE L'INSTITUT MAROCAIN DE NORMALISATION",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu la loi n° 12-06 relative à la normalisation, à la certification et à l'accréditation, promulguée par le",
+            "reference_to": "Loi n° 12-06"
+          },
+          {
+            "type": "visa",
+            "text": "Vu la résolution du Conseil d'administration de l'Institut marocain de normalisation (IMANOR) n° 10,",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "DÉCIDE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Sont homologuées comme normes marocaines, les normes dont les références",
+                "paragraphs": [
+                  "sont présentées en annexe de la présente décision."
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Les normes visées à l'article premier ci-dessus, sont tenues à la disposition des intéressés à",
+                "paragraphs": [
+                  "l'Institut marocain de normalisation (IMANOR)."
+                ]
+              },
+              {
+                "article_number": "ART. 3. - La présente décision sera publiée au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7388-P23-12",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 387-25 du 15 chaabane",
+      "reference": {
+        "type": "arrete",
+        "number": "387-25",
+        "date": ""
+      },
+      "pages": {
+        "start": 23,
+        "end": 23
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'éducation nationale, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du Conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 743-09 du 26 rabii I 1430 (24 mars 2009), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en biologie",
+                  "« médicale (ou analyses biologiques médicales), est fixée ainsi",
+                  "« qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Allemagne :",
+                  "« ............................................................................................",
+                  "« - Titre de médecin spécialiste en biologie médicale,",
+                  "« délivré par le Conseil des médecins de Westphalie-",
+                  "« Lippe - Allemagne.",
+                  "«يجب أن تقرن هذه الشهادة باجتياز امتحان تقييمي بنجاج مسلم",
+                  "«من طرف إحدى كليات الطب والصيدلة باملغرب الذي تصادق عليه",
+                  "«اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7388-P23-13",
+      "category_raw": "TEXTES GENERAUX",
+      "category_normalized": "general_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 388-25 du 15 chaabane",
+      "reference": {
+        "type": "arrete",
+        "number": "388-25",
+        "date": ""
+      },
+      "pages": {
+        "start": 23,
+        "end": 23
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'éducation nationale, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du Conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 752-06 du 27 rabii I 1427 (26 avril 2006), est complété comme",
+                  "suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en gastro-",
+                  "« entérologie, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Ukraine :",
+                  "« ............................................................................................",
+                  "« - Certificate of specialized training in medicine (clinical",
+                  "« ordinatura), specialization in gastroenterology, délivré",
+                  "« par Sil Zaporizhia medical Academy of post-graduate",
+                  "« education ministry of health of Ukraine - Ukraine.",
+                  "«يجب أن تقرن هذه الشهادة بتدريب مدته سنتين مع اجتياز",
+                  "«امتحان تقييمي بنجاح مسلم من طرف إحدى كليات الطب والصيدلة",
+                  "«باملغرب الذي تصادق عليه اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7388-P24-14",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 389-25 du 15 chaabane",
+      "reference": {
+        "type": "arrete",
+        "number": "389-25",
+        "date": ""
+      },
+      "pages": {
+        "start": 24,
+        "end": 24
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'éducation nationale, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du Conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 752-06 du 27 rabii I 1427 (26 avril 2006), est complété comme",
+                  "suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en gastro-",
+                  "« entérologie, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - France :",
+                  "« ............................................................................................",
+                  "« - Diplôme national d'études spécialisées de hepato-",
+                  "« gastro-entérologie, délivré par l'Université de Rouen",
+                  "« Normandie - France. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7388-P24-15",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 390-25 du 15 chaabane",
+      "reference": {
+        "type": "arrete",
+        "number": "390-25",
+        "date": ""
+      },
+      "pages": {
+        "start": 24,
+        "end": 24
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'éducation nationale, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du Conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 753-06 du 27 rabii I 1427 (26 avril 2006), est complété comme",
+                  "suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en néphrologie,",
+                  "« est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Ukraine :",
+                  "« ............................................................................................",
+                  "« - Certificate of specialized training in medicine (clinical",
+                  "« ordinatura), specialization in nephrology, délivré",
+                  "« par Sil Zaporizhia medical Academy of post-graduate",
+                  "« education ministry of health of Ukraine - Ukraine.",
+                  "«يجب أن تقرن هذه الشهادة بتدريب مدته سنتين مع اجتياز",
+                  "«امتحان تقييمي بنجاح مسلم من طرف إحدى كليات الطب والصيدلة",
+                  "«باملغرب الذي تصادق عليه اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7388-P25-16",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 391-25 du 15 chaabane",
+      "reference": {
+        "type": "arrete",
+        "number": "391-25",
+        "date": ""
+      },
+      "pages": {
+        "start": 25,
+        "end": 25
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'éducation nationale, de",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du Conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 1214-07 du 16 joumada II 1428 (2 juillet 2007), est complété",
+                  "comme suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en oncologie",
+                  "« médicale, est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Suisse :",
+                  "« ............................................................................................",
+                  "« - Titre postgrade fédéral de médecin spécialiste en",
+                  "« oncologie médicale, délivré par Federal Department",
+                  "« of Home Affairs FDHA - Suisse.",
+                  "«يجب أن تقرن هذه الشهادة باجتياز امتحان تقييمي بنجاج مسلم",
+                  "«من طرف إحدى كليات الطب والصيدلة باملغرب الذي تصادق عليه",
+                  "«اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7388-P25-17",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "scientifique et de l'innovation n° 392-25 du 15 chaabane",
+      "reference": {
+        "type": "arrete",
+        "number": "392-25",
+        "date": ""
+      },
+      "pages": {
+        "start": 25,
+        "end": 25
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'ENSEIGNEMENT SUPÉRIEUR, DE LA",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'enseignement supérieur,",
+            "reference_to": null
+          },
+          {
+            "type": "visa",
+            "text": "Vu le décret n° 2-24-991 du 24 rabii II 1446 (28 octobre",
+            "reference_to": "Decret n° 2-24-991"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis de la commission sectorielle des sciences de"
+          },
+          {
+            "type": "adoption",
+            "text": "Après avis du Conseil national de l'Ordre national des"
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - L'article premier de l'arrêté susvisé",
+                "paragraphs": [
+                  "n° 282-04 du 25 hija 1424 (16 février 2004), est complété comme",
+                  "suit :",
+                  "« Article premier. - La liste des diplômes reconnus",
+                  "« équivalents au diplôme de spécialité médicale en pédiatrie,",
+                  "« est fixée ainsi qu'il suit :",
+                  "« ............................................................................................",
+                  "« - Ukraine :",
+                  "« ............................................................................................",
+                  "« - Certificate of specialized training in medicine (clinical",
+                  "« ordinatura), specialization in pediatrics, délivré par Sil",
+                  "« Zaporizhia medical Academy of post-graduate",
+                  "« education ministry of health of Ukraine - Ukraine.",
+                  "«يجب أن تقرن هذه الشهادة بتدريب مدته سنتين مع اجتياز",
+                  "«امتحان تقييمي بنجاح مسلم من طرف إحدى كليات الطب والصيدلة",
+                  "«باملغرب الذي تصادق عليه اللجنة القطاعية لعلوم الصحة.»"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    },
+    {
+      "entry_id": "BO-7388-P26-18",
+      "category_raw": "TEXTES PARTICULIERS",
+      "category_normalized": "particular_texts",
+      "sub_category": null,
+      "document_type": "arrete",
+      "title": "du 21 rejeb 1446",
+      "reference": {
+        "type": "arrete",
+        "number": "236-25",
+        "date": "2025-01-22"
+      },
+      "pages": {
+        "start": 26,
+        "end": 27
+      },
+      "legal_references": {
+        "based_on": [],
+        "modifies": [],
+        "abrogates": [],
+        "effective_date": ""
+      },
+      "document_structure": {
+        "promulgating_authority": "LE MINISTRE DE L'INTÉRIEUR",
+        "preamble": [
+          {
+            "type": "visa",
+            "text": "Vu l'arrêté du ministre de l'intérieur n° 1338-18 du",
+            "reference_to": null
+          }
+        ],
+        "enacting_clause": "ARRÊTE :",
+        "chapters": [
+          {
+            "chapter_number": "Chapitre",
+            "chapter_title": null,
+            "articles": [
+              {
+                "article_number": "ARTICLE PREMIER. - Les dispositions des articles",
+                "paragraphs": [
+                  "premier, 3, 4 (3ème alinéa), 5, 8 et 9 de l'arrêté du ministre de",
+                  "l'intérieur n° 1338-18 du 8 chaabane 1439 (25 avril 2018) susvisé,",
+                  "sont modifiées et complétées comme suit :",
+                  "« Article premier. - Le concours ................. du ministre",
+                  "« de l'intérieur.",
+                  "« Cet arrêté ............................................... qui suit :",
+                  "« - les conditions ................................................................",
+                  "« - ...........................................................................................",
+                  "« - ...........................................................................................",
+                  "« - ...........................................................................................",
+                  "« - les modalités et le délai de dépôt des candidatures.",
+                  "« Une annonce ...................................................................",
+                  "(La suite sans modification.)",
+                  "« Article 3. - Les candidates et candidats doivent.............",
+                  "« suivantes :",
+                  "« - mesurer une taille ........................... pour les candidats.",
+                  "« La candidate ou le candidat doit présenter une",
+                  "« attestation médicale certifiant de sa taille, délivrée par",
+                  "« un médecin du secteur public ou privé, selon le modèle",
+                  "« à télécharger sur le site du concours. L'administration",
+                  "« se réserve le droit de vérifier la taille de la candidate",
+                  "« ou du candidat au cours des étapes du concours ;",
+                  "« - ne pas être atteints, ...............»",
+                  "(La suite sans modification.)",
+                  "« Article 4 (3ème alinéa). - La notation ...... comme suit :",
+                  "Critère",
+                  "Notation",
+                  "Pourcentage",
+                  "Diplôme",
+                  "(Sans modification)",
+                  "(Sans",
+                  "modification)",
+                  "Expérience",
+                  "professionnelle",
+                  "Expérience au ministère de l'intérieur ou",
+                  "collectivités territoriales",
+                  "(Sans",
+                  "modification)",
+                  "Fonctionnaire",
+                  "classé au moins",
+                  "à l'échelle de",
+                  "rémunération",
+                  "n°10",
+                  "Fonctionnaire",
+                  "classé à des",
+                  "échelles de",
+                  "rémunération",
+                  "inférieures",
+                  "à l'échelle 10",
+                  "Autres",
+                  "De 1 à 3",
+                  "ans",
+                  "Plus de",
+                  "3 à 6",
+                  "ans",
+                  "De 1 à 3",
+                  "ans",
+                  "Plus de",
+                  "3 à 6",
+                  "ans",
+                  "5 points 3 points 2 points 1 point 0 point",
+                  "Age",
+                  "(Sans modification)",
+                  "(Sans",
+                  "modification)",
+                  "« Article 5. - Les candidates et candidats ....... sont invités,",
+                  "« via le site électronique dédié au concours et par tous les",
+                  "« autres moyens disponibles, à déposer en ligne leurs dossiers",
+                  "« de candidature au site électronique et dans le délai indiqué",
+                  "« dans l'annonce du concours.",
+                  "« Le dossier de candidature est constitué des documents",
+                  "« suivants :",
+                  "« 1. le formulaire indiqué à l'article 2 ci-dessus,",
+                  "« téléchargeable sur le site électronique du concours, dûment",
+                  "« signé par la candidate ou le candidat. Ce formulaire vaut",
+                  "« déclaration sur l'honneur de l'authenticité des renseignements",
+                  "« qu'il contient ;",
+                  "« 2. une copie de l'original des diplômes obtenus ;",
+                  "« 3. une copie de l'original des relevés de notes des",
+                  "« années d'études supérieures ;",
+                  "« 4. une copie de l'original de la carte nationale d'identité",
+                  "« électronique ;",
+                  "« 5. une attestation médicale délivrée par un médecin du",
+                  "« secteur public ou privé, comportant obligatoirement, la date",
+                  "« de l'établissement de l'attestation, le nom du médecin, son",
+                  "« caché et sa signature, et la mesure de la taille de la candidate",
+                  "« ou du candidat conformément aux conditions prévues à",
+                  "« l'article 3 du présent arrêté ;",
+                  "« 6. une photo d'identité récente de la candidate ou du",
+                  "« candidat ;",
+                  "« 7. une copie récente de l'arrêté d'équivalence pour",
+                  "« les titulaires de diplômes délivrés par des établissements",
+                  "« supérieurs étrangers ;",
+                  "ORGANISATION ET PERSONNEL DES ADMINISTRATIONS PUBLIQUES",
+                  "<<<BO_PAGE_27_DELIM>>>",
+                  "Nº 7388 - 19 ramadan 1446 (20-3-2025)",
+                  "« 8. une autorisation de participation au concours",
+                  "« délivrée par l'administration employeuse, et une copie de",
+                  "« l'arrêté de nomination pour les candidates ou candidats",
+                  "« fonctionnaires ou une copie du contrat du travail pour les",
+                  "« candidates ou candidats contractuels avec l'administration ;",
+                  "« 9. toute pièce attestant de l'authenticité des",
+                  "« renseignements contenus dans le formulaire de déclaration",
+                  "« sur l'honneur.",
+                  "« Ne sont pas acceptés les dossiers de candidature qui :",
+                  "« 1.................................................................. ;",
+                  "« 2.................................................................. ;",
+                  "« 3.................................................................. ;",
+                  "« 4. sont présentés par les candidates et candidats qui",
+                  "« n'ont pas, à deux reprises, réussi à passer le concours avec",
+                  "« succès. »",
+                  "« Article 8. - L'étape ...................................... écrites :",
+                  "« 1. une épreuve ............................ (durée : trois heures ;",
+                  "« coefficient 3).",
+                  "« Cette épreuve .......................... 5 sur 20 est éliminatoire ;",
+                  "« 2. une épreuve .......................... comporte :",
+                  "« a) une dissertation ..................... (durée : trois heures ;",
+                  "« coefficient 3).",
+                  "« Cette épreuve ..................... 5 sur 20 est éliminatoire ;",
+                  "« b) un questionnaire .......................... (durée : une heure",
+                  "« trente minutes ; coefficient 4).",
+                  "« Cette épreuve ................... de 0 à 20. Toute note inférieure",
+                  "« à 5 sur 20 est éliminatoire.",
+                  "« Après correction ………………………, sur 200 points.",
+                  "« Sont admis ……………, dans une proportion égale à",
+                  "« quatre fois au plus le nombre des postes………… »",
+                  "« Article 9. - L'étape ………………. deux épreuves :",
+                  "« 1. un test psychotechnique/assessment comportant :",
+                  "« a) un test d'évaluation psychotechnique .....................",
+                  "« candidats. Sont considérés comme ayant échoué au concours,",
+                  "« les candidates et candidats sujets d'un avis d'inaptitude à",
+                  "« exercer le métier d'agent d'autorité, suite au résultat de cette",
+                  "« évaluation ;",
+                  "« b) un test d'assessment .................. de 0 à 20. Toute note",
+                  "« inférieure à 5 sur 20 est éliminatoire.",
+                  "« 2. Un test oral .................. à 8 sur 20 est éliminatoire.",
+                  "« Sont admis à passer le test oral, dans une proportion",
+                  "« égale à trois fois au plus le nombre des postes à pourvoir,",
+                  "« les premiers candidates et candidats classés par ordre de",
+                  "« mérite. »"
+                ]
+              },
+              {
+                "article_number": "ART. 2. - Le présent arrêté sera publié au Bulletin officiel",
+                "paragraphs": []
+              }
+            ]
+          }
+        ],
+        "signatures": [],
+        "annexes": []
+      }
+    }
+  ]
+}
